@@ -42,6 +42,7 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
     Handles formats like:
     - "今日19:00"
     - "明日凌晨"
+    - "明日首班車"
     - "8月13日12時前"
     - "預計於今日19:00恢復行駛"
 
@@ -64,6 +65,9 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
         ref_date_str = publish_date.replace("/", "-")
         ref_date = datetime.strptime(ref_date_str, "%Y-%m-%d").replace(tzinfo=TAIPEI_TZ)
 
+        # Remove "發佈日期" section to avoid extracting publish time as resumption time
+        text = re.sub(r'發[佈布]日期[：:].{0,30}', '', text)
+
         # Pattern 1: 今日 HH:MM or 今日HH:MM
         pattern1 = r'今日\s*(\d{1,2})[：:時](\d{2})?'
         match = re.search(pattern1, text)
@@ -72,14 +76,28 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
             minute = int(match.group(2)) if match.group(2) else 0
             return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
 
-        # Pattern 2: 明日 HH:MM or 明日HH:MM
-        pattern2 = r'明日\s*(\d{1,2})[：:時](\d{2})?'
+        # Pattern 2: 明日 HH:MM or 明日HH:MM or 明(X)日HH:MM
+        pattern2 = r'明(?:\(\d+\))?日\s*(\d{1,2})[：:時](\d{2})?'
         match = re.search(pattern2, text)
         if match:
             hour = int(match.group(1))
             minute = int(match.group(2)) if match.group(2) else 0
             tomorrow = ref_date + timedelta(days=1)
             return tomorrow.replace(hour=hour, minute=minute, second=0, microsecond=0)
+
+        # Pattern 2.5: 明日首班車 or 今日首班車 (first train, assume 5:30 AM)
+        if re.search(r'(?:明日|明\(\d+\)日).{0,10}?首班車', text):
+            tomorrow = ref_date + timedelta(days=1)
+            return tomorrow.replace(hour=5, minute=30, second=0, microsecond=0)
+        if re.search(r'今日.{0,10}?首班車', text):
+            return ref_date.replace(hour=5, minute=30, second=0, microsecond=0)
+
+        # Pattern 2.6: 明日末班車 or 今日末班車 (last train, assume 11:30 PM)
+        if re.search(r'(?:明日|明\(\d+\)日).{0,10}?末班車', text):
+            tomorrow = ref_date + timedelta(days=1)
+            return tomorrow.replace(hour=23, minute=30, second=0, microsecond=0)
+        if re.search(r'今日.{0,10}?末班車', text):
+            return ref_date.replace(hour=23, minute=30, second=0, microsecond=0)
 
         # Pattern 3: M月D日 HH時 with context (must have keywords nearby)
         # Only extract if date appears near resumption keywords
@@ -110,10 +128,12 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
         if '今日' in text and not re.search(pattern1, text):
             return ref_date.replace(hour=23, minute=59, second=59, microsecond=0)
 
-        # Pattern 5: 明日 (without specific time)
-        if '明日' in text and not re.search(pattern2, text):
-            tomorrow = ref_date + timedelta(days=1)
-            return tomorrow.replace(hour=23, minute=59, second=59, microsecond=0)
+        # Pattern 5: 明日 or 明(X)日 (without specific time)
+        if re.search(r'明(?:\(\d+\))?日', text) and not re.search(pattern2, text):
+            # Check if it's about first/last train (already handled above)
+            if not re.search(r'(?:首|末)班車', text):
+                tomorrow = ref_date + timedelta(days=1)
+                return tomorrow.replace(hour=23, minute=59, second=59, microsecond=0)
 
         # Pattern 6: 凌晨 (early morning, assume 5:00 AM)
         if '凌晨' in text:

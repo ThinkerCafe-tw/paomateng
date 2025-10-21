@@ -72,13 +72,14 @@ class ContentParser:
             logger.warning(f"Failed to load regex patterns from {self.config_path}: {e}")
             return {}
 
-    def parse(self, html: str, publish_date: str) -> ExtractedData:
+    def parse(self, html: str, publish_date: str, title: str = "") -> ExtractedData:
         """
         Parse HTML content and extract structured data
 
         Args:
             html: HTML content string
             publish_date: Announcement publish date in YYYY/MM/DD format
+            title: Announcement title (optional, for better actual time extraction)
 
         Returns:
             ExtractedData object with extracted fields (None for failed extractions)
@@ -95,7 +96,7 @@ class ContentParser:
             affected_lines = self._extract_affected_lines(text)
             affected_stations = self._extract_affected_stations(text)
             predicted_resumption_time = self._extract_predicted_time(text, publish_date)
-            actual_resumption_time = self._extract_actual_time(text, publish_date)
+            actual_resumption_time = self._extract_actual_time(text, publish_date, title)
 
             return ExtractedData(
                 report_version=report_version,
@@ -234,28 +235,62 @@ class ContentParser:
             logger.debug(f"Failed to extract predicted_resumption_time: {e}")
             return None
 
-    def _extract_actual_time(self, text: str, publish_date: str) -> Optional:
+    def _extract_actual_time(self, text: str, publish_date: str, title: str = "") -> Optional:
         """
         Extract actual resumption time
+
+        Logic:
+        1. If title contains "恢復正常行駛", "已恢復", "X時X分恢復通車" -> already resumed
+        2. Try to extract actual time from content
+        3. If no specific time found, use publish datetime from content
+        4. If publish datetime not found, use publish_date end of day
 
         Args:
             text: Text content
             publish_date: Announcement publish date in YYYY/MM/DD format
+            title: Announcement title
 
         Returns:
             Datetime object or None
         """
         try:
-            # Look for phrases indicating actual resumption
-            if "已於" in text or "已在" in text or "已恢復" in text:
-                # Try to extract time after these phrases
-                pattern = r"已[於在].*?(\d{1,2})[：:時](\d{2})"
-                match = re.search(pattern, text)
-                if match:
-                    # Use parse_resumption_time to get timezone-aware datetime
-                    time_str = f"{match.group(1)}:{match.group(2)}"
-                    return parse_resumption_time(time_str, publish_date)
-            return None
+            from datetime import datetime
+            from zoneinfo import ZoneInfo
+
+            # Check if this is an "already resumed" announcement
+            resumed_keywords = ['恢復正常行駛', '已恢復', '恢復通車', '恢復行駛']
+            is_resumed = any(kw in title for kw in resumed_keywords)
+
+            if not is_resumed:
+                return None
+
+            # Try to extract specific resumption time from content
+            # Pattern 1: "X時X分恢復通車" or "已於X時X分恢復"
+            pattern1 = r'(?:已[於在]|恢復.*?)(\d{1,2})[時:](\d{2})(?:分)?'
+            match = re.search(pattern1, text)
+            if match:
+                hour = int(match.group(1))
+                minute = int(match.group(2))
+                ref_date = datetime.strptime(publish_date.replace("/", "-"), "%Y-%m-%d").replace(tzinfo=ZoneInfo("Asia/Taipei"))
+                return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
+
+            # Pattern 2: Try to extract publish datetime from content (e.g., "發佈日期：2025/9/24 下午 9:40")
+            publish_time_pattern = r'發[佈布]日期[：:].{0,20}?[上下]午\s*(\d{1,2})[：:](\d{2})'
+            match = re.search(publish_time_pattern, text)
+            if match:
+                hour = int(match.group(1))
+                minute = int(match.group(2))
+                # Adjust for 下午 (PM)
+                if '下午' in text[max(0, match.start()-5):match.end()]:
+                    if hour < 12:
+                        hour += 12
+                ref_date = datetime.strptime(publish_date.replace("/", "-"), "%Y-%m-%d").replace(tzinfo=ZoneInfo("Asia/Taipei"))
+                return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
+
+            # Fallback: Use end of publish_date
+            ref_date = datetime.strptime(publish_date.replace("/", "-"), "%Y-%m-%d").replace(tzinfo=ZoneInfo("Asia/Taipei"))
+            return ref_date.replace(hour=23, minute=59, second=59, microsecond=0)
+
         except Exception as e:
             logger.debug(f"Failed to extract actual_resumption_time: {e}")
             return None

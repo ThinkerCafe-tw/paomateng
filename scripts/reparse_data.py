@@ -53,9 +53,9 @@ def reparse_all_data():
         for v_idx, version in enumerate(ann.version_history, 1):
             total_versions += 1
 
-            # Re-parse with publish_date
+            # Re-parse with publish_date and title
             old_data = version.extracted_data
-            new_data = parser.parse(version.content_html, ann.publish_date)
+            new_data = parser.parse(version.content_html, ann.publish_date, ann.title)
 
             # Update version
             version.extracted_data = new_data

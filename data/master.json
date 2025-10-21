@@ -577,8 +577,8 @@
             "各車",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-09-24T09:40:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-09-25T05:30:00+08:00",
+          "actual_resumption_time": "2025-09-24T09:40:00+08:00"
         }
       }
     ]
@@ -737,7 +737,7 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-09-24T07:30:00+08:00"
         }
       }
     ]
@@ -787,8 +787,8 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-09-24T23:59:59+08:00",
+          "actual_resumption_time": "2025-09-23T09:50:00+08:00"
         }
       }
     ]
@@ -950,7 +950,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-09-23T08:00:00+08:00",
+          "predicted_resumption_time": "2025-09-24T12:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -1407,7 +1407,7 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-08-14T23:59:59+08:00",
           "actual_resumption_time": null
         }
       }
@@ -1773,8 +1773,8 @@
             "臺東",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-07-27T13:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-07-27T12:40:00+08:00",
+          "actual_resumption_time": "2025-07-27T20:02:00+08:00"
         }
       }
     ]
@@ -1886,7 +1886,7 @@
             "致列車到"
           ],
           "predicted_resumption_time": "2025-07-21T18:50:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-07-21T18:50:00+08:00"
         }
       }
     ]
@@ -2180,7 +2180,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-07-06T08:30:00+08:00",
+          "predicted_resumption_time": "2025-07-07T23:59:59+08:00",
           "actual_resumption_time": null
         }
       }
@@ -2751,7 +2751,7 @@
             "駛至臺東",
             "改由臺東"
           ],
-          "predicted_resumption_time": "2025-05-19T23:59:59+08:00",
+          "predicted_resumption_time": "2025-05-19T05:30:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -3033,7 +3033,7 @@
             "司官方網",
             "有各車"
           ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-04-12T16:05:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -3909,7 +3909,7 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2024-11-14T17:30:00+08:00",
           "actual_resumption_time": null
         }
       }
