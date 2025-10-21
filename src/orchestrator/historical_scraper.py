@@ -74,8 +74,8 @@ def run_historical_scrape(config: dict) -> None:
 
                 content_html, content_hash = detail_result
 
-                # Parse content for structured data
-                extracted_data = content_parser.parse(content_html)
+                # Parse content for structured data (pass publish_date for accurate time parsing)
+                extracted_data = content_parser.parse(content_html, item.publish_date)
 
                 # Classify announcement
                 classification = classifier.classify(item.title, content_html)

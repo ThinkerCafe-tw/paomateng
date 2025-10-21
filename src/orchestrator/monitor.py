@@ -84,8 +84,8 @@ def run_monitoring_cycle(config: dict) -> None:
 
                     content_html, content_hash = detail_result
 
-                    # Parse and classify
-                    extracted_data = content_parser.parse(content_html)
+                    # Parse and classify (pass publish_date for accurate time parsing)
+                    extracted_data = content_parser.parse(content_html, item.publish_date)
                     classification = classifier.classify(item.title, content_html)
                     classification.event_group_id = classifier.extract_event_group_id(
                         item.title, item.publish_date
@@ -128,8 +128,8 @@ def run_monitoring_cycle(config: dict) -> None:
                         logger.info(f"CHANGE detected: {item.news_no} - {item.title}")
                         logger.debug(f"Old hash: {latest_hash}, New hash: {new_hash}")
 
-                        # Parse new content
-                        extracted_data = content_parser.parse(content_html)
+                        # Parse new content (pass publish_date for accurate time parsing)
+                        extracted_data = content_parser.parse(content_html, item.publish_date)
 
                         # Create new version entry
                         new_version = VersionEntry(

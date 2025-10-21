@@ -59,12 +59,12 @@ class AnnouncementClassifier:
 
         categories = self.config.get("categories", {})
 
-        # Priority order for categories (check disruption-related first)
+        # Priority order for categories (check resumption LAST to override earlier matches)
         priority_order = [
             "Disruption_Suspension",
             "Disruption_Update",
-            "Disruption_Resumption",
             "Weather_Related",
+            "Disruption_Resumption",  # Check resumption last - highest priority
         ]
 
         for cat_name in priority_order:
@@ -74,8 +74,9 @@ class AnnouncementClassifier:
                     if keyword in text:
                         matched_keywords.append(keyword)
 
-                # If any keywords matched, use this category
-                if matched_keywords and category == self.config.get("default_category", "General_Operation"):
+                # If any keywords matched for this category, update category
+                # Allow override if this is a higher priority category (later in list)
+                if matched_keywords and any(k in text for k in keywords):
                     category = cat_name
 
         # Remove duplicates from matched keywords

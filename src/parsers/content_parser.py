@@ -72,12 +72,13 @@ class ContentParser:
             logger.warning(f"Failed to load regex patterns from {self.config_path}: {e}")
             return {}
 
-    def parse(self, html: str) -> ExtractedData:
+    def parse(self, html: str, publish_date: str) -> ExtractedData:
         """
         Parse HTML content and extract structured data
 
         Args:
             html: HTML content string
+            publish_date: Announcement publish date in YYYY/MM/DD format
 
         Returns:
             ExtractedData object with extracted fields (None for failed extractions)
@@ -93,8 +94,8 @@ class ContentParser:
             status = self._extract_status(text)
             affected_lines = self._extract_affected_lines(text)
             affected_stations = self._extract_affected_stations(text)
-            predicted_resumption_time = self._extract_predicted_time(text)
-            actual_resumption_time = self._extract_actual_time(text)
+            predicted_resumption_time = self._extract_predicted_time(text, publish_date)
+            actual_resumption_time = self._extract_actual_time(text, publish_date)
 
             return ExtractedData(
                 report_version=report_version,
@@ -215,29 +216,31 @@ class ContentParser:
             logger.debug(f"Failed to extract affected_stations: {e}")
             return []
 
-    def _extract_predicted_time(self, text: str) -> Optional:
+    def _extract_predicted_time(self, text: str, publish_date: str) -> Optional:
         """
         Extract predicted resumption time
 
         Args:
             text: Text content
+            publish_date: Announcement publish date in YYYY/MM/DD format
 
         Returns:
             Datetime object or None
         """
         try:
             # Use date_utils for time parsing
-            return parse_resumption_time(text)
+            return parse_resumption_time(text, publish_date)
         except Exception as e:
             logger.debug(f"Failed to extract predicted_resumption_time: {e}")
             return None
 
-    def _extract_actual_time(self, text: str) -> Optional:
+    def _extract_actual_time(self, text: str, publish_date: str) -> Optional:
         """
         Extract actual resumption time
 
         Args:
             text: Text content
+            publish_date: Announcement publish date in YYYY/MM/DD format
 
         Returns:
             Datetime object or None
@@ -251,7 +254,7 @@ class ContentParser:
                 if match:
                     # Use parse_resumption_time to get timezone-aware datetime
                     time_str = f"{match.group(1)}:{match.group(2)}"
-                    return parse_resumption_time(time_str)
+                    return parse_resumption_time(time_str, publish_date)
             return None
         except Exception as e:
             logger.debug(f"Failed to extract actual_resumption_time: {e}")
