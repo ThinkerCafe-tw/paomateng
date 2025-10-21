@@ -1,0 +1,68 @@
+name: Railway News Monitor
+
+on:
+  # 每5分鐘執行一次
+  schedule:
+    - cron: '*/5 * * * *'
+
+  # 允許手動觸發
+  workflow_dispatch:
+
+  # 首次推送時執行一次
+  push:
+    branches: [ main ]
+    paths:
+      - 'src/**'
+      - 'config/**'
+      - 'requirements.txt'
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # 允許推送更新
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 完整歷史，避免衝突
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'  # 快取依賴
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run monitoring cycle
+        run: |
+          python -m src.orchestrator.monitor_once
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # 檢查是否有變更
+          if git diff --quiet data/master.json; then
+            echo "No changes detected"
+          else
+            git add data/master.json data/backups/
+            git commit -m "🤖 Auto-update: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+            echo "Changes committed and pushed"
+          fi
+
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: monitor-logs-${{ github.run_number }}
+          path: logs/
+          retention-days: 7

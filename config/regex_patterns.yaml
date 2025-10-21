@@ -1,0 +1,33 @@
+# Regex patterns for content parsing
+
+# Report version patterns
+report_version:
+  - '第(\d+)報'
+  - '第(\d+)發'
+  - '(\d+)發'
+  - '第(\d+)次'
+
+# Railway lines (will use keyword matching instead of regex)
+railway_lines:
+  - '西部幹線'
+  - '東部幹線'
+  - '南迴線'
+  - '北迴線'
+  - '屏東線'
+  - '臺東線'
+  - '花東線'
+  - '平溪線'
+  - '集集線'
+  - '內灣線'
+  - '六家線'
+  - '沙崙線'
+
+# Station name pattern (Chinese characters followed by 站)
+station_pattern: '([一-龥]{2,4})站'
+
+# Resumption time patterns (handled by date_utils)
+# This is for documentation - actual parsing is in date_utils.py
+resumption_time_patterns:
+  - '今日\s*(\d{1,2})[：:時](\d{2})?'
+  - '明日\s*(\d{1,2})[：:時](\d{2})?'
+  - '(\d{1,2})月(\d{1,2})日\s*(\d{1,2})[時:](\d{2})?'

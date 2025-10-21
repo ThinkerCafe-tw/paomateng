@@ -1,0 +1,20 @@
+scraper:
+  base_url: "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911"
+  user_agent: "TRA News Monitor (Research Project - Professor Lin)"
+  request_timeout: 30
+  retry_attempts: 3
+  rate_limit_delay: 1.0  # seconds between requests
+
+monitoring:
+  interval_minutes: 5
+  max_pages_to_check: 2
+
+storage:
+  output_file: "data/master.json"
+  backup_dir: "data/backups"
+  pretty_print: true
+
+logging:
+  level: "INFO"
+  log_file: "logs/railway_monitor.log"
+  rotation: "10 MB"

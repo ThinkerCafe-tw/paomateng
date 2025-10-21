@@ -1,0 +1,57 @@
+# Classification keywords for TRA announcements
+
+categories:
+  Disruption_Suspension:
+    keywords:
+      - '停駛'
+      - '暫停營運'
+      - '中斷'
+      - '落石'
+      - '出軌'
+      - '撞及'
+      - '號誌故障'
+      - '電車線'
+      - '應變措施'
+      - '第1報'
+      - '第1發'
+
+  Disruption_Update:
+    keywords:
+      - '第2報'
+      - '第3報'
+      - '第4報'
+      - '第5報'
+      - '第6報'
+      - '第7報'
+      - '第8報'
+      - '第9報'
+      - '第2發'
+      - '第3發'
+      - '第4發'
+      - '第5發'
+      - '第6發'
+      - '第7發'
+      - '第8發'
+      - '第9發'
+      - '更新'
+      - '持續'
+
+  Disruption_Resumption:
+    keywords:
+      - '恢復行駛'
+      - '恢復通車'
+      - '已排除'
+      - '搶修完成'
+      - '恢復正常'
+      - '恢復營運'
+
+  Weather_Related:
+    keywords:
+      - '颱風'
+      - '豪雨'
+      - '地震'
+      - '大雨'
+      - '暴雨'
+
+# Default category if no keywords match
+default_category: "General_Operation"

@@ -1,0 +1,18 @@
+# Core Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+pydantic>=2.5.0
+APScheduler>=3.10.0
+loguru>=0.7.0
+python-dateutil>=2.8.0
+filelock>=3.13.0
+PyYAML>=6.0.1
+
+# Development Dependencies
+pytest==7.4.0
+pytest-cov==4.1.0
+pytest-httpserver==1.0.0
+black==23.12.0
+flake8==7.0.0
+mypy==1.7.0
