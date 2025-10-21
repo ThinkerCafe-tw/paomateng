@@ -578,7 +578,7 @@
             "致列車到"
           ],
           "predicted_resumption_time": "2025-09-25T05:30:00+08:00",
-          "actual_resumption_time": "2025-09-24T09:40:00+08:00"
+          "actual_resumption_time": null
         }
       }
     ]
@@ -788,7 +788,7 @@
             "票至各車"
           ],
           "predicted_resumption_time": "2025-09-24T23:59:59+08:00",
-          "actual_resumption_time": "2025-09-23T09:50:00+08:00"
+          "actual_resumption_time": null
         }
       }
     ]

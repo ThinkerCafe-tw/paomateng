@@ -258,11 +258,25 @@ class ContentParser:
             from zoneinfo import ZoneInfo
 
             # Check if this is an "already resumed" announcement
+            # Must have resumption keywords AND NOT be a future announcement
             resumed_keywords = ['恢復正常行駛', '已恢復', '恢復通車', '恢復行駛']
-            is_resumed = any(kw in title for kw in resumed_keywords)
+            has_resumption = any(kw in title for kw in resumed_keywords)
 
-            if not is_resumed:
+            if not has_resumption:
                 return None
+
+            # Check if this is a FUTURE announcement (not already resumed)
+            future_indicators = [
+                r'明\(\d+\)日.*恢復',  # "明(24)日...恢復"
+                r'明日.*恢復',  # "明日...恢復"
+                r'\d+日.*恢復',  # "24日...恢復" (without 今日)
+                r'預計.*恢復',  # "預計...恢復"
+            ]
+
+            # If title contains future indicators, this is NOT an actual resumption
+            for pattern in future_indicators:
+                if re.search(pattern, title):
+                    return None  # This is predicted, not actual
 
             # Try to extract specific resumption time from title first (more accurate)
             # Pattern 0: From title - "今日X時起恢復" or "X時X分恢復通車"
