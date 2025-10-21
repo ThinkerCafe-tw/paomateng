@@ -1,10 +1,18 @@
-# Railway News Monitor
+# 🚂 Railway News Monitor
 
 Taiwan Railway Administration (TRA) announcement tracking and analysis system for academic research.
+
+[![Auto-Update](https://github.com/ThinkerCafe-tw/paomateng/actions/workflows/monitor.yml/badge.svg)](https://github.com/ThinkerCafe-tw/paomateng/actions/workflows/monitor.yml)
+[![Data](https://img.shields.io/badge/data-119_announcements-blue)](data/master.json)
+[![License](https://img.shields.io/badge/license-Academic_Research-green)](LICENSE)
+
+**📊 [查看即時資料 Live Dashboard](https://thinkercafe-tw.github.io/paomateng/)** | **📥 [下載 JSON 資料](data/master.json)**
 
 ## Overview
 
 This system automatically monitors TRA's public announcements, tracking service disruptions and analyzing how crisis communications evolve over time. It serves Professor Lin's research on crisis communication patterns.
+
+🤖 **自動化運行中**: GitHub Actions 每5分鐘自動抓取並更新資料，無需手動維護！
 
 ### Key Features
 
@@ -20,8 +28,40 @@ This system automatically monitors TRA's public announcements, tracking service 
   - Actual resumption time
 - ✅ **Event Grouping**: Link related announcements (Report #1, #2, #3...) under single event ID
 - ✅ **Atomic JSON Storage**: Reliable data persistence with file locking
+- ✅ **GitHub Actions Automation**: Auto-update every 5 minutes without server maintenance
+- ✅ **Web Dashboard**: View data via GitHub Pages (no backend needed)
 
-## Installation
+## 🚀 Deployment (GitHub Actions - Recommended)
+
+**The system runs automatically on GitHub Actions!** No server or Python installation required for production use.
+
+### How It Works
+
+1. **GitHub Actions** runs every 5 minutes
+2. Executes Python scraper in cloud VM
+3. Updates `data/master.json`
+4. Auto-commits changes to repo
+5. **GitHub Pages** displays the data
+
+### Setup Steps
+
+1. **Fork or clone this repo**
+2. **Enable GitHub Actions** (Settings → Actions → Allow all actions)
+3. **Enable GitHub Pages**:
+   - Settings → Pages
+   - Source: Deploy from branch `main`
+   - Folder: `/docs`
+4. **Done!** System starts monitoring automatically
+
+Visit `https://your-username.github.io/paomateng/` to view the dashboard.
+
+### Monitoring Status
+
+- Check Actions tab for execution logs
+- Green checkmark = successful update
+- Red X = check logs for errors
+
+## Local Installation (Development)
 
 ### Prerequisites
 
