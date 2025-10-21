@@ -66,7 +66,11 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
         ref_date = datetime.strptime(ref_date_str, "%Y-%m-%d").replace(tzinfo=TAIPEI_TZ)
 
         # Remove "發佈日期" section to avoid extracting publish time as resumption time
-        text = re.sub(r'發[佈布]日期[：:].{0,30}', '', text)
+        text = re.sub(r'發[佈布]日期[：:][^。\n]*[。\n]?', '', text)
+
+        # Remove "發生時間" section to avoid extracting incident time as resumption time
+        # Only remove until sentence end (。) or newline to avoid over-removal
+        text = re.sub(r'發生時間[：:][^。\n]*[。\n]?', '', text)
 
         # Pattern 1: 今日 HH:MM or 今日HH:MM
         pattern1 = r'今日\s*(\d{1,2})[：:時](\d{2})?'
@@ -85,12 +89,27 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
             tomorrow = ref_date + timedelta(days=1)
             return tomorrow.replace(hour=hour, minute=minute, second=0, microsecond=0)
 
-        # Pattern 2.5: 明日首班車 or 今日首班車 (first train, assume 5:30 AM)
+        # Pattern 2.5: 明日首班車 or 今日首班車 or M月D日首班車 (first train, assume 5:30 AM)
         if re.search(r'(?:明日|明\(\d+\)日).{0,10}?首班車', text):
             tomorrow = ref_date + timedelta(days=1)
             return tomorrow.replace(hour=5, minute=30, second=0, microsecond=0)
         if re.search(r'今日.{0,10}?首班車', text):
             return ref_date.replace(hour=5, minute=30, second=0, microsecond=0)
+
+        # M月D日首班車 - extract specific date for first train
+        # Allow weekday markers like "(一)", "(二)" between "日" and "首班車"
+        first_train_pattern = r'(\d{1,2})月(\d{1,2})日(?:\([一二三四五六日]\))?.{0,10}?首班車'
+        match = re.search(first_train_pattern, text)
+        if match:
+            month = int(match.group(1))
+            day = int(match.group(2))
+            year = ref_date.year
+            try:
+                result = datetime(year, month, day, 5, 30, tzinfo=TAIPEI_TZ)
+                if result >= ref_date:  # Only if date is today or future
+                    return result
+            except ValueError:
+                pass
 
         # Pattern 2.6: 明日末班車 or 今日末班車 (last train, assume 11:30 PM)
         if re.search(r'(?:明日|明\(\d+\)日).{0,10}?末班車', text):
@@ -102,8 +121,8 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
         # Pattern 2.7: "X時前停駛" means "X時恢復"
         # "今日18時前停駛" → "今日18時恢復"
         # "明日10點前停駛" → "明日10點恢復"
-        # Allow text between "前" and "停駛" (e.g., "18時前南迴線...停駛")
-        stop_before_pattern = r'(\d{1,2})[時點]前.{0,50}?(?:停駛|不通)'
+        # IMPORTANT: Ensure no "後" between "前" and "停駛" (avoid "12時前...12時後停駛")
+        stop_before_pattern = r'(\d{1,2})[時點]前([^後]{0,50}?)(?:停駛|不通)'
         match = re.search(stop_before_pattern, text)
         if match:
             hour = int(match.group(1))
@@ -117,10 +136,12 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
 
         # Pattern 3: M月D日 HH時 with context (must have keywords nearby)
         # Only extract if date appears near resumption keywords
+        # Allow time descriptors like "凌晨", "上午", "下午" between "日" and "時"
         resumption_keywords_p3 = ['預計', '恢復', '復駛', '通車', '修復完成', '營運']
         for keyword in resumption_keywords_p3:
             # Look for date within 30 characters after resumption keyword
-            pattern3 = rf'{keyword}.{{0,30}}?(\d{{1,2}})月(\d{{1,2}})日\s*(\d{{1,2}})[時:](\d{{2}})?'
+            # Allow descriptors like "凌晨", "上午", "下午", "首班車" between "日" and time
+            pattern3 = rf'{keyword}.{{0,30}}?(\d{{1,2}})月(\d{{1,2}})日(?:[凌上下午首末班車\s]{{0,10}})?(\d{{1,2}})[時:](\d{{2}})?'
             match = re.search(pattern3, text)
             if match:
                 month = int(match.group(1))
@@ -165,20 +186,45 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
 
         # Pattern 7: Time with context (must have keywords like "預計", "恢復", "復駛" nearby)
         # Only extract if time appears in resumption context
-        # IMPORTANT: Exclude train schedule format like "306次(花蓮06:24=新左營11:00)"
-        resumption_keywords = ['預計', '恢復', '復駛', '通車', '營運', '行駛']
+        # IMPORTANT: Exclude train schedule, incident time, suspension time, etc.
+        # IMPORTANT: Simple keywords FIRST to avoid greedy compound matching
+        resumption_keywords = [
+            '預計', '搶通', '修復完成', '恢復', '復駛', '通車', '營運',  # Simple keywords (priority)
+            '預計.{0,20}?恢復', '預計.{0,20}?復駛', '預計.{0,20}?通車', '預計.{0,20}?搶通',  # Compound (limited length)
+        ]
         for keyword in resumption_keywords:
-            # Look for time within 20 characters after resumption keyword
-            pattern = rf'{keyword}.{{0,20}}?(\d{{1,2}})[：:時](\d{{2}})'
+            # Look for time within 10 characters after resumption keyword (stricter than before)
+            pattern = rf'{keyword}.{{0,10}}?(\d{{1,2}})[：:時](\d{{2}})'
             match = re.search(pattern, text)
             if match:
                 hour = int(match.group(1))
                 minute = int(match.group(2))
 
-                # Check if this is a train schedule (e.g., "次(花蓮06:24=" or "次 花蓮06:24開")
-                context_before = text[max(0, match.start()-20):match.start()]
-                if re.search(r'次\s*[\(（].*?[=開]', context_before + text[match.start():match.start()+5]):
-                    continue  # Skip train schedule times
+                # Get context around the match (20 chars before and after)
+                context_start = max(0, match.start()-20)
+                context_end = min(len(text), match.end()+20)
+                context = text[context_start:context_end]
+
+                # Exclusion checks
+                exclusion_patterns = [
+                    r'次\s*[\(（].*?[=開]',  # Train schedule: "306次(花蓮06:24="
+                    r'[成發]立',  # Establishment: "成立應變小組"
+                    r'應變',  # Emergency response: "應變小組"
+                    r'接駁',  # Shuttle: "接駁車"
+                    r'發車',  # Departure: "發車時刻"
+                    r'開車',  # Departure: "開車時刻"
+                ]
+
+                # Check if context contains exclusion patterns
+                skip = False
+                for excl_pattern in exclusion_patterns:
+                    if re.search(excl_pattern, context):
+                        logger.debug(f"Skipping time {hour}:{minute} due to exclusion pattern: {excl_pattern}")
+                        skip = True
+                        break
+
+                if skip:
+                    continue
 
                 return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
 
