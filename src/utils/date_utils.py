@@ -99,6 +99,22 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
         if re.search(r'今日.{0,10}?末班車', text):
             return ref_date.replace(hour=23, minute=30, second=0, microsecond=0)
 
+        # Pattern 2.7: "X時前停駛" means "X時恢復"
+        # "今日18時前停駛" → "今日18時恢復"
+        # "明日10點前停駛" → "明日10點恢復"
+        # Allow text between "前" and "停駛" (e.g., "18時前南迴線...停駛")
+        stop_before_pattern = r'(\d{1,2})[時點]前.{0,50}?(?:停駛|不通)'
+        match = re.search(stop_before_pattern, text)
+        if match:
+            hour = int(match.group(1))
+            # Check if it's today or tomorrow (look at wider context)
+            context = text[max(0, match.start()-50):match.start()]
+            if re.search(r'明(?:\(\d+\))?日', context):
+                tomorrow = ref_date + timedelta(days=1)
+                return tomorrow.replace(hour=hour, minute=0, second=0, microsecond=0)
+            else:
+                return ref_date.replace(hour=hour, minute=0, second=0, microsecond=0)
+
         # Pattern 3: M月D日 HH時 with context (must have keywords nearby)
         # Only extract if date appears near resumption keywords
         resumption_keywords_p3 = ['預計', '恢復', '復駛', '通車', '修復完成', '營運']
@@ -124,16 +140,20 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
                     logger.debug(f"Invalid date: {year}/{month}/{day} {hour}:{minute}")
                     continue
 
-        # Pattern 4: 今日 (without specific time, default to end of day)
+        # Pattern 4: 今日恢復 (without specific time) - must have resumption keywords
         if '今日' in text and not re.search(pattern1, text):
-            return ref_date.replace(hour=23, minute=59, second=59, microsecond=0)
+            # Only use fallback if there are clear resumption indicators
+            if any(kw in text for kw in ['恢復通車', '恢復行駛', '恢復營運']):
+                return ref_date.replace(hour=23, minute=59, second=59, microsecond=0)
 
-        # Pattern 5: 明日 or 明(X)日 (without specific time)
+        # Pattern 5: 明日恢復 (without specific time) - must have resumption keywords
         if re.search(r'明(?:\(\d+\))?日', text) and not re.search(pattern2, text):
             # Check if it's about first/last train (already handled above)
             if not re.search(r'(?:首|末)班車', text):
-                tomorrow = ref_date + timedelta(days=1)
-                return tomorrow.replace(hour=23, minute=59, second=59, microsecond=0)
+                # Only use fallback if there are clear resumption indicators
+                if any(kw in text for kw in ['恢復通車', '恢復行駛', '恢復營運']):
+                    tomorrow = ref_date + timedelta(days=1)
+                    return tomorrow.replace(hour=23, minute=59, second=59, microsecond=0)
 
         # Pattern 6: 凌晨 (early morning, assume 5:00 AM)
         if '凌晨' in text:
@@ -145,6 +165,7 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
 
         # Pattern 7: Time with context (must have keywords like "預計", "恢復", "復駛" nearby)
         # Only extract if time appears in resumption context
+        # IMPORTANT: Exclude train schedule format like "306次(花蓮06:24=新左營11:00)"
         resumption_keywords = ['預計', '恢復', '復駛', '通車', '營運', '行駛']
         for keyword in resumption_keywords:
             # Look for time within 20 characters after resumption keyword
@@ -153,6 +174,12 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
             if match:
                 hour = int(match.group(1))
                 minute = int(match.group(2))
+
+                # Check if this is a train schedule (e.g., "次(花蓮06:24=" or "次 花蓮06:24開")
+                context_before = text[max(0, match.start()-20):match.start()]
+                if re.search(r'次\s*[\(（].*?[=開]', context_before + text[match.start():match.start()+5]):
+                    continue  # Skip train schedule times
+
                 return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
 
         logger.debug(f"No resumption time pattern matched in text: {text[:100]}...")
