@@ -264,15 +264,34 @@ class ContentParser:
             if not is_resumed:
                 return None
 
+            # Try to extract specific resumption time from title first (more accurate)
+            # Pattern 0: From title - "今日X時起恢復" or "X時X分恢復通車"
+            title_patterns = [
+                r'(\d{1,2})[時:](\d{2})?(?:分)?(?:起)?.*?恢復',  # "8時起恢復", "8:00恢復"
+                r'恢復.*?(\d{1,2})[時:](\d{2})?',  # "恢復...8時"
+            ]
+            for pattern in title_patterns:
+                match = re.search(pattern, title)
+                if match:
+                    hour = int(match.group(1))
+                    minute = int(match.group(2)) if match.group(2) else 0
+                    ref_date = datetime.strptime(publish_date.replace("/", "-"), "%Y-%m-%d").replace(tzinfo=ZoneInfo("Asia/Taipei"))
+                    return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
+
             # Try to extract specific resumption time from content
-            # Pattern 1: "X時X分恢復通車" or "已於X時X分恢復"
-            pattern1 = r'(?:已[於在]|恢復.*?)(\d{1,2})[時:](\d{2})(?:分)?'
-            match = re.search(pattern1, text)
-            if match:
-                hour = int(match.group(1))
-                minute = int(match.group(2))
-                ref_date = datetime.strptime(publish_date.replace("/", "-"), "%Y-%m-%d").replace(tzinfo=ZoneInfo("Asia/Taipei"))
-                return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
+            # Pattern 1: "X時起恢復" or "已於X時X分恢復" or "恢復...X時"
+            content_patterns = [
+                r'(\d{1,2})[時:](\d{2})?(?:分)?起.*?恢復',  # "8時起恢復"
+                r'(?:已[於在]).*?(\d{1,2})[時:](\d{2})',  # "已於8時恢復"
+                r'恢復.*?(\d{1,2})[時:](\d{2})',  # "恢復...8:00"
+            ]
+            for pattern in content_patterns:
+                match = re.search(pattern, text)
+                if match:
+                    hour = int(match.group(1))
+                    minute = int(match.group(2)) if match.group(2) else 0
+                    ref_date = datetime.strptime(publish_date.replace("/", "-"), "%Y-%m-%d").replace(tzinfo=ZoneInfo("Asia/Taipei"))
+                    return ref_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
 
             # Pattern 2: Try to extract publish datetime from content (e.g., "發佈日期：2025/9/24 下午 9:40")
             publish_time_pattern = r'發[佈布]日期[：:].{0,20}?[上下]午\s*(\d{1,2})[：:](\d{2})'
