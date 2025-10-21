@@ -162,19 +162,31 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
                     continue
 
         # Pattern 4: 今日恢復 (without specific time) - must have resumption keywords
+        # IMPORTANT: Exclude uncertain resumptions (陸續, 俟, 待, 視...而定)
         if '今日' in text and not re.search(pattern1, text):
-            # Only use fallback if there are clear resumption indicators
-            if any(kw in text for kw in ['恢復通車', '恢復行駛', '恢復營運']):
-                return ref_date.replace(hour=23, minute=59, second=59, microsecond=0)
+            # Check for uncertainty indicators
+            uncertainty_keywords = ['陸續', '俟', '待.*?確認', '視.*?而定', '機動', '暫定']
+            has_uncertainty = any(re.search(pattern, text) for pattern in uncertainty_keywords)
+
+            if not has_uncertainty:
+                # Only use fallback if there are clear resumption indicators
+                if any(kw in text for kw in ['恢復通車', '恢復行駛', '恢復營運']):
+                    return ref_date.replace(hour=23, minute=59, second=59, microsecond=0)
 
         # Pattern 5: 明日恢復 (without specific time) - must have resumption keywords
+        # IMPORTANT: Exclude uncertain resumptions
         if re.search(r'明(?:\(\d+\))?日', text) and not re.search(pattern2, text):
             # Check if it's about first/last train (already handled above)
             if not re.search(r'(?:首|末)班車', text):
-                # Only use fallback if there are clear resumption indicators
-                if any(kw in text for kw in ['恢復通車', '恢復行駛', '恢復營運']):
-                    tomorrow = ref_date + timedelta(days=1)
-                    return tomorrow.replace(hour=23, minute=59, second=59, microsecond=0)
+                # Check for uncertainty indicators
+                uncertainty_keywords = ['陸續', '俟', '待.*?確認', '視.*?而定', '機動', '暫定']
+                has_uncertainty = any(re.search(pattern, text) for pattern in uncertainty_keywords)
+
+                if not has_uncertainty:
+                    # Only use fallback if there are clear resumption indicators
+                    if any(kw in text for kw in ['恢復通車', '恢復行駛', '恢復營運']):
+                        tomorrow = ref_date + timedelta(days=1)
+                        return tomorrow.replace(hour=23, minute=59, second=59, microsecond=0)
 
         # Pattern 6: 凌晨 (early morning, assume 5:00 AM)
         if '凌晨' in text:
@@ -213,6 +225,9 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
                     r'接駁',  # Shuttle: "接駁車"
                     r'發車',  # Departure: "發車時刻"
                     r'開車',  # Departure: "開車時刻"
+                    r'發布',  # Announcement time: "14時發布新聞稿"
+                    r'到.{0,5}站',  # Arrival: "22:31到新左營站"
+                    r'開.{0,5}站',  # Departure: "8:00開台北站"
                 ]
 
                 # Check if context contains exclusion patterns
