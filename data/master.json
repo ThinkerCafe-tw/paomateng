@@ -252,6 +252,30 @@
           "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
+      },
+      {
+        "scraped_at": "2025-10-22T17:15:32.288848+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 1:10</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　    臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括：<br/><br/>一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。<br/><br/>二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。<br/><br/>三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。<br/><br/>四、協請臺北市政府社會局加強無家者之輔導安置。<br/><br/>　　臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 發佈日期：2025/10/15 下午 1:10 臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括： 一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。 二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。 三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。 四、協請臺北市政府社會局加強無家者之輔導安置。 臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。 返回上一頁",
+        "content_hash": "md5:0cb6d2213517b8a3f516922619b6fa1d",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "化臺北車",
+            "強臺北車",
+            "鐵警與車",
+            "保全及車",
+            "加強",
+            "對於",
+            "本改善車",
+            "保旅客與"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
+        }
       }
     ]
   },
@@ -4637,6 +4661,41 @@
             "瑞芳",
             "司官方網",
             "或就近車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "8ae4cac29a06f283019a0b27e9b63902",
+    "title": "臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年",
+    "publish_date": "2025/10/22",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a06f283019a0b27e9b63902&page=0",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "持續"
+      ],
+      "event_group_id": "20251022_樹林站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-22T17:15:27.317083+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/22 下午 1:17</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司與日本島根縣一畑電車自108年4月16日締結友好協定以來，持續交流推動彼此鐵道觀光旅遊。今年雙方為紀念締結6週年之友誼，兩家鐵道公司特別規劃彩繪列車計畫，並各自於臺日舉辦首航活動，展現臺日鐵道之友好篇章。<br/><br/>　　臺鐵公司於114年10月22日上午在樹林站舉辦「臺鐵×日本一畑電車彩繪列車首航典禮」。本次彩繪列車選用DR1000型柴油客車，行駛於風光明媚的平溪線及深澳支線，運行期間自114年10月22日至115年10月21日止。彩繪主題以臺鐵吉祥物「漢娜、鐵魯」與日本一畑電車吉祥物「一畑君、島根貓」跨國同框亮相，並結合雙方著名旅遊景點，打造獨具特色的視覺饗宴。列車不僅可愛吸睛，亦將成為旅客拍照打卡的新焦點。這列「限定一年」的彩繪列車，象徵臺日鐵道情誼，更以創新方式為旅客帶來兼具文化與趣味的乘車體驗，預料將掀起一波鐵道迷與旅遊愛好者的追逐熱潮。<br/><br/>　　首航典禮除了邀請一畑電氣鐵道社長足達明彦、一畑電車社長谷口學、一畑交通社長立脇等、一畑巴士社長吉田伸司、一畑住設社長石原浩外，亦特別邀請一畑電車沿線之島根縣、出雲市及松江市等日本貴賓遠道而來，與臺鐵公司共同見證這段跨海合作的美好時刻。這次跨國彩繪合作不僅展現雙方深厚情誼，更預期帶動平溪與深澳沿線觀光人潮，活化地方經濟。未來，臺鐵公司將持續推動雙方合作，透過鐵道串起文化與觀光，讓每一次搭乘都成為旅客的難忘回憶。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/0c38e4f2-ebfd-4fad-befc-9082c853ec47\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年 臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年 發佈日期：2025/10/22 下午 1:17 臺鐵公司與日本島根縣一畑電車自108年4月16日締結友好協定以來，持續交流推動彼此鐵道觀光旅遊。今年雙方為紀念締結6週年之友誼，兩家鐵道公司特別規劃彩繪列車計畫，並各自於臺日舉辦首航活動，展現臺日鐵道之友好篇章。 臺鐵公司於114年10月22日上午在樹林站舉辦「臺鐵×日本一畑電車彩繪列車首航典禮」。本次彩繪列車選用DR1000型柴油客車，行駛於風光明媚的平溪線及深澳支線，運行期間自114年10月22日至115年10月21日止。彩繪主題以臺鐵吉祥物「漢娜、鐵魯」與日本一畑電車吉祥物「一畑君、島根貓」跨國同框亮相，並結合雙方著名旅遊景點，打造獨具特色的視覺饗宴。列車不僅可愛吸睛，亦將成為旅客拍照打卡的新焦點。這列「限定一年」的彩繪列車，象徵臺日鐵道情誼，更以創新方式為旅客帶來兼具文化與趣味的乘車體驗，預料將掀起一波鐵道迷與旅遊愛好者的追逐熱潮。 首航典禮除了邀請一畑電氣鐵道社長足達明彦、一畑電車社長谷口學、一畑交通社長立脇等、一畑巴士社長吉田伸司、一畑住設社長石原浩外，亦特別邀請一畑電車沿線之島根縣、出雲市及松江市等日本貴賓遠道而來，與臺鐵公司共同見證這段跨海合作的美好時刻。這次跨國彩繪合作不僅展現雙方深厚情誼，更預期帶動平溪與深澳沿線觀光人潮，活化地方經濟。未來，臺鐵公司將持續推動雙方合作，透過鐵道串起文化與觀光，讓每一次搭乘都成為旅客的難忘回憶。 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:01d0435edb1f6d9f17c427a83cc4663e",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [
+            "樹林",
+            "午在樹林"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null
