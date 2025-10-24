@@ -38,10 +38,14 @@
             "或就近車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3870fda0c0187178a46f006ed",
@@ -66,10 +70,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac27f941c3c017f9ac702855f82",
@@ -94,10 +102,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3997802ee01997aea79b42828",
@@ -122,10 +134,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac399fde98e019a01108c164019",
@@ -150,10 +166,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac399e41a900199e7390d5f1ea1",
@@ -183,46 +203,14 @@
             "鐵公司網"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      },
-      {
-        "scraped_at": "2025-10-23T19:50:02.511771+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 5:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　因應花蓮縣光復鄉災後重建旅運需求，於114年10月16日至10月26日，順行22次、408次、410次、418次、426次、324次、442次、436次、5238次；逆行405次、301次、421次、427次、21次、441次、443次共16列次 EMU3000型自強號增停光復站。<br/>      相關增停列車車次、時刻，請至臺鐵公司網站及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/4528eb82-5d04-48ae-8000-bd2efe092ab4\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-光復災後重建增停班次表.pdf\" type=\"submit\">光復災後重建增停班次表.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號 臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號 發佈日期：2025/10/15 下午 5:30 因應花蓮縣光復鄉災後重建旅運需求，於114年10月16日至10月26日，順行22次、408次、410次、418次、426次、324次、442次、436次、5238次；逆行405次、301次、421次、427次、21次、441次、443次共16列次 EMU3000型自強號增停光復站。 相關增停列車車次、時刻，請至臺鐵公司網站及「台鐵e訂通」APP查詢。 附件下載： 光復災後重建增停班次表.pdf 返回上一頁",
-        "content_hash": "md5:7dfee35c4d932169565cf81d78b59247",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": null,
-          "affected_lines": [],
-          "affected_stations": [
-            "增停光復",
-            "鐵公司網"
-          ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      },
-      {
-        "scraped_at": "2025-10-23T20:15:47.033867+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 5:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　因應花蓮縣光復鄉災後重建旅運需求，於114年10月16日至10月26日，順行22次、408次、410次、418次、426次、324次、442次、436次、5238次；逆行405次、301次、421次、427次、21次、441次、443次共16列次 EMU3000型自強號增停光復站。<br/>      相關增停列車車次、時刻，請至臺鐵公司網站及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/4528eb82-5d04-48ae-8000-bd2efe092ab4\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-光復災後重建增停班次表.pdf\" type=\"submit\">光復災後重建增停班次表.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號 臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自強號 發佈日期：2025/10/15 下午 5:30 因應花蓮縣光復鄉災後重建旅運需求，於114年10月16日至10月26日，順行22次、408次、410次、418次、426次、324次、442次、436次、5238次；逆行405次、301次、421次、427次、21次、441次、443次共16列次 EMU3000型自強號增停光復站。 相關增停列車車次、時刻，請至臺鐵公司網站及「台鐵e訂通」APP查詢。 附件下載： 光復災後重建增停班次表.pdf 返回上一頁",
-        "content_hash": "md5:d05c255a623983fc3a30d827cf79a409",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": null,
-          "affected_lines": [],
-          "affected_stations": [
-            "增停光復",
-            "鐵公司網"
-          ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac299df01db0199e69d73d21ff2",
@@ -247,11 +235,13 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       },
       {
-        "scraped_at": "2025-10-22T19:38:09.065246+08:00",
+        "scraped_at": "2025-10-22T19:28:49.286603+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 2:42</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 發佈日期：2025/10/15 下午 2:42 本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。 返回上一頁",
         "content_hash": "md5:e43c4f35043a12a14490888890a53eb8",
@@ -261,12 +251,12 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-22T23:30:00+08:00",
           "actual_resumption_time": null
         }
       },
       {
-        "scraped_at": "2025-10-23T00:03:16.637019+08:00",
+        "scraped_at": "2025-10-23T00:03:48.279000+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 2:42</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 發佈日期：2025/10/15 下午 2:42 本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。 返回上一頁",
         "content_hash": "md5:ec13c30a76a422a65159563a7e323f94",
@@ -276,41 +266,13 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      },
-      {
-        "scraped_at": "2025-10-23T15:31:05.930079+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 2:42</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 發佈日期：2025/10/15 下午 2:42 本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。 返回上一頁",
-        "content_hash": "md5:e43c4f35043a12a14490888890a53eb8",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": "Suspended",
-          "affected_lines": [],
-          "affected_stations": [],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      },
-      {
-        "scraped_at": "2025-10-24T00:10:40.827845+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 2:42</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 本公司意見信箱、數位客服及24小時客服電話訂於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，此段期間將暫停提供服務，造成不便，敬請見諒。 發佈日期：2025/10/15 下午 2:42 本公司將於114年10月22日（星期三）23:30至114年10月23日（星期四）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的困擾，敬請見諒。 返回上一頁",
-        "content_hash": "md5:ec13c30a76a422a65159563a7e323f94",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": "Suspended",
-          "affected_lines": [],
-          "affected_stations": [],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-23T23:30:00+08:00",
           "actual_resumption_time": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac399e41a900199e6589424575f",
@@ -346,11 +308,13 @@
             "保旅客與"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       },
       {
-        "scraped_at": "2025-10-22T17:15:32.288848+08:00",
+        "scraped_at": "2025-10-22T17:03:49.231172+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 1:10</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　    臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括：<br/><br/>一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。<br/><br/>二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。<br/><br/>三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。<br/><br/>四、協請臺北市政府社會局加強無家者之輔導安置。<br/><br/>　　臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 發佈日期：2025/10/15 下午 1:10 臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括： 一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。 二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。 三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。 四、協請臺北市政府社會局加強無家者之輔導安置。 臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。 返回上一頁",
         "content_hash": "md5:0cb6d2213517b8a3f516922619b6fa1d",
@@ -369,59 +333,13 @@
             "本改善車",
             "保旅客與"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      },
-      {
-        "scraped_at": "2025-10-24T08:32:38.171094+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 1:10</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　    臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括：<br/><br/>一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。<br/><br/>二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。<br/><br/>三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。<br/><br/>四、協請臺北市政府社會局加強無家者之輔導安置。<br/><br/>　　臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 發佈日期：2025/10/15 下午 1:10 臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括： 一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。 二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。 三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。 四、協請臺北市政府社會局加強無家者之輔導安置。 臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。 返回上一頁",
-        "content_hash": "md5:d663a820abc5497deba5819a0ad733ba",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": null,
-          "affected_lines": [],
-          "affected_stations": [
-            "化臺北車",
-            "強臺北車",
-            "鐵警與車",
-            "保全及車",
-            "加強",
-            "對於",
-            "本改善車",
-            "保旅客與"
-          ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      },
-      {
-        "scraped_at": "2025-10-24T10:47:43.298896+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 1:10</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　    臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括：<br/><br/>一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。<br/><br/>二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。<br/><br/>三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。<br/><br/>四、協請臺北市政府社會局加強無家者之輔導安置。<br/><br/>　　臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 發佈日期：2025/10/15 下午 1:10 臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括： 一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。 二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。 三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。 四、協請臺北市政府社會局加強無家者之輔導安置。 臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。 返回上一頁",
-        "content_hash": "md5:0cb6d2213517b8a3f516922619b6fa1d",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": null,
-          "affected_lines": [],
-          "affected_stations": [
-            "化臺北車",
-            "強臺北車",
-            "鐵警與車",
-            "保全及車",
-            "加強",
-            "對於",
-            "本改善車",
-            "保旅客與"
-          ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-23T01:10:00+08:00",
           "actual_resumption_time": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac399c00e120199c35696262009",
@@ -446,10 +364,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac399c00e120199c15ddb7d02be",
@@ -479,11 +401,13 @@
             "鐵新烏日"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       },
       {
-        "scraped_at": "2025-10-22T09:02:42.994660+08:00",
+        "scraped_at": "2025-10-22T08:53:49.239978+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/8 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\"> 為響應即將於10月10日至10月26日在彰化舉辦的「2025台灣設計展」，臺鐵公司與台灣設計研究院再次合作，以本屆設計展主視覺「彰化行 (((CHANGHUA)))」為策劃核心，由臺鐵公司臺中餐旅分處的頂尖便當開發團隊創意發想「饗味山海便當」，讓台鐵便當走入生活，讓設計打開彰化，連結世界。並透過「生產地景、流通運轉、多重產業」的基石，營運一座擁有百年智慧的「彰化行」。於2025台灣設計展期間（10月10日至10月26日）在臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店販售，每份售價150元。<br/>        臺鐵公司隆重推出的「饗味山海便當」，主菜部分選用臺灣國產豬棒腿，由主廚先將豬棒腿以小火慢滷至入味，再放入烤箱烘烤，鎖住肉汁，使豬棒腿口感更Q彈，風味更濃厚！搭配肉質細緻鮮美的椒鹽魚塊作為雙主菜；配菜採用玉子燒及多款彰化生產在地時蔬—蘆筍、筊白筍、香菇及甜豆炒玉米筍，絕對讓您難以忘懷!台灣設計展期間於臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店銷售，每份售價150元，限時限量販售，喜歡嘗鮮的您絕對不容錯過。<br/><br/>饗味山海便當<br/> 每個售價150元<br/> 販售期間：10月10日至10月26日，12:00開賣，午餐限定<br/> 販售數量：每日限量100個(數量有限，售完為止)<br/> 販售地點：臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店<br/> 洽詢專線：臺中餐旅分處(04)2222-4683<br/> 過敏原資訊：本產品含有含有蛋、牛奶、魚類、大豆、含麩質之穀物、堅果類及其製品，不適合其過敏體質者食用。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/c393c4ba-6394-488d-95f9-6c199d2107b2\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-便當示意圖.pdf\" type=\"submit\">便當示意圖.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣 臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣 發佈日期：2025/10/8 上午 9:00 為響應即將於10月10日至10月26日在彰化舉辦的「2025台灣設計展」，臺鐵公司與台灣設計研究院再次合作，以本屆設計展主視覺「彰化行 (((CHANGHUA)))」為策劃核心，由臺鐵公司臺中餐旅分處的頂尖便當開發團隊創意發想「饗味山海便當」，讓台鐵便當走入生活，讓設計打開彰化，連結世界。並透過「生產地景、流通運轉、多重產業」的基石，營運一座擁有百年智慧的「彰化行」。於2025台灣設計展期間（10月10日至10月26日）在臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店販售，每份售價150元。 臺鐵公司隆重推出的「饗味山海便當」，主菜部分選用臺灣國產豬棒腿，由主廚先將豬棒腿以小火慢滷至入味，再放入烤箱烘烤，鎖住肉汁，使豬棒腿口感更Q彈，風味更濃厚！搭配肉質細緻鮮美的椒鹽魚塊作為雙主菜；配菜採用玉子燒及多款彰化生產在地時蔬—蘆筍、筊白筍、香菇及甜豆炒玉米筍，絕對讓您難以忘懷!台灣設計展期間於臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店銷售，每份售價150元，限時限量販售，喜歡嘗鮮的您絕對不容錯過。 饗味山海便當 每個售價150元 販售期間：10月10日至10月26日，12:00開賣，午餐限定 販售數量：每日限量100個(數量有限，售完為止) 販售地點：臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店 洽詢專線：臺中餐旅分處(04)2222-4683 過敏原資訊：本產品含有含有蛋、牛奶、魚類、大豆、含麩質之穀物、堅果類及其製品，不適合其過敏體質者食用。 附件下載： 便當示意圖.pdf 返回上一頁",
         "content_hash": "md5:d048402d8632f89fdf091c39a57b214a",
@@ -498,11 +422,13 @@
             "新竹",
             "鐵新烏日"
           ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
           "actual_resumption_time": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29987767a01999d883ba276fc",
@@ -529,11 +455,13 @@
             "請配合車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       },
       {
-        "scraped_at": "2025-10-22T00:11:19.606655+08:00",
+        "scraped_at": "2025-10-22T00:01:34.744635+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/1 上午 10:06</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 發佈日期：2025/10/1 上午 10:06 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。 返回上一頁",
         "content_hash": "md5:af8e5ecc776eec1f69cc047c2ea1fb80",
@@ -545,12 +473,12 @@
           "affected_stations": [
             "請配合車"
           ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-22T10:06:00+08:00",
           "actual_resumption_time": null
         }
       },
       {
-        "scraped_at": "2025-10-22T08:33:37.351775+08:00",
+        "scraped_at": "2025-10-22T08:03:49.322568+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/1 上午 10:06</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 發佈日期：2025/10/1 上午 10:06 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。 返回上一頁",
         "content_hash": "md5:3badd58b0ac86078f97d974aced09978",
@@ -562,11 +490,13 @@
           "affected_stations": [
             "請配合車"
           ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-22T10:06:00+08:00",
           "actual_resumption_time": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29987767a01999d54a8767646",
@@ -595,10 +525,14 @@
             "由車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29987767a01999839ff075cc5",
@@ -635,10 +569,14 @@
             "購票及進"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2993f5b7001994cb560ea6b13",
@@ -663,10 +601,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29987767a01998e5bab312b49",
@@ -703,10 +645,14 @@
             "購票及進"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3997802ee01997f70db1a317c",
@@ -731,10 +677,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3997802ee01997e67f1482f22",
@@ -759,10 +709,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3997802ee01997df530ae2e88",
@@ -800,10 +754,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": "2025-09-25T05:30:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-09-25T05:30:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3997802ee01997b4508692ba6",
@@ -842,10 +800,14 @@
             "新左營"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3997802ee01997a950148278f",
@@ -887,10 +849,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3997802ee0199794a47991277",
@@ -915,11 +881,13 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       },
       {
-        "scraped_at": "2025-10-22T00:11:31.715080+08:00",
+        "scraped_at": "2025-10-22T00:01:44.836145+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/9/24 上午 9:07</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">欲參訪的遊客，請查詢彰化扇形車庫參訪相關資訊，詳附件。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/2419c018-abce-45b1-92b4-588be809c573\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-彰化機務段扇形車庫開放參觀管理要點.pdf\" type=\"submit\">彰化機務段扇形車庫開放參觀管理要點.pdf</button>\n</a>\n</div>\n</dd>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/ae9cf91f-26f3-4da0-8754-b19d5e00b7ff\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-彰化機務段扇形車庫開放參觀(訪)申請表.odt\" type=\"submit\">彰化機務段扇形車庫開放參觀(訪)申請表.odt</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。 配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。 發佈日期：2025/9/24 上午 9:07 欲參訪的遊客，請查詢彰化扇形車庫參訪相關資訊，詳附件。 附件下載： 彰化機務段扇形車庫開放參觀管理要點.pdf 彰化機務段扇形車庫開放參觀(訪)申請表.odt 返回上一頁",
         "content_hash": "md5:caa3532f0c260d5b55d8595f3ff5219b",
@@ -929,11 +897,13 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-22T09:07:00+08:00",
           "actual_resumption_time": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29972cea501997901306830df",
@@ -974,10 +944,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": "2025-09-24T08:00:00+08:00"
+          "actual_resumption_time": "2025-09-24T08:00:00+08:00",
+          "service_type": "normal_train",
+          "service_details": "正常列車服務"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-09-24T08:00:00+08:00"
   },
   {
     "id": "8ae4cac29972cea5019976e9775f2d31",
@@ -1025,10 +999,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": "2025-09-24T10:00:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-09-24T10:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29972cea50199756dcb9a038b",
@@ -1071,10 +1049,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-09-24T00:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29972cea5019975287754030a",
@@ -1099,10 +1081,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3996db4620199743d707721f1",
@@ -1143,11 +1129,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-09-23T18:00:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-09-23T18:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3996db4620199722aec9b1fb8",
@@ -1187,11 +1177,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-09-24T12:00:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-09-23T12:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3996db4620199705d00d91cb6",
@@ -1220,10 +1214,14 @@
             "員林火車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3996db4620199704b4c081caa",
@@ -1258,11 +1256,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-09-22T20:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3996db46201996ec3b3c802d7",
@@ -1297,11 +1299,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-09-22T14:00:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2993502ea0199367be90e0392",
@@ -1328,10 +1334,14 @@
             "松山車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac399688ec101996c5505530864",
@@ -1363,10 +1373,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3995e416a01996128e0391dd7",
@@ -1391,10 +1405,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3995e416a019961aa35122240",
@@ -1419,10 +1437,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2993f5b7001994ae76a612a8b",
@@ -1451,10 +1473,14 @@
             "的臺南車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2993948f701993dab684b1065",
@@ -1481,10 +1507,14 @@
             "停靠"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3991628540199186d52100675",
@@ -1511,10 +1541,14 @@
             "為提升網"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29906b83e01990d44464418ee",
@@ -1542,10 +1576,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac398e7cfbd0198ea2a4827043f",
@@ -1576,10 +1614,14 @@
             "訪沿線小"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac298be90eb0198c14fbf990402",
@@ -1604,10 +1646,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3989fa9d90198a39af2c85a3b",
@@ -1645,10 +1691,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3989fa9d90198a226551d4859",
@@ -1693,10 +1743,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3989fa9d90198a0fce7450130",
@@ -1741,10 +1795,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac398956a1001989e457d1d35c9",
@@ -1784,10 +1842,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac398956a1001989d636674327c",
@@ -1820,10 +1882,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2987b31fb01987ef66f6f09ca",
@@ -1848,10 +1914,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3986c367701986f2f248d0998",
@@ -1889,10 +1959,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-08-03T16:50:00+08:00",
+          "service_type": "partial_operation",
+          "service_details": "單線雙向通車"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-08-03T17:00:00+08:00"
   },
   {
     "id": "8ae4cac3986c367701986ede688e0940",
@@ -1928,11 +2002,15 @@
             "並透過",
             "致列車到"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-08-03T16:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2985cc43a01985f8c26ba26ff",
@@ -1968,10 +2046,14 @@
             "找車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29843048101984bea4ace4b83",
@@ -2011,10 +2093,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": "2025-07-27T20:02:00+08:00"
+          "actual_resumption_time": "2025-07-27T20:02:00+08:00",
+          "service_type": "partial_operation",
+          "service_details": "區間恢復"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-07-27T20:02:00+08:00"
   },
   {
     "id": "8ae4cac29843048101984b50403b4abd",
@@ -2048,10 +2134,14 @@
             "及枋寮"
           ],
           "predicted_resumption_time": "2025-07-27T19:00:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-07-27T19:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29843048101984ace47722500",
@@ -2081,11 +2171,15 @@
           "affected_stations": [
             "大武"
           ],
-          "predicted_resumption_time": "2025-07-27T19:00:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3982944d001982ca7f8a2425f",
@@ -2123,10 +2217,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": "2025-07-21T18:50:00+08:00"
+          "actual_resumption_time": "2025-07-21T18:50:00+08:00",
+          "service_type": "normal_train",
+          "service_details": "正常列車服務"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-07-21T18:50:00+08:00"
   },
   {
     "id": "8ae4cac3982944d001982a80dd13137d",
@@ -2166,11 +2264,15 @@
             "已透過",
             "致列車到"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-07-21T06:11:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac297e644ef0197e96dc4964a5b",
@@ -2202,10 +2304,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-07-08T17:28:00+08:00",
+          "service_type": "normal_train",
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-07-08T17:28:00+08:00"
   },
   {
     "id": "8ae4cac297e644ef0197e944b32037a1",
@@ -2236,11 +2342,15 @@
           "affected_stations": [
             "致列車到"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-07-08T18:00:00+08:00",
+          "actual_resumption_time": "2025-07-08T16:48:00+08:00",
+          "service_type": "partial_operation",
+          "service_details": "單線雙向通車"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-07-08T16:48:00+08:00"
   },
   {
     "id": "8ae4cac297e644ef0197e8f2f7d22460",
@@ -2274,11 +2384,15 @@
             "並透過",
             "致列車到"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-07-08T18:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-07-08T18:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac297d6d1d40197e27b334c6b86",
@@ -2320,10 +2434,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac397e12c1d0197e192d5040020",
@@ -2368,11 +2486,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-07-07T08:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac297d6d1d40197dfe312d562c6",
@@ -2417,11 +2539,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-07-07T23:59:59+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac297d6d1d40197dd3475b33ebc",
@@ -2460,11 +2586,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-07-06T20:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac297d6d1d40197dad9363b367c",
@@ -2500,10 +2630,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac397bd120a0197c036f3711c9d",
@@ -2538,10 +2672,14 @@
             "限公司網"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac39799124e01979a58c772015d",
@@ -2575,10 +2713,14 @@
             "至竹東車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2978479cf019785d2916122e7",
@@ -2603,10 +2745,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac39737398d0197387de60401b2",
@@ -2642,10 +2788,14 @@
             "印兌換車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396e4c7440196ee01ed071a81",
@@ -2674,10 +2824,14 @@
           ],
           "affected_stations": [],
           "predicted_resumption_time": "2025-05-21T05:30:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-05-21T05:30:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396e4c7440196ed18534d199c",
@@ -2715,10 +2869,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396e4c7440196eb43c7451561",
@@ -2757,10 +2915,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac296da854e0196e8a4e4063a30",
@@ -2799,10 +2961,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396e4c7440196e7d06d190dbb",
@@ -2842,10 +3008,14 @@
             "致列車到"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396e4c7440196e749c02b0d11",
@@ -2881,11 +3051,15 @@
             "全面開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-05-21T05:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-05-19T05:32:00+08:00",
+          "service_type": "shuttle_service",
+          "service_details": "柴聯車接駁"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-05-19T05:32:00+08:00"
   },
   {
     "id": "8ae4cac396e4c7440196e61c983d02ff",
@@ -2932,10 +3106,14 @@
             "列車開放"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac296da854e0196e4896af62034",
@@ -2988,11 +3166,15 @@
             "駛至臺東",
             "改由臺東"
           ],
-          "predicted_resumption_time": "2025-05-19T05:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac296da854e0196e35211d71e1e",
@@ -3034,11 +3216,15 @@
             "到新左營",
             "並加強"
           ],
-          "predicted_resumption_time": "2025-05-18T22:31:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396dfa0980196e2ce0438069c",
@@ -3075,10 +3261,14 @@
             "並加強各"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396d553dc0196d9297d400c76",
@@ -3113,10 +3303,14 @@
             "之內至各"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-05-16T19:49:00+08:00",
+          "service_type": "shuttle_service",
+          "service_details": "公路/巴士接駁"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-05-16T19:49:00+08:00"
   },
   {
     "id": "8ae4cac396d553dc0196d8623a3e07e8",
@@ -3149,11 +3343,15 @@
             "已至加祿",
             "之內至各"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-05-16T19:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-05-16T19:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac396d553dc0196d80deccb0695",
@@ -3184,11 +3382,15 @@
             "已至加祿",
             "之內至各"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-05-16T19:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-05-16T19:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29640078b0196414b2dcb06b0",
@@ -3218,10 +3420,14 @@
             "自前往車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac39621153e019629bb3b981998",
@@ -3271,10 +3477,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-04-12T17:10:00+08:00",
+          "service_type": "normal_train",
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-04-12T17:10:00+08:00"
   },
   {
     "id": "8ae4cac2961beeff01961e30f55e0723",
@@ -3319,10 +3529,14 @@
             "依車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2961beeff01961dbda290042b",
@@ -3358,10 +3572,14 @@
             "請各"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac296022f1d01960f5c6c3831ed",
@@ -3386,10 +3604,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3960c895d01960fb6a8c805f4",
@@ -3421,10 +3643,14 @@
             "各場"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2959615a90195a34d543e0a73",
@@ -3454,10 +3680,14 @@
             "武球場前"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac295720a7601957e3e81342c5b",
@@ -3488,10 +3718,14 @@
             "鐵官方網"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2953e445701954159aa5f0930",
@@ -3516,10 +3750,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3951a70f0019520d027ca2383",
@@ -3550,10 +3788,14 @@
             "或於各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac394d257f10194d5885b220a6d",
@@ -3589,10 +3831,14 @@
             "架化及車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac294b371ca0194b646cf060afc",
@@ -3624,10 +3870,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac294b371ca0194b5d731e20949",
@@ -3661,10 +3911,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac294b371ca0194b59c343307e8",
@@ -3702,10 +3956,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29499b2060194a642c38b2530",
@@ -3739,10 +3997,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-01-27T13:08:00+08:00",
+          "service_type": "normal_train",
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-01-27T13:08:00+08:00"
   },
   {
     "id": "8ae4cac29499b2060194a5b8965f2370",
@@ -3778,10 +4040,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": "2025-01-27T10:19:00+08:00",
+          "service_type": "partial_operation",
+          "service_details": "單線雙向通車"
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": "2025-01-27T10:19:00+08:00"
   },
   {
     "id": "8ae4cac29499b2060194a5655334231a",
@@ -3814,10 +4080,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac294234cc601942b383a1a162a",
@@ -3851,11 +4121,15 @@
             "請至汐止",
             "鐵官方網"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-01-04T00:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-01-04T00:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac294234cc601942ab49a2b146d",
@@ -3888,11 +4162,15 @@
             "客於七堵",
             "鐵官方網"
           ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "predicted_resumption_time": "2025-01-04T00:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2025-01-04T00:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac39369e83f019370600d951308",
@@ -3919,10 +4197,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2934582510193479598160831",
@@ -3947,10 +4229,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac2933134cf01933298bc4408a9",
@@ -3988,10 +4274,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29326e82301932fdec9421163",
@@ -4029,11 +4319,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2024-11-15T12:00:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2024-11-15T12:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29326e82301932ddb14d00d02",
@@ -4065,10 +4359,14 @@
           ],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac3932c1a8901932d5fcdb20177",
@@ -4105,10 +4403,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac39321cddb01932aca3b510fce",
@@ -4147,10 +4449,14 @@
             "有各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac392e3f54d0192e7eb9c0f064c",
@@ -4184,10 +4490,14 @@
             "山里"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac292e3958a0192e6decb54052b",
@@ -4236,10 +4546,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac292e3958a0192e66641e40477",
@@ -4286,11 +4600,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2024-11-01T00:18:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2024-11-01T16:00:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac292e3958a0192e4b7a1100031",
@@ -4333,10 +4651,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac292e3958a0192e3f4f4b80020",
@@ -4386,10 +4708,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac292e3958a0192e3f170c5000f",
@@ -4439,11 +4765,15 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2024-11-02T05:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": "2024-11-02T05:30:00+08:00",
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac292dedc2b0192e06b841b007e",
@@ -4482,10 +4812,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac392d9a8b50192dd7fcebe0551",
@@ -4524,10 +4858,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac292d48f770192dc9a99941b3d",
@@ -4557,10 +4895,14 @@
             "內至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac392d9a8b50192dbdc2ba602b1",
@@ -4594,10 +4936,14 @@
             "票至各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac392d9a8b50192db6ee90b01e5",
@@ -4629,10 +4975,14 @@
             "閘門及車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac392d9a8b50192db812eb50254",
@@ -4664,10 +5014,14 @@
             "及清理車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac392ab4f810192b35b8cfd15ef",
@@ -4692,10 +5046,14 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac28f07306f018f0a1fcd3c0eb9",
@@ -4733,10 +5091,14 @@
             "訊及各車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac299e940d40199f133790067ac",
@@ -4750,7 +5112,7 @@
     },
     "version_history": [
       {
-        "scraped_at": "2025-10-22T08:33:31.049522+08:00",
+        "scraped_at": "2025-10-22T08:03:43.268656+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/22 上午 8:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年10月23日（星期四）00時00分~07時30辦理不斷電系統改接及配電工程，屆時將暫停官網網站服務、電腦預約訂位服務、網路信用卡付款服務、會員服務系統、超商代售車票服務、臺鐵e訂通服務等，造成您的困擾，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。 本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。 發佈日期：2025/10/22 上午 8:00 本公司將於114年10月23日（星期四）00時00分~07時30辦理不斷電系統改接及配電工程，屆時將暫停官網網站服務、電腦預約訂位服務、網路信用卡付款服務、會員服務系統、超商代售車票服務、臺鐵e訂通服務等，造成您的困擾，敬請見諒。 返回上一頁",
         "content_hash": "md5:ccfe885b6b34342a9dbd47ffc08bae9a",
@@ -4763,10 +5125,14 @@
             "停官網網"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29a06f283019a0964470533c7",
@@ -4774,7 +5140,7 @@
     "publish_date": "2025/10/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a06f283019a0964470533c7&page=0",
     "classification": {
-      "category": "Weather_Related",
+      "category": "Disruption_Suspension",
       "keywords": [
         "停駛",
         "暫停營運",
@@ -4786,7 +5152,7 @@
     },
     "version_history": [
       {
-        "scraped_at": "2025-10-22T09:02:30.826895+08:00",
+        "scraped_at": "2025-10-22T08:53:39.174227+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/22 上午 8:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        受持續強降雨影響，為確保行車安全，臺鐵公司今（22）日平溪線暫停列車營運。另因沿線部分路段仍有落石及土石滑落情形，本公司將按天候狀況持續觀察，待確認邊坡穩定及路線安全無虞後再行復駛，並即時公告。<br/><br/>        停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站發車時刻為08:30、10:30、14:00及16:00，如18:00後仍有旅客前往平溪線，將再洽客運業者加開接送車輛。<br/><br/>        旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全 平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全 發佈日期：2025/10/22 上午 8:30 受持續強降雨影響，為確保行車安全，臺鐵公司今（22）日平溪線暫停列車營運。另因沿線部分路段仍有落石及土石滑落情形，本公司將按天候狀況持續觀察，待確認邊坡穩定及路線安全無虞後再行復駛，並即時公告。 停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站發車時刻為08:30、10:30、14:00及16:00，如18:00後仍有旅客前往平溪線，將再洽客運業者加開接送車輛。 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
         "content_hash": "md5:9904a3863c182a32761cf1f651e5c7e8",
@@ -4807,10 +5173,14 @@
             "或就近車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29a06f283019a0b27e9b63902",
@@ -4826,7 +5196,7 @@
     },
     "version_history": [
       {
-        "scraped_at": "2025-10-22T17:15:27.317083+08:00",
+        "scraped_at": "2025-10-22T17:03:44.273280+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/22 下午 1:17</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司與日本島根縣一畑電車自108年4月16日締結友好協定以來，持續交流推動彼此鐵道觀光旅遊。今年雙方為紀念締結6週年之友誼，兩家鐵道公司特別規劃彩繪列車計畫，並各自於臺日舉辦首航活動，展現臺日鐵道之友好篇章。<br/><br/>　　臺鐵公司於114年10月22日上午在樹林站舉辦「臺鐵×日本一畑電車彩繪列車首航典禮」。本次彩繪列車選用DR1000型柴油客車，行駛於風光明媚的平溪線及深澳支線，運行期間自114年10月22日至115年10月21日止。彩繪主題以臺鐵吉祥物「漢娜、鐵魯」與日本一畑電車吉祥物「一畑君、島根貓」跨國同框亮相，並結合雙方著名旅遊景點，打造獨具特色的視覺饗宴。列車不僅可愛吸睛，亦將成為旅客拍照打卡的新焦點。這列「限定一年」的彩繪列車，象徵臺日鐵道情誼，更以創新方式為旅客帶來兼具文化與趣味的乘車體驗，預料將掀起一波鐵道迷與旅遊愛好者的追逐熱潮。<br/><br/>　　首航典禮除了邀請一畑電氣鐵道社長足達明彦、一畑電車社長谷口學、一畑交通社長立脇等、一畑巴士社長吉田伸司、一畑住設社長石原浩外，亦特別邀請一畑電車沿線之島根縣、出雲市及松江市等日本貴賓遠道而來，與臺鐵公司共同見證這段跨海合作的美好時刻。這次跨國彩繪合作不僅展現雙方深厚情誼，更預期帶動平溪與深澳沿線觀光人潮，活化地方經濟。未來，臺鐵公司將持續推動雙方合作，透過鐵道串起文化與觀光，讓每一次搭乘都成為旅客的難忘回憶。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/0c38e4f2-ebfd-4fad-befc-9082c853ec47\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年 臺鐵與日本一畑電車彩繪列車首航　樹林站見證臺日鐵道友誼6週年 發佈日期：2025/10/22 下午 1:17 臺鐵公司與日本島根縣一畑電車自108年4月16日締結友好協定以來，持續交流推動彼此鐵道觀光旅遊。今年雙方為紀念締結6週年之友誼，兩家鐵道公司特別規劃彩繪列車計畫，並各自於臺日舉辦首航活動，展現臺日鐵道之友好篇章。 臺鐵公司於114年10月22日上午在樹林站舉辦「臺鐵×日本一畑電車彩繪列車首航典禮」。本次彩繪列車選用DR1000型柴油客車，行駛於風光明媚的平溪線及深澳支線，運行期間自114年10月22日至115年10月21日止。彩繪主題以臺鐵吉祥物「漢娜、鐵魯」與日本一畑電車吉祥物「一畑君、島根貓」跨國同框亮相，並結合雙方著名旅遊景點，打造獨具特色的視覺饗宴。列車不僅可愛吸睛，亦將成為旅客拍照打卡的新焦點。這列「限定一年」的彩繪列車，象徵臺日鐵道情誼，更以創新方式為旅客帶來兼具文化與趣味的乘車體驗，預料將掀起一波鐵道迷與旅遊愛好者的追逐熱潮。 首航典禮除了邀請一畑電氣鐵道社長足達明彦、一畑電車社長谷口學、一畑交通社長立脇等、一畑巴士社長吉田伸司、一畑住設社長石原浩外，亦特別邀請一畑電車沿線之島根縣、出雲市及松江市等日本貴賓遠道而來，與臺鐵公司共同見證這段跨海合作的美好時刻。這次跨國彩繪合作不僅展現雙方深厚情誼，更預期帶動平溪與深澳沿線觀光人潮，活化地方經濟。未來，臺鐵公司將持續推動雙方合作，透過鐵道串起文化與觀光，讓每一次搭乘都成為旅客的難忘回憶。 附件下載： 新聞照片.pdf 返回上一頁",
         "content_hash": "md5:01d0435edb1f6d9f17c427a83cc4663e",
@@ -4842,10 +5212,14 @@
             "午在樹林"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   },
   {
     "id": "8ae4cac29a06f283019a0bac0d10398a",
@@ -4853,7 +5227,7 @@
     "publish_date": "2025/10/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a06f283019a0bac0d10398a&page=0",
     "classification": {
-      "category": "Disruption_Update",
+      "category": "Disruption_Suspension",
       "keywords": [
         "停駛",
         "持續"
@@ -4862,7 +5236,7 @@
     },
     "version_history": [
       {
-        "scraped_at": "2025-10-22T19:37:59.088753+08:00",
+        "scraped_at": "2025-10-22T19:28:44.286194+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司平溪線路基流失復舊及行車計畫</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司平溪線路基流失復舊及行車計畫</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/22 下午 7:20</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 受持續強降雨影響，為確保行車安全，臺鐵公司明（23）日平溪線暫停列車營運，啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站發車時刻為08:30、10:30、14:00及16:00，如18:00後仍有旅客前往平溪線，將再洽客運業者加開接送車輛。<br/><br/>二、 自10月24日至26日(3天)光復節連續假期期間，平溪線瑞芳=十分間行駛，十分=菁桐間啟動公路接駁。<br/><br/>三、 因嶺腳=望古間(K9+820~920)路基流失，工程搶修需要，自10月27日起至11月30日止，逢週一至週五平溪線全線停駛，啟動公路接駁。逢週六、日，瑞芳=十分間行駛，十分=菁桐間啟動公路接駁。<br/><br/>四、 旅客可透過臺鐵公司官方網站、24小時旅客服務電話02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 臺鐵公司平溪線路基流失復舊及行車計畫 臺鐵公司平溪線路基流失復舊及行車計畫 發佈日期：2025/10/22 下午 7:20 一、 受持續強降雨影響，為確保行車安全，臺鐵公司明（23）日平溪線暫停列車營運，啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站發車時刻為08:30、10:30、14:00及16:00，如18:00後仍有旅客前往平溪線，將再洽客運業者加開接送車輛。 二、 自10月24日至26日(3天)光復節連續假期期間，平溪線瑞芳=十分間行駛，十分=菁桐間啟動公路接駁。 三、 因嶺腳=望古間(K9+820~920)路基流失，工程搶修需要，自10月27日起至11月30日止，逢週一至週五平溪線全線停駛，啟動公路接駁。逢週六、日，瑞芳=十分間行駛，十分=菁桐間啟動公路接駁。 四、 旅客可透過臺鐵公司官方網站、24小時旅客服務電話02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
         "content_hash": "md5:41a40bf2bcaa251563c5a31aac973a0e",
@@ -4883,116 +5257,13 @@
             "或就近車"
           ],
           "predicted_resumption_time": null,
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
-    ]
-  },
-  {
-    "id": "8ae4cac29a0d4d43019a0ff3115c16ae",
-    "title": "嗶嗶嗶嗶台灣號彩繪列車運用調整公告",
-    "publish_date": "2025/10/23",
-    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a0d4d43019a0ff3115c16ae&page=0",
-    "classification": {
-      "category": "General_Operation",
-      "keywords": [],
-      "event_group_id": "20251023_嗶嗶嗶嗶台灣號彩繪列車運用調整公告"
-    },
-    "version_history": [
-      {
-        "scraped_at": "2025-10-23T15:31:00.975204+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>嗶嗶嗶嗶台灣號彩繪列車運用調整公告</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>嗶嗶嗶嗶台灣號彩繪列車運用調整公告</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/23 下午 3:21</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司因列車運用調整，嗶嗶嗶嗶台灣號彩繪列車將於114年10月23日至10月25日暫停行駛，期間原定班次將改以未彩繪列車代行。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 嗶嗶嗶嗶台灣號彩繪列車運用調整公告 嗶嗶嗶嗶台灣號彩繪列車運用調整公告 發佈日期：2025/10/23 下午 3:21 本公司因列車運用調整，嗶嗶嗶嗶台灣號彩繪列車將於114年10月23日至10月25日暫停行駛，期間原定班次將改以未彩繪列車代行。 返回上一頁",
-        "content_hash": "md5:a1aa66186f46e4fe6d41e23a196fcc5b",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": "Suspended",
-          "affected_lines": [],
-          "affected_stations": [],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      }
-    ]
-  },
-  {
-    "id": "8ae4cac39a0ce056019a10e3f8f50bb2",
-    "title": "臺鐵公司平溪線路基流失復舊及行車計畫",
-    "publish_date": "2025/10/23",
-    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a0ce056019a10e3f8f50bb2&page=0",
-    "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "停駛",
-        "持續"
-      ],
-      "event_group_id": "20251023_臺鐵公司平溪線"
-    },
-    "version_history": [
-      {
-        "scraped_at": "2025-10-23T19:49:57.516606+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司平溪線路基流失復舊及行車計畫</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司平溪線路基流失復舊及行車計畫</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/23 下午 7:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 受持續強降雨影響，平溪線嶺腳=望古間（K9+820~920）路基流失，工程搶修需要及確保行車安全，臺鐵公司自10月24日至26日（3天)光復節連續假期期間，平溪線瑞芳=十分間行駛，十分=菁桐間採公路接駁；10月27日起至11月30日止，逢週一至週五平溪線全線停駛，採公路接駁，逢週六、日，瑞芳=十分間行駛，十分=菁桐間採公路接駁。<br/><br/>二、 公路接駁措施如下：<br/>(一) 平日：接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。<br/>1. 瑞芳開車時間：07:10、09:10、14:00、16:00、18:00<br/>2. 菁桐開車時間：08:10、10:10、15:00、17:10、19:00<br/>(二) 假日：十分=菁桐間公路接駁，停靠「十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。<br/>1. 十分開車時間：09:10、10:10、11:10、14:40、15:40、16:40 <br/>2. 菁桐開車時間：09:40、10:40、11:40、15:10、16:10、17:10 <br/><br/>三、 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 臺鐵公司平溪線路基流失復舊及行車計畫 臺鐵公司平溪線路基流失復舊及行車計畫 發佈日期：2025/10/23 下午 7:30 一、 受持續強降雨影響，平溪線嶺腳=望古間（K9+820~920）路基流失，工程搶修需要及確保行車安全，臺鐵公司自10月24日至26日（3天)光復節連續假期期間，平溪線瑞芳=十分間行駛，十分=菁桐間採公路接駁；10月27日起至11月30日止，逢週一至週五平溪線全線停駛，採公路接駁，逢週六、日，瑞芳=十分間行駛，十分=菁桐間採公路接駁。 二、 公路接駁措施如下： (一) 平日：接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。 1. 瑞芳開車時間：07:10、09:10、14:00、16:00、18:00 2. 菁桐開車時間：08:10、10:10、15:00、17:10、19:00 (二) 假日：十分=菁桐間公路接駁，停靠「十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。 1. 十分開車時間：09:10、10:10、11:10、14:40、15:40、16:40 2. 菁桐開車時間：09:40、10:40、11:40、15:10、16:10、17:10 三、 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
-        "content_hash": "md5:f45b880439d42d0a721fabb54511be5c",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": null,
-          "status": "Suspended",
-          "affected_lines": [
-            "平溪線"
-          ],
-          "affected_stations": [
-            "司官方網",
-            "或就近車"
-          ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      }
-    ]
-  },
-  {
-    "id": "8ae4cac39a128203019a14093f511253",
-    "title": "平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全",
-    "publish_date": "2025/10/24",
-    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a128203019a14093f511253&page=0",
-    "classification": {
-      "category": "Weather_Related",
-      "keywords": [
-        "停駛",
-        "暫停營運",
-        "持續",
-        "豪雨"
-      ],
-      "event_group_id": "20251024_平溪線因豪雨"
-    },
-    "version_history": [
-      {
-        "scraped_at": "2025-10-24T10:47:33.283618+08:00",
-        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/24 上午 9:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        受持續降雨影響三貂嶺-大華間邊坡有滑動情形，為確保行車安全於10 月24 日08：25 起至10 月26 日24：00 時止平溪線暫停列車營運。<br/>        停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站開車時刻為07:10、09:10、14:00、16:00、18:00，菁桐開車時刻為 08:10、10:10、15:00、17:10、19:00。<br/>        旅客可透過臺鐵公司官方網站、24 小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。<br/>請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
-        "content_text": "::: 首頁 最新消息 平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全 平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全 發佈日期：2025/10/24 上午 9:30 受持續降雨影響三貂嶺-大華間邊坡有滑動情形，為確保行車安全於10 月24 日08：25 起至10 月26 日24：00 時止平溪線暫停列車營運。 停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站開車時刻為07:10、09:10、14:00、16:00、18:00，菁桐開車時刻為 08:10、10:10、15:00、17:10、19:00。 旅客可透過臺鐵公司官方網站、24 小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。 請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
-        "content_hash": "md5:33cc7100dabab0b125cfed880b027bce",
-        "extracted_data": {
-          "report_version": null,
-          "event_type": "Heavy_Rain",
-          "status": "Suspended",
-          "affected_lines": [
-            "平溪線"
-          ],
-          "affected_stations": [
-            "平溪線各",
-            "駁車停靠",
-            "及菁桐等",
-            "停靠公車",
-            "瑞芳",
-            "司官方網",
-            "或就近車"
-          ],
-          "predicted_resumption_time": null,
-          "actual_resumption_time": null
-        }
-      }
-    ]
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]

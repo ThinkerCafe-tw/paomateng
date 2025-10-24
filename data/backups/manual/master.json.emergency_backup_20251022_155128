@@ -5,7 +5,7 @@
     "publish_date": "2025/10/21",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac399fde98e019a05318e506ed0&page=0",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "暫停營運",
@@ -37,7 +37,7 @@
             "司官方網",
             "或就近車"
           ],
-          "predicted_resumption_time": "2025-10-22T01:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -65,7 +65,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T02:51:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -93,7 +93,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T10:02:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -121,7 +121,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T04:46:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -149,7 +149,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T05:50:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -182,7 +182,7 @@
             "增停光復",
             "鐵公司網"
           ],
-          "predicted_resumption_time": "2025-10-22T05:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -210,7 +210,7 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-21T23:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -249,7 +249,7 @@
             "本改善車",
             "保旅客與"
           ],
-          "predicted_resumption_time": "2025-10-22T01:10:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -277,7 +277,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T06:10:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -310,6 +310,26 @@
             "新竹",
             "鐵新烏日"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
+        }
+      },
+      {
+        "scraped_at": "2025-10-22T08:53:49.239978+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/8 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\"> 為響應即將於10月10日至10月26日在彰化舉辦的「2025台灣設計展」，臺鐵公司與台灣設計研究院再次合作，以本屆設計展主視覺「彰化行 (((CHANGHUA)))」為策劃核心，由臺鐵公司臺中餐旅分處的頂尖便當開發團隊創意發想「饗味山海便當」，讓台鐵便當走入生活，讓設計打開彰化，連結世界。並透過「生產地景、流通運轉、多重產業」的基石，營運一座擁有百年智慧的「彰化行」。於2025台灣設計展期間（10月10日至10月26日）在臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店販售，每份售價150元。<br/>        臺鐵公司隆重推出的「饗味山海便當」，主菜部分選用臺灣國產豬棒腿，由主廚先將豬棒腿以小火慢滷至入味，再放入烤箱烘烤，鎖住肉汁，使豬棒腿口感更Q彈，風味更濃厚！搭配肉質細緻鮮美的椒鹽魚塊作為雙主菜；配菜採用玉子燒及多款彰化生產在地時蔬—蘆筍、筊白筍、香菇及甜豆炒玉米筍，絕對讓您難以忘懷!台灣設計展期間於臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店銷售，每份售價150元，限時限量販售，喜歡嘗鮮的您絕對不容錯過。<br/><br/>饗味山海便當<br/> 每個售價150元<br/> 販售期間：10月10日至10月26日，12:00開賣，午餐限定<br/> 販售數量：每日限量100個(數量有限，售完為止)<br/> 販售地點：臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店<br/> 洽詢專線：臺中餐旅分處(04)2222-4683<br/> 過敏原資訊：本產品含有含有蛋、牛奶、魚類、大豆、含麩質之穀物、堅果類及其製品，不適合其過敏體質者食用。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/c393c4ba-6394-488d-95f9-6c199d2107b2\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-便當示意圖.pdf\" type=\"submit\">便當示意圖.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣 臺鐵2025台灣設計展限定便當  饗味山海雙十節開賣 發佈日期：2025/10/8 上午 9:00 為響應即將於10月10日至10月26日在彰化舉辦的「2025台灣設計展」，臺鐵公司與台灣設計研究院再次合作，以本屆設計展主視覺「彰化行 (((CHANGHUA)))」為策劃核心，由臺鐵公司臺中餐旅分處的頂尖便當開發團隊創意發想「饗味山海便當」，讓台鐵便當走入生活，讓設計打開彰化，連結世界。並透過「生產地景、流通運轉、多重產業」的基石，營運一座擁有百年智慧的「彰化行」。於2025台灣設計展期間（10月10日至10月26日）在臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店販售，每份售價150元。 臺鐵公司隆重推出的「饗味山海便當」，主菜部分選用臺灣國產豬棒腿，由主廚先將豬棒腿以小火慢滷至入味，再放入烤箱烘烤，鎖住肉汁，使豬棒腿口感更Q彈，風味更濃厚！搭配肉質細緻鮮美的椒鹽魚塊作為雙主菜；配菜採用玉子燒及多款彰化生產在地時蔬—蘆筍、筊白筍、香菇及甜豆炒玉米筍，絕對讓您難以忘懷!台灣設計展期間於臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店銷售，每份售價150元，限時限量販售，喜歡嘗鮮的您絕對不容錯過。 饗味山海便當 每個售價150元 販售期間：10月10日至10月26日，12:00開賣，午餐限定 販售數量：每日限量100個(數量有限，售完為止) 販售地點：臺鐵臺中站、彰化站、新竹站及高鐵新烏日站之台鐵便當店 洽詢專線：臺中餐旅分處(04)2222-4683 過敏原資訊：本產品含有含有蛋、牛奶、魚類、大豆、含麩質之穀物、堅果類及其製品，不適合其過敏體質者食用。 附件下載： 便當示意圖.pdf 返回上一頁",
+        "content_hash": "md5:d048402d8632f89fdf091c39a57b214a",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Partial_Operation",
+          "affected_lines": [],
+          "affected_stations": [
+            "臺鐵臺中",
+            "彰化",
+            "新竹",
+            "鐵新烏日"
+          ],
           "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
           "actual_resumption_time": null
         }
@@ -329,6 +349,40 @@
     "version_history": [
       {
         "scraped_at": "2025-10-21T16:15:35.005334+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/1 上午 10:06</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 發佈日期：2025/10/1 上午 10:06 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。 返回上一頁",
+        "content_hash": "md5:3badd58b0ac86078f97d974aced09978",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "請配合車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
+        }
+      },
+      {
+        "scraped_at": "2025-10-22T00:01:34.744635+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/1 上午 10:06</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 發佈日期：2025/10/1 上午 10:06 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。 返回上一頁",
+        "content_hash": "md5:af8e5ecc776eec1f69cc047c2ea1fb80",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "請配合車"
+          ],
+          "predicted_resumption_time": "2025-10-22T10:06:00+08:00",
+          "actual_resumption_time": null
+        }
+      },
+      {
+        "scraped_at": "2025-10-22T08:03:49.322568+08:00",
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/1 上午 10:06</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理說明 發佈日期：2025/10/1 上午 10:06 依據金管會「信用卡定型化契約應記載及不得記載事項，有關退貨處理程序之規定，退貨應就原使用信用卡辦理，自114年9月30日起，停止非原購信用卡退票申請，旅客如係刷卡購票但退票時未攜帶原購信用卡者，請配合車站填寫並提供相關資料，退票帳款將退回原購票付款帳戶。 返回上一頁",
         "content_hash": "md5:3badd58b0ac86078f97d974aced09978",
@@ -372,7 +426,7 @@
             "票可至車",
             "由車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -412,7 +466,7 @@
             "並提供進",
             "購票及進"
           ],
-          "predicted_resumption_time": "2025-10-22T06:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -440,7 +494,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T12:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -480,7 +534,7 @@
             "並提供進",
             "購票及進"
           ],
-          "predicted_resumption_time": "2025-10-22T10:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -508,7 +562,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T01:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -536,7 +590,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -548,12 +602,12 @@
     "publish_date": "2025/09/24",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3997802ee01997df530ae2e88&page=1",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "中斷",
         "落石",
-        "恢復行駛",
-        "颱風"
+        "颱風",
+        "恢復行駛"
       ],
       "event_group_id": "20250924_臺鐵公司臺東線"
     },
@@ -577,7 +631,7 @@
             "各車",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T09:40:00+08:00",
+          "predicted_resumption_time": "2025-09-25T05:30:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -589,7 +643,7 @@
     "publish_date": "2025/09/24",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3997802ee01997b4508692ba6&page=1",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "中斷",
         "落石",
@@ -619,7 +673,7 @@
             "線至高雄",
             "新左營"
           ],
-          "predicted_resumption_time": "2025-10-22T06:25:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -631,7 +685,7 @@
     "publish_date": "2025/09/24",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3997802ee01997a950148278f&page=1",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "中斷",
@@ -664,7 +718,7 @@
             "各車",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T03:10:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -692,6 +746,21 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
+        }
+      },
+      {
+        "scraped_at": "2025-10-22T00:01:44.836145+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/9/24 上午 9:07</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">欲參訪的遊客，請查詢彰化扇形車庫參訪相關資訊，詳附件。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/2419c018-abce-45b1-92b4-588be809c573\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-彰化機務段扇形車庫開放參觀管理要點.pdf\" type=\"submit\">彰化機務段扇形車庫開放參觀管理要點.pdf</button>\n</a>\n</div>\n</dd>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/ae9cf91f-26f3-4da0-8754-b19d5e00b7ff\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-彰化機務段扇形車庫開放參觀(訪)申請表.odt\" type=\"submit\">彰化機務段扇形車庫開放參觀(訪)申請表.odt</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。 配合2025年臺灣設計展於彰化舉辦，彰化扇形車庫內部工程整修至10月9日暫停開放，預定自114年10月10日起重新對外開放參觀。 發佈日期：2025/9/24 上午 9:07 欲參訪的遊客，請查詢彰化扇形車庫參訪相關資訊，詳附件。 附件下載： 彰化機務段扇形車庫開放參觀管理要點.pdf 彰化機務段扇形車庫開放參觀(訪)申請表.odt 返回上一頁",
+        "content_hash": "md5:caa3532f0c260d5b55d8595f3ff5219b",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": "2025-10-22T09:07:00+08:00",
           "actual_resumption_time": null
         }
@@ -704,12 +773,12 @@
     "publish_date": "2025/09/24",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29972cea501997901306830df&page=2",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "第8報",
-        "恢復正常",
-        "颱風"
+        "颱風",
+        "恢復正常"
       ],
       "event_group_id": "20250924_日起臺東線"
     },
@@ -736,8 +805,8 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T07:30:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-09-24T08:00:00+08:00"
         }
       }
     ]
@@ -748,13 +817,13 @@
     "publish_date": "2025/09/23",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29972cea5019976e9775f2d31&page=2",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "第7報",
+        "颱風",
         "恢復行駛",
-        "恢復正常",
-        "颱風"
+        "恢復正常"
       ],
       "event_group_id": "20250923_臺鐵公司因應樺加沙颱風"
     },
@@ -787,7 +856,7 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:50:00+08:00",
+          "predicted_resumption_time": "2025-09-24T10:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -799,7 +868,7 @@
     "publish_date": "2025/09/23",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29972cea50199756dcb9a038b&page=2",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第5報",
@@ -833,7 +902,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-21T23:59:59+08:00",
+          "predicted_resumption_time": "2025-09-24T00:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -861,7 +930,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T02:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -873,7 +942,7 @@
     "publish_date": "2025/09/23",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3996db4620199743d707721f1&page=2",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第4報",
@@ -906,7 +975,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-21T23:59:59+08:00",
+          "predicted_resumption_time": "2025-09-23T18:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -918,7 +987,7 @@
     "publish_date": "2025/09/23",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3996db4620199722aec9b1fb8&page=2",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第4報",
@@ -950,7 +1019,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T12:00:00+08:00",
+          "predicted_resumption_time": "2025-09-23T12:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -982,7 +1051,7 @@
           "affected_stations": [
             "員林火車"
           ],
-          "predicted_resumption_time": "2025-10-22T03:38:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -994,7 +1063,7 @@
     "publish_date": "2025/09/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3996db4620199704b4c081caa&page=2",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第3報",
@@ -1021,7 +1090,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-21T20:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1033,7 +1102,7 @@
     "publish_date": "2025/09/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3996db46201996ec3b3c802d7&page=2",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第2報",
@@ -1060,7 +1129,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-21T14:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1090,7 +1159,7 @@
           "affected_stations": [
             "松山車"
           ],
-          "predicted_resumption_time": "2025-10-22T08:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1102,7 +1171,7 @@
     "publish_date": "2025/09/21",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac399688ec101996c5505530864&page=3",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "第1報",
         "颱風"
@@ -1125,8 +1194,8 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-09-21T18:30:00+08:00",
-          "actual_resumption_time": "2025-10-21T18:30:00+08:00"
+          "predicted_resumption_time": "2025-09-22T12:00:00+08:00",
+          "actual_resumption_time": null
         }
       }
     ]
@@ -1153,7 +1222,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T12:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1181,7 +1250,7 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T07:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1213,7 +1282,7 @@
             "大經典車",
             "的臺南車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1243,7 +1312,7 @@
           "affected_stations": [
             "停靠"
           ],
-          "predicted_resumption_time": "2025-10-22T02:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1273,7 +1342,7 @@
           "affected_stations": [
             "為提升網"
           ],
-          "predicted_resumption_time": "2025-10-22T01:45:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1304,7 +1373,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T09:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1338,7 +1407,7 @@
             "一指定小",
             "訪沿線小"
           ],
-          "predicted_resumption_time": "2025-10-22T02:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1366,7 +1435,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T03:48:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1378,7 +1447,7 @@
     "publish_date": "2025/08/13",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3989fa9d90198a39af2c85a3b&page=4",
     "classification": {
-      "category": "Disruption_Update",
+      "category": "Weather_Related",
       "keywords": [
         "第5報",
         "颱風"
@@ -1407,7 +1476,7 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1419,7 +1488,7 @@
     "publish_date": "2025/08/13",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3989fa9d90198a226551d4859&page=4",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第4報",
@@ -1455,7 +1524,7 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-08-13T18:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -1467,7 +1536,7 @@
     "publish_date": "2025/08/13",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3989fa9d90198a0fce7450130&page=4",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第3報",
@@ -1503,7 +1572,7 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2026-08-13T18:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1515,7 +1584,7 @@
     "publish_date": "2025/08/12",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac398956a1001989e457d1d35c9&page=4",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第2報",
@@ -1546,7 +1615,7 @@
             "各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2026-08-13T12:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1558,7 +1627,7 @@
     "publish_date": "2025/08/12",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac398956a1001989d636674327c&page=4",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "第1報",
         "颱風"
@@ -1582,7 +1651,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2026-08-12T14:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1610,7 +1679,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1622,7 +1691,7 @@
     "publish_date": "2025/08/03",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3986c367701986f2f248d0998&page=4",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "應變措施",
         "第2報",
@@ -1651,7 +1720,7 @@
             "車次開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T05:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1663,7 +1732,7 @@
     "publish_date": "2025/08/03",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3986c367701986ede688e0940&page=4",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "應變措施",
         "第1報",
@@ -1691,8 +1760,8 @@
             "並透過",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T03:30:00+08:00",
-          "actual_resumption_time": "2025-10-22T16:00:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-08-03T15:30:00+08:00"
         }
       }
     ]
@@ -1730,7 +1799,7 @@
             "源及關山",
             "找車"
           ],
-          "predicted_resumption_time": "2025-10-22T04:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1742,14 +1811,14 @@
     "publish_date": "2025/07/27",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29843048101984bea4ace4b83&page=4",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "電車線",
         "應變措施",
         "第3報",
+        "豪雨",
         "恢復通車",
-        "恢復正常",
-        "豪雨"
+        "恢復正常"
       ],
       "event_group_id": "20250727_瀧溪間因大鳥隧道內大量漏水致無電影響南迴線"
     },
@@ -1773,8 +1842,8 @@
             "臺東",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-21T20:02:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-07-27T20:02:00+08:00"
         }
       }
     ]
@@ -1785,7 +1854,7 @@
     "publish_date": "2025/07/27",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29843048101984b50403b4abd&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "中斷",
         "電車線",
@@ -1810,7 +1879,7 @@
             "於太麻里",
             "及枋寮"
           ],
-          "predicted_resumption_time": "2026-07-27T12:40:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1844,8 +1913,8 @@
           "affected_stations": [
             "大武"
           ],
-          "predicted_resumption_time": "2026-07-27T12:40:00+08:00",
-          "actual_resumption_time": "2025-10-22T13:30:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
         }
       }
     ]
@@ -1856,13 +1925,13 @@
     "publish_date": "2025/07/21",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3982944d001982ca7f8a2425f&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "應變措施",
+        "大雨",
         "恢復通車",
-        "恢復正常",
-        "大雨"
+        "恢復正常"
       ],
       "event_group_id": "20250721_大武至瀧溪間受豪大雨影響南迴線"
     },
@@ -1885,8 +1954,8 @@
             "列車開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-21T18:50:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-07-21T18:50:00+08:00"
         }
       }
     ]
@@ -1897,7 +1966,7 @@
     "publish_date": "2025/07/21",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3982944d001982a80dd13137d&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "應變措施",
         "第1發",
@@ -1929,7 +1998,7 @@
             "已透過",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T08:40:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -1941,7 +2010,7 @@
     "publish_date": "2025/07/08",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac297e644ef0197e96dc4964a5b&page=5",
     "classification": {
-      "category": "Disruption_Update",
+      "category": "Weather_Related",
       "keywords": [
         "第3報",
         "大雨"
@@ -1964,8 +2033,8 @@
           "affected_stations": [
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-21T17:28:00+08:00",
-          "actual_resumption_time": "2025-10-21T17:28:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-07-08T17:28:00+08:00"
         }
       }
     ]
@@ -1976,7 +2045,7 @@
     "publish_date": "2025/07/08",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac297e644ef0197e944b32037a1&page=5",
     "classification": {
-      "category": "Disruption_Update",
+      "category": "Weather_Related",
       "keywords": [
         "第2報",
         "大雨"
@@ -1999,8 +2068,8 @@
           "affected_stations": [
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-21T16:48:00+08:00",
-          "actual_resumption_time": "2025-10-21T16:48:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-07-08T16:48:00+08:00"
         }
       }
     ]
@@ -2011,12 +2080,12 @@
     "publish_date": "2025/07/08",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac297e644ef0197e8f2f7d22460&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "應變措施",
         "第1報",
-        "恢復通車",
-        "大雨"
+        "大雨",
+        "恢復通車"
       ],
       "event_group_id": "20250708_西部幹線二水至林內間受豪大雨影響路線"
     },
@@ -2037,7 +2106,7 @@
             "並透過",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T03:10:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2049,12 +2118,12 @@
     "publish_date": "2025/07/07",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac297d6d1d40197e27b334c6b86&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "第5報",
-        "恢復正常",
-        "颱風"
+        "颱風",
+        "恢復正常"
       ],
       "event_group_id": "20250707_臺鐵公司受丹娜絲颱風"
     },
@@ -2082,7 +2151,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2094,13 +2163,13 @@
     "publish_date": "2025/07/07",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac397e12c1d0197e192d5040020&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "電車線",
         "第4報",
-        "恢復行駛",
-        "颱風"
+        "颱風",
+        "恢復行駛"
       ],
       "event_group_id": "20250707_臺鐵公司因應丹娜絲颱風"
     },
@@ -2131,7 +2200,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-21T08:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2143,13 +2212,13 @@
     "publish_date": "2025/07/06",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac297d6d1d40197dfe312d562c6&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "電車線",
         "第3報",
-        "恢復行駛",
-        "颱風"
+        "颱風",
+        "恢復行駛"
       ],
       "event_group_id": "20250706_臺鐵公司因應丹娜絲颱風"
     },
@@ -2180,7 +2249,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T08:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2192,7 +2261,7 @@
     "publish_date": "2025/07/06",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac297d6d1d40197dd3475b33ebc&page=6",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第2報",
@@ -2223,7 +2292,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-21T20:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2235,7 +2304,7 @@
     "publish_date": "2025/07/05",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac297d6d1d40197dad9363b367c&page=6",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第1報",
@@ -2262,8 +2331,8 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2026-07-05T20:00:00+08:00",
-          "actual_resumption_time": "2025-10-21T20:00:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
         }
       }
     ]
@@ -2300,7 +2369,7 @@
             "新入口網",
             "限公司網"
           ],
-          "predicted_resumption_time": "2025-10-22T05:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2337,7 +2406,7 @@
             "傳社群網",
             "至竹東車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2365,7 +2434,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T09:29:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2404,7 +2473,7 @@
             "花蓮",
             "印兌換車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2436,7 +2505,7 @@
             "北迴線"
           ],
           "affected_stations": [],
-          "predicted_resumption_time": "2026-05-20T16:14:00+08:00",
+          "predicted_resumption_time": "2025-05-21T05:30:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -2448,7 +2517,7 @@
     "publish_date": "2025/05/20",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396e4c7440196ed18534d199c&page=6",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "應變措施",
         "持續"
@@ -2477,7 +2546,7 @@
             "全面開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T05:40:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2489,7 +2558,7 @@
     "publish_date": "2025/05/20",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396e4c7440196eb43c7451561&page=6",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "停駛",
         "應變措施",
@@ -2519,7 +2588,7 @@
             "號不開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2531,7 +2600,7 @@
     "publish_date": "2025/05/19",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac296da854e0196e8a4e4063a30&page=6",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "停駛",
         "應變措施",
@@ -2561,7 +2630,7 @@
             "號不開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T08:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2573,7 +2642,7 @@
     "publish_date": "2025/05/19",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396e4c7440196e7d06d190dbb&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "停駛",
         "中斷",
@@ -2604,7 +2673,7 @@
             "號不開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2025-10-22T05:08:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2616,7 +2685,7 @@
     "publish_date": "2025/05/19",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396e4c7440196e749c02b0d11&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "中斷",
         "電車線",
@@ -2644,7 +2713,7 @@
             "全面開放",
             "致列車到"
           ],
-          "predicted_resumption_time": "2026-05-18T16:10:00+08:00",
+          "predicted_resumption_time": "2025-05-21T05:30:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -2656,7 +2725,7 @@
     "publish_date": "2025/05/19",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396e4c7440196e61c983d02ff&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "停駛",
         "中斷",
@@ -2694,7 +2763,7 @@
             "改由臺東",
             "列車開放"
           ],
-          "predicted_resumption_time": "2025-10-22T09:14:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2706,7 +2775,7 @@
     "publish_date": "2025/05/19",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac296da854e0196e4896af62034&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "停駛",
         "中斷",
@@ -2751,8 +2820,8 @@
             "駛至臺東",
             "改由臺東"
           ],
-          "predicted_resumption_time": "2026-05-18T16:10:00+08:00",
-          "actual_resumption_time": "2025-10-21T19:48:00+08:00"
+          "predicted_resumption_time": "2025-05-19T05:30:00+08:00",
+          "actual_resumption_time": null
         }
       }
     ]
@@ -2763,7 +2832,7 @@
     "publish_date": "2025/05/18",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac296da854e0196e35211d71e1e&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "中斷",
         "電車線",
@@ -2797,8 +2866,8 @@
             "到新左營",
             "並加強"
           ],
-          "predicted_resumption_time": "2026-05-18T16:10:00+08:00",
-          "actual_resumption_time": "2025-10-21T19:48:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
         }
       }
     ]
@@ -2809,7 +2878,7 @@
     "publish_date": "2025/05/18",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396dfa0980196e2ce0438069c&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "中斷",
         "恢復通車"
@@ -2837,7 +2906,7 @@
             "列車開放",
             "並加強各"
           ],
-          "predicted_resumption_time": "2025-10-22T05:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2849,7 +2918,7 @@
     "publish_date": "2025/05/16",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396d553dc0196d9297d400c76&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "電車線",
         "應變措施",
@@ -2875,8 +2944,8 @@
             "至加祿",
             "之內至各"
           ],
-          "predicted_resumption_time": "2026-05-16T14:24:00+08:00",
-          "actual_resumption_time": null
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-05-16T19:49:00+08:00"
         }
       }
     ]
@@ -2887,7 +2956,7 @@
     "publish_date": "2025/05/16",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac396d553dc0196d8623a3e07e8&page=7",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "電車線",
         "應變措施",
@@ -2912,7 +2981,7 @@
             "已至加祿",
             "之內至各"
           ],
-          "predicted_resumption_time": "2026-05-16T14:24:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2947,7 +3016,7 @@
             "已至加祿",
             "之內至各"
           ],
-          "predicted_resumption_time": "2026-05-16T14:24:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2980,7 +3049,7 @@
           "affected_stations": [
             "自前往車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -2992,15 +3061,15 @@
     "publish_date": "2025/04/12",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39621153e019629bb3b981998&page=8",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "中斷",
         "電車線",
         "應變措施",
         "第1發",
-        "搶修完成",
-        "颱風"
+        "颱風",
+        "搶修完成"
       ],
       "event_group_id": "20250412_臺東間電車線"
     },
@@ -3033,7 +3102,7 @@
             "司官方網",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-04-12T16:05:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3045,7 +3114,7 @@
     "publish_date": "2025/04/10",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2961beeff01961e30f55e0723&page=8",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "中斷",
@@ -3081,7 +3150,7 @@
             "返回起程",
             "依車"
           ],
-          "predicted_resumption_time": "2026-04-10T09:52:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3093,7 +3162,7 @@
     "publish_date": "2025/04/10",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2961beeff01961dbda290042b&page=8",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "應變措施",
@@ -3120,7 +3189,7 @@
             "至富岡",
             "請各"
           ],
-          "predicted_resumption_time": "2026-04-10T09:52:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3148,7 +3217,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T04:23:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3183,7 +3252,7 @@
           "affected_stations": [
             "各場"
           ],
-          "predicted_resumption_time": "2025-10-22T04:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3216,7 +3285,7 @@
             "姊妹車",
             "武球場前"
           ],
-          "predicted_resumption_time": "2025-10-22T04:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3250,7 +3319,7 @@
           "affected_stations": [
             "鐵官方網"
           ],
-          "predicted_resumption_time": "2026-03-10T10:54:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3278,7 +3347,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T04:20:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3312,7 +3381,7 @@
           "affected_stations": [
             "或於各車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3351,7 +3420,7 @@
             "各場",
             "架化及車"
           ],
-          "predicted_resumption_time": "2025-10-21T23:59:59+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3363,7 +3432,7 @@
     "publish_date": "2025/01/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac294b371ca0194b646cf060afc&page=9",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "第1發",
         "地震"
@@ -3386,7 +3455,7 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-01-30T15:16:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3398,12 +3467,12 @@
     "publish_date": "2025/01/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac294b371ca0194b5d731e20949&page=9",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "電車線",
         "第2發",
-        "恢復正常",
-        "地震"
+        "地震",
+        "恢復正常"
       ],
       "event_group_id": "20250130_臺鐵公司1月30日嘉義地震"
     },
@@ -3423,7 +3492,7 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-01-30T10:11:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3435,11 +3504,11 @@
     "publish_date": "2025/01/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac294b371ca0194b59c343307e8&page=9",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "第1發",
-        "恢復正常",
-        "地震"
+        "地震",
+        "恢復正常"
       ],
       "event_group_id": "20250130_臺鐵公司1月30日嘉義地震"
     },
@@ -3464,7 +3533,7 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-01-30T10:11:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3476,7 +3545,7 @@
     "publish_date": "2025/01/27",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29499b2060194a642c38b2530&page=9",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "電車線",
         "第3發",
@@ -3501,8 +3570,8 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-01-27T07:38:00+08:00",
-          "actual_resumption_time": "2025-10-22T08:00:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-01-27T13:08:00+08:00"
         }
       }
     ]
@@ -3513,7 +3582,7 @@
     "publish_date": "2025/01/27",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29499b2060194a5b8965f2370&page=9",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "電車線",
         "第2發",
@@ -3540,8 +3609,8 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-01-27T07:38:00+08:00",
-          "actual_resumption_time": "2025-10-22T08:00:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2025-01-27T10:19:00+08:00"
         }
       }
     ]
@@ -3576,7 +3645,7 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2026-01-27T07:38:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3588,7 +3657,7 @@
     "publish_date": "2025/01/03",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac294234cc601942b383a1a162a&page=9",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Update",
       "keywords": [
         "出軌",
         "應變措施",
@@ -3614,7 +3683,7 @@
             "請至汐止",
             "鐵官方網"
           ],
-          "predicted_resumption_time": "2026-01-03T12:05:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3651,7 +3720,7 @@
             "客於七堵",
             "鐵官方網"
           ],
-          "predicted_resumption_time": "2026-01-03T12:05:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3681,7 +3750,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-12-02T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3709,7 +3778,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T11:13:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3721,7 +3790,7 @@
     "publish_date": "2024/11/16",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2933134cf01933298bc4408a9&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第4發",
@@ -3750,7 +3819,7 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:29:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3762,7 +3831,7 @@
     "publish_date": "2024/11/15",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29326e82301932fdec9421163&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第3發",
@@ -3792,7 +3861,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T08:30:00+08:00",
+          "predicted_resumption_time": "2024-11-15T12:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -3804,7 +3873,7 @@
     "publish_date": "2024/11/15",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29326e82301932ddb14d00d02&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "落石",
         "應變措施",
@@ -3827,7 +3896,7 @@
             "北迴線"
           ],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T11:22:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3839,7 +3908,7 @@
     "publish_date": "2024/11/15",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3932c1a8901932d5fcdb20177&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "颱風"
@@ -3867,7 +3936,7 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:09:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3879,7 +3948,7 @@
     "publish_date": "2024/11/14",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39321cddb01932aca3b510fce&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第1發",
@@ -3909,8 +3978,8 @@
             "各就近車",
             "有各車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:05:00+08:00",
-          "actual_resumption_time": "2025-10-21T17:30:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
         }
       }
     ]
@@ -3921,7 +3990,7 @@
     "publish_date": "2024/11/01",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac392e3f54d0192e7eb9c0f064c&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "電車線",
         "颱風",
@@ -3946,7 +4015,7 @@
           "affected_stations": [
             "山里"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -3958,13 +4027,13 @@
     "publish_date": "2024/11/01",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292e3958a0192e6decb54052b&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "第9發",
-        "恢復行駛",
         "颱風",
-        "豪雨"
+        "豪雨",
+        "恢復行駛"
       ],
       "event_group_id": "20241101_臺鐵公司齊心協力提前搶通北迴線"
     },
@@ -3998,7 +4067,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T04:28:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4010,14 +4079,14 @@
     "publish_date": "2024/11/01",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292e3958a0192e66641e40477&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "電車線",
         "第8發",
         "持續",
-        "恢復行駛",
         "颱風",
-        "地震"
+        "地震",
+        "恢復行駛"
       ],
       "event_group_id": "20241101_臺鐵公司因應康芮颱風"
     },
@@ -4049,7 +4118,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-11-01T00:18:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4061,14 +4130,14 @@
     "publish_date": "2024/11/01",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292e3958a0192e4b7a1100031&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "電車線",
         "第7發",
         "持續",
-        "恢復行駛",
         "颱風",
-        "地震"
+        "地震",
+        "恢復行駛"
       ],
       "event_group_id": "20241101_臺鐵公司因應康芮颱風"
     },
@@ -4095,7 +4164,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-11-01T00:18:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4107,12 +4176,12 @@
     "publish_date": "2024/11/01",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292e3958a0192e3f4f4b80020&page=10",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "第6發",
-        "恢復行駛",
-        "颱風"
+        "颱風",
+        "恢復行駛"
       ],
       "event_group_id": "20241101_臺鐵公司因應康芮颱風"
     },
@@ -4148,7 +4217,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-11-01T12:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4160,13 +4229,13 @@
     "publish_date": "2024/10/31",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292e3958a0192e3f170c5000f&page=11",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Disruption_Resumption",
       "keywords": [
         "停駛",
         "第5發",
-        "恢復行駛",
         "颱風",
-        "豪雨"
+        "豪雨",
+        "恢復行駛"
       ],
       "event_group_id": "20241031_臺鐵公司因應康芮颱風"
     },
@@ -4202,7 +4271,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-11-01T12:00:00+08:00",
+          "predicted_resumption_time": "2024-11-02T05:30:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -4214,7 +4283,7 @@
     "publish_date": "2024/10/31",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292dedc2b0192e06b841b007e&page=11",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第4發",
@@ -4244,7 +4313,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T10:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4256,7 +4325,7 @@
     "publish_date": "2024/10/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac392d9a8b50192dd7fcebe0551&page=11",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第3發",
@@ -4286,7 +4355,7 @@
             "有各車",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T08:54:00+08:00",
+          "predicted_resumption_time": "2024-10-30T12:00:00+08:00",
           "actual_resumption_time": null
         }
       }
@@ -4298,7 +4367,7 @@
     "publish_date": "2024/10/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292d48f770192dc9a99941b3d&page=11",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "颱風"
@@ -4319,7 +4388,7 @@
           "affected_stations": [
             "內至各車"
           ],
-          "predicted_resumption_time": "2025-10-22T04:40:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4331,7 +4400,7 @@
     "publish_date": "2024/10/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac392d9a8b50192dbdc2ba602b1&page=11",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "第2發",
@@ -4356,7 +4425,7 @@
             "全面開放",
             "票至各車"
           ],
-          "predicted_resumption_time": "2025-10-21T23:59:59+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4368,7 +4437,7 @@
     "publish_date": "2024/10/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac392d9a8b50192db6ee90b01e5&page=11",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "應變措施",
         "第1發",
@@ -4391,8 +4460,8 @@
           "affected_stations": [
             "閘門及車"
           ],
-          "predicted_resumption_time": "2025-10-21T23:59:59+08:00",
-          "actual_resumption_time": "2025-10-22T05:30:00+08:00"
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
         }
       }
     ]
@@ -4426,7 +4495,7 @@
           "affected_stations": [
             "及清理車"
           ],
-          "predicted_resumption_time": "2025-10-22T09:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4454,7 +4523,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T03:43:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }
@@ -4466,7 +4535,7 @@
     "publish_date": "2024/04/23",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac28f07306f018f0a1fcd3c0eb9&page=11",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "豪雨",
@@ -4495,7 +4564,81 @@
             "現行集集",
             "訊及各車"
           ],
-          "predicted_resumption_time": "2025-10-22T04:35:00+08:00",
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "8ae4cac299e940d40199f133790067ac",
+    "title": "本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。",
+    "publish_date": "2025/10/22",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac299e940d40199f133790067ac&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251022_本公司旅客入口網_官網_於114年10月23日_星期四_00"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-22T08:03:43.268656+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/22 上午 8:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年10月23日（星期四）00時00分~07時30辦理不斷電系統改接及配電工程，屆時將暫停官網網站服務、電腦預約訂位服務、網路信用卡付款服務、會員服務系統、超商代售車票服務、臺鐵e訂通服務等，造成您的困擾，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。 本公司旅客入口網(官網)於114年10月23日（星期四）00時00分~07時30分暫停服務。 發佈日期：2025/10/22 上午 8:00 本公司將於114年10月23日（星期四）00時00分~07時30辦理不斷電系統改接及配電工程，屆時將暫停官網網站服務、電腦預約訂位服務、網路信用卡付款服務、會員服務系統、超商代售車票服務、臺鐵e訂通服務等，造成您的困擾，敬請見諒。 返回上一頁",
+        "content_hash": "md5:ccfe885b6b34342a9dbd47ffc08bae9a",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [
+            "停官網網"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "8ae4cac29a06f283019a0964470533c7",
+    "title": "平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全",
+    "publish_date": "2025/10/22",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a06f283019a0964470533c7&page=0",
+    "classification": {
+      "category": "Disruption_Suspension",
+      "keywords": [
+        "停駛",
+        "暫停營運",
+        "落石",
+        "持續",
+        "豪雨"
+      ],
+      "event_group_id": "20251022_平溪線因豪雨"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-22T08:53:39.174227+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/22 上午 8:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        受持續強降雨影響，為確保行車安全，臺鐵公司今（22）日平溪線暫停列車營運。另因沿線部分路段仍有落石及土石滑落情形，本公司將按天候狀況持續觀察，待確認邊坡穩定及路線安全無虞後再行復駛，並即時公告。<br/><br/>        停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站發車時刻為08:30、10:30、14:00及16:00，如18:00後仍有旅客前往平溪線，將再洽客運業者加開接送車輛。<br/><br/>        旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全 平溪線因豪雨今（22）日暫停營運　臺鐵持續監測確保行車安全 發佈日期：2025/10/22 上午 8:30 受持續強降雨影響，為確保行車安全，臺鐵公司今（22）日平溪線暫停列車營運。另因沿線部分路段仍有落石及土石滑落情形，本公司將按天候狀況持續觀察，待確認邊坡穩定及路線安全無虞後再行復駛，並即時公告。 停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站發車時刻為08:30、10:30、14:00及16:00，如18:00後仍有旅客前往平溪線，將再洽客運業者加開接送車輛。 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
+        "content_hash": "md5:9904a3863c182a32761cf1f651e5c7e8",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [
+            "平溪線各",
+            "駁車停靠",
+            "及菁桐等",
+            "停靠公車",
+            "瑞芳",
+            "司官方網",
+            "或就近車"
+          ],
+          "predicted_resumption_time": null,
           "actual_resumption_time": null
         }
       }

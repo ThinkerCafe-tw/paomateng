@@ -29,6 +29,10 @@ class ExtractedData(BaseModel):
     predicted_resumption_time: Optional[datetime] = Field(None, description="Estimated resumption time (ISO 8601, timezone-aware)")
     actual_resumption_time: Optional[datetime] = Field(None, description="Actual resumption time (ISO 8601, timezone-aware)")
 
+    # NEW: Service type classification for actual resumption
+    service_type: Optional[str] = Field(None, description="Type of service resumption: 'normal_train' (正常列車), 'shuttle_service' (接駁服務), 'partial_operation' (部分營運), or None if not resumed")
+    service_details: Optional[str] = Field(None, description="Additional details about the service type (e.g., '柴聯車接駁', '單線雙向通車')")
+
     class Config:
         json_encoders = {
             datetime: lambda v: v.isoformat() if v else None
@@ -70,6 +74,11 @@ class Announcement(BaseModel):
     detail_url: str = Field(..., description="Full URL to detail page")
     classification: Classification = Field(..., description="Classification metadata")
     version_history: List[VersionEntry] = Field(default_factory=list, description="Version history with all snapshots")
+
+    # Top-level time fields for backward compatibility and query convenience
+    # These are copied from the latest version's extracted_data for easier access
+    predicted_resumption_time: Optional[datetime] = Field(None, description="Estimated resumption time (ISO 8601, timezone-aware) - copied from latest version's extracted_data")
+    actual_resumption_time: Optional[datetime] = Field(None, description="Actual resumption time (ISO 8601, timezone-aware) - copied from latest version's extracted_data")
 
     class Config:
         json_encoders = {

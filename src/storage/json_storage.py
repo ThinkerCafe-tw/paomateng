@@ -65,9 +65,37 @@ class JSONStorage:
             logger.error(f"Failed to load data from {self.output_file}: {e}")
             return []
 
+    def _validate_data_integrity(self, data_before: List[Announcement], data_after: List[Announcement]) -> None:
+        """
+        Validate data integrity after save operation
+
+        Args:
+            data_before: Data before save
+            data_after: Data after save
+
+        Raises:
+            ValueError: If data integrity check fails
+        """
+        # Check count
+        if len(data_before) != len(data_after):
+            raise ValueError(f"Data count mismatch: {len(data_before)} before vs {len(data_after)} after")
+
+        # Check time field count - CRITICAL for detecting data loss
+        time_before = sum(1 for a in data_before if a.predicted_resumption_time or a.actual_resumption_time)
+        time_after = sum(1 for a in data_after if a.predicted_resumption_time or a.actual_resumption_time)
+
+        if time_before != time_after:
+            raise ValueError(
+                f"⚠️ TIME FIELD DATA LOSS DETECTED!\n"
+                f"Time field count mismatch: {time_before} before vs {time_after} after\n"
+                f"This indicates that time data was lost during save operation."
+            )
+
+        logger.info(f"✓ Data integrity validated: {len(data_after)} announcements, {time_after} with time data")
+
     def save(self, data: List[Announcement]) -> None:
         """
-        Save announcements to JSON file with atomic writes
+        Save announcements to JSON file with atomic writes and integrity validation
 
         Args:
             data: List of Announcement objects to save
@@ -75,6 +103,9 @@ class JSONStorage:
         try:
             # Create backup before saving
             self._create_backup()
+
+            # Count time fields before save for validation
+            time_count_before = sum(1 for a in data if a.predicted_resumption_time or a.actual_resumption_time)
 
             with FileLock(self.lock_file, timeout=10):
                 # Convert Pydantic models to dict with JSON serialization
@@ -87,7 +118,11 @@ class JSONStorage:
                     else:
                         json.dump(json_data, f, ensure_ascii=False)
 
-                logger.info(f"Saved {len(data)} announcements to {self.output_file}")
+                logger.info(f"Saved {len(data)} announcements to {self.output_file} ({time_count_before} with time data)")
+
+            # Validate after save - load and check integrity
+            data_after = self.load()
+            self._validate_data_integrity(data, data_after)
 
         except Exception as e:
             logger.error(f"Failed to save data to {self.output_file}: {e}")
