@@ -62,23 +62,98 @@
             color: #0066cc;
         }
 
+        /* 新的研究場景過濾器樣式 */
+        .filter-section {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            border-left: 4px solid #28a745;
+        }
+
+        .filter-section h3 {
+            color: #28a745;
+            font-size: 16px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
         .filters {
             display: flex;
             gap: 10px;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
             flex-wrap: wrap;
         }
 
         .filters input, .filters select {
-            padding: 8px 12px;
+            padding: 10px 14px;
             border: 1px solid #ddd;
             border-radius: 4px;
             font-size: 14px;
+            background: white;
         }
 
         .filters input {
             flex: 1;
-            min-width: 200px;
+            min-width: 250px;
+        }
+
+        .filters select {
+            min-width: 300px;
+            cursor: pointer;
+        }
+
+        .filter-info {
+            background: white;
+            padding: 12px;
+            border-radius: 4px;
+            border: 1px solid #e0e0e0;
+            margin-top: 10px;
+            font-size: 13px;
+            color: #666;
+            display: none;
+        }
+
+        .filter-info.show {
+            display: block;
+        }
+
+        .filter-info-toggle {
+            background: none;
+            border: none;
+            color: #0066cc;
+            cursor: pointer;
+            font-size: 12px;
+            text-decoration: underline;
+            padding: 5px 0;
+            margin-bottom: 5px;
+        }
+
+        .filter-info-toggle:hover {
+            color: #0052a3;
+        }
+
+        .filter-code {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 8px 12px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            margin-top: 8px;
+        }
+
+        .result-count {
+            font-size: 14px;
+            color: #666;
+            padding: 8px 0;
+        }
+
+        .result-count strong {
+            color: #0066cc;
+            font-size: 16px;
         }
 
         table {
@@ -316,17 +391,28 @@
             </div>
         </div>
 
-        <div class="filters">
-            <input type="text" id="search" placeholder="🔍 搜尋標題或內容...">
-            <select id="category-filter">
-                <option value="">所有分類</option>
-            </select>
-            <select id="service-filter">
-                <option value="">所有服務類型</option>
-                <option value="normal_train">正常列車</option>
-                <option value="shuttle_service">接駁服務</option>
-                <option value="partial_operation">部分營運</option>
-            </select>
+        <!-- 新的研究場景過濾器 -->
+        <div class="filter-section">
+            <h3>🔬 研究場景篩選器</h3>
+            <div class="filters">
+                <input type="text" id="search" placeholder="🔍 搜尋標題或內容...">
+                <select id="scenario-filter">
+                    <option value="all">📋 所有公告</option>
+                    <option value="suspension_initial">🔴 停駛初報（首次宣布停駛）</option>
+                    <option value="suspension_update">📢 停駛更新報（第2、3報等）</option>
+                    <option value="resumption">✅ 恢復通車公告</option>
+                    <option value="currently_suspended">⏸️ 當前仍在停駛中（內文提到停駛狀態）</option>
+                    <option value="weather_related">🌧️ 氣象相關事件</option>
+                    <option value="disruption_full">📊 完整停駛事件序列（含所有後續報）</option>
+                </select>
+            </div>
+            <div class="result-count" id="result-count"></div>
+            <button class="filter-info-toggle" onclick="toggleFilterInfo()">🔍 查看此篩選器的技術條件</button>
+            <div class="filter-info" id="filter-info">
+                <strong>當前篩選條件說明：</strong>
+                <div id="filter-description"></div>
+                <div class="filter-code" id="filter-code"></div>
+            </div>
         </div>
 
         <div id="loading" class="loading">載入中...</div>
@@ -356,6 +442,60 @@
         const DATA_URL = 'https://raw.githubusercontent.com/ThinkerCafe-tw/paomateng/main/data/master.json';
         let allData = [];
 
+        // 研究場景定義
+        const SCENARIOS = {
+            all: {
+                name: '所有公告',
+                description: '不進行任何過濾，顯示所有公告',
+                code: '無過濾條件',
+                filter: (ann) => true
+            },
+            suspension_initial: {
+                name: '停駛初報（首次宣布停駛）',
+                description: '首次宣布列車停駛的公告（通常標題含「停駛」、「暫停營運」等關鍵字）',
+                code: 'category === "Disruption_Suspension"',
+                filter: (ann) => ann.classification.category === 'Disruption_Suspension'
+            },
+            suspension_update: {
+                name: '停駛更新報（第2、3報等）',
+                description: '停駛事件的後續更新報告（標題含「第2報」、「第3報」等）',
+                code: 'category === "Disruption_Update"',
+                filter: (ann) => ann.classification.category === 'Disruption_Update'
+            },
+            resumption: {
+                name: '恢復通車公告',
+                description: '宣布列車恢復行駛的公告（標題含「恢復行駛」、「恢復通車」等）',
+                code: 'category === "Disruption_Resumption"',
+                filter: (ann) => ann.classification.category === 'Disruption_Resumption'
+            },
+            currently_suspended: {
+                name: '當前仍在停駛中',
+                description: '公告內文中提到「當前停駛狀態」的所有公告（包含初報、更新報、甚至恢復預告中提到目前仍停駛）',
+                code: 'extracted_data.status === "Suspended"',
+                filter: (ann) => {
+                    const extracted = ann.version_history[0].extracted_data;
+                    return extracted && extracted.status === 'Suspended';
+                }
+            },
+            weather_related: {
+                name: '氣象相關事件',
+                description: '因氣象因素（颱風、豪雨、地震等）造成的營運影響',
+                code: 'category === "Weather_Related"',
+                filter: (ann) => ann.classification.category === 'Weather_Related'
+            },
+            disruption_full: {
+                name: '完整停駛事件序列',
+                description: '包含停駛初報、更新報、恢復通車的完整事件序列（用於追蹤完整停駛事件）',
+                code: 'category in ["Disruption_Suspension", "Disruption_Update", "Disruption_Resumption"]',
+                filter: (ann) => {
+                    const cat = ann.classification.category;
+                    return cat === 'Disruption_Suspension' ||
+                           cat === 'Disruption_Update' ||
+                           cat === 'Disruption_Resumption';
+                }
+            }
+        };
+
         async function loadData() {
             try {
                 const response = await fetch(DATA_URL);
@@ -363,8 +503,7 @@
 
                 allData = await response.json();
                 displayStats();
-                populateFilters();
-                displayTable();
+                filterData();
 
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('data-table').style.display = 'table';
@@ -393,18 +532,6 @@
             document.getElementById('resumption-count').textContent = resumptions;
             document.getElementById('last-update').textContent = latestTime ?
                 latestTime.toLocaleString('zh-TW', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : '-';
-        }
-
-        function populateFilters() {
-            const categories = [...new Set(allData.map(a => a.classification.category))];
-            const select = document.getElementById('category-filter');
-
-            categories.forEach(cat => {
-                const option = document.createElement('option');
-                option.value = cat;
-                option.textContent = cat.replace(/_/g, ' ');
-                select.appendChild(option);
-            });
         }
 
         function formatTime(timeStr) {
@@ -547,9 +674,26 @@
             }
         }
 
+        function toggleFilterInfo() {
+            const info = document.getElementById('filter-info');
+            info.classList.toggle('show');
+        }
+
+        function updateFilterInfo(scenario) {
+            const info = SCENARIOS[scenario];
+            document.getElementById('filter-description').textContent = info.description;
+            document.getElementById('filter-code').textContent = info.code;
+        }
+
         function displayTable(filtered = allData) {
             const tbody = document.getElementById('table-body');
             tbody.innerHTML = '';
+
+            // 更新結果數量
+            const scenario = document.getElementById('scenario-filter').value;
+            const scenarioName = SCENARIOS[scenario].name;
+            document.getElementById('result-count').innerHTML =
+                `顯示 <strong>${filtered.length}</strong> 筆公告 (${scenarioName})`;
 
             filtered.forEach((ann, index) => {
                 // 主要資料行
@@ -620,29 +764,36 @@
 
         // 搜尋過濾
         document.getElementById('search').addEventListener('input', filterData);
-        document.getElementById('category-filter').addEventListener('change', filterData);
-        document.getElementById('service-filter').addEventListener('change', filterData);
+        document.getElementById('scenario-filter').addEventListener('change', function() {
+            updateFilterInfo(this.value);
+            filterData();
+        });
 
         function filterData() {
             const searchTerm = document.getElementById('search').value.toLowerCase();
-            const category = document.getElementById('category-filter').value;
-            const serviceType = document.getElementById('service-filter').value;
+            const scenario = document.getElementById('scenario-filter').value;
+            const scenarioFilter = SCENARIOS[scenario].filter;
 
             const filtered = allData.filter(ann => {
-                const matchSearch = ann.title.toLowerCase().includes(searchTerm) ||
-                                  (ann.version_history[0].content_text &&
-                                   ann.version_history[0].content_text.toLowerCase().includes(searchTerm));
-                const matchCategory = !category || ann.classification.category === category;
-                const matchService = !serviceType ||
-                                    (ann.version_history[0].extracted_data &&
-                                     ann.version_history[0].extracted_data.service_type === serviceType);
-                return matchSearch && matchCategory && matchService;
+                // 先應用場景過濾
+                if (!scenarioFilter(ann)) return false;
+
+                // 再應用搜尋過濾
+                if (searchTerm) {
+                    const matchSearch = ann.title.toLowerCase().includes(searchTerm) ||
+                                      (ann.version_history[0].content_text &&
+                                       ann.version_history[0].content_text.toLowerCase().includes(searchTerm));
+                    return matchSearch;
+                }
+
+                return true;
             });
 
             displayTable(filtered);
         }
 
-        // 載入資料
+        // 初始化
+        updateFilterInfo('all');
         loadData();
     </script>
 </body>
