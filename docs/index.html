@@ -101,8 +101,126 @@
             top: 0;
         }
 
-        tr:hover {
+        tr.announcement-row {
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        tr.announcement-row:hover {
             background: #f8f9fa;
+        }
+
+        tr.announcement-row.expanded {
+            background: #e7f3ff;
+        }
+
+        .expand-icon {
+            display: inline-block;
+            margin-right: 8px;
+            transition: transform 0.2s;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .announcement-row.expanded .expand-icon {
+            transform: rotate(90deg);
+        }
+
+        .detail-row {
+            display: none;
+        }
+
+        .detail-row.show {
+            display: table-row;
+        }
+
+        .detail-content {
+            padding: 20px;
+            background: #f9fafb;
+            border-left: 3px solid #0066cc;
+        }
+
+        .detail-section {
+            margin-bottom: 20px;
+        }
+
+        .detail-section h4 {
+            color: #0066cc;
+            margin-bottom: 10px;
+            font-size: 16px;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 5px;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .info-item {
+            background: white;
+            padding: 12px;
+            border-radius: 4px;
+            border: 1px solid #e9ecef;
+        }
+
+        .info-item label {
+            display: block;
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 4px;
+            font-weight: 500;
+        }
+
+        .info-item .value {
+            font-size: 14px;
+            color: #333;
+            font-weight: 500;
+        }
+
+        .info-item .value.empty {
+            color: #999;
+            font-style: italic;
+        }
+
+        .content-text {
+            background: white;
+            padding: 15px;
+            border-radius: 4px;
+            border: 1px solid #e9ecef;
+            white-space: pre-wrap;
+            line-height: 1.8;
+            font-size: 14px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .json-viewer {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 15px;
+            border-radius: 4px;
+            overflow-x: auto;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            line-height: 1.5;
+        }
+
+        .json-toggle {
+            background: #0066cc;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            margin-bottom: 10px;
+        }
+
+        .json-toggle:hover {
+            background: #0052a3;
         }
 
         .badge {
@@ -116,6 +234,10 @@
         .badge-disruption { background: #fee; color: #c00; }
         .badge-resumption { background: #efe; color: #060; }
         .badge-general { background: #eef; color: #06c; }
+        .badge-service { background: #fff3cd; color: #856404; }
+        .badge-normal { background: #d4edda; color: #155724; }
+        .badge-shuttle { background: #d1ecf1; color: #0c5460; }
+        .badge-partial { background: #fff3cd; color: #856404; }
 
         .version-count {
             background: #e9ecef;
@@ -155,12 +277,25 @@
         .footer a:hover {
             text-decoration: underline;
         }
+
+        .tag-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+
+        .tag {
+            background: #e9ecef;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>🚂 臺鐵公告監控系統</h1>
-        <p class="subtitle">Taiwan Railway Administration News Monitor | 學術研究用途</p>
+        <p class="subtitle">Taiwan Railway Administration News Monitor | 學術研究用途 | <strong>點擊標題查看詳細資訊</strong></p>
 
         <div class="stats" id="stats">
             <div class="stat-card">
@@ -182,9 +317,15 @@
         </div>
 
         <div class="filters">
-            <input type="text" id="search" placeholder="🔍 搜尋標題...">
+            <input type="text" id="search" placeholder="🔍 搜尋標題或內容...">
             <select id="category-filter">
                 <option value="">所有分類</option>
+            </select>
+            <select id="service-filter">
+                <option value="">所有服務類型</option>
+                <option value="normal_train">正常列車</option>
+                <option value="shuttle_service">接駁服務</option>
+                <option value="partial_operation">部分營運</option>
             </select>
         </div>
 
@@ -207,6 +348,7 @@
         <div class="footer">
             <p>🤖 每5分鐘自動更新 | 資料來源：<a href="https://www.railway.gov.tw" target="_blank">臺灣鐵路管理局</a></p>
             <p>📊 <a href="https://github.com/ThinkerCafe-tw/paomateng" target="_blank">GitHub Repository</a> | 學術研究用途</p>
+            <p style="margin-top: 10px; font-size: 12px; color: #999;">💡 點擊任一公告標題可展開查看完整內文、結構化資訊和原始 JSON 數據</p>
         </div>
     </div>
 
@@ -238,7 +380,6 @@
             const disruptions = allData.filter(a => a.classification.category.includes('Disruption')).length;
             const resumptions = allData.filter(a => a.classification.category.includes('Resumption')).length;
 
-            // 找最新的 scraped_at
             let latestTime = null;
             allData.forEach(ann => {
                 ann.version_history.forEach(v => {
@@ -266,19 +407,179 @@
             });
         }
 
+        function formatTime(timeStr) {
+            if (!timeStr) return '-';
+            const time = new Date(timeStr);
+            return time.toLocaleString('zh-TW', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        function createDetailContent(ann) {
+            const latest = ann.version_history[0];
+            const extracted = latest.extracted_data || {};
+
+            return `
+                <div class="detail-content">
+                    <!-- 結構化資訊 -->
+                    <div class="detail-section">
+                        <h4>📋 結構化資訊</h4>
+                        <div class="info-grid">
+                            <div class="info-item">
+                                <label>事件類型</label>
+                                <div class="value ${extracted.event_type ? '' : 'empty'}">
+                                    ${extracted.event_type || '未分類'}
+                                </div>
+                            </div>
+                            <div class="info-item">
+                                <label>營運狀態</label>
+                                <div class="value ${extracted.status ? '' : 'empty'}">
+                                    ${extracted.status ? extracted.status.replace(/_/g, ' ') : '-'}
+                                </div>
+                            </div>
+                            <div class="info-item">
+                                <label>報告版本</label>
+                                <div class="value ${extracted.report_version ? '' : 'empty'}">
+                                    ${extracted.report_version ? '第' + extracted.report_version + '報' : '-'}
+                                </div>
+                            </div>
+                            <div class="info-item">
+                                <label>服務類型 ⭐ NEW</label>
+                                <div class="value">
+                                    ${extracted.service_type ? `
+                                        <span class="badge badge-${extracted.service_type === 'normal_train' ? 'normal' : extracted.service_type === 'shuttle_service' ? 'shuttle' : 'partial'}">
+                                            ${extracted.service_type === 'normal_train' ? '正常列車' :
+                                              extracted.service_type === 'shuttle_service' ? '接駁服務' :
+                                              extracted.service_type === 'partial_operation' ? '部分營運' : extracted.service_type}
+                                        </span>
+                                    ` : '<span class="empty">-</span>'}
+                                </div>
+                            </div>
+                        </div>
+
+                        ${extracted.service_details ? `
+                            <div class="info-item" style="margin-top: 10px;">
+                                <label>服務詳情 ⭐ NEW</label>
+                                <div class="value">${extracted.service_details}</div>
+                            </div>
+                        ` : ''}
+
+                        <div class="info-grid" style="margin-top: 15px;">
+                            <div class="info-item">
+                                <label>預計復駛時間</label>
+                                <div class="value ${extracted.predicted_resumption_time ? '' : 'empty'}">
+                                    ${formatTime(extracted.predicted_resumption_time)}
+                                </div>
+                            </div>
+                            <div class="info-item">
+                                <label>實際復駛時間</label>
+                                <div class="value ${extracted.actual_resumption_time ? '' : 'empty'}">
+                                    ${formatTime(extracted.actual_resumption_time)}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 影響範圍 -->
+                    ${extracted.affected_lines && extracted.affected_lines.length > 0 ? `
+                        <div class="detail-section">
+                            <h4>🚉 影響路線</h4>
+                            <div class="tag-list">
+                                ${extracted.affected_lines.map(line => `<span class="tag">${line}</span>`).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    ${extracted.affected_stations && extracted.affected_stations.length > 0 ? `
+                        <div class="detail-section">
+                            <h4>🚏 影響車站</h4>
+                            <div class="tag-list">
+                                ${extracted.affected_stations.map(station => `<span class="tag">${station}</span>`).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    <!-- 公告內文 -->
+                    <div class="detail-section">
+                        <h4>📄 公告內文</h4>
+                        <div class="content-text">${latest.content_text || '(無純文字內容)'}</div>
+                    </div>
+
+                    <!-- 版本歷史 -->
+                    ${ann.version_history.length > 1 ? `
+                        <div class="detail-section">
+                            <h4>📜 版本歷史 (${ann.version_history.length} 版)</h4>
+                            <div style="font-size: 13px; color: #666;">
+                                ${ann.version_history.map((v, i) => `
+                                    <div style="padding: 5px 0; border-bottom: 1px solid #eee;">
+                                        版本 ${ann.version_history.length - i}: ${formatTime(v.scraped_at)}
+                                        <span style="color: #999; margin-left: 10px;">hash: ${v.content_hash.substring(4, 12)}</span>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    <!-- JSON 查看器 -->
+                    <div class="detail-section">
+                        <h4>🔍 原始 JSON 數據 (研究用)</h4>
+                        <button class="json-toggle" onclick="toggleJSON(this)">顯示 JSON</button>
+                        <div class="json-viewer" style="display: none;">
+                            <pre>${JSON.stringify(extracted, null, 2)}</pre>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function toggleJSON(button) {
+            const viewer = button.nextElementSibling;
+            if (viewer.style.display === 'none') {
+                viewer.style.display = 'block';
+                button.textContent = '隱藏 JSON';
+            } else {
+                viewer.style.display = 'none';
+                button.textContent = '顯示 JSON';
+            }
+        }
+
         function displayTable(filtered = allData) {
             const tbody = document.getElementById('table-body');
             tbody.innerHTML = '';
 
-            filtered.forEach(ann => {
+            filtered.forEach((ann, index) => {
+                // 主要資料行
                 const row = tbody.insertRow();
+                row.className = 'announcement-row';
+                row.dataset.index = index;
+
+                row.addEventListener('click', function() {
+                    const detailRow = this.nextElementSibling;
+                    const isExpanded = this.classList.contains('expanded');
+
+                    // 關閉所有其他展開的行
+                    document.querySelectorAll('.announcement-row.expanded').forEach(r => {
+                        if (r !== this) {
+                            r.classList.remove('expanded');
+                            r.nextElementSibling.classList.remove('show');
+                        }
+                    });
+
+                    // 切換當前行
+                    this.classList.toggle('expanded');
+                    detailRow.classList.toggle('show');
+                });
 
                 // 日期
                 row.insertCell().textContent = ann.publish_date;
 
-                // 標題
+                // 標題（加上展開圖標）
                 const titleCell = row.insertCell();
-                titleCell.textContent = ann.title;
+                titleCell.innerHTML = `<span class="expand-icon">▶</span>${ann.title}`;
                 titleCell.style.maxWidth = '400px';
 
                 // 分類
@@ -300,34 +601,42 @@
 
                 // 預計復駛時間
                 const timeCell = row.insertCell();
-                const latestData = ann.version_history[ann.version_history.length - 1].extracted_data;
+                const latestData = ann.version_history[0].extracted_data;
                 if (latestData && latestData.predicted_resumption_time) {
-                    const time = new Date(latestData.predicted_resumption_time);
-                    timeCell.textContent = time.toLocaleString('zh-TW', {
-                        month: 'short',
-                        day: 'numeric',
-                        hour: '2-digit',
-                        minute: '2-digit'
-                    });
+                    timeCell.textContent = formatTime(latestData.predicted_resumption_time);
                 } else {
                     timeCell.textContent = '-';
                     timeCell.style.color = '#999';
                 }
+
+                // 詳細資訊行（隱藏）
+                const detailRow = tbody.insertRow();
+                detailRow.className = 'detail-row';
+                const detailCell = detailRow.insertCell();
+                detailCell.colSpan = 5;
+                detailCell.innerHTML = createDetailContent(ann);
             });
         }
 
         // 搜尋過濾
         document.getElementById('search').addEventListener('input', filterData);
         document.getElementById('category-filter').addEventListener('change', filterData);
+        document.getElementById('service-filter').addEventListener('change', filterData);
 
         function filterData() {
             const searchTerm = document.getElementById('search').value.toLowerCase();
             const category = document.getElementById('category-filter').value;
+            const serviceType = document.getElementById('service-filter').value;
 
             const filtered = allData.filter(ann => {
-                const matchSearch = ann.title.toLowerCase().includes(searchTerm);
+                const matchSearch = ann.title.toLowerCase().includes(searchTerm) ||
+                                  (ann.version_history[0].content_text &&
+                                   ann.version_history[0].content_text.toLowerCase().includes(searchTerm));
                 const matchCategory = !category || ann.classification.category === category;
-                return matchSearch && matchCategory;
+                const matchService = !serviceType ||
+                                    (ann.version_history[0].extracted_data &&
+                                     ann.version_history[0].extracted_data.service_type === serviceType);
+                return matchSearch && matchCategory && matchService;
             });
 
             displayTable(filtered);
