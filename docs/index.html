@@ -422,6 +422,7 @@
             <thead>
                 <tr>
                     <th>發布日期</th>
+                    <th>抓取時間</th>
                     <th>標題</th>
                     <th>分類</th>
                     <th>版本</th>
@@ -724,8 +725,20 @@
                     detailRow.classList.toggle('show');
                 });
 
-                // 日期
+                // 發布日期
                 row.insertCell().textContent = ann.publish_date;
+
+                // 抓取時間
+                const scrapedCell = row.insertCell();
+                const scrapedTime = new Date(ann.version_history[0].scraped_at);
+                scrapedCell.textContent = scrapedTime.toLocaleString('zh-TW', {
+                    month: '2-digit',
+                    day: '2-digit',
+                    hour: '2-digit',
+                    minute: '2-digit'
+                });
+                scrapedCell.style.fontSize = '13px';
+                scrapedCell.style.color = '#666';
 
                 // 標題（加上展開圖標）
                 const titleCell = row.insertCell();
@@ -763,7 +776,7 @@
                 const detailRow = tbody.insertRow();
                 detailRow.className = 'detail-row';
                 const detailCell = detailRow.insertCell();
-                detailCell.colSpan = 5;
+                detailCell.colSpan = 6;  // 從 5 改成 6（增加了抓取時間欄位）
                 detailCell.innerHTML = createDetailContent(ann);
             });
         }
