@@ -1,11 +1,11 @@
 name: Railway News Monitor
 
 on:
-  # 每5分鐘執行一次
-  schedule:
-    - cron: '*/5 * * * *'
+  # 每5分鐘執行一次 (已停用，改用 n8n 觸發)
+  # schedule:
+  #   - cron: '*/5 * * * *'
 
-  # 允許手動觸發
+  # 允許手動觸發 (n8n 使用此方式觸發)
   workflow_dispatch:
 
   # 首次推送時執行一次
