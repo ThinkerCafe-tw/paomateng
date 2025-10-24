@@ -236,6 +236,42 @@ mypy src/
 
 Check `logs/railway_monitor.log` for detailed operation logs.
 
+## 📊 GitHub Pages Dashboard
+
+The live dashboard provides a research-oriented interface for exploring the data:
+
+**🔗 [https://thinkercafe-tw.github.io/paomateng/](https://thinkercafe-tw.github.io/paomateng/)**
+
+### 🔬 Research Scenario Filters
+
+Instead of technical filters, the dashboard uses **research-purpose-driven** filters:
+
+| 場景 | 說明 | 技術條件 |
+|------|------|----------|
+| 📋 **所有公告** | 顯示所有資料 | 無過濾 |
+| 🔴 **停駛初報** | 首次宣布停駛的公告 | `category === "Disruption_Suspension"` |
+| 📢 **停駛更新報** | 第2、3報等後續更新 | `category === "Disruption_Update"` |
+| ✅ **恢復通車公告** | 宣布恢復行駛 | `category === "Disruption_Resumption"` |
+| ⏸️ **當前仍在停駛中** | 內文提到停駛狀態（含恢復預告） | `status === "Suspended"` |
+| 🌧️ **氣象相關事件** | 颱風、豪雨、地震等 | `category === "Weather_Related"` |
+| 📊 **完整停駛事件序列** | 初報+更新報+恢復通車 | `category in [...]` |
+
+**使用方式**：
+- 選擇研究場景 → 自動過濾資料
+- 點擊「🔍 查看此篩選器的技術條件」查看背後的過濾邏輯
+- 結合關鍵字搜尋功能精確定位
+
+### 💡 常見研究問題對應
+
+**Q: 如何找到「停駛的第一篇公告」？**
+→ 選擇「🔴 停駛初報（首次宣布停駛）」
+
+**Q: 如何追蹤完整的停駛事件演變？**
+→ 選擇「📊 完整停駛事件序列」，包含初報、更新、恢復全流程
+
+**Q: `status="Suspended"` 等於停駛公告嗎？**
+→ 不完全等於！它包含「當前仍在停駛中」的所有公告（包括恢復預告中提到目前仍停駛）
+
 ## Research Use
 
 This system is designed for academic research. The extracted data enables comprehensive analysis of:
