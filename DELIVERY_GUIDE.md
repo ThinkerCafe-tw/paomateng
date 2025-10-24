@@ -14,12 +14,12 @@
 
 | 組件 | 狀態 | 說明 |
 |------|------|------|
-| **自動化監控** | ✅ 運行中 | GitHub Actions 每5分鐘自動執行 |
+| **自動化監控** | ✅ 運行中 | GitHub Actions（實際 3-4 小時/次）或 n8n（真正 5 分鐘/次） |
 | **資料抓取** | ✅ 完成 | 已抓取 126 筆公告，共 133 個版本 |
 | **時間提取** | ✅ 100% | Precision & Recall 均達 100% |
 | **服務類型分類** | ✅ 完成 | 11 筆已分類（normal_train/shuttle_service/partial_operation） |
 | **GitHub Pages** | ✅ 上線 | 研究導向互動式儀表板 |
-| **文檔** | ✅ 完整 | README、使用指南、部署文檔、測試歷史 |
+| **文檔** | ✅ 完整 | README、使用指南、部署文檔、測試歷史、n8n 設定指南 |
 
 ### 2. 資料品質
 
@@ -105,7 +105,10 @@ PaoMaTeng/
 │   ├── README.md                          # 專案總覽與快速開始
 │   ├── TESTING_HISTORY.md                 # 測試歷程記錄
 │   ├── PROJECT_CLEANUP_REPORT.md          # 專案結構收斂報告
-│   └── DELIVERY_GUIDE.md                  # 🎯 本文件
+│   ├── MONITORING_DIAGNOSIS.md            # GitHub Actions 執行頻率診斷
+│   ├── N8N_SETUP_GUIDE.md                 # n8n 監控設定指南（穩定 5 分鐘監控）
+│   ├── DELIVERY_GUIDE.md                  # 🎯 本文件
+│   └── n8n-workflow-railway-monitor.json  # n8n Workflow 配置檔（可直接匯入）
 │
 └── 📊 研究文檔
     └── .spec-workflow/                    # Spec Workflow 文檔
@@ -119,12 +122,24 @@ PaoMaTeng/
 
 ## 🎯 核心功能說明
 
-### 1. 自動化監控（GitHub Actions）
+### 1. 自動化監控
 
-**運行方式**:
-- 每 5 分鐘執行一次
-- 無需伺服器或本地 Python 環境
-- 自動提交變更到 GitHub
+**兩種選項**:
+
+#### 選項 A: GitHub Actions（零成本，適合研究用途）
+- **配置**: 每 5 分鐘執行一次
+- **實際**: 約每 3-4 小時執行一次（免費版限流）
+- **優點**: 零成本、零維護、資料完整性保證
+- **限制**: 執行頻率低於預期
+- **適用**: 研究用途（幾小時延遲不影響資料品質）
+
+#### 選項 B: n8n Workflow（穩定 5 分鐘監控）
+- **執行頻率**: 真正的每 5 分鐘
+- **優點**: 穩定頻率、內建日誌、視覺化介面
+- **限制**: 需保持 n8n 運行
+- **適用**: 需要即時監控的場景
+
+**詳細比較**: 參見下方「⚙️ 監控頻率選項」章節
 
 **查看狀態**:
 - GitHub Actions 頁籤 → 綠色勾勾 = 成功
@@ -242,6 +257,88 @@ python3 scripts/production/validate_service_types.py
 ```
 
 **詳細說明**: 參見 `docs/DEPLOYMENT.md`
+
+---
+
+## ⚙️ 監控頻率選項
+
+### GitHub Actions（免費版限制說明）
+
+**⚠️ 重要**: GitHub Actions 免費版會對高頻 cron job 進行限流
+
+**配置**: 每 5 分鐘執行一次（`.github/workflows/monitor.yml`）
+**實際**: 約每 3-4 小時執行一次（受限流影響）
+
+**診斷報告**: 參見 `MONITORING_DIAGNOSIS.md`
+
+**適用情況**:
+- ✅ 研究用途（幾小時延遲不影響資料品質）
+- ✅ 零成本零維護
+- ✅ 資料完整性保證（所有公告最終都會抓到）
+
+**不適用情況**:
+- ❌ 需要即時監控（5分鐘級別）
+- ❌ 需要穩定執行頻率
+
+### n8n Workflow（推薦：穩定 5-10 分鐘監控）
+
+**如果需要真正的穩定執行頻率**，推薦使用 **n8n + GitHub Actions**：
+
+**架構**: n8n 定時器 → GitHub Actions API → 執行監控
+
+**優勢**:
+- ✅ 穩定的執行頻率（5-10 分鐘可選）
+- ✅ n8n + GitHub 雙重日誌
+- ✅ 視覺化介面，易於除錯
+- ✅ 運算在 GitHub（免費資源）
+- ✅ n8n Cloud 免費: 5000 executions/月
+
+**快速設定** (10 分鐘):
+1. 註冊 n8n Cloud: https://n8n.io/cloud
+2. 連接 GitHub 帳號 (OAuth2)
+3. 建立 2-node workflow:
+   - Schedule Trigger (每 5-10 分鐘)
+   - GitHub node (觸發 workflow_dispatch)
+4. 啟用 Active
+
+**Workflow 結構**:
+```
+n8n Schedule Trigger (每5-10分鐘)
+         ↓
+   GitHub API 觸發
+         ↓
+  GitHub Actions 執行監控
+         ↓
+   抓取 → 更新 → Push
+```
+
+**詳細指南**: 參見 `N8N_SETUP_GUIDE.md`
+**Workflow 檔案**: `n8n-workflow-trigger-github-actions.json`
+
+**比較表**:
+
+| 項目 | GitHub Actions (免費) | n8n + GitHub Actions |
+|------|----------------------|---------------------|
+| **執行頻率** | 3-4 小時 (限流) | 5-10 分鐘（穩定） ✅ |
+| **日誌查看** | 需下載 Artifacts | 雙重日誌（n8n + GitHub） ✅ |
+| **運算資源** | GitHub 免費額度 | GitHub 免費額度（相同） |
+| **成本** | 免費 | 免費 (n8n: 5000 executions/月) |
+| **維護** | 零維護 ✅ | n8n Cloud 託管 |
+| **適用場景** | 研究用途 | 研究 + 即時監控 ✅ |
+
+### 推薦配置
+
+**僅研究用途**（可接受數小時延遲）:
+- 保持 GitHub Actions（零成本零維護）
+
+**需要穩定監控**（5-10分鐘級別）:
+- **推薦**: n8n Cloud (10分鐘/次) - 在免費額度內
+- **進階**: Self-hosted n8n (5分鐘/次) - 無限制
+
+**當前配置** ✅:
+- GitHub Actions schedule 已停用
+- n8n 通過 API 觸發 GitHub Actions
+- 執行頻率: 每 5 分鐘（已設定並運行中）
 
 ---
 

@@ -33,19 +33,52 @@ This system automatically monitors TRA's public announcements, tracking service 
 - ✅ **GitHub Actions Automation**: Auto-update every 5 minutes without server maintenance
 - ✅ **Web Dashboard**: View data via GitHub Pages (no backend needed)
 
-## 🚀 Deployment (GitHub Actions - Recommended)
+## 🚀 Deployment Options
+
+### Option 1: GitHub Actions (Zero-Cost, Automated)
 
 **The system runs automatically on GitHub Actions!** No server or Python installation required for production use.
 
+**⚠️ 注意**: GitHub Actions 免費版會對高頻 cron job 進行限流，實際執行頻率約為 **3-4 小時**（而非配置的 5 分鐘）。詳見 `MONITORING_DIAGNOSIS.md`。
+
 ### How It Works
 
-1. **GitHub Actions** runs every 5 minutes
+1. **GitHub Actions** runs every 5 minutes (configured)
 2. Executes Python scraper in cloud VM
 3. Updates `data/master.json`
 4. Auto-commits changes to repo
 5. **GitHub Pages** displays the data
 
-### Setup Steps
+**實際執行頻率**: 每 3-4 小時（受免費版限流影響）
+
+### Option 2: n8n Workflow (推薦：穩定 5-10 分鐘監控)
+
+如果需要穩定的執行頻率和更好的日誌記錄，推薦使用 **n8n + GitHub Actions**。
+
+**架構**: n8n 作為定時器 → 觸發 GitHub Actions API → 執行監控
+
+**優勢**:
+- ✅ 真正的穩定頻率（5-10 分鐘可選）
+- ✅ n8n + GitHub 雙重日誌
+- ✅ 視覺化介面，易於除錯
+- ✅ 運算仍在 GitHub（不耗費本地資源）
+- ✅ n8n Cloud 免費方案: 5000 executions/月
+
+**快速設定** (10 分鐘完成):
+1. 註冊 n8n Cloud: https://n8n.io/cloud
+2. 連接 GitHub 帳號 (OAuth2)
+3. 建立 2-node workflow:
+   - Schedule Trigger (每 5-10 分鐘)
+   - GitHub node (觸發 workflow_dispatch)
+4. 啟用 Active
+
+**詳細指南**: 參見 `N8N_SETUP_GUIDE.md`
+
+**Workflow 檔案**: `n8n-workflow-trigger-github-actions.json` (可直接匯入)
+
+---
+
+### GitHub Actions Setup Steps (Option 1)
 
 1. **Fork or clone this repo**
 2. **Enable GitHub Actions** (Settings → Actions → Allow all actions)
@@ -436,10 +469,13 @@ python3 scripts/production/validate_service_types.py
 ### 💾 相關文件
 - **詳細性能報告**: `data/PERFORMANCE_REPORT.md`
 - **評估報告**: `data/evaluation_report.json`
-- **主數據**: `data/master.json` (123 條公告)
+- **主數據**: `data/master.json` (126 條公告)
 - **測試歷程**: `TESTING_HISTORY.md` (完整測試記錄)
 - **腳本工具說明**: `scripts/README.md`
 - **專案結構報告**: `PROJECT_CLEANUP_REPORT.md`
+- **GitHub Actions 診斷**: `MONITORING_DIAGNOSIS.md` (執行頻率分析)
+- **n8n 設定指南**: `N8N_SETUP_GUIDE.md` (穩定監控方案)
+- **專案交付指南**: `DELIVERY_GUIDE.md` (交付給業主的完整說明)
 
 ---
 
