@@ -695,7 +695,13 @@
             document.getElementById('result-count').innerHTML =
                 `顯示 <strong>${filtered.length}</strong> 筆公告 (${scenarioName})`;
 
-            filtered.forEach((ann, index) => {
+            // 按發布日期排序（最新在前）
+            const sorted = [...filtered].sort((a, b) => {
+                // publish_date 格式: "YYYY/MM/DD"，可直接字符串比較
+                return b.publish_date.localeCompare(a.publish_date);
+            });
+
+            sorted.forEach((ann, index) => {
                 // 主要資料行
                 const row = tbody.insertRow();
                 row.className = 'announcement-row';
