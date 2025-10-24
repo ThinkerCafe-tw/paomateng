@@ -252,7 +252,9 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": "2025-10-22T23:30:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       },
       {
@@ -267,7 +269,9 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": "2025-10-23T23:30:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
     ],
@@ -334,7 +338,9 @@
             "保旅客與"
           ],
           "predicted_resumption_time": "2025-10-23T01:10:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
     ],
@@ -423,7 +429,9 @@
             "鐵新烏日"
           ],
           "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
     ],
@@ -474,7 +482,9 @@
             "請配合車"
           ],
           "predicted_resumption_time": "2025-10-22T10:06:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       },
       {
@@ -491,7 +501,9 @@
             "請配合車"
           ],
           "predicted_resumption_time": "2025-10-22T10:06:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
     ],
@@ -898,7 +910,9 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": "2025-10-22T09:07:00+08:00",
-          "actual_resumption_time": null
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
     ],
@@ -5256,6 +5270,125 @@
             "司官方網",
             "或就近車"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39a128203019a14093f511253",
+    "title": "平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全",
+    "publish_date": "2025/10/24",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a128203019a14093f511253&page=0",
+    "classification": {
+      "category": "Weather_Related",
+      "keywords": [
+        "停駛",
+        "暫停營運",
+        "持續",
+        "豪雨"
+      ],
+      "event_group_id": "20251024_平溪線因豪雨"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-24T14:45:25.529986+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/24 上午 9:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        受持續降雨影響三貂嶺-大華間邊坡有滑動情形，為確保行車安全於10 月24 日08：25 起至10 月26 日24：00 時止平溪線暫停列車營運。<br/>        停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站開車時刻為07:10、09:10、14:00、16:00、18:00，菁桐開車時刻為 08:10、10:10、15:00、17:10、19:00。<br/>        旅客可透過臺鐵公司官方網站、24 小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。<br/>請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全 平溪線因豪雨暫停營運 臺鐵持續監測確保行車安全 發佈日期：2025/10/24 上午 9:30 受持續降雨影響三貂嶺-大華間邊坡有滑動情形，為確保行車安全於10 月24 日08：25 起至10 月26 日24：00 時止平溪線暫停列車營運。 停駛期間，臺鐵公司已啟動公路接駁措施，協助旅客往返平溪線各站，接駁車停靠站包括瑞芳、十分、望古、嶺腳、平溪及菁桐等站（停靠公車站牌），並採折返方式行駛。瑞芳站開車時刻為07:10、09:10、14:00、16:00、18:00，菁桐開車時刻為 08:10、10:10、15:00、17:10、19:00。 旅客可透過臺鐵公司官方網站、24 小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。 請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
+        "content_hash": "md5:33cc7100dabab0b125cfed880b027bce",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [
+            "平溪線各",
+            "駁車停靠",
+            "及菁桐等",
+            "停靠公車",
+            "瑞芳",
+            "司官方網",
+            "或就近車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39a0ce056019a10e3f8f50bb2",
+    "title": "臺鐵公司平溪線路基流失復舊及行車計畫",
+    "publish_date": "2025/10/23",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a0ce056019a10e3f8f50bb2&page=0",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "停駛",
+        "持續"
+      ],
+      "event_group_id": "20251023_臺鐵公司平溪線"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-24T14:45:29.576869+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司平溪線路基流失復舊及行車計畫</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司平溪線路基流失復舊及行車計畫</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/23 下午 7:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 受持續強降雨影響，平溪線嶺腳=望古間（K9+820~920）路基流失，工程搶修需要及確保行車安全，臺鐵公司自10月24日至26日（3天)光復節連續假期期間，平溪線瑞芳=十分間行駛，十分=菁桐間採公路接駁；10月27日起至11月30日止，逢週一至週五平溪線全線停駛，採公路接駁，逢週六、日，瑞芳=十分間行駛，十分=菁桐間採公路接駁。<br/><br/>二、 公路接駁措施如下：<br/>(一) 平日：接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。<br/>1. 瑞芳開車時間：07:10、09:10、14:00、16:00、18:00<br/>2. 菁桐開車時間：08:10、10:10、15:00、17:10、19:00<br/>(二) 假日：十分=菁桐間公路接駁，停靠「十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。<br/>1. 十分開車時間：09:10、10:10、11:10、14:40、15:40、16:40 <br/>2. 菁桐開車時間：09:40、10:40、11:40、15:10、16:10、17:10 <br/><br/>三、 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司平溪線路基流失復舊及行車計畫 臺鐵公司平溪線路基流失復舊及行車計畫 發佈日期：2025/10/23 下午 7:30 一、 受持續強降雨影響，平溪線嶺腳=望古間（K9+820~920）路基流失，工程搶修需要及確保行車安全，臺鐵公司自10月24日至26日（3天)光復節連續假期期間，平溪線瑞芳=十分間行駛，十分=菁桐間採公路接駁；10月27日起至11月30日止，逢週一至週五平溪線全線停駛，採公路接駁，逢週六、日，瑞芳=十分間行駛，十分=菁桐間採公路接駁。 二、 公路接駁措施如下： (一) 平日：接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。 1. 瑞芳開車時間：07:10、09:10、14:00、16:00、18:00 2. 菁桐開車時間：08:10、10:10、15:00、17:10、19:00 (二) 假日：十分=菁桐間公路接駁，停靠「十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。 1. 十分開車時間：09:10、10:10、11:10、14:40、15:40、16:40 2. 菁桐開車時間：09:40、10:40、11:40、15:10、16:10、17:10 三、 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
+        "content_hash": "md5:f45b880439d42d0a721fabb54511be5c",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [
+            "司官方網",
+            "或就近車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29a0d4d43019a0ff3115c16ae",
+    "title": "嗶嗶嗶嗶台灣號彩繪列車運用調整公告",
+    "publish_date": "2025/10/23",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a0d4d43019a0ff3115c16ae&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251023_嗶嗶嗶嗶台灣號彩繪列車運用調整公告"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-24T14:45:30.566074+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>嗶嗶嗶嗶台灣號彩繪列車運用調整公告</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>嗶嗶嗶嗶台灣號彩繪列車運用調整公告</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/23 下午 3:21</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司因列車運用調整，嗶嗶嗶嗶台灣號彩繪列車將於114年10月23日至10月25日暫停行駛，期間原定班次將改以未彩繪列車代行。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 嗶嗶嗶嗶台灣號彩繪列車運用調整公告 嗶嗶嗶嗶台灣號彩繪列車運用調整公告 發佈日期：2025/10/23 下午 3:21 本公司因列車運用調整，嗶嗶嗶嗶台灣號彩繪列車將於114年10月23日至10月25日暫停行駛，期間原定班次將改以未彩繪列車代行。 返回上一頁",
+        "content_hash": "md5:a1aa66186f46e4fe6d41e23a196fcc5b",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
