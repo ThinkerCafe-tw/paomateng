@@ -1450,7 +1450,7 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-27T23:59:00+08:00",
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -5389,7 +5389,7 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": null,
+          "predicted_resumption_time": "2025-10-25T23:59:00+08:00",
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null

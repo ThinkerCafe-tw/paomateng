@@ -250,6 +250,25 @@ def parse_resumption_time(text: str, publish_date: str) -> Optional[datetime]:
         if re.search(r'今日.{0,10}?末班車', text):
             return ref_date.replace(hour=23, minute=30, second=0, microsecond=0)
 
+        # Pattern 2.65: "X月X日至X月X日暫停/停駛" - date range suspension
+        # "10月23日至10月25日暫停行駛" → resumption after 10/25 (assume end of day 23:59)
+        # Extract the END date as resumption time
+        date_range_pattern = r'(\d{1,2})月(\d{1,2})日至(\d{1,2})月(\d{1,2})日.{0,20}?(?:暫停|停駛|停運|不通)'
+        match = re.search(date_range_pattern, text)
+        if match:
+            # End date is the resumption point
+            end_month = int(match.group(3))
+            end_day = int(match.group(4))
+            year = ref_date.year
+            try:
+                # Resumption is at end of the last suspension day (23:59)
+                result = datetime(year, end_month, end_day, 23, 59, tzinfo=TAIPEI_TZ)
+                if result >= ref_date:  # Only if date is today or future
+                    return result
+            except ValueError:
+                logger.debug(f"Invalid date range: {year}/{end_month}/{end_day}")
+                pass  # Fall through to other patterns
+
         # Pattern 2.7: "X時前停駛" means "X時恢復" (with uncertainty checks)
         # "今日18時前停駛" → "今日18時恢復"
         # "明日10點前停駛" → "明日10點恢復"
