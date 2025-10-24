@@ -1,33 +1,33 @@
 {
-  "timestamp": "2025-10-24T08:00:27.576598",
+  "timestamp": "2025-10-24T15:29:09.377536",
   "summary": {
-    "total_announcements": 123,
-    "with_predicted": 12,
+    "total_announcements": 126,
+    "with_predicted": 14,
     "with_actual": 11,
     "with_both": 1,
-    "with_neither": 101,
-    "predicted_rate": 9.76,
-    "actual_rate": 8.94
+    "with_neither": 102,
+    "predicted_rate": 11.11,
+    "actual_rate": 8.73
   },
   "categories": {
-    "Weather_Related": 37,
-    "General_Operation": 31,
-    "Disruption_Update": 26,
+    "Weather_Related": 38,
+    "General_Operation": 32,
+    "Disruption_Update": 27,
     "Disruption_Resumption": 22,
     "Disruption_Suspension": 7
   },
   "event_types": {
-    "Heavy_Rain": 12,
+    "Heavy_Rain": 13,
     "Typhoon": 40,
     "Equipment_Failure": 15,
     "Earthquake": 3
   },
   "status_types": {
-    "Suspended": 51,
+    "Suspended": 54,
     "Partial_Operation": 7,
     "Resumed_Single_Track": 7,
     "Resumed_Normal": 2
   },
-  "predicted_times_count": 12,
+  "predicted_times_count": 14,
   "actual_times_count": 11
 }
