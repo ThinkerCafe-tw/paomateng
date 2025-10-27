@@ -368,6 +368,32 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-10-27T09:51:38.512579+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/15 下午 1:10</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　    臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括：<br/><br/>一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。<br/><br/>二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。<br/><br/>三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。<br/><br/>四、協請臺北市政府社會局加強無家者之輔導安置。<br/><br/>　　臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 強化臺北車站安全聯防  臺鐵公司與鐵警局提出四項具體措施 發佈日期：2025/10/15 下午 1:10 臺鐵公司對於本次事件深表遺憾，已全力配合鐵警局偵辦，並主動與鐵警局召開安全聯防會議，具體提出四項加強臺北車站安全防護措施，包括： 一、鐵警定點守望密度增加：針對北車大廳、廁所、月台等治安熱點，由每兩小時兩次定點守望增加至三次以上。 二、鐵警與車站建立安全聯防網：由鐵警、保全及車站人員每半小時交錯派員巡邏，加強站區安全維護工作。 三、站方與鐵警組成關懷小組：對於站區內旅客異常行為，進行關懷勸導。 四、協請臺北市政府社會局加強無家者之輔導安置。 臺鐵公司將持續與鐵警局及臺北市政府社會局密切聯繫合作，透過「治安防範」與「社會關懷」雙軌並行，從根本改善車站環境安全，確保旅客與站區民眾之人身安全。 返回上一頁",
+        "content_hash": "md5:0cb6d2213517b8a3f516922619b6fa1d",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "化臺北車",
+            "強臺北車",
+            "鐵警與車",
+            "保全及車",
+            "加強",
+            "對於",
+            "本改善車",
+            "保旅客與"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -5416,6 +5442,44 @@
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": "2025-10-25T23:59:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39a21f5ac019a235c2c4f0210",
+    "title": "臺鐵推出走進時光隧道「台北車站巡禮」和「鐡道文史走讀」導覽活動",
+    "publish_date": "2025/10/27",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a21f5ac019a235c2c4f0210&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251027_台北車站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-27T09:51:33.587769+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵推出走進時光隧道「台北車站巡禮」和「鐡道文史走讀」導覽活動</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵推出走進時光隧道「台北車站巡禮」和「鐡道文史走讀」導覽活動</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/27 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵文化志工隊為深度推廣及宣導臺鐵文化歷史，即將推出「台北車站巡禮」和「北車－北門·臺灣鐵道文史走讀」的定時導覽活動，導覽老師們將與您一起揭開台北車站神秘的面紗，細細品嚐北車更多不為人知的歷史，帶領參加學員們從台北車站開走，回溯百年史跡，細細品嚐臺灣鐵道濃濃的古早味。<br/><br/>　　「台北車站」是大家耳熟能詳的地方，卻經常看到有人在大廳內東張西望，似乎找不到去路，我們將解答常見的動線疑惑；台北車站經歷兩次遷徙、三次新建，偌大的站體矗立在忠孝西路旁，承載著滿滿的臺灣鐵道文化史，我們邀您一起沈浸它的遷移史。<br/><br/>　　臺灣鐵路自1887年起，臺灣巡撫劉銘傳打造基隆至新竹的第一條鐡路，歷經清朝、日本、民國，一脈傳承，迄今已有138年歷史，它不僅奠定臺灣的工業基礎，也對臺灣的社會、經濟發展作出巨大的貢獻，鐵道文化也因時間的推移，堆疊出深厚的文化底蘊。<br/><br/>　　臺鐵公司表示，本次活動不聊是非，只找「貓膩」，希望透過輕鬆有趣的方式，讓更多人認識鐵道文化，歡迎民眾踴躍報名參加，報名期間請參考附件，報名網址：https://pse.is/87pbc7</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/892bc62f-b9aa-4e91-97f6-dfd767876514\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-臺鐵台北車站巡禮和鐵道文史走讀活動新聞稿附件.pdf\" type=\"submit\">臺鐵台北車站巡禮和鐵道文史走讀活動新聞稿附件.pdf</button>\n</a>\n</div>\n</dd>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/ff3f3264-3445-4b6c-8cc3-e157f546ba96\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵推出走進時光隧道「台北車站巡禮」和「鐡道文史走讀」導覽活動 臺鐵推出走進時光隧道「台北車站巡禮」和「鐡道文史走讀」導覽活動 發佈日期：2025/10/27 上午 9:00 臺鐵文化志工隊為深度推廣及宣導臺鐵文化歷史，即將推出「台北車站巡禮」和「北車－北門·臺灣鐵道文史走讀」的定時導覽活動，導覽老師們將與您一起揭開台北車站神秘的面紗，細細品嚐北車更多不為人知的歷史，帶領參加學員們從台北車站開走，回溯百年史跡，細細品嚐臺灣鐵道濃濃的古早味。 「台北車站」是大家耳熟能詳的地方，卻經常看到有人在大廳內東張西望，似乎找不到去路，我們將解答常見的動線疑惑；台北車站經歷兩次遷徙、三次新建，偌大的站體矗立在忠孝西路旁，承載著滿滿的臺灣鐵道文化史，我們邀您一起沈浸它的遷移史。 臺灣鐵路自1887年起，臺灣巡撫劉銘傳打造基隆至新竹的第一條鐡路，歷經清朝、日本、民國，一脈傳承，迄今已有138年歷史，它不僅奠定臺灣的工業基礎，也對臺灣的社會、經濟發展作出巨大的貢獻，鐵道文化也因時間的推移，堆疊出深厚的文化底蘊。 臺鐵公司表示，本次活動不聊是非，只找「貓膩」，希望透過輕鬆有趣的方式，讓更多人認識鐵道文化，歡迎民眾踴躍報名參加，報名期間請參考附件，報名網址：https://pse.is/87pbc7 附件下載： 臺鐵台北車站巡禮和鐵道文史走讀活動新聞稿附件.pdf 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:79d82278743996591af1b13a245ead28",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "台北車",
+            "開台北車",
+            "從台北車",
+            "偌大的",
+            "鐵台北車"
+          ],
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
