@@ -170,6 +170,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-10-28T18:16:32.533657+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/20 下午 5:50</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　因應連假期間返鄉(工)需求增加，為加強服務旅客，於連假期間(114年10月23日至10月26日)，全線再加開普悠瑪號4列次、EMU3000型自強號10列次，可再增加座位數共計6,868個，整體運能較平日增加5.9%。<br/><br/>　　另為因應東部地區旅客疏運需要，114年10月25日再增開湖口—臺東間5466次及5467次區間快車2列次，歡迎民眾多加利用。<br/><br/>　　本次再加開班次訂於114年10月21日(二)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/80acccea-c32f-424a-8878-7e7c2cf38570\" target=\"_blank\">\n<img alt=\"光復節加開列次 1.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/80acccea-c32f-424a-8878-7e7c2cf38570/360x270\" title=\"另開視窗下載-光復節加開列次 1.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/a9c7ee0f-f60c-4bb6-a227-9912c7f579a8\" target=\"_blank\">\n<img alt=\"光復節加開列次 2.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/a9c7ee0f-f60c-4bb6-a227-9912c7f579a8/360x270\" title=\"另開視窗下載-光復節加開列次 2.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/64a2a8ea-9515-4359-ba80-31307747f38a\" target=\"_blank\">\n<img alt=\"光復節加開列次 3.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/64a2a8ea-9515-4359-ba80-31307747f38a/360x270\" title=\"另開視窗下載-光復節加開列次 3.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次 臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次 發佈日期：2025/10/20 下午 5:50 因應連假期間返鄉(工)需求增加，為加強服務旅客，於連假期間(114年10月23日至10月26日)，全線再加開普悠瑪號4列次、EMU3000型自強號10列次，可再增加座位數共計6,868個，整體運能較平日增加5.9%。 另為因應東部地區旅客疏運需要，114年10月25日再增開湖口—臺東間5466次及5467次區間快車2列次，歡迎民眾多加利用。 本次再加開班次訂於114年10月21日(二)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:f1bb9c0728095265224fdf0cb61ce748",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -5534,6 +5551,44 @@
             "停官網網"
           ],
           "predicted_resumption_time": "2025-10-27T05:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29a270d2a019a2a4e44f105f3",
+    "title": "國營臺灣鐵路股份有限公司　南港區最大都市更新案　臺鐵棟大樓上梁典禮儀式",
+    "publish_date": "2025/10/28",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a270d2a019a2a4e44f105f3&page=0",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "更新"
+      ],
+      "event_group_id": "20251028_國營臺灣鐵路股份有限公司_南港區最大都市更新案_臺鐵棟大樓上"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-28T18:16:27.591163+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>國營臺灣鐵路股份有限公司　南港區最大都市更新案　臺鐵棟大樓上梁典禮儀式</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>國營臺灣鐵路股份有限公司　南港區最大都市更新案　臺鐵棟大樓上梁典禮儀式</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/28 下午 6:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　「臺北市南港調車場都市更新案」今日在臺鐵公司鄭光遠董事長、南港國際一、國際二股份有限公司李虹明董事長及臺北市都市更新處的共同見證下，舉辦更新單元二「臺鐵棟大樓」上梁典禮圓滿完成，象徵工程進度邁入新里程，祈福後續工程進展順遂圓滿，全案預計117年底完工。<br/><br/>　　臺鐵公司表示，本案基地面積約1.64萬坪，南側緊鄰市民大道，位於松山車站與南港車站中間，在周邊開發基地如聯強國際大樓、臺北流行音樂中心、南港商三公辦都更案及四鐵共構的南港車站所串連的「臺北東區門戶計畫」核心主動線上，區位條件優越，地塊完整、交通便捷，透過公私協力合作，有效提升環境品質並帶動地區發展。<br/><br/>　　全案係於104年與南港國際一、國際二股份有限公司（為國泰人壽保險股份有限公司（合作聯盟）合作成立之特許公司）簽約，透過公辦都市更新攜手民間企業開發，共同開發總樓地板面積逾15萬坪，規劃商場、辦公、住宅、旅館、公益設施等多元複合園區，總投資金額超過新臺幣300億元，更新完成後整體總價值可望突破1,000億元。 <br/><br/>　　本案以「綠意、串聯、共享」為核心設計特色，1樓規劃綠化廣場，串聯玉東公園與新新公園，延伸城市綠帶，讓市民在日常生活中亦能親近自然、享受生態環境；2至4樓規劃商業設施，並以空橋，跨越基地中間12公尺道路，以順利連結兩側商場，創造人潮流通與商業活絡效益；5樓大型綠意平台，作為全區共享之開放休憩空間與戶外餐飲場域，促進交流，期許本案未來完工後，將為南港地區民眾提供商業、辦公、休憩與生活空間，帶動就業與經濟成長，形塑嶄新城市風貌，成為南港地區新地標。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/d44b05b6-7f2c-47d1-bfc4-2158018cd788\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 國營臺灣鐵路股份有限公司　南港區最大都市更新案　臺鐵棟大樓上梁典禮儀式 國營臺灣鐵路股份有限公司　南港區最大都市更新案　臺鐵棟大樓上梁典禮儀式 發佈日期：2025/10/28 下午 6:00 「臺北市南港調車場都市更新案」今日在臺鐵公司鄭光遠董事長、南港國際一、國際二股份有限公司李虹明董事長及臺北市都市更新處的共同見證下，舉辦更新單元二「臺鐵棟大樓」上梁典禮圓滿完成，象徵工程進度邁入新里程，祈福後續工程進展順遂圓滿，全案預計117年底完工。 臺鐵公司表示，本案基地面積約1.64萬坪，南側緊鄰市民大道，位於松山車站與南港車站中間，在周邊開發基地如聯強國際大樓、臺北流行音樂中心、南港商三公辦都更案及四鐵共構的南港車站所串連的「臺北東區門戶計畫」核心主動線上，區位條件優越，地塊完整、交通便捷，透過公私協力合作，有效提升環境品質並帶動地區發展。 全案係於104年與南港國際一、國際二股份有限公司（為國泰人壽保險股份有限公司（合作聯盟）合作成立之特許公司）簽約，透過公辦都市更新攜手民間企業開發，共同開發總樓地板面積逾15萬坪，規劃商場、辦公、住宅、旅館、公益設施等多元複合園區，總投資金額超過新臺幣300億元，更新完成後整體總價值可望突破1,000億元。 本案以「綠意、串聯、共享」為核心設計特色，1樓規劃綠化廣場，串聯玉東公園與新新公園，延伸城市綠帶，讓市民在日常生活中亦能親近自然、享受生態環境；2至4樓規劃商業設施，並以空橋，跨越基地中間12公尺道路，以順利連結兩側商場，創造人潮流通與商業活絡效益；5樓大型綠意平台，作為全區共享之開放休憩空間與戶外餐飲場域，促進交流，期許本案未來完工後，將為南港地區民眾提供商業、辦公、休憩與生活空間，帶動就業與經濟成長，形塑嶄新城市風貌，成為南港地區新地標。 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:894da3b2f9d646d41c3fe1aee90634a4",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "於松山車",
+            "與南港車",
+            "的南港車"
+          ],
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
