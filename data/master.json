@@ -204,6 +204,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-10-29T09:31:35.820579+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/20 下午 5:50</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　因應連假期間返鄉(工)需求增加，為加強服務旅客，於連假期間(114年10月23日至10月26日)，全線再加開普悠瑪號4列次、EMU3000型自強號10列次，可再增加座位數共計6,868個，整體運能較平日增加5.9%。<br/><br/>　　另為因應東部地區旅客疏運需要，114年10月25日再增開湖口—臺東間5466次及5467次區間快車2列次，歡迎民眾多加利用。<br/><br/>　　本次再加開班次訂於114年10月21日(二)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/80acccea-c32f-424a-8878-7e7c2cf38570\" target=\"_blank\">\n<img alt=\"光復節加開列次 1.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/80acccea-c32f-424a-8878-7e7c2cf38570/360x270\" title=\"另開視窗下載-光復節加開列次 1.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/a9c7ee0f-f60c-4bb6-a227-9912c7f579a8\" target=\"_blank\">\n<img alt=\"光復節加開列次 2.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/a9c7ee0f-f60c-4bb6-a227-9912c7f579a8/360x270\" title=\"另開視窗下載-光復節加開列次 2.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/64a2a8ea-9515-4359-ba80-31307747f38a\" target=\"_blank\">\n<img alt=\"光復節加開列次 3.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/64a2a8ea-9515-4359-ba80-31307747f38a/360x270\" title=\"另開視窗下載-光復節加開列次 3.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次 臺鐵公司因應臺灣光復暨金門古寧頭大捷紀念日連假旅客需求 再加開自強號14列次及區間快2列次 發佈日期：2025/10/20 下午 5:50 因應連假期間返鄉(工)需求增加，為加強服務旅客，於連假期間(114年10月23日至10月26日)，全線再加開普悠瑪號4列次、EMU3000型自強號10列次，可再增加座位數共計6,868個，整體運能較平日增加5.9%。 另為因應東部地區旅客疏運需要，114年10月25日再增開湖口—臺東間5466次及5467次區間快車2列次，歡迎民眾多加利用。 本次再加開班次訂於114年10月21日(二)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:f1bb9c0728095265224fdf0cb61ce748",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -5604,6 +5621,48 @@
             "於松山車",
             "與南港車",
             "的南港車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29a270d2a019a2abcf87507e6",
+    "title": "臺鐵宜蘭線第一、二雙溪橋改建工程東正線將於11月1日跨2日切換啟用　預計影響3列車次",
+    "publish_date": "2025/10/29",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a270d2a019a2abcf87507e6&page=0",
+    "classification": {
+      "category": "Weather_Related",
+      "keywords": [
+        "停駛",
+        "中斷",
+        "颱風",
+        "豪雨"
+      ],
+      "event_group_id": "20251029_臺鐵宜蘭線"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-10-29T09:31:30.883018+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵宜蘭線第一、二雙溪橋改建工程東正線將於11月1日跨2日切換啟用　預計影響3列車次</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵宜蘭線第一、二雙溪橋改建工程東正線將於11月1日跨2日切換啟用　預計影響3列車次</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/29 上午 9:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為提升鐵路行車安全並強化防災能力，國營臺灣鐵路股份有限公司辦理的「宜蘭線第一、二雙溪橋改建工程」東正線將於114年11月1日跨2日辦理軌道切換作業，屆時將影響3列車次，每列次延誤時間約為3至12分鐘，敬請旅客留意，提早規劃行程。<br/><br/>　　原第一及第二雙溪橋於民國72年竣工通車、民國73年完成擴建(東正線)使用迄今已40餘年，該橋位於雙溪至貢寮站間，位處新北市雙溪區魚行里，是雙溪河入海前的洪泛平原，這處天然窪地亦是候鳥飛到台灣的重要棲地。近年來，因氣候變遷影響，每逢颱風豪雨洪汛期間，常發生洪水災害，導致鐵路軌道中斷，尤其90年納莉颱風及93 年納坦颱風過境期間，就曾發生洪水漫過軌道，路基遭掏空流失，導致宜蘭線鐵路嚴重中斷損壞，列車停駛，造成營運巨大損失。<br/><br/>　　為落實政府推動「易淹水地區治理計畫」並改善強化鐵路橋梁結構，以符合最新耐震規定，臺鐵公司辦理「鐵路行車安全改善計畫-第一、二雙溪橋改建工程」，原橋長分別為127公尺及170公尺，新橋總長約1,396公尺，橋梁底分別提高2.25及2.57~1.72公尺，跨河段改箱梁型式橋跨越雙溪河，新橋完成後一併消除1處曲線，改善2處小半徑曲線，提高優化鐵路路段，建構安全路廊與防災環境，提升旅客服務乘車品質及增加宜花東地區觀光收益與貨物輸運需求。<br/>　　<br/>　　本次東正線預計114年11月1日(星期六)跨2日(星期日)辦理軌道切換作業，將影響11月2日3班區間車，班次(北上4107、南下4112、4118)，共計3列次，每列次大約延誤3至12分鐘，當日影響相關列車之車次及班次表，將於雙溪站、貢寮站、福隆站、臺鐵公司官網公告、並於台鐵e訂通APP提供查詢，造成旅客不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵宜蘭線第一、二雙溪橋改建工程東正線將於11月1日跨2日切換啟用　預計影響3列車次 臺鐵宜蘭線第一、二雙溪橋改建工程東正線將於11月1日跨2日切換啟用　預計影響3列車次 發佈日期：2025/10/29 上午 9:30 為提升鐵路行車安全並強化防災能力，國營臺灣鐵路股份有限公司辦理的「宜蘭線第一、二雙溪橋改建工程」東正線將於114年11月1日跨2日辦理軌道切換作業，屆時將影響3列車次，每列次延誤時間約為3至12分鐘，敬請旅客留意，提早規劃行程。 原第一及第二雙溪橋於民國72年竣工通車、民國73年完成擴建(東正線)使用迄今已40餘年，該橋位於雙溪至貢寮站間，位處新北市雙溪區魚行里，是雙溪河入海前的洪泛平原，這處天然窪地亦是候鳥飛到台灣的重要棲地。近年來，因氣候變遷影響，每逢颱風豪雨洪汛期間，常發生洪水災害，導致鐵路軌道中斷，尤其90年納莉颱風及93 年納坦颱風過境期間，就曾發生洪水漫過軌道，路基遭掏空流失，導致宜蘭線鐵路嚴重中斷損壞，列車停駛，造成營運巨大損失。 為落實政府推動「易淹水地區治理計畫」並改善強化鐵路橋梁結構，以符合最新耐震規定，臺鐵公司辦理「鐵路行車安全改善計畫-第一、二雙溪橋改建工程」，原橋長分別為127公尺及170公尺，新橋總長約1,396公尺，橋梁底分別提高2.25及2.57~1.72公尺，跨河段改箱梁型式橋跨越雙溪河，新橋完成後一併消除1處曲線，改善2處小半徑曲線，提高優化鐵路路段，建構安全路廊與防災環境，提升旅客服務乘車品質及增加宜花東地區觀光收益與貨物輸運需求。 本次東正線預計114年11月1日(星期六)跨2日(星期日)辦理軌道切換作業，將影響11月2日3班區間車，班次(北上4107、南下4112、4118)，共計3列次，每列次大約延誤3至12分鐘，當日影響相關列車之車次及班次表，將於雙溪站、貢寮站、福隆站、臺鐵公司官網公告、並於台鐵e訂通APP提供查詢，造成旅客不便，敬請見諒。 返回上一頁",
+        "content_hash": "md5:b30e12cafc3c3defd25d8db4e17caad2",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Typhoon",
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [
+            "溪至貢寮",
+            "將於雙溪",
+            "貢寮",
+            "福隆"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
