@@ -740,6 +740,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-11-06T16:21:30.860151+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/1 上午 12:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表，請參閱附件檔案。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/f868e450-35fa-4e40-bbf3-d2186f307f0f\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表.pdf\" type=\"submit\">臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表 發佈日期：2025/11/1 上午 12:00 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表，請參閱附件檔案。 附件下載： 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表.pdf 返回上一頁",
+        "content_hash": "md5:c3243551279b0c6fbdf39db1c99f66eb",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -5942,6 +5959,23 @@
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/30 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        臺鐵公司與松山文創園區首度攜手合作，於園區年度盛事「2025原創基地節」推出「菸廠尋味便當」。本款便當以活動主題「沿之有物 TRACING THE ECHOES」為靈感──「沿」象徵依循鐵道路徑回望歷史，「物」代表沿線產業遺產與人文故事。由臺北餐旅分處（七堵）便當開發團隊操刀設計，採味噌雞排、佃煮鯖魚雙主菜來承襲菸廠食堂的和風滋味；主食選用地瓜飯，並配以柚香蓮藕、菜脯蛋、美白菇及花椰菜，重現舊時工廠餐桌的樸實風味。<br/>        「菸廠尋味便當」每份售價150元，販售期間自114年10月31日至11月16日，於臺北夢工場、松山夢工場、南港夢工場及七堵販賣台，每日午、晚餐時段限量供應。誠摯邀請您以味蕾作為時光載具，在美味之間，探尋縱貫線與臺北城市發展的歷史軌跡。<br/><br/>聯名便當販售資訊：<br/>◆「菸廠尋味聯名便當」<br/>販售地點：臺北夢工場、松山夢工場、南港夢工場及七堵販賣台<br/>販售時間：114年10月31日(五)至11月16日(日)期間限定，限量販售<br/>售    價：150元/個<br/>◆聯名便當菜色：<br/>主  食：地瓜飯<br/>雙主菜：味噌雞排、佃煮鯖魚<br/>配  菜：柚香蓮藕、菜脯蛋、美白菇及花椰菜<br/>洽詢專線：（02）2455-3984 臺北餐旅分處(七堵)</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/d4c90258-41f8-4007-b177-165550ca9f20\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-便當宣傳照片.pdf\" type=\"submit\">便當宣傳照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場 臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場 發佈日期：2025/10/30 上午 9:00 臺鐵公司與松山文創園區首度攜手合作，於園區年度盛事「2025原創基地節」推出「菸廠尋味便當」。本款便當以活動主題「沿之有物 TRACING THE ECHOES」為靈感──「沿」象徵依循鐵道路徑回望歷史，「物」代表沿線產業遺產與人文故事。由臺北餐旅分處（七堵）便當開發團隊操刀設計，採味噌雞排、佃煮鯖魚雙主菜來承襲菸廠食堂的和風滋味；主食選用地瓜飯，並配以柚香蓮藕、菜脯蛋、美白菇及花椰菜，重現舊時工廠餐桌的樸實風味。 「菸廠尋味便當」每份售價150元，販售期間自114年10月31日至11月16日，於臺北夢工場、松山夢工場、南港夢工場及七堵販賣台，每日午、晚餐時段限量供應。誠摯邀請您以味蕾作為時光載具，在美味之間，探尋縱貫線與臺北城市發展的歷史軌跡。 聯名便當販售資訊： ◆「菸廠尋味聯名便當」 販售地點：臺北夢工場、松山夢工場、南港夢工場及七堵販賣台 販售時間：114年10月31日(五)至11月16日(日)期間限定，限量販售 售    價：150元/個 ◆聯名便當菜色： 主  食：地瓜飯 雙主菜：味噌雞排、佃煮鯖魚 配  菜：柚香蓮藕、菜脯蛋、美白菇及花椰菜 洽詢專線：（02）2455-3984 臺北餐旅分處(七堵) 附件下載： 便當宣傳照片.pdf 返回上一頁",
         "content_hash": "md5:bdd82d4850e41b2cce9fa9c7672d8ccb",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2025-11-06T16:21:33.821502+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/30 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        臺鐵公司與松山文創園區首度攜手合作，於園區年度盛事「2025原創基地節」推出「菸廠尋味便當」。本款便當以活動主題「沿之有物 TRACING THE ECHOES」為靈感──「沿」象徵依循鐵道路徑回望歷史，「物」代表沿線產業遺產與人文故事。由臺北餐旅分處（七堵）便當開發團隊操刀設計，採味噌雞排、佃煮鯖魚雙主菜來承襲菸廠食堂的和風滋味；主食選用地瓜飯，並配以柚香蓮藕、菜脯蛋、美白菇及花椰菜，重現舊時工廠餐桌的樸實風味。<br/>        「菸廠尋味便當」每份售價150元，販售期間自114年10月31日至11月16日，於臺北夢工場、松山夢工場、南港夢工場及七堵販賣台，每日午、晚餐時段限量供應。誠摯邀請您以味蕾作為時光載具，在美味之間，探尋縱貫線與臺北城市發展的歷史軌跡。<br/><br/>聯名便當販售資訊：<br/>◆「菸廠尋味聯名便當」<br/>販售地點：臺北夢工場、松山夢工場、南港夢工場及七堵販賣台<br/>販售時間：114年10月31日(五)至11月16日(日)期間限定，限量販售<br/>售    價：150元/個<br/>◆聯名便當菜色：<br/>主  食：地瓜飯<br/>雙主菜：味噌雞排、佃煮鯖魚<br/>配  菜：柚香蓮藕、菜脯蛋、美白菇及花椰菜<br/>洽詢專線：（02）2455-3984 臺北餐旅分處(七堵)</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/d4c90258-41f8-4007-b177-165550ca9f20\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-便當宣傳照片.pdf\" type=\"submit\">便當宣傳照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場 臺鐵公司與松山文創園區首度合作 菸廠尋味聯名便當2025原創基地節登場 發佈日期：2025/10/30 上午 9:00 臺鐵公司與松山文創園區首度攜手合作，於園區年度盛事「2025原創基地節」推出「菸廠尋味便當」。本款便當以活動主題「沿之有物 TRACING THE ECHOES」為靈感──「沿」象徵依循鐵道路徑回望歷史，「物」代表沿線產業遺產與人文故事。由臺北餐旅分處（七堵）便當開發團隊操刀設計，採味噌雞排、佃煮鯖魚雙主菜來承襲菸廠食堂的和風滋味；主食選用地瓜飯，並配以柚香蓮藕、菜脯蛋、美白菇及花椰菜，重現舊時工廠餐桌的樸實風味。 「菸廠尋味便當」每份售價150元，販售期間自114年10月31日至11月16日，於臺北夢工場、松山夢工場、南港夢工場及七堵販賣台，每日午、晚餐時段限量供應。誠摯邀請您以味蕾作為時光載具，在美味之間，探尋縱貫線與臺北城市發展的歷史軌跡。 聯名便當販售資訊： ◆「菸廠尋味聯名便當」 販售地點：臺北夢工場、松山夢工場、南港夢工場及七堵販賣台 販售時間：114年10月31日(五)至11月16日(日)期間限定，限量販售 售    價：150元/個 ◆聯名便當菜色： 主  食：地瓜飯 雙主菜：味噌雞排、佃煮鯖魚 配  菜：柚香蓮藕、菜脯蛋、美白菇及花椰菜 洽詢專線：（02）2455-3984 臺北餐旅分處(七堵) 附件下載： 便當宣傳照片.pdf 返回上一頁",
+        "content_hash": "md5:637a404669e35dc3ccdedbd0810be652",
         "extracted_data": {
           "report_version": null,
           "event_type": null,
