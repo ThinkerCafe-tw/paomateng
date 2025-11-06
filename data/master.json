@@ -5904,6 +5904,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-11-06T11:11:32.323272+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/10/30 上午 7:14</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/a85a9c3f-ad86-42a9-8eeb-ad89f5791b1e\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表.pdf\" type=\"submit\">臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表 發佈日期：2025/10/30 上午 7:14 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表 附件下載： 臺鐵公司「嗶嗶嗶嗶台灣號」彩繪列車114年11月份開行預訂班表.pdf 返回上一頁",
+        "content_hash": "md5:d743207732f6186696937bb686ae04d8",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -6120,6 +6137,40 @@
             "列車已進",
             "臺北車",
             "來臺北車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29a5572b9019a57243f3602e8",
+    "title": "玩觀光x品便當x集車票 臺鐵推限量商品掀旅遊新風潮！",
+    "publish_date": "2025/11/06",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a5572b9019a57243f3602e8&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251106_玩觀光x品便當x集車票_臺鐵推限量商品掀旅遊新風潮"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-11-06T11:11:26.326503+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>玩觀光x品便當x集車票 臺鐵推限量商品掀旅遊新風潮！</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>玩觀光x品便當x集車票 臺鐵推限量商品掀旅遊新風潮！</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/6 上午 11:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司今年再度參加ITF旅展，以「鐵道旅遊 × 悠遊臺灣」為主題，邀請民眾一同開啟另類的鐵道漫遊體驗。這是臺鐵公司第二次參加ITF旅展，展區以嶄新風貌與滿滿誠意回歸，期盼透過多元豐富的鐵道旅遊產品與互動活動，讓更多民眾感受鐵道旅行的獨特魅力。<br/><br/>　　展場以全新觀光列車「甜點列車・海風號」與「旬味列車・山嵐號」作為推廣主軸，現場結合美食、文化與景緻的乘車新風貌，感受鐵道旅遊無限可能。此外臺鐵公司特別設置「專屬打卡牆」，邀請民眾拍照留影並分享鐵道旅遊故事，凡於現場完成打卡分享，即可獲得臺鐵精美小禮一份，數量有限，送完為止。<br/><br/>　　另外廣受好評的臺鐵便當這次展場也買得到！本次推出100元起五款經典與創新口味便當，包含經典不敗的排骨、懷舊風味的蔥油鹽水雞、宜蘭風味櫻桃鴨及來自屏東優質水產製成的石斑魚排等，每款皆精選台灣在地食材、嚴謹烹製，展現台鐵便當兼具傳統與創新的精神。<br/><br/>　　除了互動體驗外，今年旅展專屬的限量「永康－保安」硬體票卡組，僅限展場限量販售，同時有多款鐵道文創商品優惠，包含「臺北站點創意杯」、「藍皮列車馬克杯」及「列車造型陶瓷便當盒（藍皮／莒光）」等人氣商品，現場優惠最低71折起，商品單筆消費滿1,000元再享9折優惠，喜愛鐵道文創的民眾千萬不要錯過。<br/><br/>　　從低碳旅遊、互動體驗到限定商品、臺鐵便當與票卡收藏，臺鐵公司誠摯邀請大家於11月7日至10日，蒞臨2025ITF台北國際旅展，一同感受鐵道之美，探索臺灣的無限魅力，創造屬於自己的行旅故事，及感受百年鐵路溫度與風味，我們在南港展覽館4樓N533等您！</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/dd66f7a7-28f9-4c40-bebf-a148cf1b3f1b\" target=\"_blank\">\n<img alt=\"新聞照片 2.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/dd66f7a7-28f9-4c40-bebf-a148cf1b3f1b/360x270\" title=\"另開視窗下載-新聞照片 2.jpg\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/5cea6339-b381-42da-baba-d1d1dbb8dd74\" target=\"_blank\">\n<img alt=\"新聞照片 1.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/5cea6339-b381-42da-baba-d1d1dbb8dd74/360x270\" title=\"另開視窗下載-新聞照片 1.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 玩觀光x品便當x集車票 臺鐵推限量商品掀旅遊新風潮！ 玩觀光x品便當x集車票 臺鐵推限量商品掀旅遊新風潮！ 發佈日期：2025/11/6 上午 11:00 臺鐵公司今年再度參加ITF旅展，以「鐵道旅遊 × 悠遊臺灣」為主題，邀請民眾一同開啟另類的鐵道漫遊體驗。這是臺鐵公司第二次參加ITF旅展，展區以嶄新風貌與滿滿誠意回歸，期盼透過多元豐富的鐵道旅遊產品與互動活動，讓更多民眾感受鐵道旅行的獨特魅力。 展場以全新觀光列車「甜點列車・海風號」與「旬味列車・山嵐號」作為推廣主軸，現場結合美食、文化與景緻的乘車新風貌，感受鐵道旅遊無限可能。此外臺鐵公司特別設置「專屬打卡牆」，邀請民眾拍照留影並分享鐵道旅遊故事，凡於現場完成打卡分享，即可獲得臺鐵精美小禮一份，數量有限，送完為止。 另外廣受好評的臺鐵便當這次展場也買得到！本次推出100元起五款經典與創新口味便當，包含經典不敗的排骨、懷舊風味的蔥油鹽水雞、宜蘭風味櫻桃鴨及來自屏東優質水產製成的石斑魚排等，每款皆精選台灣在地食材、嚴謹烹製，展現台鐵便當兼具傳統與創新的精神。 除了互動體驗外，今年旅展專屬的限量「永康－保安」硬體票卡組，僅限展場限量販售，同時有多款鐵道文創商品優惠，包含「臺北站點創意杯」、「藍皮列車馬克杯」及「列車造型陶瓷便當盒（藍皮／莒光）」等人氣商品，現場優惠最低71折起，商品單筆消費滿1,000元再享9折優惠，喜愛鐵道文創的民眾千萬不要錯過。 從低碳旅遊、互動體驗到限定商品、臺鐵便當與票卡收藏，臺鐵公司誠摯邀請大家於11月7日至10日，蒞臨2025ITF台北國際旅展，一同感受鐵道之美，探索臺灣的無限魅力，創造屬於自己的行旅故事，及感受百年鐵路溫度與風味，我們在南港展覽館4樓N533等您！ 返回上一頁",
+        "content_hash": "md5:cfeb39c6fe6f0ec5a3aa11a9aa95beab",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
