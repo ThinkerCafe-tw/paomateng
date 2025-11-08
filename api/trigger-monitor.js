@@ -6,6 +6,9 @@
  * 成本: Vercel 免費版支援 (100GB-hours/月)
  */
 
+// 強制 dynamic routing（防止 caching）
+export const dynamic = 'force-dynamic';
+
 export default async function handler(req, res) {
   // 驗證來源
   // Vercel Cron 會自動帶 x-vercel-cron header
