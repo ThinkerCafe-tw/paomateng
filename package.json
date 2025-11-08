@@ -1,0 +1,13 @@
+{
+  "name": "paomateng",
+  "version": "1.0.0",
+  "description": "Taiwan Railway Administration announcement monitoring system",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "vercel-build": "echo 'No build step required for serverless functions'"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
