@@ -5,7 +5,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "vercel-build": "echo 'No build step required for serverless functions'"
+    "vercel-build": "node build.js"
   },
   "engines": {
     "node": ">=18.x"
