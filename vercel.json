@@ -4,5 +4,10 @@
       "path": "/api/trigger-monitor",
       "schedule": "*/5 * * * *"
     }
-  ]
+  ],
+  "functions": {
+    "api/trigger-monitor.js": {
+      "maxDuration": 10
+    }
+  }
 }
