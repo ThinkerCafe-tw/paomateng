@@ -68,3 +68,4 @@ data/master.json.lock
 
 # Scripts archive
 scripts/archive/
+.vercel
