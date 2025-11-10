@@ -6205,6 +6205,25 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-11-10T15:31:11.177500+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>因應新北市政府舉辦「2025歡樂耶誕城」活動，本公司板橋站自114年11月14日起至114年12月28日止，每週五至週日及114年12月25日，停止辦理自行車兩鐵上下車業務。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>因應新北市政府舉辦「2025歡樂耶誕城」活動，本公司板橋站自114年11月14日起至114年12月28日止，每週五至週日及114年12月25日，停止辦理自行車兩鐵上下車業務。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/1 上午 8:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">因應新北市政府舉辦「2025歡樂耶誕城」活動，本公司板橋站自114年11月14日起至114年12月28日止，每週五至週日及114年12月25日，停止辦理自行車兩鐵上下車業務。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 因應新北市政府舉辦「2025歡樂耶誕城」活動，本公司板橋站自114年11月14日起至114年12月28日止，每週五至週日及114年12月25日，停止辦理自行車兩鐵上下車業務。 因應新北市政府舉辦「2025歡樂耶誕城」活動，本公司板橋站自114年11月14日起至114年12月28日止，每週五至週日及114年12月25日，停止辦理自行車兩鐵上下車業務。 發佈日期：2025/11/1 上午 8:00 因應新北市政府舉辦「2025歡樂耶誕城」活動，本公司板橋站自114年11月14日起至114年12月28日止，每週五至週日及114年12月25日，停止辦理自行車兩鐵上下車業務。 返回上一頁",
+        "content_hash": "md5:985fde7a2ca82fd472cc507b29fc65d4",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "公司板橋"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -6436,6 +6455,38 @@
           "affected_stations": [
             "停官網網"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29a5fb312019a6ca86abd6b9c",
+    "title": "本公司意見信箱、數位客服及24小時客服電話訂於114年11月10日（星期一）23:00至114年11月11日（星期二）06:00進行系統維護作業",
+    "publish_date": "2025/11/10",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a5fb312019a6ca86abd6b9c&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251110_本公司意見信箱_數位客服及24小時客服電話訂於114年11月"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-11-10T15:31:04.779662+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司意見信箱、數位客服及24小時客服電話訂於114年11月10日（星期一）23:00至114年11月11日（星期二）06:00進行系統維護作業</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司意見信箱、數位客服及24小時客服電話訂於114年11月10日（星期一）23:00至114年11月11日（星期二）06:00進行系統維護作業</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/10 下午 3:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年11月10日（星期一）23:00至114年11月11日（星期二）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的不便，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司意見信箱、數位客服及24小時客服電話訂於114年11月10日（星期一）23:00至114年11月11日（星期二）06:00進行系統維護作業 本公司意見信箱、數位客服及24小時客服電話訂於114年11月10日（星期一）23:00至114年11月11日（星期二）06:00進行系統維護作業 發佈日期：2025/11/10 下午 3:00 本公司將於114年11月10日（星期一）23:00至114年11月11日（星期二）06:00進行系統維護作業，屆時將暫停意見信箱服務、數位客服、24小時客服電話服務〈0800-765-888(限市話)、02-2191-0096(市話、手機)〉，造成您的不便，敬請見諒。 返回上一頁",
+        "content_hash": "md5:5848b6f12077431e2a527eabc4062905",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
