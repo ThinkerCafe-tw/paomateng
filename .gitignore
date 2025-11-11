@@ -69,3 +69,10 @@ data/master.json.lock
 # Scripts archive
 scripts/archive/
 .vercel
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+.env*.local
