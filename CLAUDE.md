@@ -28,21 +28,23 @@ last_updated: 2025-11-08
 ## 📊 當前狀態
 
 ### 運行狀態
-- **執行方式**: Vercel Cron (每 5 分鐘) → GitHub Actions
+- **執行方式**: ✅ **本地 macOS Cron** (每 5 分鐘) → GitHub Actions
 - **資料儲存**: GitHub (data/master.json)
 - **Dashboard**: https://thinkercafe-tw.github.io/paomateng/
-- **API**: https://paomateng.vercel.app/api/trigger-monitor
+- **觸發腳本**: `trigger-github-workflow.sh`
+- **執行日誌**: `~/paomateng-cron.log`
 - **整合時間**: 2025-11-08
 
-### 最近完成
+### 最近完成 (2025-11-08)
 - ✅ 整合進 ThinkerCafe monorepo
-- ✅ 設置 Vercel Cron 自動觸發（繞過 GitHub Actions 限流）
-- ✅ 建立完整文檔（CLAUDE.md, VERCEL_CRON_SETUP.md, VERCEL_CRON_SUCCESS.md）
+- ✅ 測試 Vercel Cron 方案（Build 成功，但自動執行失敗）
+- ✅ **採用本地 Cron 方案**（已驗證 3 次成功執行）
+- ✅ 建立完整文檔（包含 Vercel Cron 最終測試報告）
 
-### 待辦事項
-- ⏳ 等待首次 Vercel Cron 自動執行（確認 5 分鐘頻率）
-- ⏸️ 重新啟用 API 認證（確認 `x-vercel-cron` header）
-- ⏸️ 移除除錯日誌
+### Vercel Cron 測試結論
+- ❌ Vercel Cron 手動和自動執行都失敗（原因不明）
+- ✅ 本地 macOS Cron 穩定運行（14:29, 14:35, 14:40 都成功）
+- 📄 詳見: `VERCEL_CRON_FINAL_REPORT.md`
 
 ---
 
@@ -50,11 +52,13 @@ last_updated: 2025-11-08
 
 ### 系統流程
 ```
-Vercel Cron (*/5 * * * *)
+macOS crontab (*/5 * * * *)
   ↓
-/api/trigger-monitor
+trigger-github-workflow.sh
   ↓
-GitHub Actions (workflow_dispatch)
+GitHub API (workflow_dispatch)
+  ↓
+GitHub Actions 執行
   ↓
 Python Scraper → 台鐵網站
   ↓
@@ -64,7 +68,8 @@ Git push → GitHub Pages 更新
 ```
 
 ### 技術棧
-- **觸發**: Vercel Cron (每 5 分鐘)
+- **觸發**: macOS crontab (每 5 分鐘)
+- **腳本**: Bash script with curl
 - **執行**: GitHub Actions (Python 3.11)
 - **爬蟲**: BeautifulSoup4 + Requests
 - **儲存**: JSON (Atomic Write)
@@ -81,25 +86,54 @@ Git push → GitHub Pages 更新
 ## 🗂️ 重要檔案索引
 
 ### 技術文檔
-- **Vercel 設定**: @VERCEL_CRON_SETUP.md
-- **成功報告**: @VERCEL_CRON_SUCCESS.md
+- **本地 Cron 設定**: crontab 設定 (每 5 分鐘)
+- **觸發腳本**: `trigger-github-workflow.sh`
+- **執行日誌**: `~/paomateng-cron.log`
+- **Vercel 測試報告**: @VERCEL_CRON_FINAL_REPORT.md
 - **n8n 方案**: @N8N_SETUP_GUIDE.md (備選)
 - **監控診斷**: @MONITORING_DIAGNOSIS.md
 - **交付指南**: @DELIVERY_GUIDE.md
 
 ### 核心程式碼
-- **API**: `api/trigger-monitor.js`
+- **觸發腳本**: `trigger-github-workflow.sh` (本地 cron)
 - **爬蟲**: `src/scraper.py`
-- **配置**: `vercel.json`, `.github/workflows/monitor.yml`
+- **配置**: `.github/workflows/monitor.yml`
 - **資料**: `data/master.json`
 
 ### 專案根文件
 - **README**: @README.md
-- **測試腳本**: `test-trigger.js`
 
 ---
 
 ## 🔧 常用指令
+
+### 本地 Cron 管理
+```bash
+# 查看 crontab 設定
+crontab -l
+
+# 編輯 crontab
+crontab -e
+
+# 查看執行日誌
+tail -f ~/paomateng-cron.log
+
+# 手動執行觸發腳本（測試用）
+cd projects/paomateng
+./trigger-github-workflow.sh
+```
+
+### GitHub Actions
+```bash
+# 查看執行歷史
+gh run list --repo ThinkerCafe-tw/paomateng --limit 5
+
+# 查看最新執行的詳細資訊
+gh run view --repo ThinkerCafe-tw/paomateng
+
+# 手動觸發（測試用）
+gh workflow run monitor.yml --repo ThinkerCafe-tw/paomateng
+```
 
 ### 本地測試
 ```bash
@@ -108,32 +142,8 @@ cd projects/paomateng
 # 執行爬蟲
 python src/scraper.py
 
-# 測試 Vercel 觸發
-node test-trigger.js
-
 # 執行測試
 pytest tests/
-```
-
-### Vercel 部署
-```bash
-# 部署到 production
-vercel --prod
-
-# 查看日誌
-vercel logs https://paomateng.vercel.app
-
-# 檢查環境變數
-vercel env ls
-```
-
-### GitHub Actions
-```bash
-# 手動觸發
-gh workflow run monitor.yml --repo ThinkerCafe-tw/paomateng
-
-# 查看執行歷史
-gh run list --repo ThinkerCafe-tw/paomateng --limit 5
 ```
 
 ---
@@ -155,19 +165,26 @@ gh run list --repo ThinkerCafe-tw/paomateng --limit 5
 ## 💡 維護注意事項
 
 ### 監控檢查
-1. ✅ Vercel Cron 執行狀態（Dashboard → Functions）
+1. ✅ 本地 Cron 執行狀態（`tail -f ~/paomateng-cron.log`）
 2. ✅ GitHub Actions 成功率（Actions 頁面）
 3. ✅ 資料更新時間（檢查 master.json commit）
 4. ✅ Dashboard 顯示正常
 
 ### 成本追蹤
-- Vercel 使用量: ~1.2% of 免費額度
+- 本地 Cron: $0（使用本機資源）
 - GitHub Actions: 免費額度充足
 - 總成本: $0/月
 
-### 已知限制
-- Vercel 免費版 Cron 為 "Best effort"（不保證精準 5 分鐘）
-- 如需精準頻率，考慮 n8n Cloud 方案（參考 N8N_SETUP_GUIDE.md）
+### 系統要求
+- Mac 需在監控時段保持運行
+- 確保網路連線穩定
+- 定期檢查 cron 日誌
+
+### 備選方案
+如需切換電腦或更穩定的解決方案：
+- 方案 1: n8n Cloud（參考 N8N_SETUP_GUIDE.md）
+- 方案 2: 自架伺服器 + cron
+- 方案 3: GitHub Actions schedule（每 3-4 小時，受限流）
 
 ---
 
