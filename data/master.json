@@ -6715,6 +6715,31 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-11-12T07:26:10.764285+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司配合「光復地區預警性撤離民眾疏散需要」 光復站增停列車及開放站票</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司配合「光復地區預警性撤離民眾疏散需要」 光復站增停列車及開放站票</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/10 下午 4:26</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司為配合光復地區預警性撤離民眾疏散需要，114年11月10日，光復站下行自418次自強號起、上行自417次自強號起行經光復站對號列車（不含團體及觀光列車）增停光復站辦客，並全面開放站票。<br/><br/>　　相關列車車次、時刻，請參閱臺鐵公司網站及車站公告，歡迎旅客多加利用。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司配合「光復地區預警性撤離民眾疏散需要」 光復站增停列車及開放站票 臺鐵公司配合「光復地區預警性撤離民眾疏散需要」 光復站增停列車及開放站票 發佈日期：2025/11/10 下午 4:26 臺鐵公司為配合光復地區預警性撤離民眾疏散需要，114年11月10日，光復站下行自418次自強號起、上行自417次自強號起行經光復站對號列車（不含團體及觀光列車）增停光復站辦客，並全面開放站票。 相關列車車次、時刻，請參閱臺鐵公司網站及車站公告，歡迎旅客多加利用。 返回上一頁",
+        "content_hash": "md5:9b0fe46651d59083c8a67f3aa8c18ede",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "光復",
+            "車及開放",
+            "行經光復",
+            "增停光復",
+            "全面開放",
+            "鐵公司網",
+            "及車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -6979,6 +7004,40 @@
             "各就近車",
             "有各車",
             "票至各車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29a2c4fb6019a2d91bc8b02f9",
+    "title": "因應桃園市政府舉辦「2025富岡鐵道藝術生活節」活動，本公司富岡站自114年11月22日起至114年12月7日止，暫停辦理自行車兩鐵上下車業務。",
+    "publish_date": "2025/11/12",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a2c4fb6019a2d91bc8b02f9&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251112_本公司富岡站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-11-12T07:26:09.781185+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>因應桃園市政府舉辦「2025富岡鐵道藝術生活節」活動，本公司富岡站自114年11月22日起至114年12月7日止，暫停辦理自行車兩鐵上下車業務。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>因應桃園市政府舉辦「2025富岡鐵道藝術生活節」活動，本公司富岡站自114年11月22日起至114年12月7日止，暫停辦理自行車兩鐵上下車業務。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/12 上午 7:23</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">因應桃園市政府舉辦「2025富岡鐵道藝術生活節」活動，本公司富岡站自114年11月22日起至114年12月7日止，暫停辦理自行車兩鐵上下車業務。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 因應桃園市政府舉辦「2025富岡鐵道藝術生活節」活動，本公司富岡站自114年11月22日起至114年12月7日止，暫停辦理自行車兩鐵上下車業務。 因應桃園市政府舉辦「2025富岡鐵道藝術生活節」活動，本公司富岡站自114年11月22日起至114年12月7日止，暫停辦理自行車兩鐵上下車業務。 發佈日期：2025/11/12 上午 7:23 因應桃園市政府舉辦「2025富岡鐵道藝術生活節」活動，本公司富岡站自114年11月22日起至114年12月7日止，暫停辦理自行車兩鐵上下車業務。 返回上一頁",
+        "content_hash": "md5:44af02d0a8f4f46f4ab0340493d89328",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [
+            "公司富岡"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
