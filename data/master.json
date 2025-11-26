@@ -7975,6 +7975,25 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-11-26T11:16:13.765551+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司關閉弱加密項目公告</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司關閉弱加密項目公告</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/21 下午 5:12</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">為提升網站安全等級，臺鐵公司自114年11月30日(星期日)關閉弱加密演算法應用，這將影響部分舊版本作業系統之使用者無法瀏覽本公司「旅客入口網」或使用「台鐵e訂通App」功能服務，以及下載開放資料。<br/>停止支援之作業系統裝置：<br/>1.使用Windows7,Windows8(含以下)之作業系統裝置。<br/>2.使用Android 6.0(含以下)之作業系統裝置。<br/>3.使用iOS 9.0(含以下)之作業系統裝置。<br/>4.使用macOS OS X 10.9(含以下)之作業系統裝置。<br/><br/>建議您適當升級裝置之作業系統版本，以免影響功能服務。造成不便之處，敬請見諒！<br/>（本次為第三次公告）</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司關閉弱加密項目公告 臺鐵公司關閉弱加密項目公告 發佈日期：2025/11/21 下午 5:12 為提升網站安全等級，臺鐵公司自114年11月30日(星期日)關閉弱加密演算法應用，這將影響部分舊版本作業系統之使用者無法瀏覽本公司「旅客入口網」或使用「台鐵e訂通App」功能服務，以及下載開放資料。 停止支援之作業系統裝置： 1.使用Windows7,Windows8(含以下)之作業系統裝置。 2.使用Android 6.0(含以下)之作業系統裝置。 3.使用iOS 9.0(含以下)之作業系統裝置。 4.使用macOS OS X 10.9(含以下)之作業系統裝置。 建議您適當升級裝置之作業系統版本，以免影響功能服務。造成不便之處，敬請見諒！ （本次為第三次公告） 返回上一頁",
+        "content_hash": "md5:77ae20ccecd477c844962d52e14ab9e3",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Partial_Operation",
+          "affected_lines": [],
+          "affected_stations": [
+            "為提升網"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -8110,6 +8129,43 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39abc65a1019abe24560425b6",
+    "title": "2122次旅客背包內行動電源自燃影響說明",
+    "publish_date": "2025/11/26",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39abc65a1019abe24560425b6&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251126_2122次旅客背包內行動電源自燃影響說明"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-11-26T11:16:08.796959+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>2122次旅客背包內行動電源自燃影響說明</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>2122次旅客背包內行動電源自燃影響說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/26 上午 11:04</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　今（26）日第2122次區間車行經潭子栗林間時，第4車廂內旅客的行動電源於背包內起火燃燒，車長於栗林站停車時，使用滅火器撲滅火源，2122次栗林站晚7分開，列車於豐原站路警上車蒐證完畢後，晚22分開。本次車旅客於豐原站安排後續2124次（間隔14分）接駁，先行離開。<br/><br/>　　初步勘查結果，旅客背包燒毀，本公司絨布座椅稍有燒灼痕跡，旅客皆平安。<br/><br/>　　當旅客遭遇行動電源自燃時，本公司車廂皆依規備有滅火器，位置約在車廂前或後。車廂亦備有緊急按鈕，係提供車廂內旅客突發緊急狀況或危安事件時，可即時通報乘務人員，以利後續緊急應變處置作為。亦可告知列車上乘務人員，或透過手機簡訊0921-765-125、撥打02-2191-0096等方式，聯絡本公司客服中心，通知列車長即時前往協助處理。<br/><br/>　　臺鐵公司呼籲，旅客如有攜帶含鋰電池可充電之各式電子產品乘車時，應隨身保管置於身邊可以看到之處，並請勿放置行李箱內或寄送託運，以及盡量不要邊充電邊使用電子產品，以維乘車安全。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 2122次旅客背包內行動電源自燃影響說明 2122次旅客背包內行動電源自燃影響說明 發佈日期：2025/11/26 上午 11:04 今（26）日第2122次區間車行經潭子栗林間時，第4車廂內旅客的行動電源於背包內起火燃燒，車長於栗林站停車時，使用滅火器撲滅火源，2122次栗林站晚7分開，列車於豐原站路警上車蒐證完畢後，晚22分開。本次車旅客於豐原站安排後續2124次（間隔14分）接駁，先行離開。 初步勘查結果，旅客背包燒毀，本公司絨布座椅稍有燒灼痕跡，旅客皆平安。 當旅客遭遇行動電源自燃時，本公司車廂皆依規備有滅火器，位置約在車廂前或後。車廂亦備有緊急按鈕，係提供車廂內旅客突發緊急狀況或危安事件時，可即時通報乘務人員，以利後續緊急應變處置作為。亦可告知列車上乘務人員，或透過手機簡訊0921-765-125、撥打02-2191-0096等方式，聯絡本公司客服中心，通知列車長即時前往協助處理。 臺鐵公司呼籲，旅客如有攜帶含鋰電池可充電之各式電子產品乘車時，應隨身保管置於身邊可以看到之處，並請勿放置行李箱內或寄送託運，以及盡量不要邊充電邊使用電子產品，以維乘車安全。 返回上一頁",
+        "content_hash": "md5:4b2b35396f28abbaafd69fffdbe24874",
+        "extracted_data": {
+          "report_version": "2122",
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "長於栗林",
+            "次栗林",
+            "車於豐原",
+            "客於豐原"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
