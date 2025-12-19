@@ -4,36 +4,23 @@
  *
  * 用途: 繞過 GitHub Actions 免費版的 cron 限流
  * 成本: Vercel 免費版支援 (100GB-hours/月)
+ *
+ * 格式: App Router (Vercel Cron 需要此格式)
  */
 
 // 強制 dynamic routing（防止 caching）
 export const dynamic = 'force-dynamic';
 
-export default async function handler(req, res) {
-  // 驗證來源
-  // Vercel Cron 會自動帶 x-vercel-cron header
-  const isVercelCron = req.headers['x-vercel-cron'];
-  const authHeader = req.headers.authorization;
+export async function GET(request) {
+  const timestamp = new Date().toISOString();
 
-  // 允許兩種驗證方式：
-  // 1. Vercel Cron (x-vercel-cron header) - production 用
-  // 2. 手動觸發 (Authorization Bearer token) - 測試用
-  const isAuthorized = isVercelCron || authHeader === `Bearer ${process.env.CRON_SECRET}`;
+  // 驗證來源 - Vercel Cron 會自動帶 x-vercel-cron header
+  const isVercelCron = request.headers.get('x-vercel-cron');
+  const authHeader = request.headers.get('authorization');
 
-  // 暫時性：記錄所有請求（用於除錯）
-  console.log('[DEBUG] Request info:');
-  console.log('[DEBUG] - Vercel Cron header:', isVercelCron);
-  console.log('[DEBUG] - Auth header:', authHeader ? 'present' : 'missing');
-  console.log('[DEBUG] - CRON_SECRET configured:', !!process.env.CRON_SECRET);
-
-  // 暫時允許所有請求（測試 GitHub Actions 觸發）
-  // TODO: 移除這個註解後重新啟用驗證
-  // if (!isAuthorized) {
-  //   return res.status(401).json({
-  //     error: 'Unauthorized',
-  //     message: 'Invalid authentication'
-  //   });
-  // }
+  console.log(`[${timestamp}] Trigger monitor request received`);
+  console.log(`[${timestamp}] - Vercel Cron header: ${isVercelCron}`);
+  console.log(`[${timestamp}] - Auth header: ${authHeader ? 'present' : 'missing'}`);
 
   const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
   const REPO_OWNER = 'ThinkerCafe-tw';
@@ -41,9 +28,14 @@ export default async function handler(req, res) {
   const WORKFLOW_ID = 'monitor.yml';
 
   if (!GITHUB_TOKEN) {
-    return res.status(500).json({
+    console.error(`[${timestamp}] ❌ GITHUB_TOKEN not configured`);
+    return new Response(JSON.stringify({
       error: 'Configuration Error',
-      message: 'GITHUB_TOKEN not set'
+      message: 'GITHUB_TOKEN not set',
+      timestamp
+    }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' }
     });
   }
 
@@ -60,38 +52,50 @@ export default async function handler(req, res) {
           'User-Agent': 'Vercel-Cron-Trigger'
         },
         body: JSON.stringify({
-          ref: 'main' // 指定分支
+          ref: 'main'
         })
       }
     );
 
-    if (response.ok) {
-      console.log(`[${new Date().toISOString()}] ✅ Successfully triggered workflow`);
+    if (response.ok || response.status === 204) {
+      console.log(`[${timestamp}] ✅ Successfully triggered workflow (HTTP ${response.status})`);
 
-      return res.status(200).json({
+      return new Response(JSON.stringify({
         success: true,
         message: 'Workflow triggered successfully',
-        timestamp: new Date().toISOString(),
-        workflow: WORKFLOW_ID
+        timestamp,
+        workflow: WORKFLOW_ID,
+        isVercelCron: !!isVercelCron
+      }), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' }
       });
     } else {
       const errorText = await response.text();
-      console.error(`[${new Date().toISOString()}] ❌ GitHub API Error:`, errorText);
+      console.error(`[${timestamp}] ❌ GitHub API Error (${response.status}):`, errorText);
 
-      return res.status(response.status).json({
+      return new Response(JSON.stringify({
         success: false,
         error: 'GitHub API Error',
         status: response.status,
-        details: errorText
+        details: errorText,
+        timestamp
+      }), {
+        status: response.status,
+        headers: { 'Content-Type': 'application/json' }
       });
     }
   } catch (error) {
-    console.error(`[${new Date().toISOString()}] ❌ Trigger failed:`, error);
+    console.error(`[${timestamp}] ❌ Trigger failed:`, error.message);
 
-    return res.status(500).json({
+    return new Response(JSON.stringify({
       success: false,
       error: 'Internal Server Error',
-      message: error.message
+      message: error.message,
+      timestamp
+    }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' }
     });
   }
 }
