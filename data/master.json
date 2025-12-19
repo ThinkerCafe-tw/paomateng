@@ -8245,10 +8245,8 @@
     "publish_date": "2025/12/18",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29b2dbde5019b30d2ee90023a&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251218_臺鐵公司與東武鐵道締結友好10週年_日光詣SPACIA_車頭"
     },
     "version_history": [
