@@ -232,10 +232,8 @@
     "publish_date": "2025/10/15",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac399e41a900199e7390d5f1ea1&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251015_臺鐵公司因應光復鄉災後重建持續增停16列次EMU3000型自"
     },
     "version_history": [
@@ -355,10 +353,8 @@
     "publish_date": "2025/10/15",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac399e41a900199e6589424575f&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251015_強化臺北車站"
     },
     "version_history": [
@@ -675,10 +671,8 @@
     "publish_date": "2025/09/29",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29987767a01999839ff075cc5&page=1",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250929_為疏運光復鄉救災旅客需要_臺鐵持續加開列車及多項疏運措施"
     },
     "version_history": [
@@ -785,10 +779,8 @@
     "publish_date": "2025/09/28",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29987767a01998e5bab312b49&page=1",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250928_0928臺鐵因應花蓮光復鄉救災_啟動加開列車及多項疏運措施"
     },
     "version_history": [
@@ -1364,10 +1356,8 @@
     "publish_date": "2025/09/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3996db4620199705d00d91cb6&page=2",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250922_員林火車站"
     },
     "version_history": [
@@ -1727,11 +1717,8 @@
     "publish_date": "2025/09/03",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29906b83e01990d44464418ee&page=3",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新",
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250903_鐵道旅遊_低碳同行_持臺鐵車票入住永續旅宿享鐵路便當或禮賓折"
     },
     "version_history": [
@@ -2320,10 +2307,8 @@
     "publish_date": "2025/07/27",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29843048101984ace47722500&page=5",
     "classification": {
-      "category": "Disruption_Suspension",
-      "keywords": [
-        "電車線"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250727_瀧溪間電車線"
     },
     "version_history": [
@@ -2816,10 +2801,8 @@
     "publish_date": "2025/06/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac397bd120a0197c036f3711c9d&page=6",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250630_員林火車站"
     },
     "version_history": [
@@ -2858,10 +2841,8 @@
     "publish_date": "2025/06/21",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39799124e01979a58c772015d&page=6",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250621_臺鐵內灣線"
     },
     "version_history": [
@@ -3569,11 +3550,8 @@
     "publish_date": "2025/04/17",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29640078b0196414b2dcb06b0&page=7",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新",
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250417_服務同步上線"
     },
     "version_history": [
@@ -3829,10 +3807,8 @@
     "publish_date": "2025/03/17",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2959615a90195a34d543e0a73&page=8",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250317_臺鐵與日本西武控股_西武鐵道締結深厚夥伴關係_共推鐵道文化與"
     },
     "version_history": [
@@ -3936,10 +3912,8 @@
     "publish_date": "2025/02/20",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3951a70f0019520d027ca2383&page=8",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20250220_西部幹線"
     },
     "version_history": [
@@ -4349,10 +4323,8 @@
     "publish_date": "2024/11/28",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39369e83f019370600d951308&page=9",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20241128_臺鐵公司全新線上換票服務上線"
     },
     "version_history": [
@@ -4837,12 +4809,9 @@
     "publish_date": "2024/11/01",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac292e3958a0192e3f4f4b80020&page=10",
     "classification": {
-      "category": "Disruption_Resumption",
+      "category": "Weather_Related",
       "keywords": [
-        "停駛",
-        "第6發",
-        "颱風",
-        "恢復行駛"
+        "颱風"
       ],
       "event_group_id": "20241101_臺鐵公司因應康芮颱風"
     },
@@ -5311,7 +5280,7 @@
     "publish_date": "2025/10/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a06f283019a0964470533c7&page=0",
     "classification": {
-      "category": "Disruption_Suspension",
+      "category": "Weather_Related",
       "keywords": [
         "停駛",
         "暫停營運",
@@ -5386,10 +5355,8 @@
     "publish_date": "2025/10/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a06f283019a0b27e9b63902&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251022_樹林站"
     },
     "version_history": [
@@ -5447,11 +5414,8 @@
     "publish_date": "2025/10/22",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a06f283019a0bac0d10398a&page=0",
     "classification": {
-      "category": "Disruption_Suspension",
-      "keywords": [
-        "停駛",
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251022_臺鐵公司平溪線"
     },
     "version_history": [
@@ -5539,11 +5503,8 @@
     "publish_date": "2025/10/23",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a0ce056019a10e3f8f50bb2&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "停駛",
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251023_臺鐵公司平溪線"
     },
     "version_history": [
@@ -5752,10 +5713,8 @@
     "publish_date": "2025/10/28",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a270d2a019a2a4e44f105f3&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251028_國營臺灣鐵路股份有限公司_南港區最大都市更新案_臺鐵棟大樓上"
     },
     "version_history": [
@@ -6076,11 +6035,8 @@
     "publish_date": "2025/10/30",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a31668b019a344c2579063a&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新",
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251030_台日雙鐵友好交流10週年紀念_觀光列車展場揭序儀式"
     },
     "version_history": [
@@ -7476,12 +7432,9 @@
     "publish_date": "2025/11/12",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a6f35a7019a76db17d55807&page=0",
     "classification": {
-      "category": "Disruption_Resumption",
+      "category": "Weather_Related",
       "keywords": [
-        "停駛",
-        "第7報",
-        "颱風",
-        "恢復正常"
+        "颱風"
       ],
       "event_group_id": "20251112_臺鐵公司因應鳳凰颱風"
     },
@@ -7586,12 +7539,9 @@
     "publish_date": "2025/11/12",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a6f35a7019a782f381a6a75&page=0",
     "classification": {
-      "category": "Disruption_Resumption",
+      "category": "Weather_Related",
       "keywords": [
-        "停駛",
-        "第8報",
-        "颱風",
-        "恢復正常"
+        "颱風"
       ],
       "event_group_id": "20251112_臺鐵公司因應鳳凰颱風"
     },
@@ -7723,12 +7673,9 @@
     "publish_date": "2025/11/13",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a798657019a7adf9f6d682a&page=0",
     "classification": {
-      "category": "Disruption_Resumption",
+      "category": "Weather_Related",
       "keywords": [
-        "停駛",
-        "第9報",
-        "颱風",
-        "恢復正常"
+        "颱風"
       ],
       "event_group_id": "20251113_臺鐵公司因應鳳凰颱風"
     },
@@ -7856,10 +7803,8 @@
     "publish_date": "2025/11/19",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29a93329b019a9bb50d132715&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251119_臺鐵公司首度透過公開招標程序租用中國科技大學校舍辦理員工教育"
     },
     "version_history": [
@@ -7911,10 +7856,8 @@
     "publish_date": "2025/11/20",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39a9d8e24019a9f377b1e034d&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251120_追火車_玩鐵道_2026新北市鐵道馬拉松接力賽結合臺鐵瑞芳_"
     },
     "version_history": [
@@ -8133,10 +8076,8 @@
     "publish_date": "2025/11/26",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39abc65a1019abdea200024ec&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251126_臺鐵海風號與山嵐號觀光列車_榮獲2025金點設計大獎"
     },
     "version_history": [
@@ -8281,10 +8222,8 @@
     "publish_date": "2025/12/16",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b2286b2019b2669433e03d9&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251216_臺北站"
     },
     "version_history": [
@@ -8351,11 +8290,8 @@
     "publish_date": "2025/12/15",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b1e4ac9019b1fab666901eb&page=0",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新",
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251215_極推動高雄車站"
     },
     "version_history": [
@@ -8441,10 +8377,8 @@
     "publish_date": "2025/12/12",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29b0e0210019b103add24018a&page=1",
     "classification": {
-      "category": "Disruption_Suspension",
-      "keywords": [
-        "停駛"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251212_花東地區鐵路雙軌電氣化計畫_康樂_臺東間_太平溪一_二號橋改"
     },
     "version_history": [
@@ -8515,10 +8449,8 @@
     "publish_date": "2025/12/10",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b047ea8019b0783302205b3&page=1",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "更新"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251210_打造屏東站"
     },
     "version_history": [
@@ -8622,11 +8554,8 @@
     "publish_date": "2025/12/01",
     "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29adb5b1f019ade1cf96e05c7&page=1",
     "classification": {
-      "category": "Disruption_Update",
-      "keywords": [
-        "中斷",
-        "持續"
-      ],
+      "category": "General_Operation",
+      "keywords": [],
       "event_group_id": "20251201_郵局停止代售臺鐵車票服務_使用_台鐵e訂通_四大超商購取票更"
     },
     "version_history": [

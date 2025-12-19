@@ -43,6 +43,10 @@ class AnnouncementClassifier:
         """
         Classify announcement based on title and content
 
+        Uses a two-layer approach:
+        1. First check title for disruption indicators (title is the "soul" of announcement)
+        2. If no disruption indicators in title, skip Disruption classification entirely
+
         Args:
             title: Announcement title
             content: Announcement content
@@ -50,6 +54,38 @@ class AnnouncementClassifier:
         Returns:
             Classification object with category, keywords, and event_group_id
         """
+        # === 第一層：標題優先判斷 ===
+        # 停駛相關核心詞（必須出現在標題才進入 Disruption 流程）
+        disruption_indicators = [
+            '停駛', '暫停', '中斷', '延誤', '故障', '搶修', '恢復',
+            '落石', '出軌', '號誌', '事故', '搶通', '影響', '受損',
+            '第1報', '第2報', '第3報', '第4報', '第5報',
+            '第1發', '第2發', '第3發', '第4發', '第5發',
+        ]
+
+        title_has_disruption = any(word in title for word in disruption_indicators)
+
+        # 如果標題沒有任何停駛相關詞，只檢查是否為天氣相關
+        if not title_has_disruption:
+            # 檢查是否為天氣相關公告（颱風、豪雨等）
+            weather_keywords = self.config.get("categories", {}).get("Weather_Related", {}).get("keywords", [])
+            matched_weather = [kw for kw in weather_keywords if kw in title]
+
+            if matched_weather:
+                return Classification(
+                    category="Weather_Related",
+                    keywords=matched_weather,
+                    event_group_id=self.extract_event_group_id(title, "")
+                )
+
+            # 標題沒有停駛相關詞，也不是天氣相關 → 直接分為 General_Operation
+            return Classification(
+                category="General_Operation",
+                keywords=[],
+                event_group_id=self.extract_event_group_id(title, "")
+            )
+
+        # === 第二層：原有的關鍵字匹配邏輯（只有標題包含停駛詞才會進入）===
         # Combine title and content for keyword matching
         text = f"{title} {content}"
 
