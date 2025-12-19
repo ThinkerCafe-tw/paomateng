@@ -35,10 +35,20 @@ last_updated: 2025-12-19
 - **整合時間**: 2025-12-19
 
 ### 最近完成 (2025-12-19)
-- ✅ 發現 GitHub Token 過期導致停止運作（11/26 ~ 12/19）
+
+**排程修復**
+- ✅ 發現 GitHub Token 過期導致停止運作（11/26 ~ 12/19，約 23 天）
 - ✅ 更新 GitHub Token
 - ✅ 確認 Vercel Cron 仍然無法自動觸發（平台問題）
-- ✅ **改用 cron-job.org 作為定時觸發器**（穩定運行）
+- ✅ **改用 cron-job.org 作為定時觸發器**（穩定運行，內建失敗通知）
+
+**分類邏輯修復**
+- ✅ 修復分類誤判問題（如「海風號榮獲金點設計大獎」被誤分為 Disruption_Update）
+- ✅ 實作「標題優先」兩層分類架構：只有標題含停駛相關詞才進入 Disruption 流程
+- ✅ 重新分類 181 筆公告，修正 31 筆誤判
+
+**Dashboard 修復**
+- ✅ 修復 Badge 顏色錯誤：`Disruption_Resumption` 現正確顯示綠色
 
 ### Vercel Cron 狀態
 - ❌ Vercel Cron 配置正確但不自動觸發（已提交 Support ticket）
