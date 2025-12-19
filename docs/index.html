@@ -748,9 +748,10 @@
                 // 分類
                 const catCell = row.insertCell();
                 const badge = document.createElement('span');
+                // 先檢查 Resumption（恢復通車 = 綠色），再檢查 Disruption（停駛 = 紅色）
                 badge.className = 'badge badge-' + (
-                    ann.classification.category.includes('Disruption') ? 'disruption' :
-                    ann.classification.category.includes('Resumption') ? 'resumption' : 'general'
+                    ann.classification.category.includes('Resumption') ? 'resumption' :
+                    ann.classification.category.includes('Disruption') ? 'disruption' : 'general'
                 );
                 badge.textContent = ann.classification.category.replace(/_/g, ' ');
                 catCell.appendChild(badge);
