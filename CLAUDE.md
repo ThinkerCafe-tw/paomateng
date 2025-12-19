@@ -3,7 +3,7 @@ inherits_from: ../../knowledge-base/CLAUDE_ROOT.md
 project: paomateng
 persona: Automation Monitor
 project_type: research_automation
-last_updated: 2025-11-08
+last_updated: 2025-12-19
 ---
 
 # 🚂 Paomateng - 台鐵公告監控系統
@@ -18,9 +18,9 @@ last_updated: 2025-11-08
 **一句話說明**: 自動監控台鐵公告，追蹤危機溝通演變模式（林教授研究）
 
 **核心特色**:
-- ✅ 完全自動化（Vercel Cron + GitHub Actions）
-- ✅ 零成本運行（GitHub + Vercel 免費版）
-- ✅ 每 5 分鐘更新（vs GitHub Actions 的 3-4 小時）
+- ✅ 完全自動化（cron-job.org + Vercel + GitHub Actions）
+- ✅ 零成本運行（全部使用免費服務）
+- ✅ 每 5 分鐘更新
 - ✅ 即時 Dashboard（GitHub Pages）
 
 ---
@@ -28,23 +28,22 @@ last_updated: 2025-11-08
 ## 📊 當前狀態
 
 ### 運行狀態
-- **執行方式**: ✅ **本地 macOS Cron** (每 5 分鐘) → GitHub Actions
+- **執行方式**: ✅ **cron-job.org** (每 5 分鐘) → Vercel API → GitHub Actions
 - **資料儲存**: GitHub (data/master.json)
 - **Dashboard**: https://thinkercafe-tw.github.io/paomateng/
-- **觸發腳本**: `trigger-github-workflow.sh`
-- **執行日誌**: `~/paomateng-cron.log`
-- **整合時間**: 2025-11-08
+- **Cron 服務**: https://cron-job.org（免費帳戶）
+- **整合時間**: 2025-12-19
 
-### 最近完成 (2025-11-08)
-- ✅ 整合進 ThinkerCafe monorepo
-- ✅ 測試 Vercel Cron 方案（Build 成功，但自動執行失敗）
-- ✅ **採用本地 Cron 方案**（已驗證 3 次成功執行）
-- ✅ 建立完整文檔（包含 Vercel Cron 最終測試報告）
+### 最近完成 (2025-12-19)
+- ✅ 發現 GitHub Token 過期導致停止運作（11/26 ~ 12/19）
+- ✅ 更新 GitHub Token
+- ✅ 確認 Vercel Cron 仍然無法自動觸發（平台問題）
+- ✅ **改用 cron-job.org 作為定時觸發器**（穩定運行）
 
-### Vercel Cron 測試結論
-- ❌ Vercel Cron 手動和自動執行都失敗（原因不明）
-- ✅ 本地 macOS Cron 穩定運行（14:29, 14:35, 14:40 都成功）
-- 📄 詳見: `VERCEL_CRON_FINAL_REPORT.md`
+### Vercel Cron 狀態
+- ❌ Vercel Cron 配置正確但不自動觸發（已提交 Support ticket）
+- ✅ Vercel API endpoint 正常運作（手動觸發成功）
+- ✅ cron-job.org 作為替代方案穩定運行
 
 ---
 
@@ -52,9 +51,11 @@ last_updated: 2025-11-08
 
 ### 系統流程
 ```
-macOS crontab (*/5 * * * *)
+cron-job.org (*/5 * * * *)
   ↓
-trigger-github-workflow.sh
+https://paomateng.vercel.app/api/trigger-monitor
+  ↓
+Vercel Serverless Function
   ↓
 GitHub API (workflow_dispatch)
   ↓
@@ -68,8 +69,8 @@ Git push → GitHub Pages 更新
 ```
 
 ### 技術棧
-- **觸發**: macOS crontab (每 5 分鐘)
-- **腳本**: Bash script with curl
+- **定時觸發**: cron-job.org (每 5 分鐘，免費)
+- **API 中介**: Vercel Serverless Functions
 - **執行**: GitHub Actions (Python 3.11)
 - **爬蟲**: BeautifulSoup4 + Requests
 - **儲存**: JSON (Atomic Write)
@@ -86,16 +87,14 @@ Git push → GitHub Pages 更新
 ## 🗂️ 重要檔案索引
 
 ### 技術文檔
-- **本地 Cron 設定**: crontab 設定 (每 5 分鐘)
-- **觸發腳本**: `trigger-github-workflow.sh`
-- **執行日誌**: `~/paomateng-cron.log`
+- **Vercel API**: `api/trigger-monitor.js`（被 cron-job.org 呼叫）
 - **Vercel 測試報告**: @VERCEL_CRON_FINAL_REPORT.md
 - **n8n 方案**: @N8N_SETUP_GUIDE.md (備選)
 - **監控診斷**: @MONITORING_DIAGNOSIS.md
 - **交付指南**: @DELIVERY_GUIDE.md
 
 ### 核心程式碼
-- **觸發腳本**: `trigger-github-workflow.sh` (本地 cron)
+- **Vercel API**: `api/trigger-monitor.js`
 - **爬蟲**: `src/scraper.py`
 - **配置**: `.github/workflows/monitor.yml`
 - **資料**: `data/master.json`
@@ -107,20 +106,17 @@ Git push → GitHub Pages 更新
 
 ## 🔧 常用指令
 
-### 本地 Cron 管理
+### cron-job.org 管理
+- **Dashboard**: https://cron-job.org/en/members/jobs/
+- **查看執行歷史**: Jobs → Paomateng Monitor → History
+- **暫停/啟用**: Jobs → 點擊開關
+
+### 手動測試
 ```bash
-# 查看 crontab 設定
-crontab -l
+# 測試 Vercel API
+curl https://paomateng.vercel.app/api/trigger-monitor
 
-# 編輯 crontab
-crontab -e
-
-# 查看執行日誌
-tail -f ~/paomateng-cron.log
-
-# 手動執行觸發腳本（測試用）
-cd projects/paomateng
-./trigger-github-workflow.sh
+# 預期回應: {"success":true,"message":"Workflow triggered successfully",...}
 ```
 
 ### GitHub Actions
@@ -137,8 +133,6 @@ gh workflow run monitor.yml --repo ThinkerCafe-tw/paomateng
 
 ### 本地測試
 ```bash
-cd projects/paomateng
-
 # 執行爬蟲
 python src/scraper.py
 
@@ -155,6 +149,7 @@ pytest tests/
 - **API**: https://paomateng.vercel.app/api/trigger-monitor
 - **GitHub**: https://github.com/ThinkerCafe-tw/paomateng
 - **Actions**: https://github.com/ThinkerCafe-tw/paomateng/actions
+- **Cron 管理**: https://cron-job.org/en/members/jobs/
 
 ### 開發資源
 - **台鐵公告網站**: https://www.railway.gov.tw/tra-tip-web/tip
@@ -165,30 +160,37 @@ pytest tests/
 ## 💡 維護注意事項
 
 ### 監控檢查
-1. ✅ 本地 Cron 執行狀態（`tail -f ~/paomateng-cron.log`）
+1. ✅ cron-job.org 執行狀態（Jobs → History）
 2. ✅ GitHub Actions 成功率（Actions 頁面）
 3. ✅ 資料更新時間（檢查 master.json commit）
 4. ✅ Dashboard 顯示正常
 
 ### 成本追蹤
-- 本地 Cron: $0（使用本機資源）
+- cron-job.org: $0（免費帳戶）
+- Vercel: $0（Pro Plan 已包含）
 - GitHub Actions: 免費額度充足
 - 總成本: $0/月
 
-### 系統要求
-- Mac 需在監控時段保持運行
-- 確保網路連線穩定
-- 定期檢查 cron 日誌
+### 注意事項
+- **GitHub Token**: 需定期更新（過期會導致觸發失敗）
+- **cron-job.org**: 免費帳戶足夠使用
+- **Vercel Cron**: 目前不可靠，已改用 cron-job.org
+
+### 故障排除
+如果監控停止運作：
+1. 檢查 cron-job.org 執行歷史是否有錯誤
+2. 測試 API: `curl https://paomateng.vercel.app/api/trigger-monitor`
+3. 如果回應 401/403，更新 Vercel 的 `GITHUB_TOKEN` 環境變數
+4. 重新部署 Vercel
 
 ### 備選方案
-如需切換電腦或更穩定的解決方案：
 - 方案 1: n8n Cloud（參考 N8N_SETUP_GUIDE.md）
-- 方案 2: 自架伺服器 + cron
+- 方案 2: 本地 macOS cron（需電腦開機）
 - 方案 3: GitHub Actions schedule（每 3-4 小時，受限流）
 
 ---
 
 **Generated by**: Claude Code
-**Last Updated**: 2025-11-08
+**Last Updated**: 2025-12-19
 **Maintainer**: Cruz Tang
-**Status**: Production - 自動運行中
+**Status**: Production - cron-job.org 自動運行中
