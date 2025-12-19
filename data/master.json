@@ -6510,6 +6510,28 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-19T10:44:53.474258+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/7 下午 5:50</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　平溪線因受強降雨影響，造成三貂嶺=大華間（K2+100）邊坡滑動，擋土牆有位移之虞，另嶺腳=望古間（K9+820~920）路基流失，短期內路線無法修復，為工程搶修需要及確保行車安全，平溪線至115年1月30日前全區間停駛，瑞芳=菁桐採公路接駁。公路接駁措施如下：<br/><br/>1. 接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。<br/><br/>2. 瑞芳開車時間：07:10、08:00、09:00、10:00、12:00、14:00、15:00、16:00、18:00<br/><br/>3. 菁桐開車時間：08:00、09:00、10:00、11:00、13:00、15:00、16:00、17:10(假日17:00)、19:00<br/><br/>　　旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/55a2c27c-ac72-4f7c-b4aa-13b1f3eb153e\" target=\"_blank\">\n<img alt=\"臺鐵平溪線停駛期間公路接駁時刻表.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/55a2c27c-ac72-4f7c-b4aa-13b1f3eb153e/360x270\" title=\"另開視窗下載-臺鐵平溪線停駛期間公路接駁時刻表.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。 因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。 發佈日期：2025/11/7 下午 5:50 平溪線因受強降雨影響，造成三貂嶺=大華間（K2+100）邊坡滑動，擋土牆有位移之虞，另嶺腳=望古間（K9+820~920）路基流失，短期內路線無法修復，為工程搶修需要及確保行車安全，平溪線至115年1月30日前全區間停駛，瑞芳=菁桐採公路接駁。公路接駁措施如下： 1. 接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。 2. 瑞芳開車時間：07:10、08:00、09:00、10:00、12:00、14:00、15:00、16:00、18:00 3. 菁桐開車時間：08:00、09:00、10:00、11:00、13:00、15:00、16:00、17:10(假日17:00)、19:00 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
+        "content_hash": "md5:0abe205456389f7e65b95763019eee8a",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [
+            "司官方網",
+            "或就近車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -8166,6 +8188,569 @@
             "車於豐原",
             "客於豐原"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29b2dbde5019b30f2d7a80257",
+    "title": "臺鐵公司舉辦高雄自立路土地開發案投資開發座談會圓滿成功",
+    "publish_date": "2025/12/18",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29b2dbde5019b30f2d7a80257&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251218_臺鐵公司舉辦高雄自立路土地開發案投資開發座談會圓滿成功"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:44:56.508948+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司舉辦高雄自立路土地開發案投資開發座談會圓滿成功</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司舉辦高雄自立路土地開發案投資開發座談會圓滿成功</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/18 下午 5:21</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為能更貼合市場、提高投資意願，臺鐵公司於114年12月18日舉辦高雄自立路土地開發投資座談會。本次投資開發座談會邀集國內大型業者，包括上市櫃開發商、在地建商、零售、旅館、壽險業者共同參與，各與會產業界先進皆對臺鐵公司藉舉辦座談會傾聽市場潛在投資人意見表達肯定，臺鐵公司亦透過各界不同觀點意見及經驗進行交流，為本案多元開發策略提出建議，作為後續招商之參考。<br/><br/>　　本案高雄自立路土地東側為高雄市立高雄高級中學，面積超過3,800坪，現況為停車場與空地使用，土地產權為臺鐵公司所有，未來預計辦理都市計畫變更為第五之一種特定商業專用區(附)，容積率預計可達840%，初步評估可開發總樓地板可達5.4萬坪，可規劃為住宅、商場、飯店與商辦等複合型開發案。<br/><br/>　　高雄是近年開發商及產業投資熱區，今年大型開發案投資金額近千億，包含114年8月簽約的「高雄捷運橘線O10站聯合開發案」由華友聯集團、達麗建設與海悅團隊預計投資逾253億元於衛武營周邊打造國際藝文聚落；114年3月簽約的「左營高鐵科技之心公辦都更案」由國揚實業股份有限公司預計投資188億元於左營高鐵站興建A級辦公室、商場、旅館、住宅等。<br/><br/>　　本案高雄自立路土地緊鄰臺鐵三塊厝車站，更是一站即達高雄車站，近期高雄車站周邊大型開發招商案陸續傳出佳績，包括「高雄車站專用區四、五及商四公辦都更案」由冠德建設獲選最優申請人，冠德建設將與日本森大廈都市企劃株式會社合作，打造3棟高規格的住宅與商辦大樓，投資金額預估達95億元；另外，建築量體達1.6萬坪的臺鐵高雄車站商業大樓，也可望順利招商，隨著大型投資人經驗挹注，高雄車站站前第一環圈重新翻轉，未來隨著高鐵南延計畫逐步實現，此區匯聚高鐵、臺鐵與捷運等多元大眾運輸系統，打造高雄的國際商業門戶。<br/><br/>　　臺鐵公司秉持「誠信經營、永續發展、資訊透明、鼓勵揭弊」經營理念與核心價值，致力於推動資產處置策略多元化，並增加與開發商合作機會。透過活化土地量能，提升企業整體形象，進而發揮企業經營效能及競爭力。期以資產活化，達成地方發展、臺鐵公司、民間投資人三贏之局面。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/7e24b3e8-a9f1-4269-b36c-86c30d68ca8a\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司舉辦高雄自立路土地開發案投資開發座談會圓滿成功 臺鐵公司舉辦高雄自立路土地開發案投資開發座談會圓滿成功 發佈日期：2025/12/18 下午 5:21 為能更貼合市場、提高投資意願，臺鐵公司於114年12月18日舉辦高雄自立路土地開發投資座談會。本次投資開發座談會邀集國內大型業者，包括上市櫃開發商、在地建商、零售、旅館、壽險業者共同參與，各與會產業界先進皆對臺鐵公司藉舉辦座談會傾聽市場潛在投資人意見表達肯定，臺鐵公司亦透過各界不同觀點意見及經驗進行交流，為本案多元開發策略提出建議，作為後續招商之參考。 本案高雄自立路土地東側為高雄市立高雄高級中學，面積超過3,800坪，現況為停車場與空地使用，土地產權為臺鐵公司所有，未來預計辦理都市計畫變更為第五之一種特定商業專用區(附)，容積率預計可達840%，初步評估可開發總樓地板可達5.4萬坪，可規劃為住宅、商場、飯店與商辦等複合型開發案。 高雄是近年開發商及產業投資熱區，今年大型開發案投資金額近千億，包含114年8月簽約的「高雄捷運橘線O10站聯合開發案」由華友聯集團、達麗建設與海悅團隊預計投資逾253億元於衛武營周邊打造國際藝文聚落；114年3月簽約的「左營高鐵科技之心公辦都更案」由國揚實業股份有限公司預計投資188億元於左營高鐵站興建A級辦公室、商場、旅館、住宅等。 本案高雄自立路土地緊鄰臺鐵三塊厝車站，更是一站即達高雄車站，近期高雄車站周邊大型開發招商案陸續傳出佳績，包括「高雄車站專用區四、五及商四公辦都更案」由冠德建設獲選最優申請人，冠德建設將與日本森大廈都市企劃株式會社合作，打造3棟高規格的住宅與商辦大樓，投資金額預估達95億元；另外，建築量體達1.6萬坪的臺鐵高雄車站商業大樓，也可望順利招商，隨著大型投資人經驗挹注，高雄車站站前第一環圈重新翻轉，未來隨著高鐵南延計畫逐步實現，此區匯聚高鐵、臺鐵與捷運等多元大眾運輸系統，打造高雄的國際商業門戶。 臺鐵公司秉持「誠信經營、永續發展、資訊透明、鼓勵揭弊」經營理念與核心價值，致力於推動資產處置策略多元化，並增加與開發商合作機會。透過活化土地量能，提升企業整體形象，進而發揮企業經營效能及競爭力。期以資產活化，達成地方發展、臺鐵公司、民間投資人三贏之局面。 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:e808d47b54123f336fdfb818eb150884",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "左營高鐵",
+            "三塊厝車",
+            "更是一",
+            "達高雄車",
+            "期高雄車",
+            "高雄車",
+            "鐵高雄車",
+            "高雄車站"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29b2dbde5019b30d2ee90023a",
+    "title": "臺鐵公司與東武鐵道締結友好10週年  「日光詣SPACIA」車頭首度來臺於北車亮相",
+    "publish_date": "2025/12/18",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29b2dbde5019b30d2ee90023a&page=0",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "持續"
+      ],
+      "event_group_id": "20251218_臺鐵公司與東武鐵道締結友好10週年_日光詣SPACIA_車頭"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:44:57.479208+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司與東武鐵道締結友好10週年  「日光詣SPACIA」車頭首度來臺於北車亮相</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司與東武鐵道締結友好10週年  「日光詣SPACIA」車頭首度來臺於北車亮相</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/18 下午 4:13</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司與日本東武鐵道於2015年12月18日簽訂友好鐵路協定，為慶祝雙方締結滿10週年，於臺北車站東側展示東武鐵道首度來臺的觀光特急「日光詣SPACIA」車頭，展期自2025年12月18日至2026年12月18日(預定為期1年)。<br/><br/>　　臺日雙方於10週年慶時於臺北車站東側廣場舉行貼有10週年紀念新LOGO標誌的「日光詣SPACIA」車頭展示揭序儀式，為這項跨海合作的重要里程碑揭開序幕。活動現場包括交通部部長陳世凱、台灣觀光協會榮譽會長葉菊蘭及會長簡余晏、台灣鐵道觀光協會理事長周永暉等貴賓蒞臨；東武鐵道會長根津嘉澄亦親自來臺共襄盛舉，為典禮增添光彩。<br/><br/>　　此次展示101-1型號的車頭，是東武鐵道的觀光特急SPACIA系列列車的第一輛車，自1990年開始運行，是往返東京淺草、世界遺產所在地日光以及鬼怒川溫泉區的知名旅遊列車，並延伸運行至JR東日本新宿站。車身以象徵日光東照宮、二荒山神社及輪王寺莊嚴意象的金色、黑色與朱紅色打造，被旅客暱稱為「黃金列車」，多年來深受日本與國際旅客喜愛。車廂彩繪成黃金列車寓意吉祥、平安、好運的祝福。<br/><br/>　　此次SPACIA車頭首度跨海來臺展出，象徵臺日鐵道友誼的深厚連結，也展現雙方對鐵道觀光合作的共同期待。選址在臺北車站展示，讓旅客與鐵道迷能近距離欣賞這輛具有文化意涵的經典車輛，深信將成為臺日觀光與鐵道愛好者拍照打卡的嶄新亮點。<br/><br/>　　臺鐵公司表示，本次「日光詣SPACIA」車頭來臺，象徵雙方十年情誼的深化，期盼藉此展示活動，持續推動臺日旅遊互訪動能，也為兩地鐵道旅遊創造更多可能；另為促進鐵道文化交流，雙方仍將合力推動蒸汽機車的技術交流，以期鐵道文化及技術能延續傳承。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/a3aaf012-55a0-4e58-beef-50a8b222884c\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司與東武鐵道締結友好10週年  「日光詣SPACIA」車頭首度來臺於北車亮相 臺鐵公司與東武鐵道締結友好10週年  「日光詣SPACIA」車頭首度來臺於北車亮相 發佈日期：2025/12/18 下午 4:13 臺鐵公司與日本東武鐵道於2015年12月18日簽訂友好鐵路協定，為慶祝雙方締結滿10週年，於臺北車站東側展示東武鐵道首度來臺的觀光特急「日光詣SPACIA」車頭，展期自2025年12月18日至2026年12月18日(預定為期1年)。 臺日雙方於10週年慶時於臺北車站東側廣場舉行貼有10週年紀念新LOGO標誌的「日光詣SPACIA」車頭展示揭序儀式，為這項跨海合作的重要里程碑揭開序幕。活動現場包括交通部部長陳世凱、台灣觀光協會榮譽會長葉菊蘭及會長簡余晏、台灣鐵道觀光協會理事長周永暉等貴賓蒞臨；東武鐵道會長根津嘉澄亦親自來臺共襄盛舉，為典禮增添光彩。 此次展示101-1型號的車頭，是東武鐵道的觀光特急SPACIA系列列車的第一輛車，自1990年開始運行，是往返東京淺草、世界遺產所在地日光以及鬼怒川溫泉區的知名旅遊列車，並延伸運行至JR東日本新宿站。車身以象徵日光東照宮、二荒山神社及輪王寺莊嚴意象的金色、黑色與朱紅色打造，被旅客暱稱為「黃金列車」，多年來深受日本與國際旅客喜愛。車廂彩繪成黃金列車寓意吉祥、平安、好運的祝福。 此次SPACIA車頭首度跨海來臺展出，象徵臺日鐵道友誼的深厚連結，也展現雙方對鐵道觀光合作的共同期待。選址在臺北車站展示，讓旅客與鐵道迷能近距離欣賞這輛具有文化意涵的經典車輛，深信將成為臺日觀光與鐵道愛好者拍照打卡的嶄新亮點。 臺鐵公司表示，本次「日光詣SPACIA」車頭來臺，象徵雙方十年情誼的深化，期盼藉此展示活動，持續推動臺日旅遊互訪動能，也為兩地鐵道旅遊創造更多可能；另為促進鐵道文化交流，雙方仍將合力推動蒸汽機車的技術交流，以期鐵道文化及技術能延續傳承。 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:de7d9f6f935f29c5ea6e12944deb75ae",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "於臺北車",
+            "日本新宿",
+            "在臺北車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39b2286b2019b2669433e03d9",
+    "title": "臺北站公共鋼琴啟用  以音樂展現「台灣意象．美哉台灣」",
+    "publish_date": "2025/12/16",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b2286b2019b2669433e03d9&page=0",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "持續"
+      ],
+      "event_group_id": "20251216_臺北站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:44:58.480641+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺北站公共鋼琴啟用  以音樂展現「台灣意象．美哉台灣」</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺北站公共鋼琴啟用  以音樂展現「台灣意象．美哉台灣」</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/16 下午 5:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺北站今（16）日舉辦「公共鋼琴啟用典禮」，在善福德學會與社團法人臺灣國際藝術家協會支持下，引進高品質鋼琴進駐 1 樓大廳，象徵藝術走入城市、走進旅客生活。<br/> <br/>　　臺鐵公司表示，臺北站是臺灣最重要的人流匯聚點之一，不僅象徵跨城移動的節奏，也承載城市文化的流動。本次公共鋼琴啟用，以自然、人文、族群多樣性為核心，透過音樂演出連結城市與旅客，傳遞「文化讓交通場站更溫暖、更有人情味」的理念。<br/><br/>　　典禮活動主視覺以《玉山美景》為靈感，象徵臺灣的高度與厚度，並呼應「看見台灣、聽見台灣」的文化觀念。節目內容結合民謠、客家音樂、原住民元素與古典編曲，安排多位青年音樂家與重量級表演者演出，包括鋼琴獨奏、笛與小提琴合奏《天黑黑》、經典曲〈丟丟銅仔〉改編，以及白玉光理事長領軍七位音樂家合唱《美哉台灣》。壓軸則由大直美聲合唱團以清亮人聲呈現〈上帝會來照顧你〉，為活動畫下溫暖句點。典禮過後公共鋼琴正式啟用，代表藝術將持續陪伴往來旅客，走入城市日常。  <br/> <br/>　　臺鐵公司指出，未來臺北站將持續配合公益文化活動，並以自由彈奏的公共鋼琴，鼓勵旅客以音樂述說屬於自己的故事。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/3b747cfe-f24f-4a8f-ab68-7e741da921b3\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-活動照片.pdf\" type=\"submit\">活動照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺北站公共鋼琴啟用  以音樂展現「台灣意象．美哉台灣」 臺北站公共鋼琴啟用  以音樂展現「台灣意象．美哉台灣」 發佈日期：2025/12/16 下午 5:00 臺北站今（16）日舉辦「公共鋼琴啟用典禮」，在善福德學會與社團法人臺灣國際藝術家協會支持下，引進高品質鋼琴進駐 1 樓大廳，象徵藝術走入城市、走進旅客生活。 臺鐵公司表示，臺北站是臺灣最重要的人流匯聚點之一，不僅象徵跨城移動的節奏，也承載城市文化的流動。本次公共鋼琴啟用，以自然、人文、族群多樣性為核心，透過音樂演出連結城市與旅客，傳遞「文化讓交通場站更溫暖、更有人情味」的理念。 典禮活動主視覺以《玉山美景》為靈感，象徵臺灣的高度與厚度，並呼應「看見台灣、聽見台灣」的文化觀念。節目內容結合民謠、客家音樂、原住民元素與古典編曲，安排多位青年音樂家與重量級表演者演出，包括鋼琴獨奏、笛與小提琴合奏《天黑黑》、經典曲〈丟丟銅仔〉改編，以及白玉光理事長領軍七位音樂家合唱《美哉台灣》。壓軸則由大直美聲合唱團以清亮人聲呈現〈上帝會來照顧你〉，為活動畫下溫暖句點。典禮過後公共鋼琴正式啟用，代表藝術將持續陪伴往來旅客，走入城市日常。 臺鐵公司指出，未來臺北站將持續配合公益文化活動，並以自由彈奏的公共鋼琴，鼓勵旅客以音樂述說屬於自己的故事。 附件下載： 活動照片.pdf 返回上一頁",
+        "content_hash": "md5:482abea34b974504a29f38a5da13d88a",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北",
+            "讓交通場",
+            "未來臺北"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39b1e4ac9019b1fd7287b027c",
+    "title": "本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費",
+    "publish_date": "2025/12/16",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b1e4ac9019b1fd7287b027c&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251216_本公司EMU3000型及普悠瑪自強號_含太魯閣號_專列_降低"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:44:59.447050+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/16 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司為鼓勵公司行號、機關團體多利用EMU3000型及普悠瑪自強號(含太魯閣號)辦理旅遊活動，降低專列基本定員數收費，實施日期及收費規定如下：<br/>一、EMU3000型及普悠瑪號(含太魯閣號)專列，降低基本定員數收費如下：<br/>(一) EMU3000型自強號：基本定員數為400定員計費，超過400定員者以實際乘車人數計費（可申請400～538之間定員數）。<br/>(二)普悠瑪自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～372之間定員數）。<br/>(三)太魯閣自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～376之間定員數）。<br/>二、專列績優會員及里程折扣優惠方案，不受降低基本定員數之限制，仍享有折扣優惠。<br/>三、專列實際乘車人數高於申請人數時，超出之人數以無票乘車規定補收全價票並加收5成。<br/>四、實施日期：自專列申請日115年2月1日起開放申請，乘車日為115年5月1日之專列適用本辦法(以乘車日起算)。<br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費 本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費 發佈日期：2025/12/16 上午 9:00 本公司為鼓勵公司行號、機關團體多利用EMU3000型及普悠瑪自強號(含太魯閣號)辦理旅遊活動，降低專列基本定員數收費，實施日期及收費規定如下： 一、EMU3000型及普悠瑪號(含太魯閣號)專列，降低基本定員數收費如下： (一) EMU3000型自強號：基本定員數為400定員計費，超過400定員者以實際乘車人數計費（可申請400～538之間定員數）。 (二)普悠瑪自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～372之間定員數）。 (三)太魯閣自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～376之間定員數）。 二、專列績優會員及里程折扣優惠方案，不受降低基本定員數之限制，仍享有折扣優惠。 三、專列實際乘車人數高於申請人數時，超出之人數以無票乘車規定補收全價票並加收5成。 四、實施日期：自專列申請日115年2月1日起開放申請，乘車日為115年5月1日之專列適用本辦法(以乘車日起算)。 返回上一頁",
+        "content_hash": "md5:96f54c76cfe14a95152152f8d34337ae",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39b1e4ac9019b1fab666901eb",
+    "title": "臺鐵公司積極推動高雄車站及周邊地區招商 帶動大都更區域發展",
+    "publish_date": "2025/12/15",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b1e4ac9019b1fab666901eb&page=0",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "更新",
+        "持續"
+      ],
+      "event_group_id": "20251215_極推動高雄車站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:00.488295+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司積極推動高雄車站及周邊地區招商 帶動大都更區域發展</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司積極推動高雄車站及周邊地區招商 帶動大都更區域發展</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/15 上午 9:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司積極推動高雄車站及周邊地區土地活化招商，帶動車站周邊區域發展。高雄車站與高雄市政府合作推動高雄車站第一環圈公辦都市更新案（高雄車站專用區四、五及商四等土地）招商作業，已成功徵得「冠德建設股份有限公司」為最優申請人，預計今年12月17日完成簽約。<br/><br/>　　此外，臺鐵公司亦積極辦理高雄車站空間招商及活化，其中北側下沉式廣場使用區域規劃作為舞台與展演空間、中央廣場使用區域規劃作為展售空間，預計於115年1月啟用，南側下沉式廣場則與高雄市政府合作舉辦活動，聚集人潮，帶動高雄車站及周邊區域發展；另外，車站商業大樓暨車站周邊商業空間已於12月1日辦理綜合遴選，選出最優申請人，預計115年第1季完成簽約。<br/><br/>　　除上述車站商業空間外，為發揮高雄車站雙鐵優勢，每日進出約6萬人旅次，搭配轉運通勤及觀光人流，今年6月臺鐵公司與高雄市政府、交通部鐵道局舉辦三方高層平台會議，就高雄車站周邊重大建設積極進行討論及溝通。此外，並透過「三方高層平台」共同檢視「高雄車站周邊大都更綱要計畫（草案）」及案件進度，持續以高雄車站為發展核心，賦予車站周邊地區之定位及發展構想，未來將加速高雄車站旅館大樓招商案及高雄中學旁自立路土地開發案招商。<br/><br/>　　臺鐵公司期待未來高鐵南延高雄車站，結合交通運輸、休閒遊憩、餐飲等旅客所需服務，引進民間創意、完善車站機能、提升服務品質，帶動車站周邊商業活動，透過積極與高雄市政府、交通部鐵道局及相關公私部門協力合作，推動高雄車站及周邊土地開發，翻轉高雄車站門戶意象。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司積極推動高雄車站及周邊地區招商 帶動大都更區域發展 臺鐵公司積極推動高雄車站及周邊地區招商 帶動大都更區域發展 發佈日期：2025/12/15 上午 9:30 臺鐵公司積極推動高雄車站及周邊地區土地活化招商，帶動車站周邊區域發展。高雄車站與高雄市政府合作推動高雄車站第一環圈公辦都市更新案（高雄車站專用區四、五及商四等土地）招商作業，已成功徵得「冠德建設股份有限公司」為最優申請人，預計今年12月17日完成簽約。 此外，臺鐵公司亦積極辦理高雄車站空間招商及活化，其中北側下沉式廣場使用區域規劃作為舞台與展演空間、中央廣場使用區域規劃作為展售空間，預計於115年1月啟用，南側下沉式廣場則與高雄市政府合作舉辦活動，聚集人潮，帶動高雄車站及周邊區域發展；另外，車站商業大樓暨車站周邊商業空間已於12月1日辦理綜合遴選，選出最優申請人，預計115年第1季完成簽約。 除上述車站商業空間外，為發揮高雄車站雙鐵優勢，每日進出約6萬人旅次，搭配轉運通勤及觀光人流，今年6月臺鐵公司與高雄市政府、交通部鐵道局舉辦三方高層平台會議，就高雄車站周邊重大建設積極進行討論及溝通。此外，並透過「三方高層平台」共同檢視「高雄車站周邊大都更綱要計畫（草案）」及案件進度，持續以高雄車站為發展核心，賦予車站周邊地區之定位及發展構想，未來將加速高雄車站旅館大樓招商案及高雄中學旁自立路土地開發案招商。 臺鐵公司期待未來高鐵南延高雄車站，結合交通運輸、休閒遊憩、餐飲等旅客所需服務，引進民間創意、完善車站機能、提升服務品質，帶動車站周邊商業活動，透過積極與高雄市政府、交通部鐵道局及相關公私部門協力合作，推動高雄車站及周邊土地開發，翻轉高雄車站門戶意象。 返回上一頁",
+        "content_hash": "md5:8e4e6afa1f2dacca2977a2e92a0f7a2c",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "動高雄車",
+            "帶動車",
+            "高雄車",
+            "理高雄車",
+            "大樓暨車",
+            "除上述車",
+            "揮高雄車",
+            "就高雄車",
+            "以高雄車",
+            "賦予車",
+            "速高雄車",
+            "延高雄車",
+            "完善車",
+            "轉高雄車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39b0ed7be019b121e9f7e038e",
+    "title": "台北凱達攜手臺鐵公司「聖誕愛心市集」圓滿落幕 萬華車站化身暖心公益站 熱銷美食與愛心義賣匯聚人潮 善款捐助弱勢傳遞溫情",
+    "publish_date": "2025/12/12",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b0ed7be019b121e9f7e038e&page=1",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251212_萬華車站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:01.504502+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>台北凱達攜手臺鐵公司「聖誕愛心市集」圓滿落幕 萬華車站化身暖心公益站 熱銷美食與愛心義賣匯聚人潮 善款捐助弱勢傳遞溫情</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>台北凱達攜手臺鐵公司「聖誕愛心市集」圓滿落幕 萬華車站化身暖心公益站 熱銷美食與愛心義賣匯聚人潮 善款捐助弱勢傳遞溫情</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/12 下午 6:27</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　由台北凱達大飯店與國營臺灣鐵路股份有限公司首度聯手舉辦的「愛在萬華·聖誕公益市集」，於今（12）日下午在萬華車站大廳圓滿落幕。活動現場吸引眾多旅客與在地民眾熱情響應，在充滿歷史風華的車站空間中，共同譜寫了一場結合美食、文創與愛心的歲末盛會。<br/><br/>　　本次市集以「溫暖萬華、公益同行」為主題，現場氣氛溫馨熱絡。台北凱達大飯店主廚團隊帶來的「冠軍老火甘蔗頭麻油雞」、「蔥燒酥」及「檸檬磅蛋糕」等招牌美食，甫開賣便吸引人潮，成為現場人氣焦點。此外，由飯店同仁捐贈的「愛心寶藏」二手物資，以及臺鐵夢工場熱門限定周邊商品、在地商家特色商品，深受民眾喜愛，買氣相當熱烈。<br/><br/>　　臺鐵公司由資產開發處劉睿紘處長及萬華車站胡智傑站長出席響應公益市集，並捐贈臺鐵夢工廠熱門限定周邊商品，為活動增添色彩。<br/><br/>　　感謝各界愛心夥伴與民眾的熱情參與，讓萬華車站不只是交通樞紐，更成為傳遞城市溫度的起點。本次義賣所得扣除必要成本後將全額捐贈予「台北市朝陽社會關懷協會」及相關公益團體，用於支持弱勢家庭扶助與社區照護服務，讓這份聖誕祝福化為實質力量，溫暖社會的每一個角落。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/2298f22c-f9b7-479b-8428-706e7022dc44\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 台北凱達攜手臺鐵公司「聖誕愛心市集」圓滿落幕 萬華車站化身暖心公益站 熱銷美食與愛心義賣匯聚人潮 善款捐助弱勢傳遞溫情 台北凱達攜手臺鐵公司「聖誕愛心市集」圓滿落幕 萬華車站化身暖心公益站 熱銷美食與愛心義賣匯聚人潮 善款捐助弱勢傳遞溫情 發佈日期：2025/12/12 下午 6:27 由台北凱達大飯店與國營臺灣鐵路股份有限公司首度聯手舉辦的「愛在萬華·聖誕公益市集」，於今（12）日下午在萬華車站大廳圓滿落幕。活動現場吸引眾多旅客與在地民眾熱情響應，在充滿歷史風華的車站空間中，共同譜寫了一場結合美食、文創與愛心的歲末盛會。 本次市集以「溫暖萬華、公益同行」為主題，現場氣氛溫馨熱絡。台北凱達大飯店主廚團隊帶來的「冠軍老火甘蔗頭麻油雞」、「蔥燒酥」及「檸檬磅蛋糕」等招牌美食，甫開賣便吸引人潮，成為現場人氣焦點。此外，由飯店同仁捐贈的「愛心寶藏」二手物資，以及臺鐵夢工場熱門限定周邊商品、在地商家特色商品，深受民眾喜愛，買氣相當熱烈。 臺鐵公司由資產開發處劉睿紘處長及萬華車站胡智傑站長出席響應公益市集，並捐贈臺鐵夢工廠熱門限定周邊商品，為活動增添色彩。 感謝各界愛心夥伴與民眾的熱情參與，讓萬華車站不只是交通樞紐，更成為傳遞城市溫度的起點。本次義賣所得扣除必要成本後將全額捐贈予「台北市朝陽社會關懷協會」及相關公益團體，用於支持弱勢家庭扶助與社區照護服務，讓這份聖誕祝福化為實質力量，溫暖社會的每一個角落。 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:9da0ad548c8f6a4054ce91a25c249a5a",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "萬華車",
+            "暖心公益",
+            "在萬華車",
+            "風華的車",
+            "及萬華車",
+            "胡智傑",
+            "讓萬華車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29b0e0210019b103add24018a",
+    "title": "「花東地區鐵路雙軌電氣化計畫」康樂=臺東間  太平溪一、二號橋改建工程施工切換公告",
+    "publish_date": "2025/12/12",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29b0e0210019b103add24018a&page=1",
+    "classification": {
+      "category": "Disruption_Suspension",
+      "keywords": [
+        "停駛"
+      ],
+      "event_group_id": "20251212_花東地區鐵路雙軌電氣化計畫_康樂_臺東間_太平溪一_二號橋改"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:02.475305+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>「花東地區鐵路雙軌電氣化計畫」康樂=臺東間  太平溪一、二號橋改建工程施工切換公告</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>「花東地區鐵路雙軌電氣化計畫」康樂=臺東間  太平溪一、二號橋改建工程施工切換公告</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/12 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　鐵道局東部工程分局為辦理「花東地區鐵路雙軌電氣化計畫」康樂=臺東間太平溪一、二號橋改建工程，預定於114年12月23日（星期二）跨24日（星期三）執行夜間軌道切換工作，受施工封鎖時間影響，12月23日由新左營開往臺東之327次新自強號辦理截短行駛（知本=臺東間停駛），知本=臺東間改由公路接駁。<br/><br/>　　本案工程施工期間，若有部分旅客列車延誤，臺鐵公司將加強播音並公告週知，請旅客見諒並多注意車站播音。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 「花東地區鐵路雙軌電氣化計畫」康樂=臺東間  太平溪一、二號橋改建工程施工切換公告 「花東地區鐵路雙軌電氣化計畫」康樂=臺東間  太平溪一、二號橋改建工程施工切換公告 發佈日期：2025/12/12 上午 9:00 鐵道局東部工程分局為辦理「花東地區鐵路雙軌電氣化計畫」康樂=臺東間太平溪一、二號橋改建工程，預定於114年12月23日（星期二）跨24日（星期三）執行夜間軌道切換工作，受施工封鎖時間影響，12月23日由新左營開往臺東之327次新自強號辦理截短行駛（知本=臺東間停駛），知本=臺東間改由公路接駁。 本案工程施工期間，若有部分旅客列車延誤，臺鐵公司將加強播音並公告週知，請旅客見諒並多注意車站播音。 返回上一頁",
+        "content_hash": "md5:336c73f4416367bf8dd3c675d7abdb69",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [
+            "多注意車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39b047ea8019b0b33d8820c7a",
+    "title": "匯聚愛心照亮萬華！台北凱達x臺鐵聯手打造聖誕愛心市集  歲末最暖心公益盛會 12/12萬華車站大廳溫馨登場",
+    "publish_date": "2025/12/11",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b047ea8019b0b33d8820c7a&page=1",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251211_萬華車站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:03.451456+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>匯聚愛心照亮萬華！台北凱達x臺鐵聯手打造聖誕愛心市集  歲末最暖心公益盛會 12/12萬華車站大廳溫馨登場</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>匯聚愛心照亮萬華！台北凱達x臺鐵聯手打造聖誕愛心市集  歲末最暖心公益盛會 12/12萬華車站大廳溫馨登場</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/11 上午 9:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　歲末年終、聖誕將至，在這個充滿祝福的季節裡，為推動在地公益參與並活絡萬華人文風采，台北凱達大飯店與國營臺灣鐵路股份有限公司首次攜手舉辦「愛在萬華·聖誕公益市集」，活動將於2025年12月12日(五)下午1點至6點在萬華車站大廳暖心登場。本次市集以「溫暖萬華、公益同行」 為主題，首度結合萬華地區的人文底蘊與車站文化特色，結 合飯店餐飲、伴手禮、品牌及同仁捐物，將愛心化為實際行 動，邀請民眾在充滿歷史風華的萬華車站，共同迎接溫馨的 聖誕佳節。<br/><br/>　　本次活動由臺鐵公司與台北凱達大飯店共同舉辦，結合萬華地區的人文底蘊與交通場域特色，將萬華車站打造成一個充滿暖意的市集。民眾可搭乘臺鐵列車抵達，出站即可參與義賣，體驗一場由歷史建築與現代公益交織的美好盛會。<br/><br/>市集亮點一覽：暖心美食 × 經典伴手禮 × 愛心寶藏齊聚<br/>●暖心佳餚與節慶伴手禮:台北凱達大飯店主廚團隊特別準 備多款冬季熱銷美食與節慶伴手禮，包括:酥香可口的 「蔥燒酥」、鬆軟綿密的「檸檬磅蛋糕」，以及經典伴手 禮「蘿蔔絲酥餅」等熱銷品項讓民眾搶先預購。義賣現場也會供應多樣暖胃又暖心的佳餚，包括「鴛鴦炒粉」、 「台式肉絲炒麵」以及甫榮獲麻油料理冠軍的「老火甘蔗 頭麻油雞料理包」等多樣化的商品選擇，讓民眾不但能享 受現場美食，也能把台北凱達招牌料理帶回家。<br/>●愛心寶藏:現場將設有台北凱達大飯店全體同仁所捐贈全新或鮮少使用的二手物品，民眾在尋找生活「寶藏」的同時，也能賦予物品新的價值與生命。同時，現場還有多家知名廠商:美津濃、日造酒妝、百錄、KOZI、阿嬤的配方，以及萬華在地商家川業肉圓、布田食品及艋舺大豐也積極參與此次活動，捐出多款暢銷的特色商品，讓市集內容更加多元精彩，歡迎大家來到現場一窺究竟！<br/>　　<br/>　　本次聖誕愛心市集將於2025年12月12日(五)下午1時至6時在萬華車站大廳登場，「愛在萬華·聖誕公益市集」所有義賣所得，將在扣除必要成本後全額捐贈予「台北市朝陽社會關懷協會」及其他公益團體，將用於弱勢家庭扶助與社區照護服務，期望讓每一分善款都能真正落在需要支持的族群身上，將城市的溫暖傳遞到每一個角落。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/dc838af0-72db-4108-a778-5e02556c0a40\" target=\"_blank\">\n<img alt=\"新聞圖片.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/dc838af0-72db-4108-a778-5e02556c0a40/360x270\" title=\"另開視窗下載-新聞圖片.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 匯聚愛心照亮萬華！台北凱達x臺鐵聯手打造聖誕愛心市集  歲末最暖心公益盛會 12/12萬華車站大廳溫馨登場 匯聚愛心照亮萬華！台北凱達x臺鐵聯手打造聖誕愛心市集  歲末最暖心公益盛會 12/12萬華車站大廳溫馨登場 發佈日期：2025/12/11 上午 9:30 歲末年終、聖誕將至，在這個充滿祝福的季節裡，為推動在地公益參與並活絡萬華人文風采，台北凱達大飯店與國營臺灣鐵路股份有限公司首次攜手舉辦「愛在萬華·聖誕公益市集」，活動將於2025年12月12日(五)下午1點至6點在萬華車站大廳暖心登場。本次市集以「溫暖萬華、公益同行」 為主題，首度結合萬華地區的人文底蘊與車站文化特色，結 合飯店餐飲、伴手禮、品牌及同仁捐物，將愛心化為實際行 動，邀請民眾在充滿歷史風華的萬華車站，共同迎接溫馨的 聖誕佳節。 本次活動由臺鐵公司與台北凱達大飯店共同舉辦，結合萬華地區的人文底蘊與交通場域特色，將萬華車站打造成一個充滿暖意的市集。民眾可搭乘臺鐵列車抵達，出站即可參與義賣，體驗一場由歷史建築與現代公益交織的美好盛會。 市集亮點一覽：暖心美食 × 經典伴手禮 × 愛心寶藏齊聚 ●暖心佳餚與節慶伴手禮:台北凱達大飯店主廚團隊特別準 備多款冬季熱銷美食與節慶伴手禮，包括:酥香可口的 「蔥燒酥」、鬆軟綿密的「檸檬磅蛋糕」，以及經典伴手 禮「蘿蔔絲酥餅」等熱銷品項讓民眾搶先預購。義賣現場也會供應多樣暖胃又暖心的佳餚，包括「鴛鴦炒粉」、 「台式肉絲炒麵」以及甫榮獲麻油料理冠軍的「老火甘蔗 頭麻油雞料理包」等多樣化的商品選擇，讓民眾不但能享 受現場美食，也能把台北凱達招牌料理帶回家。 ●愛心寶藏:現場將設有台北凱達大飯店全體同仁所捐贈全新或鮮少使用的二手物品，民眾在尋找生活「寶藏」的同時，也能賦予物品新的價值與生命。同時，現場還有多家知名廠商:美津濃、日造酒妝、百錄、KOZI、阿嬤的配方，以及萬華在地商家川業肉圓、布田食品及艋舺大豐也積極參與此次活動，捐出多款暢銷的特色商品，讓市集內容更加多元精彩，歡迎大家來到現場一窺究竟！ 本次聖誕愛心市集將於2025年12月12日(五)下午1時至6時在萬華車站大廳登場，「愛在萬華·聖誕公益市集」所有義賣所得，將在扣除必要成本後全額捐贈予「台北市朝陽社會關懷協會」及其他公益團體，將用於弱勢家庭扶助與社區照護服務，期望讓每一分善款都能真正落在需要支持的族群身上，將城市的溫暖傳遞到每一個角落。 返回上一頁",
+        "content_hash": "md5:529868965ea0771a5eada30ceca87123",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "萬華車",
+            "在萬華車",
+            "底蘊與車",
+            "的萬華車",
+            "將萬華車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39b047ea8019b0783302205b3",
+    "title": "臺鐵與達麗建設聯手 打造屏東站前住商新銳",
+    "publish_date": "2025/12/10",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b047ea8019b0783302205b3&page=1",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "更新"
+      ],
+      "event_group_id": "20251210_打造屏東站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:04.467919+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵與達麗建設聯手 打造屏東站前住商新銳</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵與達麗建設聯手 打造屏東站前住商新銳</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/10 下午 4:33</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　「屏東火車站東側土地公辦都市更新案」今(10)日在內政部董建宏次長、屏東縣黃國榮副縣長及臺鐵公司鄭光遠董事長的共同見證下，舉辦簽約儀式。<br/><br/>　　本案緣起於屏北鐵路高架化，配合屏東縣政府地方發展政策，以都市更新權利變換方式整合活化車站周邊土地。本案基地面積約8,850m²，土地權屬以臺鐵公司為主並臨接部分私有地，基地形狀方整，位於車站東側站區街廓範圍，緊鄰交通轉運站、復興路及光復路，交通便利、機能完善，為市中心精華地帶，區位條件極為優越。<br/><br/>　　此區未來發展得力於屏東火車站交通串聯高鐵屏東站、臺鐵六塊厝車站及屏東科技產業園區，住商前景無限，預估完工後將與高鐵屏東站共創南高屏城際生活圈。<br/> <br/>　　本案建物以「屏東光埕、彩韻屏動」為設計概念，以智能、生態、樂購與文化為4大理念，初步規劃興建1幢3棟地上20層、地下4層的住商大樓，其中地上1至3層規劃商場空間、第4層規劃住宅公設及綠平臺、5至20層規劃住宅單元，將透過線型綠廊及綠平臺，創造雙鐵綠意的住商複合區。<br/><br/>　　未來期許成為南臺灣結合TOD場站開發的指標性商業結合住宅特區，透過公私協力，強化地方生活與經濟發展，締造投資人、私有地主、在地民眾、屏東縣政府與國營事業「五贏」局面，樹立屏東地區都市更新典範！</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/72e7953d-257a-4896-9f19-2af60af2aab5\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵與達麗建設聯手 打造屏東站前住商新銳 臺鐵與達麗建設聯手 打造屏東站前住商新銳 發佈日期：2025/12/10 下午 4:33 「屏東火車站東側土地公辦都市更新案」今(10)日在內政部董建宏次長、屏東縣黃國榮副縣長及臺鐵公司鄭光遠董事長的共同見證下，舉辦簽約儀式。 本案緣起於屏北鐵路高架化，配合屏東縣政府地方發展政策，以都市更新權利變換方式整合活化車站周邊土地。本案基地面積約8,850m²，土地權屬以臺鐵公司為主並臨接部分私有地，基地形狀方整，位於車站東側站區街廓範圍，緊鄰交通轉運站、復興路及光復路，交通便利、機能完善，為市中心精華地帶，區位條件極為優越。 此區未來發展得力於屏東火車站交通串聯高鐵屏東站、臺鐵六塊厝車站及屏東科技產業園區，住商前景無限，預估完工後將與高鐵屏東站共創南高屏城際生活圈。 本案建物以「屏東光埕、彩韻屏動」為設計概念，以智能、生態、樂購與文化為4大理念，初步規劃興建1幢3棟地上20層、地下4層的住商大樓，其中地上1至3層規劃商場空間、第4層規劃住宅公設及綠平臺、5至20層規劃住宅單元，將透過線型綠廊及綠平臺，創造雙鐵綠意的住商複合區。 未來期許成為南臺灣結合TOD場站開發的指標性商業結合住宅特區，透過公私協力，強化地方生活與經濟發展，締造投資人、私有地主、在地民眾、屏東縣政府與國營事業「五贏」局面，樹立屏東地區都市更新典範！ 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:846aca1e7555140fdb82ffcc636e575f",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Partial_Operation",
+          "affected_lines": [],
+          "affected_stations": [
+            "打造屏東",
+            "屏東火車",
+            "合活化車",
+            "位於車",
+            "東側",
+            "交通轉運",
+            "高鐵屏東",
+            "六塊厝車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29aff64a7019b06d4427f0306",
+    "title": "臺鐵公司115年元旦及跨年活動加開列車疏運旅客",
+    "publish_date": "2025/12/10",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29aff64a7019b06d4427f0306&page=1",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251210_臺鐵公司115年元旦及跨年活動加開列車疏運旅客"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:05.449397+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司115年元旦及跨年活動加開列車疏運旅客</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司115年元旦及跨年活動加開列車疏運旅客</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/10 下午 2:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司因應115年元旦疏運旅客需要，114年12月31日、115年1月1日及1月4日加開東線、西線及南半環自強號16班；另加開北部、中部、南部及宜蘭地區跨年晚會散場時段區間車25班。<br/>　　115年元旦加開列車車票訂於114年12月12日(五)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/74370a54-da8b-40f7-b0d9-b968885f5732\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 3.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/74370a54-da8b-40f7-b0d9-b968885f5732/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 3.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/fe5e5d86-362a-4a88-af9a-02430fb7a17c\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 2.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/fe5e5d86-362a-4a88-af9a-02430fb7a17c/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 2.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/6a3b77e9-632a-4f21-8133-15fc34096022\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 1.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/6a3b77e9-632a-4f21-8133-15fc34096022/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 1.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/aa6b11d3-1e0d-4517-8574-8e5737e3d233\" target=\"_blank\">\n<img alt=\"115年元旦跨年晚會加開區間車.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/aa6b11d3-1e0d-4517-8574-8e5737e3d233/360x270\" title=\"另開視窗下載-115年元旦跨年晚會加開區間車.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司115年元旦及跨年活動加開列車疏運旅客 臺鐵公司115年元旦及跨年活動加開列車疏運旅客 發佈日期：2025/12/10 下午 2:00 臺鐵公司因應115年元旦疏運旅客需要，114年12月31日、115年1月1日及1月4日加開東線、西線及南半環自強號16班；另加開北部、中部、南部及宜蘭地區跨年晚會散場時段區間車25班。 115年元旦加開列車車票訂於114年12月12日(五)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:cf7c911dd91618a496871678ccf86c3b",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29adb5b1f019ade1e69d605cf",
+    "title": "臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票",
+    "publish_date": "2025/12/01",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29adb5b1f019ade1e69d605cf&page=1",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251201_臺鐵公司114年行憲紀念日加開10列次_12月3日零時起開放"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:06.475007+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/1 下午 5:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司因應114年行憲紀念日疏運旅客需要，於114年12月24日、12月25日及12月28日加開自強號列車合計10列次，其中包含七堵=潮州EMU3000型自強號1列次、高雄=七堵EMU3000型自強號1列次、七堵=彰化EMU3000型自強號2列次、樹林=臺東EMU3000型自強號2列次及樹林=臺東普悠瑪號4列次。<br/><br/>　　本次加開班次訂於114年12月3日(三)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/bd363d98-48ea-4c41-bc73-71f78632048d\" target=\"_blank\">\n<img alt=\"西線自強號列車班次.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/bd363d98-48ea-4c41-bc73-71f78632048d/360x270\" title=\"另開視窗下載-西線自強號列車班次.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/610d8636-b541-4743-a58f-e523087bfafa\" target=\"_blank\">\n<img alt=\"東線自強號列車班次.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/610d8636-b541-4743-a58f-e523087bfafa/360x270\" title=\"另開視窗下載-東線自強號列車班次.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票 臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票 發佈日期：2025/12/1 下午 5:00 臺鐵公司因應114年行憲紀念日疏運旅客需要，於114年12月24日、12月25日及12月28日加開自強號列車合計10列次，其中包含七堵=潮州EMU3000型自強號1列次、高雄=七堵EMU3000型自強號1列次、七堵=彰化EMU3000型自強號2列次、樹林=臺東EMU3000型自強號2列次及樹林=臺東普悠瑪號4列次。 本次加開班次訂於114年12月3日(三)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:9655a70af20554620baac2b3a7c93944",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29adb5b1f019ade1cf96e05c7",
+    "title": "郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利",
+    "publish_date": "2025/12/01",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29adb5b1f019ade1cf96e05c7&page=1",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "中斷",
+        "持續"
+      ],
+      "event_group_id": "20251201_郵局停止代售臺鐵車票服務_使用_台鐵e訂通_四大超商購取票更"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:07.460013+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/1 下午 1:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為提升旅客購取票便利性，本公司自87年9月1日起開辦郵局取票服務，100年12月22日起導入超商取票，108年1月23日起再提供「台鐵e訂通APP」QR Code取票服務。鑒於多元售、取票管道已穩定成熟，自115年1月1日起，中華郵政公司將全面停止代售臺鐵車票服務。敬請旅客多加利用本公司台鐵e訂通APP及四大超商辦理購、取票，以便捷快速方式完成行程規劃。<br/><br/>一、「台鐵e訂通」APP隨時購票，手機即車票、乘車更便利<br/>使用「台鐵e訂通」APP辦理購票、取票及行程查詢等功能，主要便利性如下：<br/>•手機即時購票、付款、取票，一機完成<br/>•支援信用卡、行動支付(APPLE PAY、GOOGLE PAY)等多元付款方式<br/>•可直接出示APP內QR Code票證通過驗票，不需另行取紙票<br/>•提供行程變更、多張取票、退票等完整服務<br/><br/>二、四大超商24小時皆可購、取票，服務不中斷<br/>目前全臺超過一萬三千家超商(7-ELEVEN、全家、萊爾富、OK)皆提供臺鐵購、取票服務，無須受營業時間限制，旅客可就近前往操作機台完成購票或取票，節省往返車站的時間與排隊不便。<br/><br/>　　本公司將持續提升售票系統與多元票證服務，提供旅客更便利、友善的購票體驗。相關購票方式與操作資訊，歡迎至臺鐵官網查詢或下載「台鐵e訂通」APP。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利 郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利 發佈日期：2025/12/1 下午 1:00 為提升旅客購取票便利性，本公司自87年9月1日起開辦郵局取票服務，100年12月22日起導入超商取票，108年1月23日起再提供「台鐵e訂通APP」QR Code取票服務。鑒於多元售、取票管道已穩定成熟，自115年1月1日起，中華郵政公司將全面停止代售臺鐵車票服務。敬請旅客多加利用本公司台鐵e訂通APP及四大超商辦理購、取票，以便捷快速方式完成行程規劃。 一、「台鐵e訂通」APP隨時購票，手機即車票、乘車更便利 使用「台鐵e訂通」APP辦理購票、取票及行程查詢等功能，主要便利性如下： •手機即時購票、付款、取票，一機完成 •支援信用卡、行動支付(APPLE PAY、GOOGLE PAY)等多元付款方式 •可直接出示APP內QR Code票證通過驗票，不需另行取紙票 •提供行程變更、多張取票、退票等完整服務 二、四大超商24小時皆可購、取票，服務不中斷 目前全臺超過一萬三千家超商(7-ELEVEN、全家、萊爾富、OK)皆提供臺鐵購、取票服務，無須受營業時間限制，旅客可就近前往操作機台完成購票或取票，節省往返車站的時間與排隊不便。 本公司將持續提升售票系統與多元票證服務，提供旅客更便利、友善的購票體驗。相關購票方式與操作資訊，歡迎至臺鐵官網查詢或下載「台鐵e訂通」APP。 返回上一頁",
+        "content_hash": "md5:f9bd746ad99a2725969c0d8422aafc03",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [
+            "省往返車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29adb5b1f019ade1bbd0805c0",
+    "title": "臺鐵公司115年元旦假期訂票概況",
+    "publish_date": "2025/12/01",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29adb5b1f019ade1bbd0805c0&page=1",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251201_臺鐵公司115年元旦假期訂票概況"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:08.475298+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司115年元旦假期訂票概況</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司115年元旦假期訂票概況</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/1 上午 10:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司於今(1)日零時起，開放115年元旦假期(114年12月31日至115年1月5日)全線網路、台鐵e訂通APP、電話語音及超商訂票，截至今日上午9時止，總計完成2萬9,560筆、4萬6,374張訂票，訂票過程順利。<br/><br/>　　旅客完成訂票後，敬請於2日內(含訂票當日)至本公司各售票車站、郵局及便利超商(統一、全家、萊爾富、OK)取票；或利用「網路信用卡付款購票系統」及台鐵e訂通APP付款購票。逾期未取之車票，將於12月3日上午9時重新釋出。因旅客隨時有退、換票情形，詳細餘票請查閱本公司訂票網頁剩餘座位查詢功能。<br/><br/>截至今日上午9時車票預訂概況：<br/><br/>一、東部幹線車票預訂概況：<br/>(一)臺北往花蓮、臺東方向<br/>12月31日至115年1月1日，除臺北-臺東12月31日7時至15時，尚餘零星座位外，其餘各時段自強號仍有餘位。<br/>(二)臺東、花蓮往臺北方向<br/>115年1月4日，各時段自強號仍有餘位。<br/><br/>二、西部幹線車票預訂概況：<br/>(一)臺北往高雄方向<br/>12月31日至115年1月1日，各時段自強號仍有餘位。<br/>(二)高雄往臺北方向<br/>115年1月4日，各時段自強號仍有餘位。<br/><br/>三、南迴線車票預訂概況：<br/>(一)高雄往臺東方向<br/>12月31日至115年1月1日，各時段自強號仍有餘位。<br/>(二)臺東往高雄方向<br/>115年1月4日，各時段自強號仍有餘位。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司115年元旦假期訂票概況 臺鐵公司115年元旦假期訂票概況 發佈日期：2025/12/1 上午 10:00 臺鐵公司於今(1)日零時起，開放115年元旦假期(114年12月31日至115年1月5日)全線網路、台鐵e訂通APP、電話語音及超商訂票，截至今日上午9時止，總計完成2萬9,560筆、4萬6,374張訂票，訂票過程順利。 旅客完成訂票後，敬請於2日內(含訂票當日)至本公司各售票車站、郵局及便利超商(統一、全家、萊爾富、OK)取票；或利用「網路信用卡付款購票系統」及台鐵e訂通APP付款購票。逾期未取之車票，將於12月3日上午9時重新釋出。因旅客隨時有退、換票情形，詳細餘票請查閱本公司訂票網頁剩餘座位查詢功能。 截至今日上午9時車票預訂概況： 一、東部幹線車票預訂概況： (一)臺北往花蓮、臺東方向 12月31日至115年1月1日，除臺北-臺東12月31日7時至15時，尚餘零星座位外，其餘各時段自強號仍有餘位。 (二)臺東、花蓮往臺北方向 115年1月4日，各時段自強號仍有餘位。 二、西部幹線車票預訂概況： (一)臺北往高雄方向 12月31日至115年1月1日，各時段自強號仍有餘位。 (二)高雄往臺北方向 115年1月4日，各時段自強號仍有餘位。 三、南迴線車票預訂概況： (一)高雄往臺東方向 12月31日至115年1月1日，各時段自強號仍有餘位。 (二)臺東往高雄方向 115年1月4日，各時段自強號仍有餘位。 返回上一頁",
+        "content_hash": "md5:afdb947e2e6baa256378a5cd5597d658",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [
+            "西部幹線",
+            "東部幹線",
+            "南迴線"
+          ],
+          "affected_stations": [
+            "各售票車"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39ac6b25f019ac9eb8fa6063d",
+    "title": "臺鐵平溪線停駛期間十分、平溪、菁桐試辦開放施放天燈",
+    "publish_date": "2025/11/28",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39ac6b25f019ac9eb8fa6063d&page=1",
+    "classification": {
+      "category": "Disruption_Suspension",
+      "keywords": [
+        "停駛"
+      ],
+      "event_group_id": "20251128_臺鐵平溪線"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:09.475646+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵平溪線停駛期間十分、平溪、菁桐試辦開放施放天燈</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵平溪線停駛期間十分、平溪、菁桐試辦開放施放天燈</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/28 下午 5:47</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　有關臺鐵公司於平溪線停駛期間試辦開放十分、平溪、菁桐地區施放天燈，開放日期、範圍及注意事項說明如下:<br/>一、開放日期:自114年11月29日起至115年1月4日止，每周六、日及115年1月1日、2日元旦假期。<br/><br/>二、開放時段: 開放日期每日上午8時至下午8時止。<br/><br/>三、開放範圍:十分K6+160~K6+260(約十分街67號前~十分街113號前)、平溪K11+200~K11+230 (中華街14-1號~中華街28號)及菁桐K12+850~K12+980 (菁桐天燈館後方~菁桐街113號)。<br/><br/>四、注意事項:<br/>(一)臺鐵公司為搶修工程必要及安全因素考量下，得現場暫停天燈施放，並在考量因素解除後恢復。<br/>(二)未開放時間範圍仍須依鐵路法辦理。<br/>(三)其餘施放天燈注意事項，須依照新北市政府天燈施放區域告示辦理。<br/>(四)臺鐵公司緊急通報電話1933。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵平溪線停駛期間十分、平溪、菁桐試辦開放施放天燈 臺鐵平溪線停駛期間十分、平溪、菁桐試辦開放施放天燈 發佈日期：2025/11/28 下午 5:47 有關臺鐵公司於平溪線停駛期間試辦開放十分、平溪、菁桐地區施放天燈，開放日期、範圍及注意事項說明如下: 一、開放日期:自114年11月29日起至115年1月4日止，每周六、日及115年1月1日、2日元旦假期。 二、開放時段: 開放日期每日上午8時至下午8時止。 三、開放範圍:十分K6+160~K6+260(約十分街67號前~十分街113號前)、平溪K11+200~K11+230 (中華街14-1號~中華街28號)及菁桐K12+850~K12+980 (菁桐天燈館後方~菁桐街113號)。 四、注意事項: (一)臺鐵公司為搶修工程必要及安全因素考量下，得現場暫停天燈施放，並在考量因素解除後恢復。 (二)未開放時間範圍仍須依鐵路法辦理。 (三)其餘施放天燈注意事項，須依照新北市政府天燈施放區域告示辦理。 (四)臺鐵公司緊急通報電話1933。 返回上一頁",
+        "content_hash": "md5:7d1bcaaa172e05822d85f582688416a6",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29ac19851019ac2da7ff502c1",
+    "title": "2026臺鐵桌月曆「重現無可取代的故事」",
+    "publish_date": "2025/11/27",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29ac19851019ac2da7ff502c1&page=1",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251127_2026臺鐵桌月曆_重現無可取代的故事"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-19T10:45:10.454768+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>2026臺鐵桌月曆「重現無可取代的故事」</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>2026臺鐵桌月曆「重現無可取代的故事」</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/27 上午 9:04</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">2026年本公司桌月曆以「重現臺鐵無可取代的故事」為主軸，透過影像喚起民眾記憶中「那一年我們一起追的火車」，帶領舊雨新知重新認識臺鐵的軌跡與情感。<br/>2026年「追焦絕美」桌曆以「拍不到的最美」為主題，網羅臺鐵退役列車、廢站改線、地貌變更前的經典畫面等珍貴影像，呈現難得一見的鐵道之美。透過重現當時風景，喚起民眾的追焦記憶，也激發收藏的熱情。<br/>2026年「連結∞跨越」月曆則以橋樑為核心概念，象徵串聯臺灣人的情感！今年花蓮光復鄉遭逢天災，臺鐵列車與橋梁在救災中展現連結與跨越的重要能量。月曆收錄臺鐵最新列車至退役車種穿越橋梁的英姿，期盼民眾重新體認臺灣鐵路橋梁的重要性。<br/>2026年臺鐵桌月曆同步升級國際化，新增英文說明，期望讓更多國內外鐵道迷們深入了解臺灣鐵路發展，並促進國際交流。「追焦絕美」桌曆售價200元，「連結∞跨越」月曆售價250元；自2025年11月28日起於「臺鐵夢工場網路商店」及「臺鐵各實體門市」正式販售。凡購買桌曆+月曆，可享合購價399元！合購優惠每人每次限購8組，限量商品售完為止，敬請把握！<br/></div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/7846d522-428b-4046-ab8f-f2e587e1bc2b\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-2026臺鐵桌月曆「重現無可取代的故事」-新聞稿.pdf\" type=\"submit\">2026臺鐵桌月曆「重現無可取代的故事」-新聞稿.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 2026臺鐵桌月曆「重現無可取代的故事」 2026臺鐵桌月曆「重現無可取代的故事」 發佈日期：2025/11/27 上午 9:04 2026年本公司桌月曆以「重現臺鐵無可取代的故事」為主軸，透過影像喚起民眾記憶中「那一年我們一起追的火車」，帶領舊雨新知重新認識臺鐵的軌跡與情感。 2026年「追焦絕美」桌曆以「拍不到的最美」為主題，網羅臺鐵退役列車、廢站改線、地貌變更前的經典畫面等珍貴影像，呈現難得一見的鐵道之美。透過重現當時風景，喚起民眾的追焦記憶，也激發收藏的熱情。 2026年「連結∞跨越」月曆則以橋樑為核心概念，象徵串聯臺灣人的情感！今年花蓮光復鄉遭逢天災，臺鐵列車與橋梁在救災中展現連結與跨越的重要能量。月曆收錄臺鐵最新列車至退役車種穿越橋梁的英姿，期盼民眾重新體認臺灣鐵路橋梁的重要性。 2026年臺鐵桌月曆同步升級國際化，新增英文說明，期望讓更多國內外鐵道迷們深入了解臺灣鐵路發展，並促進國際交流。「追焦絕美」桌曆售價200元，「連結∞跨越」月曆售價250元；自2025年11月28日起於「臺鐵夢工場網路商店」及「臺鐵各實體門市」正式販售。凡購買桌曆+月曆，可享合購價399元！合購優惠每人每次限購8組，限量商品售完為止，敬請把握！ 附件下載： 2026臺鐵桌月曆「重現無可取代的故事」-新聞稿.pdf 返回上一頁",
+        "content_hash": "md5:1cb1e78ce862851144d78a9255cd19af",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
