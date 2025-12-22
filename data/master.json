@@ -8211,6 +8211,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-22T20:55:34.527669+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560029123155><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560029123155> [Go Back]",
+        "content_hash": "md5:632520d316947632663381745b5ecf88",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
