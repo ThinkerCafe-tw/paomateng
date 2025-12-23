@@ -29,13 +29,12 @@
             "平溪線"
           ],
           "affected_stations": [
-            "平溪線各",
-            "駁車停靠",
-            "及菁桐等",
-            "停靠公車",
+            "嶺腳",
+            "望古",
+            "十分",
+            "平溪",
             "瑞芳",
-            "司官方網",
-            "或就近車"
+            "菁桐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -266,7 +265,11 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "臺東",
+            "光復",
+            "湖口"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -283,7 +286,11 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "臺東",
+            "光復",
+            "湖口"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -300,7 +307,11 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "臺東",
+            "光復",
+            "湖口"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -317,7 +328,11 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "臺東",
+            "光復",
+            "湖口"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -350,8 +365,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "增停光復",
-            "鐵公司網"
+            "花蓮",
+            "光復"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -370,8 +385,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "增停光復",
-            "鐵公司網"
+            "花蓮",
+            "光復"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -471,14 +486,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "化臺北車",
-            "強臺北車",
-            "鐵警與車",
-            "保全及車",
-            "加強",
-            "對於",
-            "本改善車",
-            "保旅客與"
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -497,14 +505,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "化臺北車",
-            "強臺北車",
-            "鐵警與車",
-            "保全及車",
-            "加強",
-            "對於",
-            "本改善車",
-            "保旅客與"
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -523,14 +524,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "化臺北車",
-            "強臺北車",
-            "鐵警與車",
-            "保全及車",
-            "加強",
-            "對於",
-            "本改善車",
-            "保旅客與"
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -549,14 +543,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "化臺北車",
-            "強臺北車",
-            "鐵警與車",
-            "保全及車",
-            "加強",
-            "對於",
-            "本改善車",
-            "保旅客與"
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -589,7 +576,12 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "花蓮",
+            "樹林",
+            "彰化",
+            "七堵"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -622,10 +614,11 @@
           "status": "Partial_Operation",
           "affected_lines": [],
           "affected_stations": [
-            "臺鐵臺中",
-            "彰化",
+            "新烏日",
             "新竹",
-            "鐵新烏日"
+            "烏日",
+            "彰化",
+            "臺中"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -644,10 +637,11 @@
           "status": "Partial_Operation",
           "affected_lines": [],
           "affected_stations": [
-            "臺鐵臺中",
-            "彰化",
+            "新烏日",
             "新竹",
-            "鐵新烏日"
+            "烏日",
+            "彰化",
+            "臺中"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -680,9 +674,7 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "請配合車"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -699,9 +691,7 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "請配合車"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -718,9 +708,7 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "請配合車"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -753,9 +741,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "不須到車",
-            "票可至車",
-            "由車"
+            "花蓮",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -789,15 +776,15 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "增停光復",
-            "全面開放",
-            "東段間各",
-            "駛至光復",
-            "及萬榮等",
-            "簡化進",
+            "吉安",
+            "萬榮",
+            "花蓮",
             "光復",
-            "並提供進",
-            "購票及進"
+            "志學",
+            "鳳林",
+            "台東",
+            "豐田",
+            "壽豐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -897,15 +884,14 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "增停光復",
-            "全面開放",
-            "東段間各",
-            "駛至光復",
-            "及萬榮等",
-            "簡化進",
+            "吉安",
+            "萬榮",
+            "花蓮",
             "光復",
-            "並提供進",
-            "購票及進"
+            "志學",
+            "鳳林",
+            "台東",
+            "壽豐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -970,7 +956,11 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "豐富",
+            "臺北",
+            "板橋"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -1011,10 +1001,9 @@
             "臺東線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "各車",
-            "致列車到"
+            "臺東",
+            "鹿野",
+            "山里"
           ],
           "predicted_resumption_time": "2025-09-25T05:30:00+08:00",
           "actual_resumption_time": null,
@@ -1058,9 +1047,13 @@
             "臺東線"
           ],
           "affected_stations": [
-            "由臺東",
-            "線至高雄",
-            "新左營"
+            "臺東",
+            "鹿野",
+            "新左營",
+            "山里",
+            "左營",
+            "關山",
+            "高雄"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1106,10 +1099,14 @@
             "臺東線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "各車",
-            "致列車到"
+            "臺東",
+            "鹿野",
+            "花蓮",
+            "樹林",
+            "山里",
+            "七堵",
+            "關山",
+            "員林"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1142,7 +1139,9 @@
           "event_type": null,
           "status": "Suspended",
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "彰化"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -1159,7 +1158,9 @@
           "event_type": null,
           "status": "Suspended",
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "彰化"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -1203,10 +1204,22 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "各車",
-            "票至各車"
+            "六家",
+            "玉里",
+            "萬榮",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "光復",
+            "平溪",
+            "內灣",
+            "枋寮",
+            "鳳林",
+            "潮州",
+            "瑞穗"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-09-24T08:00:00+08:00",
@@ -1252,16 +1265,19 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "東線鳳林",
-            "至瑞穗",
-            "駛至花蓮",
-            "駛至玉里",
-            "駛至鳳林",
-            "駛至瑞穗",
-            "司官方網",
-            "各就近車",
-            "各車",
-            "票至各車"
+            "六家",
+            "玉里",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "枋寮",
+            "鳳林",
+            "潮州",
+            "瑞穗"
           ],
           "predicted_resumption_time": "2025-09-24T10:00:00+08:00",
           "actual_resumption_time": null,
@@ -1305,13 +1321,17 @@
             "臺東線"
           ],
           "affected_stations": [
+            "宜蘭",
+            "蘇澳",
+            "臺東",
+            "新左營",
+            "花蓮",
+            "漢本",
+            "蘇澳新",
+            "枋寮",
             "羅東",
-            "或蘇澳新",
-            "駛至漢本",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1387,12 +1407,19 @@
             "臺東線"
           ],
           "affected_stations": [
+            "宜蘭",
+            "蘇澳",
+            "臺東",
+            "新左營",
+            "臺南",
+            "花蓮",
+            "臺中",
+            "蘇澳新",
+            "枋寮",
             "羅東",
-            "或蘇澳新",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "七堵",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1434,13 +1461,18 @@
             "臺東線"
           ],
           "affected_stations": [
-            "駛至宜蘭",
+            "宜蘭",
+            "蘇澳",
+            "臺東",
+            "南港",
+            "新左營",
+            "花蓮",
+            "臺中",
+            "蘇澳新",
+            "枋寮",
             "羅東",
-            "或蘇澳新",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1474,7 +1506,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "員林火車"
+            "員林"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1514,10 +1546,14 @@
             "南迴線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "臺東",
+            "新左營",
+            "花蓮",
+            "臺中",
+            "枋寮",
+            "七堵",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1557,10 +1593,16 @@
             "南迴線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "臺東",
+            "新左營",
+            "花蓮",
+            "樹林",
+            "彰化",
+            "臺中",
+            "枋寮",
+            "七堵",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1594,7 +1636,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "松山車"
+            "松山"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1631,8 +1673,6 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
             "有各車"
           ],
           "predicted_resumption_time": null,
@@ -1698,7 +1738,11 @@
           "event_type": null,
           "status": "Suspended",
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "臺東",
+            "花蓮",
+            "光復"
+          ],
           "predicted_resumption_time": "2025-10-27T23:59:00+08:00",
           "actual_resumption_time": null,
           "service_type": null,
@@ -1731,9 +1775,15 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "鐵經典車",
-            "大經典車",
-            "的臺南車"
+            "臺東",
+            "南港",
+            "豐富",
+            "臺南",
+            "花蓮",
+            "松山",
+            "臺北",
+            "臺中",
+            "高雄"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1767,7 +1817,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "停靠"
+            "臺北",
+            "彰化",
+            "臺中",
+            "七堵"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1800,9 +1853,7 @@
           "event_type": null,
           "status": "Partial_Operation",
           "affected_lines": [],
-          "affected_stations": [
-            "為提升網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -1867,11 +1918,15 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "鐵道尋",
-            "能親臨小",
-            "個花東小",
-            "一指定小",
-            "訪沿線小"
+            "大富",
+            "東竹",
+            "平和",
+            "康樂",
+            "漢本",
+            "三民",
+            "山里",
+            "海端",
+            "瑞和"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1904,7 +1959,17 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "宜蘭",
+            "臺東",
+            "新竹",
+            "花蓮",
+            "基隆",
+            "臺北",
+            "台東",
+            "桃園",
+            "台北"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -1945,10 +2010,17 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "各車",
-            "票至各車"
+            "六家",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "枋寮",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -1997,10 +2069,26 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "各車",
-            "票至各車"
+            "六家",
+            "斗六",
+            "宜蘭",
+            "臺東",
+            "南港",
+            "集集",
+            "新左營",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "嘉義",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "枋寮",
+            "左營",
+            "潮州",
+            "員林",
+            "台中"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2049,10 +2137,25 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "各車",
-            "票至各車"
+            "六家",
+            "斗六",
+            "宜蘭",
+            "臺東",
+            "南港",
+            "集集",
+            "新左營",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "枋寮",
+            "左營",
+            "潮州",
+            "員林",
+            "台中"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2096,10 +2199,17 @@
             "花東線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "各車",
-            "票至各車"
+            "宜蘭",
+            "臺東",
+            "南港",
+            "新左營",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "彰化",
+            "枋寮",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2136,10 +2246,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
             "有各車",
-            "票至各車"
+            "各車"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2212,11 +2320,9 @@
             "南迴線"
           ],
           "affected_stations": [
-            "幹線林內",
+            "斗六",
             "林內",
-            "透過",
-            "車次開放",
-            "致列車到"
+            "二水"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-08-03T16:50:00+08:00",
@@ -2257,10 +2363,9 @@
             "西部幹線"
           ],
           "affected_stations": [
-            "幹線林內",
+            "斗六",
             "林內",
-            "並透過",
-            "致列車到"
+            "二水"
           ],
           "predicted_resumption_time": "2025-08-03T16:00:00+08:00",
           "actual_resumption_time": null,
@@ -2294,16 +2399,20 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "鐵道尋",
-            "的鐵路小",
-            "次活動車",
-            "定活動車",
-            "與車",
-            "售活動車",
-            "端為簡易",
-            "所屬管理",
-            "源及關山",
-            "找車"
+            "大富",
+            "東竹",
+            "平和",
+            "瑞源",
+            "康樂",
+            "花蓮",
+            "漢本",
+            "富源",
+            "三民",
+            "山里",
+            "海端",
+            "關山",
+            "瑞和",
+            "壽豐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2346,11 +2455,11 @@
             "南迴線"
           ],
           "affected_stations": [
+            "瀧溪",
             "大武",
-            "枋寮",
-            "太麻里",
             "臺東",
-            "致列車到"
+            "太麻里",
+            "枋寮"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-07-27T20:02:00+08:00",
@@ -2389,9 +2498,10 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
+            "瀧溪",
             "大武",
-            "於太麻里",
-            "及枋寮"
+            "太麻里",
+            "枋寮"
           ],
           "predicted_resumption_time": "2025-07-27T19:00:00+08:00",
           "actual_resumption_time": null,
@@ -2427,7 +2537,9 @@
             "南迴線"
           ],
           "affected_stations": [
-            "大武"
+            "瀧溪",
+            "大武",
+            "台東"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2470,9 +2582,17 @@
           ],
           "affected_stations": [
             "瀧溪",
-            "疏運臺東",
-            "列車開放",
-            "致列車到"
+            "金崙",
+            "大武",
+            "臺東",
+            "新左營",
+            "花蓮",
+            "樹林",
+            "臺北",
+            "太麻里",
+            "知本",
+            "古莊",
+            "左營"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-07-21T18:50:00+08:00",
@@ -2513,14 +2633,14 @@
           ],
           "affected_stations": [
             "瀧溪",
-            "駛至臺東",
-            "駛至枋寮",
-            "次於金崙",
-            "返至臺東",
-            "次於大武",
-            "返至潮州",
-            "已透過",
-            "致列車到"
+            "金崙",
+            "大武",
+            "臺東",
+            "太麻里",
+            "知本",
+            "古莊",
+            "枋寮",
+            "潮州"
           ],
           "predicted_resumption_time": "2025-07-21T06:11:00+08:00",
           "actual_resumption_time": null,
@@ -2559,7 +2679,8 @@
             "西部幹線"
           ],
           "affected_stations": [
-            "致列車到"
+            "林內",
+            "二水"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-07-08T17:28:00+08:00",
@@ -2598,7 +2719,9 @@
             "西部幹線"
           ],
           "affected_stations": [
-            "致列車到"
+            "斗六",
+            "林內",
+            "二水"
           ],
           "predicted_resumption_time": "2025-07-08T18:00:00+08:00",
           "actual_resumption_time": "2025-07-08T16:48:00+08:00",
@@ -2639,8 +2762,9 @@
             "西部幹線"
           ],
           "affected_stations": [
-            "並透過",
-            "致列車到"
+            "嘉義",
+            "林內",
+            "二水"
           ],
           "predicted_resumption_time": "2025-07-08T18:00:00+08:00",
           "actual_resumption_time": null,
@@ -2686,10 +2810,16 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "臺東",
+            "集集",
+            "花蓮",
+            "沙崙",
+            "臺北",
+            "平溪",
+            "內灣",
+            "七堵",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2739,10 +2869,21 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "斗六",
+            "臺東",
+            "集集",
+            "新左營",
+            "臺南",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "嘉義",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2792,10 +2933,20 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "臺東",
+            "新竹",
+            "集集",
+            "新左營",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "嘉義",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2838,11 +2989,11 @@
             "臺東線"
           ],
           "affected_stations": [
-            "強號開放",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "宜蘭",
+            "臺東",
+            "新左營",
+            "屏東",
+            "左營"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2882,10 +3033,8 @@
             "南迴線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
             "有各車",
-            "票至各車"
+            "各車"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2919,13 +3068,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "員林火車",
-            "屬員林車",
-            "土地及車",
-            "東至與車",
-            "而車",
-            "新入口網",
-            "限公司網"
+            "彰化",
+            "員林"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -2961,10 +3105,10 @@
             "內灣線"
           ],
           "affected_stations": [
-            "可於竹東",
-            "快來竹東",
-            "傳社群網",
-            "至竹東車"
+            "竹東",
+            "新竹",
+            "豐富",
+            "內灣"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3030,16 +3174,26 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "日起或迄",
-            "含指定車",
-            "個指定車",
-            "於指定車",
-            "客在每一",
-            "臺北",
-            "臺中",
-            "高雄",
+            "礁溪",
+            "臺東",
+            "新竹",
+            "集集",
+            "臺南",
+            "岡山",
             "花蓮",
-            "印兌換車"
+            "松山",
+            "嘉義",
+            "十分",
+            "臺北",
+            "太麻里",
+            "彰化",
+            "臺中",
+            "內灣",
+            "枋寮",
+            "瑞芳",
+            "高雄",
+            "池上",
+            "二水"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3076,7 +3230,11 @@
           "affected_lines": [
             "北迴線"
           ],
-          "affected_stations": [],
+          "affected_stations": [
+            "清水",
+            "崇德",
+            "和仁"
+          ],
           "predicted_resumption_time": "2025-05-21T05:30:00+08:00",
           "actual_resumption_time": null,
           "service_type": null,
@@ -3115,12 +3273,15 @@
             "北迴線"
           ],
           "affected_stations": [
-            "至蘇澳新",
-            "駛至花蓮",
-            "行至和仁",
-            "行至崇德",
-            "全面開放",
-            "致列車到"
+            "蘇澳",
+            "臺東",
+            "新左營",
+            "花蓮",
+            "臺北",
+            "蘇澳新",
+            "崇德",
+            "和仁",
+            "左營"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3160,13 +3321,15 @@
             "北迴線"
           ],
           "affected_stations": [
-            "行至和平",
-            "行至新城",
-            "行至和仁",
-            "行至崇德",
-            "全面開放",
-            "號不開放",
-            "致列車到"
+            "和平",
+            "宜蘭",
+            "花蓮",
+            "臺北",
+            "崇德",
+            "和仁",
+            "七堵",
+            "潮州",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3206,13 +3369,15 @@
             "北迴線"
           ],
           "affected_stations": [
-            "行至和平",
-            "行至新城",
-            "行至和仁",
-            "行至崇德",
-            "全面開放",
-            "號不開放",
-            "致列車到"
+            "和平",
+            "臺東",
+            "花蓮",
+            "樹林",
+            "彰化",
+            "崇德",
+            "和仁",
+            "七堵",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3253,13 +3418,15 @@
             "北迴線"
           ],
           "affected_stations": [
-            "駛至新城",
-            "駛至七堵",
-            "行至和平",
-            "行至花蓮",
-            "全面開放",
-            "號不開放",
-            "致列車到"
+            "和平",
+            "花蓮",
+            "樹林",
+            "崇德",
+            "和仁",
+            "台東",
+            "七堵",
+            "新城",
+            "壽豐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3301,9 +3468,15 @@
             "北迴線"
           ],
           "affected_stations": [
-            "並加強各",
-            "全面開放",
-            "致列車到"
+            "和平",
+            "新左營",
+            "花蓮",
+            "清水",
+            "崇德",
+            "和仁",
+            "左營",
+            "高雄",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-05-19T05:32:00+08:00",
@@ -3344,20 +3517,21 @@
             "北迴線"
           ],
           "affected_stations": [
-            "駛至宜蘭",
-            "駛至羅東",
-            "至蘇澳新",
-            "駛至和平",
-            "駛至新城",
-            "次由宜蘭",
-            "次由羅東",
-            "由蘇澳新",
-            "次由和平",
-            "駛至和仁",
-            "駛至崇德",
-            "駛至臺東",
-            "改由臺東",
-            "列車開放"
+            "和平",
+            "宜蘭",
+            "蘇澳",
+            "臺東",
+            "花蓮",
+            "樹林",
+            "臺北",
+            "蘇澳新",
+            "崇德",
+            "和仁",
+            "羅東",
+            "新城",
+            "瑞穗",
+            "壽豐",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3400,25 +3574,20 @@
             "北迴線"
           ],
           "affected_stations": [
-            "並加強各",
-            "全面開放",
-            "自新左營",
-            "到新左營",
-            "並加強",
-            "次新左營",
-            "至七堵",
-            "駛至羅東",
-            "駛至和平",
-            "駛至南澳",
-            "駛至花蓮",
-            "駛至新城",
-            "次由羅東",
-            "次由和平",
-            "次由南澳",
-            "駛至和仁",
-            "駛至崇德",
-            "駛至臺東",
-            "改由臺東"
+            "和平",
+            "南澳",
+            "臺東",
+            "新左營",
+            "花蓮",
+            "臺北",
+            "清水",
+            "崇德",
+            "和仁",
+            "羅東",
+            "七堵",
+            "左營",
+            "高雄",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3461,14 +3630,16 @@
             "北迴線"
           ],
           "affected_stations": [
-            "至蘇澳新",
-            "車至和平",
-            "駛至花蓮",
-            "並加強各",
-            "全面開放",
-            "自新左營",
-            "到新左營",
-            "並加強"
+            "和平",
+            "蘇澳",
+            "臺東",
+            "新左營",
+            "花蓮",
+            "蘇澳新",
+            "崇德",
+            "和仁",
+            "左營",
+            "高雄"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3508,11 +3679,13 @@
             "北迴線"
           ],
           "affected_stations": [
-            "至蘇澳新",
-            "車至和平",
-            "駛至花蓮",
-            "列車開放",
-            "並加強各"
+            "和平",
+            "蘇澳",
+            "花蓮",
+            "蘇澳新",
+            "崇德",
+            "和仁",
+            "高雄"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3551,10 +3724,12 @@
           "status": "Resumed_Single_Track",
           "affected_lines": [],
           "affected_stations": [
-            "駛至潮州",
-            "駛至臺東",
-            "至加祿",
-            "之內至各"
+            "加祿",
+            "大武",
+            "臺東",
+            "枋寮",
+            "枋山",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-05-16T19:49:00+08:00",
@@ -3592,10 +3767,12 @@
           "status": "Resumed_Single_Track",
           "affected_lines": [],
           "affected_stations": [
-            "駛至潮州",
-            "駛至臺東",
-            "已至加祿",
-            "之內至各"
+            "加祿",
+            "大武",
+            "臺東",
+            "枋寮",
+            "枋山",
+            "潮州"
           ],
           "predicted_resumption_time": "2025-05-16T19:00:00+08:00",
           "actual_resumption_time": null,
@@ -3633,8 +3810,10 @@
           "status": "Resumed_Single_Track",
           "affected_lines": [],
           "affected_stations": [
-            "已至加祿",
-            "之內至各"
+            "加祿",
+            "大武",
+            "枋寮",
+            "枋山"
           ],
           "predicted_resumption_time": "2025-05-16T19:00:00+08:00",
           "actual_resumption_time": null,
@@ -3710,20 +3889,9 @@
             "南迴線"
           ],
           "affected_stations": [
+            "臺東",
             "康樂",
-            "拖回臺東",
-            "車至康樂",
-            "客至知本",
-            "票至各車",
-            "至車",
-            "至各車",
-            "於起程",
-            "返回起程",
-            "依車",
-            "鐵官方網",
-            "各就近車",
-            "司官方網",
-            "有各車"
+            "知本"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-04-12T17:10:00+08:00",
@@ -3767,15 +3935,7 @@
           "affected_stations": [
             "內壢",
             "富岡",
-            "分起內壢",
-            "至富岡",
-            "請各",
-            "票至各車",
-            "至車",
-            "至各車",
-            "於起程",
-            "返回起程",
-            "依車"
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3816,9 +3976,7 @@
           "affected_stations": [
             "內壢",
             "富岡",
-            "分起內壢",
-            "至富岡",
-            "請各"
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -3888,9 +4046,7 @@
           "affected_lines": [
             "花東線"
           ],
-          "affected_stations": [
-            "各場"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -3922,10 +4078,7 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "姊妹車",
-            "武球場前"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -3962,7 +4115,9 @@
           "status": "Resumed_Single_Track",
           "affected_lines": [],
           "affected_stations": [
-            "鐵官方網"
+            "雙溪",
+            "三貂嶺",
+            "七堵"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4029,9 +4184,7 @@
           "affected_lines": [
             "西部幹線"
           ],
-          "affected_stations": [
-            "或於各車"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -4070,10 +4223,15 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "新增加車",
-            "加通勤車",
-            "各場",
-            "架化及車"
+            "六家",
+            "斗六",
+            "宜蘭",
+            "臺南",
+            "嘉義",
+            "沙崙",
+            "彰化",
+            "田中",
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4110,9 +4268,13 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "斗六",
+            "臺南",
+            "嘉義",
+            "花壇",
+            "善化",
+            "新營",
+            "二水"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4151,9 +4313,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "嘉義"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4191,14 +4351,18 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "與新烏日",
-            "及新左營",
-            "停新左營",
             "新烏日",
-            "並開放",
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "烏日",
+            "新左營",
+            "岡山",
+            "嘉義",
+            "彰化",
+            "臺中",
+            "富里",
+            "香山",
+            "左營",
+            "瑞穗",
+            "沙鹿"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4236,10 +4400,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "受善化",
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "新市",
+            "善化"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-01-27T13:08:00+08:00",
@@ -4278,11 +4440,8 @@
           "status": "Resumed_Single_Track",
           "affected_lines": [],
           "affected_stations": [
-            "受善化",
-            "開放",
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "新市",
+            "善化"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2025-01-27T10:19:00+08:00",
@@ -4319,10 +4478,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "受善化",
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "隆田",
+            "新市",
+            "善化"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4360,11 +4518,9 @@
           "status": "Partial_Operation",
           "affected_lines": [],
           "affected_stations": [
-            "線於汐止",
-            "及南港",
-            "改由七堵",
-            "請至汐止",
-            "鐵官方網"
+            "汐止",
+            "南港",
+            "七堵"
           ],
           "predicted_resumption_time": "2025-01-04T00:00:00+08:00",
           "actual_resumption_time": null,
@@ -4403,9 +4559,8 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "七堵",
-            "客於七堵",
-            "鐵官方網"
+            "基隆",
+            "七堵"
           ],
           "predicted_resumption_time": "2025-01-04T00:00:00+08:00",
           "actual_resumption_time": null,
@@ -4470,7 +4625,9 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "豐富"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -4512,9 +4669,19 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "六家",
+            "臺東",
+            "集集",
+            "新左營",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "枋寮",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4557,10 +4724,24 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "臺東",
+            "南港",
+            "集集",
+            "新左營",
+            "臺南",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "知本",
+            "臺中",
+            "內灣",
+            "枋寮",
+            "台東",
+            "左營",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4641,9 +4822,17 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "六家",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "枋寮",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4687,9 +4876,17 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車"
+            "六家",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "枋寮",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4730,7 +4927,15 @@
             "花東線"
           ],
           "affected_stations": [
-            "山里"
+            "玉里",
+            "東里",
+            "光復",
+            "景美",
+            "南平",
+            "崇德",
+            "山里",
+            "和仁",
+            "北埔"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4782,11 +4987,28 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "全面開放",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "玉里",
+            "宜蘭",
+            "蘇澳",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "日南",
+            "臺北",
+            "平溪",
+            "彰化",
+            "八堵",
+            "內灣",
+            "枋寮",
+            "羅東",
+            "台東",
+            "七堵",
+            "潮州",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4838,10 +5060,31 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "吉安",
+            "玉里",
+            "宜蘭",
+            "蘇澳",
+            "鹿野",
+            "南港",
+            "集集",
+            "花蓮",
+            "基隆",
+            "東里",
+            "沙崙",
+            "富源",
+            "光復",
+            "平溪",
+            "志學",
+            "八堵",
+            "景美",
+            "南平",
+            "內灣",
+            "枋寮",
+            "山里",
+            "台東",
+            "七堵",
+            "北埔"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4887,11 +5130,23 @@
             "花東線"
           ],
           "affected_stations": [
+            "吉安",
+            "保安",
             "汐科",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "宜蘭",
+            "蘇澳",
+            "汐止",
+            "南港",
+            "花蓮",
+            "基隆",
+            "富源",
+            "光復",
+            "志學",
+            "八堵",
+            "景美",
+            "枋寮",
+            "台東",
+            "北埔"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4937,15 +5192,29 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "至蘇澳新",
+            "六家",
+            "和平",
+            "宜蘭",
+            "蘇澳",
+            "臺東",
+            "新竹",
+            "集集",
+            "花蓮",
+            "基隆",
+            "沙崙",
+            "臺北",
+            "平溪",
+            "彰化",
+            "內灣",
+            "蘇澳新",
+            "崇德",
+            "枋寮",
+            "和仁",
             "羅東",
-            "駛至和仁",
-            "或和平",
-            "駛至新城",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "七堵",
+            "潮州",
+            "新城",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -4995,15 +5264,25 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "至蘇澳新",
+            "六家",
+            "和平",
+            "宜蘭",
+            "蘇澳",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "沙崙",
+            "臺北",
+            "平溪",
+            "內灣",
+            "蘇澳新",
+            "崇德",
+            "枋寮",
+            "和仁",
             "羅東",
-            "駛至和仁",
-            "或和平",
-            "駛至新城",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "潮州",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5046,10 +5325,20 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "新竹",
+            "竹南",
+            "集集",
+            "基隆",
+            "嘉義",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "苗栗",
+            "枋寮",
+            "北湖",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5092,10 +5381,15 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "六家",
+            "集集",
+            "基隆",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "枋寮",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5132,7 +5426,7 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "內至各車"
+            "各車"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5172,8 +5466,9 @@
             "南迴線"
           ],
           "affected_stations": [
-            "全面開放",
-            "票至各車"
+            "臺東",
+            "新左營",
+            "左營"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5211,9 +5506,7 @@
           "event_type": "Typhoon",
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "閘門及車"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -5251,7 +5544,7 @@
             "南迴線"
           ],
           "affected_stations": [
-            "及清理車"
+            "太麻里"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5321,14 +5614,10 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "支線濁水",
-            "至車埕",
-            "行駛二水",
-            "至濁水",
+            "集集",
             "濁水",
-            "間為濁水",
-            "現行集集",
-            "訊及各車"
+            "車埕",
+            "二水"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5402,13 +5691,12 @@
             "平溪線"
           ],
           "affected_stations": [
-            "平溪線各",
-            "駁車停靠",
-            "及菁桐等",
-            "停靠公車",
+            "嶺腳",
+            "望古",
+            "十分",
+            "平溪",
             "瑞芳",
-            "司官方網",
-            "或就近車"
+            "菁桐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5429,13 +5717,12 @@
             "平溪線"
           ],
           "affected_stations": [
-            "平溪線各",
-            "駁車停靠",
-            "及菁桐等",
-            "停靠公車",
+            "嶺腳",
+            "望古",
+            "十分",
+            "平溪",
             "瑞芳",
-            "司官方網",
-            "或就近車"
+            "菁桐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5472,7 +5759,7 @@
           ],
           "affected_stations": [
             "樹林",
-            "午在樹林"
+            "平溪"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5494,7 +5781,7 @@
           ],
           "affected_stations": [
             "樹林",
-            "午在樹林"
+            "平溪"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5530,13 +5817,13 @@
             "平溪線"
           ],
           "affected_stations": [
-            "平溪線各",
-            "駁車停靠",
-            "及菁桐等",
-            "停靠公車",
+            "嶺腳",
+            "望古",
+            "十分",
+            "光復",
+            "平溪",
             "瑞芳",
-            "司官方網",
-            "或就近車"
+            "菁桐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5577,13 +5864,14 @@
             "平溪線"
           ],
           "affected_stations": [
-            "平溪線各",
-            "駁車停靠",
-            "及菁桐等",
-            "停靠公車",
+            "嶺腳",
+            "大華",
+            "望古",
+            "十分",
+            "平溪",
             "瑞芳",
-            "司官方網",
-            "或就近車"
+            "菁桐",
+            "三貂嶺"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5619,8 +5907,13 @@
             "平溪線"
           ],
           "affected_stations": [
-            "司官方網",
-            "或就近車"
+            "嶺腳",
+            "望古",
+            "十分",
+            "光復",
+            "平溪",
+            "瑞芳",
+            "菁桐"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5686,11 +5979,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "台北車",
-            "開台北車",
-            "從台北車",
-            "偌大的",
-            "鐵台北車"
+            "新竹",
+            "基隆",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5709,11 +6000,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "台北車",
-            "開台北車",
-            "從台北車",
-            "偌大的",
-            "鐵台北車"
+            "新竹",
+            "基隆",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5732,11 +6021,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "台北車",
-            "開台北車",
-            "從台北車",
-            "偌大的",
-            "鐵台北車"
+            "新竹",
+            "基隆",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5755,11 +6042,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "台北車",
-            "開台北車",
-            "從台北車",
-            "偌大的",
-            "鐵台北車"
+            "新竹",
+            "基隆",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5825,9 +6110,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "於松山車",
-            "與南港車",
-            "的南港車"
+            "南港",
+            "松山",
+            "臺北",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5846,9 +6132,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "於松山車",
-            "與南港車",
-            "的南港車"
+            "南港",
+            "松山",
+            "臺北",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5867,9 +6154,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "於松山車",
-            "與南港車",
-            "的南港車"
+            "南港",
+            "松山",
+            "臺北",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5888,9 +6176,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "於松山車",
-            "與南港車",
-            "的南港車"
+            "南港",
+            "松山",
+            "臺北",
+            "新城"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5929,10 +6218,10 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "溪至貢寮",
-            "將於雙溪",
-            "貢寮",
-            "福隆"
+            "宜蘭",
+            "福隆",
+            "雙溪",
+            "貢寮"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -5951,10 +6240,10 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "溪至貢寮",
-            "將於雙溪",
-            "貢寮",
-            "福隆"
+            "宜蘭",
+            "福隆",
+            "雙溪",
+            "貢寮"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6036,7 +6325,12 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "南港",
+            "松山",
+            "臺北",
+            "七堵"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -6053,7 +6347,12 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "南港",
+            "松山",
+            "臺北",
+            "七堵"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -6086,11 +6385,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "司林邊車",
-            "於屏東",
-            "至林邊",
-            "十幾個車",
-            "術品的車"
+            "林邊",
+            "西勢",
+            "屏東"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6109,11 +6406,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "司林邊車",
-            "於屏東",
-            "至林邊",
-            "十幾個車",
-            "術品的車"
+            "林邊",
+            "西勢",
+            "屏東"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6147,12 +6442,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "於南港車",
-            "在臺北車",
-            "南港車",
-            "新南港車",
-            "與南港車",
-            "陳建銓"
+            "南港",
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6171,12 +6462,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "於南港車",
-            "在臺北車",
-            "南港車",
-            "新南港車",
-            "與南港車",
-            "陳建銓"
+            "南港",
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6215,8 +6502,14 @@
             "平溪線"
           ],
           "affected_stations": [
-            "司官方網",
-            "或就近車"
+            "嶺腳",
+            "大華",
+            "望古",
+            "十分",
+            "平溪",
+            "瑞芳",
+            "菁桐",
+            "三貂嶺"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6250,7 +6543,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "公司板橋"
+            "板橋"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6269,7 +6562,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "公司板橋"
+            "板橋"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6303,9 +6596,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "列車已進",
-            "臺北車",
-            "來臺北車"
+            "豐富",
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6324,9 +6616,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "列車已進",
-            "臺北車",
-            "來臺北車"
+            "豐富",
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6345,9 +6636,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "列車已進",
-            "臺北車",
-            "來臺北車"
+            "豐富",
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6366,9 +6656,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "列車已進",
-            "臺北車",
-            "來臺北車"
+            "豐富",
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6402,7 +6691,14 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "臺北"
+            "保安",
+            "宜蘭",
+            "南港",
+            "豐富",
+            "臺北",
+            "屏東",
+            "永康",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6421,7 +6717,14 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "臺北"
+            "保安",
+            "宜蘭",
+            "南港",
+            "豐富",
+            "臺北",
+            "屏東",
+            "永康",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6440,7 +6743,14 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "臺北"
+            "保安",
+            "宜蘭",
+            "南港",
+            "豐富",
+            "臺北",
+            "屏東",
+            "永康",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6459,7 +6769,14 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "臺北"
+            "保安",
+            "宜蘭",
+            "南港",
+            "豐富",
+            "臺北",
+            "屏東",
+            "永康",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6493,9 +6810,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "臺鐵車",
+            "豐富",
+            "臺北",
             "關山",
-            "至水上"
+            "水上"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6514,9 +6832,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "臺鐵車",
+            "豐富",
+            "臺北",
             "關山",
-            "至水上"
+            "水上"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6554,8 +6873,14 @@
             "平溪線"
           ],
           "affected_stations": [
-            "司官方網",
-            "或就近車"
+            "嶺腳",
+            "大華",
+            "望古",
+            "十分",
+            "平溪",
+            "瑞芳",
+            "菁桐",
+            "三貂嶺"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6611,11 +6936,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "亮臺北車",
-            "風台北車",
-            "風點亮車",
-            "在臺北車",
-            "於臺北車"
+            "臺北",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6634,11 +6956,8 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "亮臺北車",
-            "風台北車",
-            "風點亮車",
-            "在臺北車",
-            "於臺北車"
+            "臺北",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6787,13 +7106,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "光復",
-            "車及開放",
-            "行經光復",
-            "增停光復",
-            "全面開放",
-            "鐵公司網",
-            "及車"
+            "光復"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6812,13 +7125,7 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "光復",
-            "車及開放",
-            "行經光復",
-            "增停光復",
-            "全面開放",
-            "鐵公司網",
-            "及車"
+            "光復"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6890,11 +7197,8 @@
             "平溪線"
           ],
           "affected_stations": [
-            "瑞芳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "平溪",
+            "瑞芳"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6915,11 +7219,8 @@
             "平溪線"
           ],
           "affected_stations": [
-            "瑞芳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "平溪",
+            "瑞芳"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6961,16 +7262,13 @@
             "平溪線"
           ],
           "affected_stations": [
+            "玉里",
+            "花蓮",
+            "光復",
+            "平溪",
             "瑞芳",
-            "瑞穗",
             "鳳林",
-            "駛至花蓮",
-            "駛至玉里",
-            "強號開放",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "瑞穗"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -6994,16 +7292,13 @@
             "平溪線"
           ],
           "affected_stations": [
+            "玉里",
+            "花蓮",
+            "光復",
+            "平溪",
             "瑞芳",
-            "瑞穗",
             "鳳林",
-            "駛至花蓮",
-            "駛至玉里",
-            "強號開放",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "瑞穗"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7027,16 +7322,13 @@
             "平溪線"
           ],
           "affected_stations": [
+            "玉里",
+            "花蓮",
+            "光復",
+            "平溪",
             "瑞芳",
-            "瑞穗",
             "鳳林",
-            "駛至花蓮",
-            "駛至玉里",
-            "強號開放",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "瑞穗"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7060,16 +7352,13 @@
             "平溪線"
           ],
           "affected_stations": [
+            "玉里",
+            "花蓮",
+            "光復",
+            "平溪",
             "瑞芳",
-            "瑞穗",
             "鳳林",
-            "駛至花蓮",
-            "駛至玉里",
-            "強號開放",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "瑞穗"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7112,11 +7401,11 @@
           "affected_stations": [
             "臺東",
             "花蓮",
+            "光復",
+            "平溪",
             "瑞芳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "鳳林",
+            "瑞穗"
           ],
           "predicted_resumption_time": "2025-11-11T16:00:00+08:00",
           "actual_resumption_time": "2025-11-11T16:00:00+08:00",
@@ -7140,11 +7429,11 @@
           "affected_stations": [
             "臺東",
             "花蓮",
+            "光復",
+            "平溪",
             "瑞芳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "鳳林",
+            "瑞穗"
           ],
           "predicted_resumption_time": "2025-11-11T16:00:00+08:00",
           "actual_resumption_time": "2025-11-11T16:00:00+08:00",
@@ -7185,13 +7474,18 @@
             "平溪線"
           ],
           "affected_stations": [
+            "宜蘭",
+            "蘇澳",
+            "臺東",
             "花蓮",
             "樹林",
+            "冬山",
+            "平溪",
+            "永樂",
+            "蘇澳新",
             "瑞芳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "猴硐",
+            "七堵"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7213,13 +7507,18 @@
             "平溪線"
           ],
           "affected_stations": [
+            "宜蘭",
+            "蘇澳",
+            "臺東",
             "花蓮",
             "樹林",
+            "冬山",
+            "平溪",
+            "永樂",
+            "蘇澳新",
             "瑞芳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "猴硐",
+            "七堵"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7265,10 +7564,21 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "斗六",
+            "臺東",
+            "集集",
+            "樹林",
+            "嘉義",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "枋寮",
+            "鳳林",
+            "台東",
+            "潮州",
+            "瑞穗",
+            "員林"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7295,10 +7605,21 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "斗六",
+            "臺東",
+            "集集",
+            "樹林",
+            "嘉義",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "枋寮",
+            "鳳林",
+            "台東",
+            "潮州",
+            "瑞穗",
+            "員林"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7332,7 +7653,8 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "公司富岡"
+            "富岡",
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7351,7 +7673,8 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "公司富岡"
+            "富岡",
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7370,7 +7693,8 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "公司富岡"
+            "富岡",
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7389,7 +7713,8 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [
-            "公司富岡"
+            "富岡",
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7435,10 +7760,17 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "蘇澳",
+            "臺東",
+            "集集",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "蘇澳新",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7465,10 +7797,17 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "蘇澳",
+            "臺東",
+            "集集",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "平溪",
+            "彰化",
+            "內灣",
+            "蘇澳新",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7501,9 +7840,7 @@
           "event_type": null,
           "status": "Partial_Operation",
           "affected_lines": [],
-          "affected_stations": [
-            "為提升網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -7546,10 +7883,20 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "蘇澳",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "臺北",
+            "平溪",
+            "彰化",
+            "內灣",
+            "蘇澳新",
+            "七堵",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7576,10 +7923,20 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "蘇澳",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "臺北",
+            "平溪",
+            "彰化",
+            "內灣",
+            "蘇澳新",
+            "七堵",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7606,10 +7963,20 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "蘇澳",
+            "臺東",
+            "集集",
+            "花蓮",
+            "基隆",
+            "樹林",
+            "沙崙",
+            "臺北",
+            "平溪",
+            "彰化",
+            "內灣",
+            "蘇澳新",
+            "七堵",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7653,12 +8020,12 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "由蘇澳新",
             "蘇澳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "集集",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "蘇澳新"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7685,12 +8052,12 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "由蘇澳新",
             "蘇澳",
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "集集",
+            "沙崙",
+            "平溪",
+            "內灣",
+            "蘇澳新"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7724,7 +8091,13 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "各車"
+            "竹南",
+            "花蓮",
+            "樹林",
+            "彰化",
+            "臺中",
+            "高雄",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7743,7 +8116,13 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "各車"
+            "竹南",
+            "花蓮",
+            "樹林",
+            "彰化",
+            "臺中",
+            "高雄",
+            "潮州"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7787,10 +8166,10 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "集集",
+            "沙崙",
+            "平溪",
+            "內灣"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7817,10 +8196,10 @@
             "沙崙線"
           ],
           "affected_stations": [
-            "司官方網",
-            "各就近車",
-            "有各車",
-            "票至各車"
+            "集集",
+            "沙崙",
+            "平溪",
+            "內灣"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7853,9 +8232,7 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "鐵道尋"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -7872,9 +8249,7 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "鐵道尋"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -7907,7 +8282,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "離北湖車"
+            "富岡",
+            "樹林",
+            "北湖",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7926,7 +8304,10 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "離北湖車"
+            "富岡",
+            "樹林",
+            "北湖",
+            "台北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7962,9 +8343,13 @@
             "平溪線"
           ],
           "affected_stations": [
-            "牡丹車",
-            "中及終點",
-            "城沿線車"
+            "牡丹",
+            "福隆",
+            "石城",
+            "平溪",
+            "雙溪",
+            "瑞芳",
+            "貢寮"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -7985,9 +8370,13 @@
             "平溪線"
           ],
           "affected_stations": [
-            "牡丹車",
-            "中及終點",
-            "城沿線車"
+            "牡丹",
+            "福隆",
+            "石城",
+            "平溪",
+            "雙溪",
+            "瑞芳",
+            "貢寮"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -8020,9 +8409,7 @@
           "event_type": null,
           "status": "Partial_Operation",
           "affected_lines": [],
-          "affected_stations": [
-            "為提升網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -8039,9 +8426,7 @@
           "event_type": null,
           "status": "Partial_Operation",
           "affected_lines": [],
-          "affected_stations": [
-            "為提升網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -8074,11 +8459,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "在富岡車",
-            "從桃園",
-            "前往富岡",
-            "富岡火車",
-            "使富岡車"
+            "富岡",
+            "美術館",
+            "桃園"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -8111,7 +8494,10 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [],
+          "affected_stations": [
+            "高雄",
+            "潮州"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -8144,9 +8530,12 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "祝臺中車",
-            "鐵經典車",
-            "灑落在車"
+            "臺東",
+            "豐富",
+            "花蓮",
+            "臺北",
+            "臺中",
+            "高雄"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -8212,10 +8601,9 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [
-            "長於栗林",
-            "次栗林",
-            "車於豐原",
-            "客於豐原"
+            "豐原",
+            "栗林",
+            "潭子"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
