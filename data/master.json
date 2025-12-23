@@ -402,7 +402,7 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
@@ -419,10 +419,10 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T23:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -436,10 +436,10 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-23T23:30:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -506,7 +506,7 @@
             "本改善車",
             "保旅客與"
           ],
-          "predicted_resumption_time": "2025-10-23T01:10:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -649,7 +649,7 @@
             "新竹",
             "鐵新烏日"
           ],
-          "predicted_resumption_time": "2025-10-22T09:00:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -702,7 +702,7 @@
           "affected_stations": [
             "請配合車"
           ],
-          "predicted_resumption_time": "2025-10-22T10:06:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -721,7 +721,7 @@
           "affected_stations": [
             "請配合車"
           ],
-          "predicted_resumption_time": "2025-10-22T10:06:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -1160,7 +1160,7 @@
           "status": "Suspended",
           "affected_lines": [],
           "affected_stations": [],
-          "predicted_resumption_time": "2025-10-22T09:07:00+08:00",
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -3667,9 +3667,7 @@
           "event_type": null,
           "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "自前往車"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -5361,11 +5359,9 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "停官網網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -5794,12 +5790,10 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "停官網網"
-          ],
-          "predicted_resumption_time": "2025-10-27T05:00:00+08:00",
+          "affected_stations": [],
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -6675,11 +6669,9 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "停官網網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -6694,11 +6686,9 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "停官網網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -6713,11 +6703,9 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "停官網網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -6732,11 +6720,9 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
-          "affected_stations": [
-            "停官網網"
-          ],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -6766,7 +6752,7 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
@@ -6863,7 +6849,7 @@
         "extracted_data": {
           "report_version": null,
           "event_type": null,
-          "status": "Suspended",
+          "status": null,
           "affected_lines": [],
           "affected_stations": [],
           "predicted_resumption_time": null,
