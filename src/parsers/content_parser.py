@@ -27,6 +27,7 @@ class ContentParser:
         """
         self.config_path = config_path
         self.patterns = self._load_patterns()
+        self.stations_whitelist = self._load_stations_whitelist()
 
         # Event type keywords
         self.event_type_keywords = {
@@ -71,6 +72,24 @@ class ContentParser:
         except Exception as e:
             logger.warning(f"Failed to load regex patterns from {self.config_path}: {e}")
             return {}
+
+    def _load_stations_whitelist(self) -> set:
+        """
+        Load station names whitelist from YAML configuration
+
+        Returns:
+            Set of valid station names
+        """
+        try:
+            stations_path = "config/stations.yaml"
+            with open(stations_path, "r", encoding="utf-8") as f:
+                data = yaml.safe_load(f)
+                stations = set(data.get("stations", []))
+                logger.debug(f"Loaded {len(stations)} stations from whitelist")
+                return stations
+        except Exception as e:
+            logger.warning(f"Failed to load stations whitelist: {e}")
+            return set()
 
     def parse(self, html: str, publish_date: str, title: str = "") -> ExtractedData:
         """
@@ -289,47 +308,53 @@ class ContentParser:
 
     def _extract_affected_stations(self, text: str) -> list:
         """
-        Extract affected station names
+        Extract affected station names using whitelist matching
+
+        Uses a whitelist of valid Taiwan Railway station names to avoid
+        false positives like "官網網站" being parsed as a station.
 
         Args:
             text: Text content
 
         Returns:
-            List of affected stations
+            List of affected stations (from whitelist only)
         """
         try:
-            pattern = self.patterns.get("station_pattern", r"([一-龥]{2,4})站")
-            matches = re.findall(pattern, text)
-
-            # NEW: Blacklist for false positives
-            # These are NOT train stations but contain the character "站"
-            station_blacklist = {
-                # IT/Website related
-                '官網網',      # 官網網站
-                '停官網網',    # 暫停官網網站
-                '網',          # 網站
-                '官網',        # 官網站 (unlikely but possible)
-                # Service related
-                '服務',        # 服務站 (not a train station name)
-                '加油',        # 加油站
-                '充電',        # 充電站
-                '休息',        # 休息站
-                # Other false positives
-                '車',          # 車站 (too generic)
-                '總',          # 總站 (too generic without context)
-                '本',          # 本站
-                '各',          # 各站
-                '每',          # 每站
-                '全',          # 全站
-            }
-
-            # Remove duplicates while preserving order, and filter blacklist
             stations = []
             seen = set()
+
+            # Method 1: Whitelist matching (preferred - precise)
+            # Check each station name in whitelist against text
+            for station in self.stations_whitelist:
+                # Match "站名" or "站名站" patterns
+                if station in text:
+                    if station not in seen:
+                        stations.append(station)
+                        seen.add(station)
+
+            # If whitelist found stations, return them
+            if stations:
+                return stations
+
+            # Method 2: Fallback to regex with stricter rules (only if whitelist empty)
+            # This catches new stations not in whitelist
+            pattern = r'(?:至|到|從|往|經|站|＝|=|、|及|與|間)([一-龥]{2,3})站'
+            matches = re.findall(pattern, text)
+
+            # Filter with blacklist
+            station_blacklist = {
+                '官網', '網站', '服務', '加油', '充電', '休息',
+                '車', '總', '本', '各', '每', '全', '網',
+                '就近', '開放', '列車', '鐵路', '公司',
+            }
+
             for station in matches:
                 if station not in seen and station not in station_blacklist:
-                    stations.append(station)
-                    seen.add(station)
+                    # Additional validation: station names are usually 2-3 chars
+                    if 2 <= len(station) <= 3:
+                        stations.append(station)
+                        seen.add(station)
+
             return stations
         except Exception as e:
             logger.debug(f"Failed to extract affected_stations: {e}")
