@@ -172,6 +172,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-23T11:00:35.602031+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560046084274><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560046084274> [Go Back]",
+        "content_hash": "md5:bda459ccad4c06778131c9d7f9be3e84",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -8399,6 +8416,23 @@
             "讓交通場",
             "未來臺北"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2025-12-23T11:00:44.462223+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560044863389><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560044863389> [Go Back]",
+        "content_hash": "md5:af49b9b56291daf3fdbb97317124043b",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
