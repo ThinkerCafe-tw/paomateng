@@ -138,6 +138,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-23T10:25:28.295310+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560045501370><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560045501370> [Go Back]",
+        "content_hash": "md5:e034b2d66d27cef2527f77888ef039b2",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -8661,6 +8678,23 @@
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/1 下午 5:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司因應114年行憲紀念日疏運旅客需要，於114年12月24日、12月25日及12月28日加開自強號列車合計10列次，其中包含七堵=潮州EMU3000型自強號1列次、高雄=七堵EMU3000型自強號1列次、七堵=彰化EMU3000型自強號2列次、樹林=臺東EMU3000型自強號2列次及樹林=臺東普悠瑪號4列次。<br/><br/>　　本次加開班次訂於114年12月3日(三)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/bd363d98-48ea-4c41-bc73-71f78632048d\" target=\"_blank\">\n<img alt=\"西線自強號列車班次.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/bd363d98-48ea-4c41-bc73-71f78632048d/360x270\" title=\"另開視窗下載-西線自強號列車班次.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/610d8636-b541-4743-a58f-e523087bfafa\" target=\"_blank\">\n<img alt=\"東線自強號列車班次.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/610d8636-b541-4743-a58f-e523087bfafa/360x270\" title=\"另開視窗下載-東線自強號列車班次.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票 臺鐵公司114年行憲紀念日加開10列次 12月3日零時起開放訂票 發佈日期：2025/12/1 下午 5:00 臺鐵公司因應114年行憲紀念日疏運旅客需要，於114年12月24日、12月25日及12月28日加開自強號列車合計10列次，其中包含七堵=潮州EMU3000型自強號1列次、高雄=七堵EMU3000型自強號1列次、七堵=彰化EMU3000型自強號2列次、樹林=臺東EMU3000型自強號2列次及樹林=臺東普悠瑪號4列次。 本次加開班次訂於114年12月3日(三)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
         "content_hash": "md5:9655a70af20554620baac2b3a7c93944",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2025-12-23T10:25:44.274255+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560044736180><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560044736180> [Go Back]",
+        "content_hash": "md5:a61da3ce646d59953945c5202a10d9e6",
         "extracted_data": {
           "report_version": null,
           "event_type": null,
