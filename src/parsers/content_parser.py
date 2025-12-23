@@ -89,10 +89,16 @@ class ContentParser:
             soup = BeautifulSoup(html, "lxml")
             text = soup.get_text(separator=" ", strip=True)
 
+            # NEW: Check if this is a non-train announcement (e.g., IT system maintenance)
+            # These should NOT be parsed for train-related fields
+            if self._is_non_train_announcement(title, text):
+                logger.debug(f"Skipping extraction for non-train announcement: {title[:50]}")
+                return ExtractedData()
+
             # Extract all 7 fields
             report_version = self._extract_report_version(text)
             event_type = self._extract_event_type(text)
-            status = self._extract_status(text)
+            status = self._extract_status(text, title)  # Pass title for context
             affected_lines = self._extract_affected_lines(text)
             affected_stations = self._extract_affected_stations(text)
             predicted_resumption_time = self._extract_predicted_time(text, publish_date, title)
@@ -160,12 +166,66 @@ class ContentParser:
             logger.debug(f"Failed to extract event_type: {e}")
             return None
 
-    def _extract_status(self, text: str) -> Optional[str]:
+    def _is_non_train_announcement(self, title: str, text: str) -> bool:
         """
-        Extract operational status
+        Check if this is a non-train-related announcement that should be skipped.
+
+        Examples of non-train announcements:
+        - IT system maintenance (系統維護公告)
+        - Website service announcements (官網服務)
+        - Ticketing system notices (訂票系統)
+
+        Args:
+            title: Announcement title
+            text: Text content
+
+        Returns:
+            True if this is NOT a train-related announcement
+        """
+        # System maintenance announcements
+        system_keywords = [
+            '系統維護',
+            '系統停機',
+            '網站維護',
+            '網站服務',
+            '訂票系統',
+            '訂位系統',
+            '會員服務系統',
+            'e訂通',
+        ]
+
+        # Check title first (most reliable)
+        for keyword in system_keywords:
+            if keyword in title:
+                logger.debug(f"Non-train announcement detected (title keyword: {keyword})")
+                return True
+
+        # Check if content is about IT systems, NOT train operations
+        # Must have system keywords AND no train operation keywords
+        train_operation_keywords = [
+            '列車', '班車', '停駛', '通車', '行駛',
+            '路線', '鐵路', '軌道', '月台',
+        ]
+
+        has_system_keyword = any(kw in text for kw in system_keywords)
+        has_train_keyword = any(kw in text for kw in train_operation_keywords)
+
+        # If it has system keywords but NO train keywords, skip it
+        if has_system_keyword and not has_train_keyword:
+            # Double-check: "暫停官網網站服務" should be skipped
+            if '暫停官網' in text or '暫停網站' in text:
+                logger.debug(f"Non-train announcement detected (website service suspension)")
+                return True
+
+        return False
+
+    def _extract_status(self, text: str, title: str = "") -> Optional[str]:
+        """
+        Extract operational status with context awareness
 
         Args:
             text: Text content
+            title: Announcement title for context
 
         Returns:
             Status or None
@@ -173,6 +233,33 @@ class ContentParser:
         try:
             for keyword, status in self.status_keywords.items():
                 if keyword in text:
+                    # NEW: Context check to avoid false positives
+                    # "暫停官網網站服務" should NOT trigger "Suspended" for trains
+                    if keyword == "暫停":
+                        # Check if "暫停" is followed by non-train services
+                        non_train_contexts = [
+                            r'暫停官網',
+                            r'暫停網站',
+                            r'暫停.*?服務系統',
+                            r'暫停.*?訂[票位]',
+                            r'暫停.*?e訂通',
+                        ]
+                        is_non_train = any(re.search(pattern, text) for pattern in non_train_contexts)
+
+                        if is_non_train:
+                            # Check if there's also train-related suspension
+                            train_suspension_patterns = [
+                                r'暫停營運',
+                                r'暫停行駛',
+                                r'列車.*?暫停',
+                                r'暫停.*?列車',
+                            ]
+                            has_train_suspension = any(re.search(pattern, text) for pattern in train_suspension_patterns)
+
+                            if not has_train_suspension:
+                                logger.debug(f"Skipping status 'Suspended' - non-train context: {keyword}")
+                                continue  # Skip this keyword, try next
+
                     return status
             return None
         except Exception as e:
@@ -213,11 +300,34 @@ class ContentParser:
         try:
             pattern = self.patterns.get("station_pattern", r"([一-龥]{2,4})站")
             matches = re.findall(pattern, text)
-            # Remove duplicates while preserving order
+
+            # NEW: Blacklist for false positives
+            # These are NOT train stations but contain the character "站"
+            station_blacklist = {
+                # IT/Website related
+                '官網網',      # 官網網站
+                '停官網網',    # 暫停官網網站
+                '網',          # 網站
+                '官網',        # 官網站 (unlikely but possible)
+                # Service related
+                '服務',        # 服務站 (not a train station name)
+                '加油',        # 加油站
+                '充電',        # 充電站
+                '休息',        # 休息站
+                # Other false positives
+                '車',          # 車站 (too generic)
+                '總',          # 總站 (too generic without context)
+                '本',          # 本站
+                '各',          # 各站
+                '每',          # 每站
+                '全',          # 全站
+            }
+
+            # Remove duplicates while preserving order, and filter blacklist
             stations = []
             seen = set()
             for station in matches:
-                if station not in seen:
+                if station not in seen and station not in station_blacklist:
                     stations.append(station)
                     seen.add(station)
             return stations
