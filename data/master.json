@@ -10007,6 +10007,28 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-26T10:35:35.509825+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司關山=金崙間受臺東地區五級強地震影響，列車暫時停駛改公路接駁，工、電單位緊急巡查中</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司關山=金崙間受臺東地區五級強地震影響，列車暫時停駛改公路接駁，工、電單位緊急巡查中</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/24 下午 7:15</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 發生時間：114年12月24日17時57分。<br/>二、 發生地點：關山=金崙站間。<br/>三、 應變概況：臺東地區五級強地震，因受變電站跳電影響，關山=台東=金崙間列車暫時停駛，已通知工、電單位巡查路線及電車線。<br/>四、 應變措施：<br/>（一） 本公司一級應變小組於本(24)日18:00成立，東區亦同時成立應變分組。<br/>（二） 關山=金崙間即時起啟動公路接駁。<br/>（三） 工、電單位刻正辦理路線及電車線巡查，預計21時前完成。<br/>五、 乘客出門前，詢問列車最新運行資訊請洽：<br/>（一） 臺鐵網站，網址：<br/>   （http://www.railway.gov.tw/tra-tip-web/tip）<br/>（二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>（三） 各就近車站(臺鐵官方網站有各車站聯絡資訊)。<br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司關山=金崙間受臺東地區五級強地震影響，列車暫時停駛改公路接駁，工、電單位緊急巡查中 臺鐵公司關山=金崙間受臺東地區五級強地震影響，列車暫時停駛改公路接駁，工、電單位緊急巡查中 發佈日期：2025/12/24 下午 7:15 一、 發生時間：114年12月24日17時57分。 二、 發生地點：關山=金崙站間。 三、 應變概況：臺東地區五級強地震，因受變電站跳電影響，關山=台東=金崙間列車暫時停駛，已通知工、電單位巡查路線及電車線。 四、 應變措施： （一） 本公司一級應變小組於本(24)日18:00成立，東區亦同時成立應變分組。 （二） 關山=金崙間即時起啟動公路接駁。 （三） 工、電單位刻正辦理路線及電車線巡查，預計21時前完成。 五、 乘客出門前，詢問列車最新運行資訊請洽： （一） 臺鐵網站，網址： （http://www.railway.gov.tw/tra-tip-web/tip） （二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 （三） 各就近車站(臺鐵官方網站有各車站聯絡資訊)。 返回上一頁",
+        "content_hash": "md5:2aff8194b110eb07e0be1dd4c25e1a15",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Earthquake",
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [
+            "台東",
+            "關山",
+            "金崙",
+            "臺東"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -10174,6 +10196,38 @@
           "actual_resumption_time": "2025-12-25T23:14:00+08:00",
           "service_type": "partial_operation",
           "service_details": "單線雙向通車"
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39b56f0c5019b58781bb1035f",
+    "title": "本公司114年12月27日(星期六)凌晨01時00分~04時30分系統維護公告",
+    "publish_date": "2025/12/26",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39b56f0c5019b58781bb1035f&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20251226_本公司114年12月27日_星期六_凌晨00分_30分系統維"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2025-12-26T10:35:31.500154+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司114年12月27日(星期六)凌晨01時00分~04時30分系統維護公告</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司114年12月27日(星期六)凌晨01時00分~04時30分系統維護公告</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/26 上午 10:19</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司將於114年12月27日(星期六)凌晨01時00分~04時30分進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等， 若提早完成維護作業將恢復各項服務 ，造成您的困擾，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司114年12月27日(星期六)凌晨01時00分~04時30分系統維護公告 本公司114年12月27日(星期六)凌晨01時00分~04時30分系統維護公告 發佈日期：2025/12/26 上午 10:19 本公司將於114年12月27日(星期六)凌晨01時00分~04時30分進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等， 若提早完成維護作業將恢復各項服務 ，造成您的困擾，敬請見諒。 返回上一頁",
+        "content_hash": "md5:c9dc7d56fb8c533275807cc6b48f5e7e",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
         }
       }
     ],
