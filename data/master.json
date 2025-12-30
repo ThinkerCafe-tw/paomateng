@@ -73,6 +73,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-30T18:05:28.811347+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560068000634><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560068000634> [Go Back]",
+        "content_hash": "md5:009471eece6ea3b48ba4420f20cf8b6f",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -6960,6 +6977,34 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-30T18:05:26.035542+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/7 下午 5:50</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　平溪線因受強降雨影響，造成三貂嶺=大華間（K2+100）邊坡滑動，擋土牆有位移之虞，另嶺腳=望古間（K9+820~920）路基流失，短期內路線無法修復，為工程搶修需要及確保行車安全，平溪線至115年1月30日前全區間停駛，瑞芳=菁桐採公路接駁。公路接駁措施如下：<br/><br/>1. 接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。<br/><br/>2. 瑞芳開車時間：07:10、08:00、09:00、10:00、12:00、14:00、15:00、16:00、18:00<br/><br/>3. 菁桐開車時間：08:00、09:00、10:00、11:00、13:00、15:00、16:00、17:10(假日17:00)、19:00<br/><br/>　　旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/55a2c27c-ac72-4f7c-b4aa-13b1f3eb153e\" target=\"_blank\">\n<img alt=\"臺鐵平溪線停駛期間公路接駁時刻表.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/55a2c27c-ac72-4f7c-b4aa-13b1f3eb153e/360x270\" title=\"另開視窗下載-臺鐵平溪線停駛期間公路接駁時刻表.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。 因應平溪線災後工程搶修需要，115年1月30日前，瑞芳至菁桐間列車停駛，改以公路客運接駁。 發佈日期：2025/11/7 下午 5:50 平溪線因受強降雨影響，造成三貂嶺=大華間（K2+100）邊坡滑動，擋土牆有位移之虞，另嶺腳=望古間（K9+820~920）路基流失，短期內路線無法修復，為工程搶修需要及確保行車安全，平溪線至115年1月30日前全區間停駛，瑞芳=菁桐採公路接駁。公路接駁措施如下： 1. 接駁車停靠「瑞芳、十分、望古、嶺腳、平溪、菁桐」等站，折返行駛。 2. 瑞芳開車時間：07:10、08:00、09:00、10:00、12:00、14:00、15:00、16:00、18:00 3. 菁桐開車時間：08:00、09:00、10:00、11:00、13:00、15:00、16:00、17:10(假日17:00)、19:00 旅客可透過臺鐵公司官方網站、24小時旅客服務電話（02-2191-0096、0800-765-888）或就近車站查詢最新列車資訊。請旅客行前多加留意最新運行資訊，造成不便，敬請見諒。 返回上一頁",
+        "content_hash": "md5:0abe205456389f7e65b95763019eee8a",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [
+            "望古",
+            "瑞芳",
+            "平溪",
+            "嶺腳",
+            "菁桐",
+            "大華",
+            "十分",
+            "三貂嶺"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -8180,6 +8225,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-30T18:05:26.816836+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560066411260><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560066411260> [Go Back]",
+        "content_hash": "md5:755ec1166c9a97cf241332a8b9d821f7",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -9156,6 +9218,23 @@
         "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560066953142><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
         "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560066953142> [Go Back]",
         "content_hash": "md5:fcf10b7a9c63c5a9246af5c52759a3a0",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2025-12-30T18:05:43.047420+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/16 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司為鼓勵公司行號、機關團體多利用EMU3000型及普悠瑪自強號(含太魯閣號)辦理旅遊活動，降低專列基本定員數收費，實施日期及收費規定如下：<br/>一、EMU3000型及普悠瑪號(含太魯閣號)專列，降低基本定員數收費如下：<br/>(一) EMU3000型自強號：基本定員數為400定員計費，超過400定員者以實際乘車人數計費（可申請400～538之間定員數）。<br/>(二)普悠瑪自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～372之間定員數）。<br/>(三)太魯閣自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～376之間定員數）。<br/>二、專列績優會員及里程折扣優惠方案，不受降低基本定員數之限制，仍享有折扣優惠。<br/>三、專列實際乘車人數高於申請人數時，超出之人數以無票乘車規定補收全價票並加收5成。<br/>四、實施日期：自專列申請日115年2月1日起開放申請，乘車日為115年5月1日之專列適用本辦法(以乘車日起算)。<br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費 本公司EMU3000型及普悠瑪自強號(含太魯閣號)專列，降低基本定員數收費 發佈日期：2025/12/16 上午 9:00 本公司為鼓勵公司行號、機關團體多利用EMU3000型及普悠瑪自強號(含太魯閣號)辦理旅遊活動，降低專列基本定員數收費，實施日期及收費規定如下： 一、EMU3000型及普悠瑪號(含太魯閣號)專列，降低基本定員數收費如下： (一) EMU3000型自強號：基本定員數為400定員計費，超過400定員者以實際乘車人數計費（可申請400～538之間定員數）。 (二)普悠瑪自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～372之間定員數）。 (三)太魯閣自強號：基本定員數為280定員計費，超過280定員者以實際乘車人數計費（可申請280～376之間定員數）。 二、專列績優會員及里程折扣優惠方案，不受降低基本定員數之限制，仍享有折扣優惠。 三、專列實際乘車人數高於申請人數時，超出之人數以無票乘車規定補收全價票並加收5成。 四、實施日期：自專列申請日115年2月1日起開放申請，乘車日為115年5月1日之專列適用本辦法(以乘車日起算)。 返回上一頁",
+        "content_hash": "md5:607d5d9c353363cdfdc9656c52026e0f",
         "extracted_data": {
           "report_version": null,
           "event_type": null,
@@ -10397,6 +10476,23 @@
           "service_type": "partial_operation",
           "service_details": "單線雙向通車"
         }
+      },
+      {
+        "scraped_at": "2025-12-30T18:05:35.797151+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560067355412><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560067355412> [Go Back]",
+        "content_hash": "md5:7e1e39dc7964255205aae799cf13aa52",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -10581,6 +10677,23 @@
           "affected_stations": [
             "屏東"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2025-12-30T18:05:32.802738+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <5463764560066092733><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <5463764560066092733> [Go Back]",
+        "content_hash": "md5:8491313fe728c75f08993e45ce0a072d",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
