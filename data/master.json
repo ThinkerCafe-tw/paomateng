@@ -90,6 +90,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-30T18:10:31.068614+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>車廂寧靜宣導，共同維護乘車品質</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>車廂寧靜宣導，共同維護乘車品質</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2023/3/25 下午 2:51</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">為維護車廂安寧，乘車時敬請將手機或電子用品轉成靜音模式，使用手機請輕聲通話或至通道間接聽，共同維護乘車品質。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 車廂寧靜宣導，共同維護乘車品質 車廂寧靜宣導，共同維護乘車品質 發佈日期：2023/3/25 下午 2:51 為維護車廂安寧，乘車時敬請將手機或電子用品轉成靜音模式，使用手機請輕聲通話或至通道間接聽，共同維護乘車品質。 返回上一頁",
+        "content_hash": "md5:aaca114c78dc5fca1a7073c82d798878",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -8242,6 +8259,31 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-30T18:10:29.119341+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司自114年12月23日起進行時刻微調</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司自114年12月23日起進行時刻微調</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/11/13 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">臺鐵公司為優化列車編組運用並提升北半環線、中南部地區及海線運能與服務品質，自114年12月23日(星期二)起進行時刻微調，調整重點如下：<br/>一、優化列車編組運用：<br/>（一）彰化-花蓮間278次（12月24日起）及285次普悠瑪調整為EMU3000型自強號。<br/>（二）樹林-花蓮間224、235次EMU3000型自強號調整為普悠瑪。<br/><br/>二、提升中南部地區運能：增開臺中-潮州間EMU3000型自強號2列次(191次及196次)；調整後西線運能提升2.2%，臺中-高雄間運能提升3.8%。<br/><br/>三、提升海線尖峰時段運能，並縮短海線班距：增開下午時段彰化往竹南(彰化14:33開)及竹南往彰化(竹南16:22開)區間車共2列次；調整後海線運能提升2.2%。<br/><br/>本次時刻微調共調整111列次，其中變動在5分鐘以上班次計15列次，相關列車車次、時刻，11月17日起可於臺鐵公司官網及「台鐵e訂通」APP查詢，各車站將加強宣傳及公告，亦請各位旅客多加留意。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/111556f7-bb8b-4eb5-a75b-e864364cf620\" target=\"_blank\">\n<img alt=\"臺中-潮州間EMU3000型自強號2列次.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/111556f7-bb8b-4eb5-a75b-e864364cf620/360x270\" title=\"另開視窗下載-臺中-潮州間EMU3000型自強號2列次.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司自114年12月23日起進行時刻微調 臺鐵公司自114年12月23日起進行時刻微調 發佈日期：2025/11/13 上午 9:00 臺鐵公司為優化列車編組運用並提升北半環線、中南部地區及海線運能與服務品質，自114年12月23日(星期二)起進行時刻微調，調整重點如下： 一、優化列車編組運用： （一）彰化-花蓮間278次（12月24日起）及285次普悠瑪調整為EMU3000型自強號。 （二）樹林-花蓮間224、235次EMU3000型自強號調整為普悠瑪。 二、提升中南部地區運能：增開臺中-潮州間EMU3000型自強號2列次(191次及196次)；調整後西線運能提升2.2%，臺中-高雄間運能提升3.8%。 三、提升海線尖峰時段運能，並縮短海線班距：增開下午時段彰化往竹南(彰化14:33開)及竹南往彰化(竹南16:22開)區間車共2列次；調整後海線運能提升2.2%。 本次時刻微調共調整111列次，其中變動在5分鐘以上班次計15列次，相關列車車次、時刻，11月17日起可於臺鐵公司官網及「台鐵e訂通」APP查詢，各車站將加強宣傳及公告，亦請各位旅客多加留意。 返回上一頁",
+        "content_hash": "md5:b7756a88c3f3ccbc22f1d976a454bce4",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "彰化",
+            "潮州",
+            "高雄",
+            "花蓮",
+            "臺中",
+            "樹林",
+            "竹南"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -10493,6 +10535,29 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-30T18:10:38.075264+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>大肚溪南號誌站=彰化間電車線故障經全力搶修，已於23時14分恢復西正線單線雙向通車</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>大肚溪南號誌站=彰化間電車線故障經全力搶修，已於23時14分恢復西正線單線雙向通車</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/25 下午 11:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 發生時間：114年12月24日20時41分。<br/><br/>二、 發生地點：大肚溪南=彰化站間(K214+400)。<br/><br/>三、 事件概況：177次於20:41在大肚溪南號誌站=彰化間受電車線故障影響，成功(山線)=彰化、追分(海線)=彰化間暫時雙線不通。<br/><br/>四、 應變措施：<br/>（一） 本公司成立一級應變小組。<br/>（二） 經電力及機務單位全力搶修，23時14分已搶通西正線恢復單線雙向通車。<br/>（三） 東正線俟夜間斷電封鎖期間續行搶修，預計明日首班車前恢復雙線通車。<br/>（四） 協調高鐵臺中站南下末班車(23：07)延後10分鐘發車，配合本公司辦理接駁旅客。<br/><br/>五、 乘客出門前，詢問列車最新運行資訊請洽：<br/>（一） 臺鐵網站，網址：<br/>    （http://www.railway.gov.tw/tra-tip-web/tip）<br/>（二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>（三） 各就近車站(臺鐵官方網站有各車站聯絡資訊)。<br/><br/>六、 退、換票及改乘相關訊息<br/>因此事故延誤45分鐘以上之各級列車旅客，可自乘車日起一年內，持車票至各車站辦理退票，免收手續費。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 大肚溪南號誌站=彰化間電車線故障經全力搶修，已於23時14分恢復西正線單線雙向通車 大肚溪南號誌站=彰化間電車線故障經全力搶修，已於23時14分恢復西正線單線雙向通車 發佈日期：2025/12/25 下午 11:30 一、 發生時間：114年12月24日20時41分。 二、 發生地點：大肚溪南=彰化站間(K214+400)。 三、 事件概況：177次於20:41在大肚溪南號誌站=彰化間受電車線故障影響，成功(山線)=彰化、追分(海線)=彰化間暫時雙線不通。 四、 應變措施： （一） 本公司成立一級應變小組。 （二） 經電力及機務單位全力搶修，23時14分已搶通西正線恢復單線雙向通車。 （三） 東正線俟夜間斷電封鎖期間續行搶修，預計明日首班車前恢復雙線通車。 （四） 協調高鐵臺中站南下末班車(23：07)延後10分鐘發車，配合本公司辦理接駁旅客。 五、 乘客出門前，詢問列車最新運行資訊請洽： （一） 臺鐵網站，網址： （http://www.railway.gov.tw/tra-tip-web/tip） （二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 （三） 各就近車站(臺鐵官方網站有各車站聯絡資訊)。 六、 退、換票及改乘相關訊息 因此事故延誤45分鐘以上之各級列車旅客，可自乘車日起一年內，持車票至各車站辦理退票，免收手續費。 返回上一頁",
+        "content_hash": "md5:d67238fd66b3cd1239836dbb957aed71",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Equipment_Failure",
+          "status": "Resumed_Single_Track",
+          "affected_lines": [],
+          "affected_stations": [
+            "大肚",
+            "成功",
+            "彰化",
+            "追分",
+            "臺中"
+          ],
+          "predicted_resumption_time": "2025-12-26T05:30:00+08:00",
+          "actual_resumption_time": "2025-12-25T23:14:00+08:00",
+          "service_type": "partial_operation",
+          "service_details": "單線雙向通車"
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -10694,6 +10759,25 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2025-12-30T18:10:35.107025+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵首推春節伴手禮-「橘祥迎福禮盒」 返鄉回家，一路同行</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵首推春節伴手禮-「橘祥迎福禮盒」 返鄉回家，一路同行</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/29 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        臺鐵公司將於115年1月1日推出春節限定伴手禮─「橘祥迎福禮盒」。本次為臺鐵首次跨界與臺灣果釀品牌「日造酒妝」合作，以「回家」的情感記憶為核心，結合鐵道文化與在地風味，打造乘載思念與祝福的新春佳禮。<br/>    　臺鐵列車長期陪伴國人往返各地城鄉，是許多人記憶中「回家」最重要的移動載體，不僅是交通工具，更是連結城市與家鄉、旅人與親人間的重要橋梁。「橘祥迎福禮盒」以深具年代感與代表性的莒光號橘色車身為包裝設計主色調，寓意「橘（吉）祥迎福」，外盒採手繪風格呈現鐵道沿線風景，象徵溫度、風土與團圓，彷彿訴說著旅居他鄉、返鄉過年的動人故事。<br/>　　商品包裝以四款(莒光號、藍皮解憂號、山嵐號、海風號)列車意象設計，象徵四方平安、一路順行。首先，莒光號「經典梅酒」採用台灣青梅釀造，經歲月慢釀後展現濃郁而純粹的果香。酒液呈溫潤金橘色，象徵時間淬鍊與恆久風味。入口酸甜平衡、尾韻圓潤，既保留青梅的清爽自然，又帶出柔和沉穩的酒體表現。<br/>　　第二項藍皮解憂號「桂花蘋果濃縮醋」，產品外觀採用列車標誌性的藍色調元素，搭配柔和金黃的桂花與蘋果意象，象徵溫暖、放鬆與旅途中小小的慰藉，具有細緻花香與果韻，以低溫萃取方式保留桂花香氣，適合全齡共享，展現屏東沿線的悠閒風味。<br/>　　第三項山嵐號「阿里山特調精品濾掛咖啡」，產品選用海拔1,300 公尺的阿里山精品咖啡豆，結合歐客佬精品咖啡多年來深耕產地的經驗，堅持從源頭嚴選生豆，搭配專業烘焙技藝與品鑑精神，完整展現產區風味之美，傳遞「從產地到杯中」的極致咖啡底蘊。<br/>　　最後，海風號「台灣番茄果乾」包裝設計採用湛藍與翠綠交織的漸層色調，從海風吹拂的清爽藍綠，到果乾本身紅潤飽滿的色澤，象徵旅程一路走來愈加順遂、喜氣收尾。清新的藍綠包裝與番茄的自然紅甜相互映襯。其自然酸甜更能與咖啡與酒品相得益彰，成為旅途甜蜜、圓滿的句點。<br/>       「橘祥迎福禮盒」內容包含莒光號「經典梅酒」、藍皮解憂號「桂花蘋果濃縮醋」、山嵐號「阿里山特調精品濾掛咖啡」及海風號「台灣番茄果乾」限量販售，每組售價888元。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/acb90b9f-5afe-4ec9-8b4b-a62b70dafc81\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-宣傳照片及販售地點.pdf\" type=\"submit\">宣傳照片及販售地點.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵首推春節伴手禮-「橘祥迎福禮盒」 返鄉回家，一路同行 臺鐵首推春節伴手禮-「橘祥迎福禮盒」 返鄉回家，一路同行 發佈日期：2025/12/29 上午 9:00 臺鐵公司將於115年1月1日推出春節限定伴手禮─「橘祥迎福禮盒」。本次為臺鐵首次跨界與臺灣果釀品牌「日造酒妝」合作，以「回家」的情感記憶為核心，結合鐵道文化與在地風味，打造乘載思念與祝福的新春佳禮。 臺鐵列車長期陪伴國人往返各地城鄉，是許多人記憶中「回家」最重要的移動載體，不僅是交通工具，更是連結城市與家鄉、旅人與親人間的重要橋梁。「橘祥迎福禮盒」以深具年代感與代表性的莒光號橘色車身為包裝設計主色調，寓意「橘（吉）祥迎福」，外盒採手繪風格呈現鐵道沿線風景，象徵溫度、風土與團圓，彷彿訴說著旅居他鄉、返鄉過年的動人故事。 商品包裝以四款(莒光號、藍皮解憂號、山嵐號、海風號)列車意象設計，象徵四方平安、一路順行。首先，莒光號「經典梅酒」採用台灣青梅釀造，經歲月慢釀後展現濃郁而純粹的果香。酒液呈溫潤金橘色，象徵時間淬鍊與恆久風味。入口酸甜平衡、尾韻圓潤，既保留青梅的清爽自然，又帶出柔和沉穩的酒體表現。 第二項藍皮解憂號「桂花蘋果濃縮醋」，產品外觀採用列車標誌性的藍色調元素，搭配柔和金黃的桂花與蘋果意象，象徵溫暖、放鬆與旅途中小小的慰藉，具有細緻花香與果韻，以低溫萃取方式保留桂花香氣，適合全齡共享，展現屏東沿線的悠閒風味。 第三項山嵐號「阿里山特調精品濾掛咖啡」，產品選用海拔1,300 公尺的阿里山精品咖啡豆，結合歐客佬精品咖啡多年來深耕產地的經驗，堅持從源頭嚴選生豆，搭配專業烘焙技藝與品鑑精神，完整展現產區風味之美，傳遞「從產地到杯中」的極致咖啡底蘊。 最後，海風號「台灣番茄果乾」包裝設計採用湛藍與翠綠交織的漸層色調，從海風吹拂的清爽藍綠，到果乾本身紅潤飽滿的色澤，象徵旅程一路走來愈加順遂、喜氣收尾。清新的藍綠包裝與番茄的自然紅甜相互映襯。其自然酸甜更能與咖啡與酒品相得益彰，成為旅途甜蜜、圓滿的句點。 「橘祥迎福禮盒」內容包含莒光號「經典梅酒」、藍皮解憂號「桂花蘋果濃縮醋」、山嵐號「阿里山特調精品濾掛咖啡」及海風號「台灣番茄果乾」限量販售，每組售價888元。 附件下載： 宣傳照片及販售地點.pdf 返回上一頁",
+        "content_hash": "md5:84ca9a2dec9570391aa65abac24c4cca",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "屏東"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
