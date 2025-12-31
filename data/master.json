@@ -9643,6 +9643,25 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2025-12-31T15:15:44.703297+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司115年元旦及跨年活動加開列車疏運旅客</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司115年元旦及跨年活動加開列車疏運旅客</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/10 下午 2:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司因應115年元旦疏運旅客需要，114年12月31日、115年1月1日及1月4日加開東線、西線及南半環自強號16班；另加開北部、中部、南部及宜蘭地區跨年晚會散場時段區間車25班。<br/>　　115年元旦加開列車車票訂於114年12月12日(五)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/74370a54-da8b-40f7-b0d9-b968885f5732\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 3.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/74370a54-da8b-40f7-b0d9-b968885f5732/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 3.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/fe5e5d86-362a-4a88-af9a-02430fb7a17c\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 2.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/fe5e5d86-362a-4a88-af9a-02430fb7a17c/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 2.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/6a3b77e9-632a-4f21-8133-15fc34096022\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 1.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/6a3b77e9-632a-4f21-8133-15fc34096022/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 1.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/aa6b11d3-1e0d-4517-8574-8e5737e3d233\" target=\"_blank\">\n<img alt=\"115年元旦跨年晚會加開區間車.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/aa6b11d3-1e0d-4517-8574-8e5737e3d233/360x270\" title=\"另開視窗下載-115年元旦跨年晚會加開區間車.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司115年元旦及跨年活動加開列車疏運旅客 臺鐵公司115年元旦及跨年活動加開列車疏運旅客 發佈日期：2025/12/10 下午 2:00 臺鐵公司因應115年元旦疏運旅客需要，114年12月31日、115年1月1日及1月4日加開東線、西線及南半環自強號16班；另加開北部、中部、南部及宜蘭地區跨年晚會散場時段區間車25班。 115年元旦加開列車車票訂於114年12月12日(五)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:cf7c911dd91618a496871678ccf86c3b",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "宜蘭"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
