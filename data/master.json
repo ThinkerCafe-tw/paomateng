@@ -10640,6 +10640,23 @@
           "service_type": "partial_operation",
           "service_details": "單線雙向通車"
         }
+      },
+      {
+        "scraped_at": "2025-12-31T15:35:37.851122+08:00",
+        "content_html": "<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <13829963619770107280><br><br><a href='javascript:history.back();'>[Go Back]</body></html>",
+        "content_text": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: <13829963619770107280> [Go Back]",
+        "content_hash": "md5:25105328d3e97bd5e93b60570b905906",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
