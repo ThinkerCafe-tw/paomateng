@@ -9681,6 +9681,25 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-01-07T02:25:46.092726+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵公司115年元旦及跨年活動加開列車疏運旅客</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司115年元旦及跨年活動加開列車疏運旅客</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/10 下午 2:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司因應115年元旦疏運旅客需要，114年12月31日、115年1月1日及1月4日加開東線、西線及南半環自強號16班；另加開北部、中部、南部及宜蘭地區跨年晚會散場時段區間車25班。<br/>　　115年元旦加開列車車票訂於114年12月12日(五)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/74370a54-da8b-40f7-b0d9-b968885f5732\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 3.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/74370a54-da8b-40f7-b0d9-b968885f5732/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 3.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/fe5e5d86-362a-4a88-af9a-02430fb7a17c\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 2.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/fe5e5d86-362a-4a88-af9a-02430fb7a17c/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 2.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/6a3b77e9-632a-4f21-8133-15fc34096022\" target=\"_blank\">\n<img alt=\"115年元旦加開列車時刻表 1.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/6a3b77e9-632a-4f21-8133-15fc34096022/360x270\" title=\"另開視窗下載-115年元旦加開列車時刻表 1.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/aa6b11d3-1e0d-4517-8574-8e5737e3d233\" target=\"_blank\">\n<img alt=\"115年元旦跨年晚會加開區間車.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/aa6b11d3-1e0d-4517-8574-8e5737e3d233/360x270\" title=\"另開視窗下載-115年元旦跨年晚會加開區間車.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司115年元旦及跨年活動加開列車疏運旅客 臺鐵公司115年元旦及跨年活動加開列車疏運旅客 發佈日期：2025/12/10 下午 2:00 臺鐵公司因應115年元旦疏運旅客需要，114年12月31日、115年1月1日及1月4日加開東線、西線及南半環自強號16班；另加開北部、中部、南部及宜蘭地區跨年晚會散場時段區間車25班。 115年元旦加開列車車票訂於114年12月12日(五)零時起同步開放網路、台鐵e訂通、超商及電話語音訂票，歡迎旅客多加利用。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:cf7c911dd91618a496871678ccf86c3b",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "宜蘭"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -9787,6 +9806,23 @@
         "content_html": "<div class=\"update_page_layout\">\n<img src=\"/TRA2.jpg\"/>\n<div class=\"update_page_cont\">\n<ul>\n<li>\n                國營臺灣鐵路股份有限公司系統維護公告<br/>本公司於01月07日（星期三）00:30時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等， 若提早完成維護作業將恢復各項服務 ，造成您的不便，敬請見諒。\n              </li>\n<li>\n                Taiwan Railway Corporation System is under scheduled maintenance.<br/>To provide a better service, the system is scheduled to improve the system's performance on 01/07 (estimated to be from 00:30 to 04:30). The site will be down temporarily. We're sorry for any inconveniences.\n              </li><br/>\n              \n                公司地址：臺北市中正區北平西路三號（郵遞區號100230）<br/>公司電話：(02)2381-5226<br/>\n                \n                版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.           \n            </ul>\n</div>\n</div>",
         "content_text": "國營臺灣鐵路股份有限公司系統維護公告 本公司於01月07日（星期三）00:30時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等， 若提早完成維護作業將恢復各項服務 ，造成您的不便，敬請見諒。 Taiwan Railway Corporation System is under scheduled maintenance. To provide a better service, the system is scheduled to improve the system's performance on 01/07 (estimated to be from 00:30 to 04:30). The site will be down temporarily. We're sorry for any inconveniences. 公司地址：臺北市中正區北平西路三號（郵遞區號100230） 公司電話：(02)2381-5226 版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.",
         "content_hash": "md5:4f69484aa28930b16ea5c8cb24ade296",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-01-07T02:25:47.118465+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/12/1 下午 1:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為提升旅客購取票便利性，本公司自87年9月1日起開辦郵局取票服務，100年12月22日起導入超商取票，108年1月23日起再提供「台鐵e訂通APP」QR Code取票服務。鑒於多元售、取票管道已穩定成熟，自115年1月1日起，中華郵政公司將全面停止代售臺鐵車票服務。敬請旅客多加利用本公司台鐵e訂通APP及四大超商辦理購、取票，以便捷快速方式完成行程規劃。<br/><br/>一、「台鐵e訂通」APP隨時購票，手機即車票、乘車更便利<br/>使用「台鐵e訂通」APP辦理購票、取票及行程查詢等功能，主要便利性如下：<br/>•手機即時購票、付款、取票，一機完成<br/>•支援信用卡、行動支付(APPLE PAY、GOOGLE PAY)等多元付款方式<br/>•可直接出示APP內QR Code票證通過驗票，不需另行取紙票<br/>•提供行程變更、多張取票、退票等完整服務<br/><br/>二、四大超商24小時皆可購、取票，服務不中斷<br/>目前全臺超過一萬三千家超商(7-ELEVEN、全家、萊爾富、OK)皆提供臺鐵購、取票服務，無須受營業時間限制，旅客可就近前往操作機台完成購票或取票，節省往返車站的時間與排隊不便。<br/><br/>　　本公司將持續提升售票系統與多元票證服務，提供旅客更便利、友善的購票體驗。相關購票方式與操作資訊，歡迎至臺鐵官網查詢或下載「台鐵e訂通」APP。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利 郵局停止代售臺鐵車票服務 使用「台鐵e訂通」、四大超商購取票更便利 發佈日期：2025/12/1 下午 1:00 為提升旅客購取票便利性，本公司自87年9月1日起開辦郵局取票服務，100年12月22日起導入超商取票，108年1月23日起再提供「台鐵e訂通APP」QR Code取票服務。鑒於多元售、取票管道已穩定成熟，自115年1月1日起，中華郵政公司將全面停止代售臺鐵車票服務。敬請旅客多加利用本公司台鐵e訂通APP及四大超商辦理購、取票，以便捷快速方式完成行程規劃。 一、「台鐵e訂通」APP隨時購票，手機即車票、乘車更便利 使用「台鐵e訂通」APP辦理購票、取票及行程查詢等功能，主要便利性如下： •手機即時購票、付款、取票，一機完成 •支援信用卡、行動支付(APPLE PAY、GOOGLE PAY)等多元付款方式 •可直接出示APP內QR Code票證通過驗票，不需另行取紙票 •提供行程變更、多張取票、退票等完整服務 二、四大超商24小時皆可購、取票，服務不中斷 目前全臺超過一萬三千家超商(7-ELEVEN、全家、萊爾富、OK)皆提供臺鐵購、取票服務，無須受營業時間限制，旅客可就近前往操作機台完成購票或取票，節省往返車站的時間與排隊不便。 本公司將持續提升售票系統與多元票證服務，提供旅客更便利、友善的購票體驗。相關購票方式與操作資訊，歡迎至臺鐵官網查詢或下載「台鐵e訂通」APP。 返回上一頁",
+        "content_hash": "md5:f9bd746ad99a2725969c0d8422aafc03",
         "extracted_data": {
           "report_version": null,
           "event_type": null,
