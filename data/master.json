@@ -12120,6 +12120,25 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-01-23T09:35:44.262009+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>115年1月22日臺北車站特定區各進駐單位聯合辦理高強度無差別攻擊危安實兵演習</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>115年1月22日臺北車站特定區各進駐單位聯合辦理高強度無差別攻擊危安實兵演習</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/1/13 下午 7:40</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為檢視臺北車站特定區（以下稱特定區）內各進駐單位針對各項災害或事件的因應具體作為，以及強化對災害及危安事件的應變能力，謹訂於115年1月22日下午2時，以無差別攻擊事件樣態為基礎想定，並設定特定區內各場域發生危安事件為想定背景，以實地、實景、有想定、無腳本等演練方式，運用既有設施、設備及人員，演示各單位間的應處作為。<br/><br/>　　本次演習係以特定區9大事業體（四鐵四街一微風）轄管場域為範圍，結合外援單位臺北市政府消防局、警察局、衛生局、鐵路警察局、捷運警察隊等單位，進行災害及事件之各體系間的聯合運作，整合轄內公、民營等各單位資源，發揮各機關及團體間聯繫功能，以減輕危害，確保特定區正常運作及民眾、旅客安全。<br/><br/>　　配合本次演習，各單位另訂於115年1月14、20上午10時至下午4時及22日上午10時，在特定區內軌道營運機構月台、地下街或連通道辦理無預警組合訓練（包含1月22日下午2時正式演習），屆時請路過的民眾或候車的旅客於演習時段內，遵從引導並配合人員疏散避難等管制措施，亦建議於該時段行經臺北車站的旅客提早進行行程安排，以避免有所延誤，造成不便之處，敬請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 115年1月22日臺北車站特定區各進駐單位聯合辦理高強度無差別攻擊危安實兵演習 115年1月22日臺北車站特定區各進駐單位聯合辦理高強度無差別攻擊危安實兵演習 發佈日期：2026/1/13 下午 7:40 為檢視臺北車站特定區（以下稱特定區）內各進駐單位針對各項災害或事件的因應具體作為，以及強化對災害及危安事件的應變能力，謹訂於115年1月22日下午2時，以無差別攻擊事件樣態為基礎想定，並設定特定區內各場域發生危安事件為想定背景，以實地、實景、有想定、無腳本等演練方式，運用既有設施、設備及人員，演示各單位間的應處作為。 本次演習係以特定區9大事業體（四鐵四街一微風）轄管場域為範圍，結合外援單位臺北市政府消防局、警察局、衛生局、鐵路警察局、捷運警察隊等單位，進行災害及事件之各體系間的聯合運作，整合轄內公、民營等各單位資源，發揮各機關及團體間聯繫功能，以減輕危害，確保特定區正常運作及民眾、旅客安全。 配合本次演習，各單位另訂於115年1月14、20上午10時至下午4時及22日上午10時，在特定區內軌道營運機構月台、地下街或連通道辦理無預警組合訓練（包含1月22日下午2時正式演習），屆時請路過的民眾或候車的旅客於演習時段內，遵從引導並配合人員疏散避難等管制措施，亦建議於該時段行經臺北車站的旅客提早進行行程安排，以避免有所延誤，造成不便之處，敬請見諒。 返回上一頁",
+        "content_hash": "md5:f677ddab13020030094a21673232b956",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北"
+          ],
+          "predicted_resumption_time": "2026-01-22T02:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -12390,6 +12409,38 @@
           "affected_stations": [
             "臺北"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29be1fd12019be87d32ea02da",
+    "title": "自乘車日3月3日起 臺鐵公司調高個人訂票張數上限",
+    "publish_date": "2026/01/23",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29be1fd12019be87d32ea02da&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260123_自乘車日3月3日起_臺鐵公司調高個人訂票張數上限"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-01-23T09:35:39.383784+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>自乘車日3月3日起 臺鐵公司調高個人訂票張數上限</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>自乘車日3月3日起 臺鐵公司調高個人訂票張數上限</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/1/23 上午 9:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為提升旅客訂票便利性並優化整體訂票服務體驗，自乘車日3月3日起(開放訂票首日為2月3日)，旅客以「個人訂票」方式訂購車票者，每位旅客(依身分證字號、護照號碼或統一證號計算)每日可預訂車票張數，將由6張調整為9張，以提供旅客更具彈性之訂票選擇。<br/><br/>　　本次調整，範圍涵蓋親子座、騰雲座艙、自由座、實名制列車(含連假加班車及花東地區實名訂票)以及兩鐵列車。措施調整後：<br/>1、以單行程、雙行程或三行程方式訂票：每一乘車日、相同方向，最多可預訂9張車票。<br/>2、以去回程方式訂票：單次最多可預訂18張車票(去程及回程各9張)。<br/><br/>　　旅客完成訂票後，至本公司售票窗口、自動售票機、超商(統一超商、全家便利商店、萊爾富便利商店及OK超商)等通路，均可依調整後之張數上限取票。<br/><br/>　　另「台鐵e訂通」APP「一機多票」取票張數上限仍維持6張，「原住民返鄉」訂票張數上限維持每人每梯次單程預訂4張車票；來回預訂8張。由於，線上換票張數須與原訂購張數相同，因此，旅客原訂購乘車日為3月3日(含)以後，欲辦理換票並變更為3月3日前之乘車日者，原訂購張數如超過6張，將無法辦理換票，請至售票窗口辦理，請旅客多加留意。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/f8734b0b-a7bb-41b2-bacf-e74aaf6a62ea\" target=\"_blank\">\n<img alt=\"臺鐵買票4大新規定.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/f8734b0b-a7bb-41b2-bacf-e74aaf6a62ea/360x270\" title=\"另開視窗下載-臺鐵買票4大新規定.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 自乘車日3月3日起 臺鐵公司調高個人訂票張數上限 自乘車日3月3日起 臺鐵公司調高個人訂票張數上限 發佈日期：2026/1/23 上午 9:30 為提升旅客訂票便利性並優化整體訂票服務體驗，自乘車日3月3日起(開放訂票首日為2月3日)，旅客以「個人訂票」方式訂購車票者，每位旅客(依身分證字號、護照號碼或統一證號計算)每日可預訂車票張數，將由6張調整為9張，以提供旅客更具彈性之訂票選擇。 本次調整，範圍涵蓋親子座、騰雲座艙、自由座、實名制列車(含連假加班車及花東地區實名訂票)以及兩鐵列車。措施調整後： 1、以單行程、雙行程或三行程方式訂票：每一乘車日、相同方向，最多可預訂9張車票。 2、以去回程方式訂票：單次最多可預訂18張車票(去程及回程各9張)。 旅客完成訂票後，至本公司售票窗口、自動售票機、超商(統一超商、全家便利商店、萊爾富便利商店及OK超商)等通路，均可依調整後之張數上限取票。 另「台鐵e訂通」APP「一機多票」取票張數上限仍維持6張，「原住民返鄉」訂票張數上限維持每人每梯次單程預訂4張車票；來回預訂8張。由於，線上換票張數須與原訂購張數相同，因此，旅客原訂購乘車日為3月3日(含)以後，欲辦理換票並變更為3月3日前之乘車日者，原訂購張數如超過6張，將無法辦理換票，請至售票窗口辦理，請旅客多加留意。 返回上一頁",
+        "content_hash": "md5:a1932a7060e9ed5b433e286fa111bd39",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
