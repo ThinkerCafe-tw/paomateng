@@ -13347,6 +13347,26 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-02-03T09:35:38.920200+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵車站早餐攤車招商資訊-南港車站</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵車站早餐攤車招商資訊-南港車站</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/1/30 下午 2:22</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司南港車站早餐攤車於115年1月30日起至115年2月8日止辦理公開招商，凡具備相關餐飲經營資格及良好信譽之業者，歡迎提出申請。相關文件如附件。<br/><br/>資產開發處 臺北營業分處 02-23815226-3898 江先生<br/></div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/2c892640-4be5-477d-9df8-2185a41d8c42\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-臺鐵車站早餐攤位設置申請書-南港車站.odt\" type=\"submit\">臺鐵車站早餐攤位設置申請書-南港車站.odt</button>\n</a>\n</div>\n</dd>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/6a3f8691-86fa-4599-b6ec-4510a46d53de\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-臺鐵車站早餐攤位設置申請書-附件(收費及位置)-南港車站.pdf\" type=\"submit\">臺鐵車站早餐攤位設置申請書-附件(收費及位置)-南港車站.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵車站早餐攤車招商資訊-南港車站 臺鐵車站早餐攤車招商資訊-南港車站 發佈日期：2026/1/30 下午 2:22 本公司南港車站早餐攤車於115年1月30日起至115年2月8日止辦理公開招商，凡具備相關餐飲經營資格及良好信譽之業者，歡迎提出申請。相關文件如附件。 資產開發處 臺北營業分處 02-23815226-3898 江先生 附件下載： 臺鐵車站早餐攤位設置申請書-南港車站.odt 臺鐵車站早餐攤位設置申請書-附件(收費及位置)-南港車站.pdf 返回上一頁",
+        "content_hash": "md5:27e2427463234ecef7fd6d1d4de72b44",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北",
+            "南港"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -13591,6 +13611,52 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39c1e7d0b019c2120159f04aa",
+    "title": "「馬到十分・皆得成功」臺鐵祈願加持限量禮盒",
+    "publish_date": "2026/02/03",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39c1e7d0b019c2120159f04aa&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260203_馬到十分_皆得成功_臺鐵祈願加持限量禮盒"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-02-03T09:35:32.973979+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>「馬到十分・皆得成功」臺鐵祈願加持限量禮盒</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>「馬到十分・皆得成功」臺鐵祈願加持限量禮盒</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/2/3 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　「祈願冉冉上升，列車逐夢前行。成安宮加持祝福，馬到十分皆得成功！」為迎接嶄新的馬年新春，臺鐵公司隆重推出年度祈願新品「十分成功」新春禮盒。設計以鐵道文化為核心，結合臺灣土地記憶與新年祝願，將抽象的祝福轉化為可收藏、可傳承的實體心意，為年節送禮注入溫度與故事。<br/>　　「十分成功」寓意事業、人生與願望皆能圓滿順遂，更蘊含對臺灣土地的深厚關懷。禮盒選用白大理石石馬與蛇紋石底座，皆取材自花蓮地區。花蓮於2025年歷經天災考驗，仍展現堅韌生命力，象徵穩住根基、轉危為安，傳遞「石來運轉、平安相隨」的祝福理念。<br/>　　禮盒中搭配的「十分成功」吉祥車票，取意自平溪線十分站。該路段因災後工程面臨重重挑戰，終於在春節前順利復駛，再次迎來元宵放天燈盛會，象徵希望重啟、光明再現。<br/>　　為讓祝福更具心靈力量，臺鐵公司特別恭請十分地方信仰中心－十分成安宮為禮盒祈福過火。十分成安宮創建於1790年，主祀天上聖母媽祖，距今已有236年歷史，長年凝聚地方與海內外信眾，致力推廣臺灣廟宇文化。祈願庇蔭收禮者新年遠離災厄、諸事順遂。「馬到十分．皆得成功」，不僅是一句吉語，更是結合信仰與祝願的真誠心意。<br/>　　「十分成功」禮盒每組售價新臺幣1,288元，將於2026年2月4日（星期三）於臺鐵夢工場網路商店及門市限量發售共150組，每人每次限購3組，敬請把握這份文化、信仰與祝福兼具的新春好禮。<br/><br/>十分成功禮盒銷售資訊：<br/>每組售價：新臺幣1,288元<br/>商品數量：限量150組<br/>開賣日期：2026年2月4日(星期三)<br/>開賣時間：<br/>1.\t臺鐵夢工場網路商店：上午10時起<br/>2.\t實體門市依各販售門市營業時間<br/>限購規範：每人每次限購3組<br/>銷售地點：<br/>1.\t臺鐵夢工場-臺北旗艦店、松山、南港、花蓮、臺東門市<br/>2.\t台鐵便當販賣店-臺北2號店、板橋、臺中、高雄門市<br/>3.\t臺鐵夢工場網路商店<br/><br/>說明事項：<br/>1.\t大理石馬及蛇紋石底座皆為天然石材紋路，獨一無二<br/>2.\t十分成功車票隨機配置，不得挑號</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/1af8d668-bf2b-43cd-b3ab-b00f06871288\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-商品宣傳照.pdf\" type=\"submit\">商品宣傳照.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 「馬到十分・皆得成功」臺鐵祈願加持限量禮盒 「馬到十分・皆得成功」臺鐵祈願加持限量禮盒 發佈日期：2026/2/3 上午 9:00 「祈願冉冉上升，列車逐夢前行。成安宮加持祝福，馬到十分皆得成功！」為迎接嶄新的馬年新春，臺鐵公司隆重推出年度祈願新品「十分成功」新春禮盒。設計以鐵道文化為核心，結合臺灣土地記憶與新年祝願，將抽象的祝福轉化為可收藏、可傳承的實體心意，為年節送禮注入溫度與故事。 「十分成功」寓意事業、人生與願望皆能圓滿順遂，更蘊含對臺灣土地的深厚關懷。禮盒選用白大理石石馬與蛇紋石底座，皆取材自花蓮地區。花蓮於2025年歷經天災考驗，仍展現堅韌生命力，象徵穩住根基、轉危為安，傳遞「石來運轉、平安相隨」的祝福理念。 禮盒中搭配的「十分成功」吉祥車票，取意自平溪線十分站。該路段因災後工程面臨重重挑戰，終於在春節前順利復駛，再次迎來元宵放天燈盛會，象徵希望重啟、光明再現。 為讓祝福更具心靈力量，臺鐵公司特別恭請十分地方信仰中心－十分成安宮為禮盒祈福過火。十分成安宮創建於1790年，主祀天上聖母媽祖，距今已有236年歷史，長年凝聚地方與海內外信眾，致力推廣臺灣廟宇文化。祈願庇蔭收禮者新年遠離災厄、諸事順遂。「馬到十分．皆得成功」，不僅是一句吉語，更是結合信仰與祝願的真誠心意。 「十分成功」禮盒每組售價新臺幣1,288元，將於2026年2月4日（星期三）於臺鐵夢工場網路商店及門市限量發售共150組，每人每次限購3組，敬請把握這份文化、信仰與祝福兼具的新春好禮。 十分成功禮盒銷售資訊： 每組售價：新臺幣1,288元 商品數量：限量150組 開賣日期：2026年2月4日(星期三) 開賣時間： 1.\t臺鐵夢工場網路商店：上午10時起 2.\t實體門市依各販售門市營業時間 限購規範：每人每次限購3組 銷售地點： 1.\t臺鐵夢工場-臺北旗艦店、松山、南港、花蓮、臺東門市 2.\t台鐵便當販賣店-臺北2號店、板橋、臺中、高雄門市 3.\t臺鐵夢工場網路商店 說明事項： 1.\t大理石馬及蛇紋石底座皆為天然石材紋路，獨一無二 2.\t十分成功車票隨機配置，不得挑號 附件下載： 商品宣傳照.pdf 返回上一頁",
+        "content_hash": "md5:2c09b82c04185e3ee39e9bd70bb4e517",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [
+            "平溪線"
+          ],
+          "affected_stations": [
+            "臺東",
+            "成功",
+            "松山",
+            "臺中",
+            "臺北",
+            "板橋",
+            "南港",
+            "高雄",
+            "花蓮",
+            "十分",
+            "平溪"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
