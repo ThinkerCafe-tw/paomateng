@@ -13926,6 +13926,25 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-02-07T13:50:40.528165+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>本公司辦理「高雄市高雄車站旅館大樓增、改、修建營運移轉案」可行性評估階段公聽會會議紀錄公開</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司辦理「高雄市高雄車站旅館大樓增、改、修建營運移轉案」可行性評估階段公聽會會議紀錄公開</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/2/3 上午 10:54</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">依促參法施行細則第31條第4項規定，公告本公司辦理「高雄市高雄車站旅館大樓增、改、修建營運移轉案」可行性評估階段公聽會會議紀錄。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/b91023e8-8efd-479b-a577-bb1a1dfc41a8\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-附件_1150128_高雄車站旅館大樓ROT案公聽會會議紀錄.pdf\" type=\"submit\">附件_1150128_高雄車站旅館大樓ROT案公聽會會議紀錄.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司辦理「高雄市高雄車站旅館大樓增、改、修建營運移轉案」可行性評估階段公聽會會議紀錄公開 本公司辦理「高雄市高雄車站旅館大樓增、改、修建營運移轉案」可行性評估階段公聽會會議紀錄公開 發佈日期：2026/2/3 上午 10:54 依促參法施行細則第31條第4項規定，公告本公司辦理「高雄市高雄車站旅館大樓增、改、修建營運移轉案」可行性評估階段公聽會會議紀錄。 附件下載： 附件_1150128_高雄車站旅館大樓ROT案公聽會會議紀錄.pdf 返回上一頁",
+        "content_hash": "md5:fd39e199f2242053d886248efc6517e3",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "高雄"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -14133,6 +14152,41 @@
             "宜蘭",
             "高雄",
             "保安"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39c324429019c36a4f40f04ad",
+    "title": "臺鐵 × KATO 「N規鐵道模型祭 in 臺北」今日正式開幕！",
+    "publish_date": "2026/02/07",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39c324429019c36a4f40f04ad&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260207_臺鐵_KATO_N規鐵道模型祭_in_臺北_今日正式開幕"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-02-07T13:50:34.527305+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li>臺鐵 × KATO 「N規鐵道模型祭 in 臺北」今日正式開幕！</li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵 × KATO 「N規鐵道模型祭 in 臺北」今日正式開幕！</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/2/7 下午 1:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司與KATO公司舉辦為期2天的N規鐵道模型祭(2月7日至2月8日)，今日於臺北車站一樓多功能展演區熱烈登場！早上10時舉辦的開幕記者會，由臺鐵公司馮輝昇總經理與KATO公司加藤社長一同舉行開幕儀式，啟動儀式開始瞬間，更象徵臺日鐵道文化交流的啟動及臺鐵公司與日本KATO公司在鐵道模型文化上的跨界合作，活動現場吸引大批參觀民眾到場參加觀賞，現場氣氛熱絡，充分展現鐵道模型的魅力。 <br/><br/>　　於活動會場中，除販售鐵路文創商品外，更設置了許多精彩的體驗區與精密模型展示空間，提供參觀者多元的互動與觀賞體驗，為期2天的N規鐵道模型祭，也安排不同的舞台互動時間，內容包含學生鐵道模型作品分享、驚喜座談會、模型操作示範及臺灣火車傳奇簽書會等，讓民眾在欣賞模型之餘，也能與專家學者、學生及鐵道模型愛好們一同近距離交流，感受臺日鐵道文化交流的活力與熱情。<br/><br/>活動資訊如下:<br/>一、115年2月7日(星期六)舞台活動:<br/>(一)下午1時至2時:「臺灣學生赴日本全國高校鐵道模型大賽頒獎儀式」，邀請永靖高工學生進行得獎作品心得分享。<br/>(二)下午2時15分至3時15分:從鐵道模型製造商·KATO的視角，探索臺鐵的魅力。<br/>(三)下午3時30分至4時30分:臺鐵公司×特別來賓×KATO公司「驚喜座談會」。<br/>(四)下午4時45分至5時15分:集創意公司「運轉鐵道生活的樂趣」。 <br/><br/>二、115年2月8日(星期日)舞台活動: <br/>(一)上午10時至11時:從Q&amp;A問答認識！KATO的N規鐵道模型+江之電的小測驗。  <br/>(二)上午11時15分至12時15分:洪致文教授「臺灣火車傳奇簽書會」。 <br/>(三)下午1時至2時: KATO公司×特別來賓「特別座談會」。<br/>(四)下午2時15分至3時15分:阿立圓山分享「鐵道模型趣味~車輛篇」。<br/>(五)下午4至4時30分:N規鐵道模型祭閉幕典禮。 <br/>誠摯邀請大家蒞臨2026年N規鐵道模型祭，在這裡您不僅能近距離欣賞精緻模型，還可以親手組裝軌道、操作列車、體驗 DIY 微縮鐵道模型場景，感受鐵道模型的魅力，走進會場，彷彿置身於一座小型鐵道世界，臺日鐵道文化在此交流，歡迎大家一同參與及探索，共享鐵道帶來的樂趣與美好回憶！</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/d1f63c3a-48c2-4421-9806-99298a5aca12\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-活動照片.pdf\" type=\"submit\">活動照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵 × KATO 「N規鐵道模型祭 in 臺北」今日正式開幕！ 臺鐵 × KATO 「N規鐵道模型祭 in 臺北」今日正式開幕！ 發佈日期：2026/2/7 下午 1:30 臺鐵公司與KATO公司舉辦為期2天的N規鐵道模型祭(2月7日至2月8日)，今日於臺北車站一樓多功能展演區熱烈登場！早上10時舉辦的開幕記者會，由臺鐵公司馮輝昇總經理與KATO公司加藤社長一同舉行開幕儀式，啟動儀式開始瞬間，更象徵臺日鐵道文化交流的啟動及臺鐵公司與日本KATO公司在鐵道模型文化上的跨界合作，活動現場吸引大批參觀民眾到場參加觀賞，現場氣氛熱絡，充分展現鐵道模型的魅力。 於活動會場中，除販售鐵路文創商品外，更設置了許多精彩的體驗區與精密模型展示空間，提供參觀者多元的互動與觀賞體驗，為期2天的N規鐵道模型祭，也安排不同的舞台互動時間，內容包含學生鐵道模型作品分享、驚喜座談會、模型操作示範及臺灣火車傳奇簽書會等，讓民眾在欣賞模型之餘，也能與專家學者、學生及鐵道模型愛好們一同近距離交流，感受臺日鐵道文化交流的活力與熱情。 活動資訊如下: 一、115年2月7日(星期六)舞台活動: (一)下午1時至2時:「臺灣學生赴日本全國高校鐵道模型大賽頒獎儀式」，邀請永靖高工學生進行得獎作品心得分享。 (二)下午2時15分至3時15分:從鐵道模型製造商·KATO的視角，探索臺鐵的魅力。 (三)下午3時30分至4時30分:臺鐵公司×特別來賓×KATO公司「驚喜座談會」。 (四)下午4時45分至5時15分:集創意公司「運轉鐵道生活的樂趣」。 二、115年2月8日(星期日)舞台活動: (一)上午10時至11時:從Q&A問答認識！KATO的N規鐵道模型+江之電的小測驗。 (二)上午11時15分至12時15分:洪致文教授「臺灣火車傳奇簽書會」。 (三)下午1時至2時: KATO公司×特別來賓「特別座談會」。 (四)下午2時15分至3時15分:阿立圓山分享「鐵道模型趣味~車輛篇」。 (五)下午4至4時30分:N規鐵道模型祭閉幕典禮。 誠摯邀請大家蒞臨2026年N規鐵道模型祭，在這裡您不僅能近距離欣賞精緻模型，還可以親手組裝軌道、操作列車、體驗 DIY 微縮鐵道模型場景，感受鐵道模型的魅力，走進會場，彷彿置身於一座小型鐵道世界，臺日鐵道文化在此交流，歡迎大家一同參與及探索，共享鐵道帶來的樂趣與美好回憶！ 附件下載： 活動照片.pdf 返回上一頁",
+        "content_hash": "md5:344f7a7468e7c104bc2188489f1cc622",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北",
+            "永靖"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
