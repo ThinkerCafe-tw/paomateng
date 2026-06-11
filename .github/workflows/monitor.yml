@@ -1,5 +1,9 @@
 name: Railway News Monitor
 
+concurrency:
+  group: railway-monitor
+  cancel-in-progress: false
+
 on:
   # 每5分鐘執行一次 (已停用，改用 n8n 觸發)
   # schedule:
