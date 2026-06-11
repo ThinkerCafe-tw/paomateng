@@ -83,6 +83,7 @@ def run_monitoring_cycle(config: dict) -> None:
                         continue
 
                     content_html, content_hash = detail_result
+                    content_text = html_to_text(content_html)
 
                     # Parse and classify (pass publish_date and title for accurate time parsing)
                     extracted_data = content_parser.parse(content_html, item.publish_date, item.title)
@@ -95,7 +96,7 @@ def run_monitoring_cycle(config: dict) -> None:
                     version_entry = VersionEntry(
                         scraped_at=datetime.now(ZoneInfo("Asia/Taipei")),
                         content_html=content_html,
-                        content_text=html_to_text(content_html),
+                        content_text=content_text,
                         content_hash=content_hash,
                         extracted_data=extracted_data,
                     )
@@ -119,11 +120,20 @@ def run_monitoring_cycle(config: dict) -> None:
                         continue
 
                     content_html, new_hash = detail_result
+                    content_text = html_to_text(content_html)
 
                     # Get latest hash from version history
-                    latest_hash = existing.version_history[-1].content_hash
+                    latest_version = existing.version_history[-1]
+                    latest_hash = latest_version.content_hash
+                    latest_text = latest_version.content_text
 
                     if new_hash != latest_hash:
+                        if content_text == latest_text:
+                            logger.debug(
+                                f"Skipping HTML-only change for {item.news_no}: text content unchanged"
+                            )
+                            continue
+
                         # Content changed!
                         logger.info(f"CHANGE detected: {item.news_no} - {item.title}")
                         logger.debug(f"Old hash: {latest_hash}, New hash: {new_hash}")
@@ -135,7 +145,7 @@ def run_monitoring_cycle(config: dict) -> None:
                         new_version = VersionEntry(
                             scraped_at=datetime.now(ZoneInfo("Asia/Taipei")),
                             content_html=content_html,
-                            content_text=html_to_text(content_html),
+                            content_text=content_text,
                             content_hash=new_hash,
                             extracted_data=extracted_data,
                         )

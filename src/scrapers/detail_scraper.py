@@ -10,6 +10,12 @@ from src.utils.http_client import HTTPClient
 from src.utils.hash_utils import compute_hash
 
 
+def is_rejected_response(html: str) -> bool:
+    """Detect upstream WAF rejection pages that should not be stored as content."""
+    normalized = html.lower()
+    return "request rejected" in normalized and "requested url was rejected" in normalized
+
+
 class DetailScraper:
     """
     Scraper for TRA announcement detail pages
@@ -43,6 +49,10 @@ class DetailScraper:
         html = self.http_client.get_with_retry(detail_url)
         if not html:
             logger.error(f"Failed to fetch detail page: {detail_url}")
+            return None
+
+        if is_rejected_response(html):
+            logger.warning(f"Rejected response from upstream for detail page: {detail_url}")
             return None
 
         try:

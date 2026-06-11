@@ -23,9 +23,36 @@ export async function GET(request) {
   console.log(`[${timestamp}] - Auth header: ${authHeader ? 'present' : 'missing'}`);
 
   const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+  const CRON_SECRET = process.env.CRON_SECRET;
   const REPO_OWNER = 'ThinkerCafe-tw';
   const REPO_NAME = 'paomateng';
   const WORKFLOW_ID = 'monitor.yml';
+
+  if (!isVercelCron) {
+    if (!CRON_SECRET) {
+      console.error(`[${timestamp}] ❌ CRON_SECRET not configured for external trigger`);
+      return new Response(JSON.stringify({
+        error: 'Configuration Error',
+        message: 'CRON_SECRET not set',
+        timestamp
+      }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+
+    if (authHeader !== `Bearer ${CRON_SECRET}`) {
+      console.warn(`[${timestamp}] ❌ Unauthorized external trigger`);
+      return new Response(JSON.stringify({
+        error: 'Unauthorized',
+        message: 'Invalid or missing Authorization header',
+        timestamp
+      }), {
+        status: 401,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+  }
 
   if (!GITHUB_TOKEN) {
     console.error(`[${timestamp}] ❌ GITHUB_TOKEN not configured`);

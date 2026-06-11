@@ -2,6 +2,7 @@
 List scraper for TRA announcement list pages
 """
 
+import re
 from typing import List
 from urllib.parse import urljoin, urlparse, parse_qs
 from bs4 import BeautifulSoup
@@ -9,6 +10,19 @@ from loguru import logger
 
 from src.utils.http_client import HTTPClient
 from src.models.announcement import AnnouncementListItem
+
+
+DATE_PATTERN = re.compile(r"^(\d{4})/(\d{1,2})/(\d{1,2})$")
+
+
+def normalize_publish_date(text: str) -> str:
+    """Return a canonical YYYY/MM/DD date only when the cell is a date."""
+    match = DATE_PATTERN.match(text.strip())
+    if not match:
+        return ""
+
+    year, month, day = match.groups()
+    return f"{int(year):04d}/{int(month):02d}/{int(day):02d}"
 
 
 class ListScraper:
@@ -80,12 +94,9 @@ class ListScraper:
                             date_cells = parent.find_all(["td", "span", "div"])
                             for cell in date_cells:
                                 text = cell.get_text(strip=True)
-                                # Look for YYYY/MM/DD pattern
-                                if "/" in text and len(text) >= 8:
-                                    # Basic validation: should have 2 slashes
-                                    if text.count("/") == 2:
-                                        publish_date = text
-                                        break
+                                publish_date = normalize_publish_date(text)
+                                if publish_date:
+                                    break
 
                         # Construct full detail URL
                         detail_url = urljoin(self.base_url, href)
