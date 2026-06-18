@@ -17042,5 +17042,37 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39ed1dd4e019ed39f325316f1",
+    "title": "活動額滿公告-「旅途就要Pay著走，120元台鐵便當8折美味到手！」優惠活動已於115年6月18日達活動經費上限，本優惠專案已結束，感謝大家的支持。",
+    "publish_date": "2026/06/18",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39ed1dd4e019ed39f325316f1&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260618_活動額滿公告_旅途就要Pay著走_120元台鐵便當8折美味到"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-06-18T17:51:42.364262+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">活動額滿公告-「旅途就要Pay著走，120元台鐵便當8折美味到手！」優惠活動已於115年6月18日達活動經費上限，本優惠專案已結束，感謝大家的支持。</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>活動額滿公告-「旅途就要Pay著走，120元台鐵便當8折美味到手！」優惠活動已於115年6月18日達活動經費上限，本優惠專案已結束，感謝大家的支持。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/18 下午 5:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">「旅途就要Pay著走，120元台鐵便當8折美味到手！」優惠活動已於115年6月18日達活動經費上限，本優惠專案已結束，感謝大家的支持。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 活動額滿公告-「旅途就要Pay著走，120元台鐵便當8折美味到手！」優惠活動已於115年6月18日達活動經費上限，本優惠專案已結束，感謝大家的支持。 活動額滿公告-「旅途就要Pay著走，120元台鐵便當8折美味到手！」優惠活動已於115年6月18日達活動經費上限，本優惠專案已結束，感謝大家的支持。 發佈日期：2026/6/18 下午 5:30 「旅途就要Pay著走，120元台鐵便當8折美味到手！」優惠活動已於115年6月18日達活動經費上限，本優惠專案已結束，感謝大家的支持。 返回上一頁",
+        "content_hash": "md5:995eaf52989b765c1793a5ce8586ddf4",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
