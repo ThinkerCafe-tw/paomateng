@@ -222,6 +222,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-07-07T10:43:35.194146+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/9/24 下午 4:46</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">行動電源安全注意事項<br/>Portable Power Bank Safety Notices<br/>為了守護大家的安全，請配合以下事項：<br/>For everyone's safety, please follow the instructions below.<br/>1.留意(Check):<br/>請留意您的行動電源是否有發熱、膨脹、冒煙或異味等情形。<br/>Please check whether your portable power bank shows signs of overheating, swelling, smoke, or unusual odor.<br/>2.停用(Stop):<br/>若出現異常，請立即停止使用及充電。<br/>使用時請放在目光可及之處，並勿放在行李內。<br/>If any abnormal condition occurs, please stop using and charging it immediately.<br/>Please keep it within sight while in use and do not place it inside luggage.<br/>3.遠離(Separate):<br/>請將行動電源遠離紙張、衣物等易燃物。避免擠壓、碰撞或曝曬高溫。<br/>Keep portable power banks away from paper, clothing, or other flammable items. Avoid squeezing, impact, or exposure to high temperatures.<br/>4.通知(Notify):<br/>若發現異常或有安全疑慮請立即通知車站或列車服務人員。<br/>If you notice any abnormality or safety concern, please inform station staff or train crew immediately.<br/>5.疏散(Evacuation):<br/>請配合現場人員引導疏散及安全處理。<br/>Please follow on-site staff instructions for evacuation and safety measures.<br/><br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞 旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞 發佈日期：2025/9/24 下午 4:46 行動電源安全注意事項 Portable Power Bank Safety Notices 為了守護大家的安全，請配合以下事項： For everyone's safety, please follow the instructions below. 1.留意(Check): 請留意您的行動電源是否有發熱、膨脹、冒煙或異味等情形。 Please check whether your portable power bank shows signs of overheating, swelling, smoke, or unusual odor. 2.停用(Stop): 若出現異常，請立即停止使用及充電。 使用時請放在目光可及之處，並勿放在行李內。 If any abnormal condition occurs, please stop using and charging it immediately. Please keep it within sight while in use and do not place it inside luggage. 3.遠離(Separate): 請將行動電源遠離紙張、衣物等易燃物。避免擠壓、碰撞或曝曬高溫。 Keep portable power banks away from paper, clothing, or other flammable items. Avoid squeezing, impact, or exposure to high temperatures. 4.通知(Notify): 若發現異常或有安全疑慮請立即通知車站或列車服務人員。 If you notice any abnormality or safety concern, please inform station staff or train crew immediately. 5.疏散(Evacuation): 請配合現場人員引導疏散及安全處理。 Please follow on-site staff instructions for evacuation and safety measures. 返回上一頁",
+        "content_hash": "md5:ec98559297eb1630020acae36c12180d",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
