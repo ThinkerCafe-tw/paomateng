@@ -175,6 +175,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:04.681141+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">車廂寧靜宣導，共同維護乘車品質</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>車廂寧靜宣導，共同維護乘車品質</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2023/3/25 下午 2:51</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">為維護車廂安寧，乘車時敬請將手機或電子用品轉成靜音模式，使用手機請輕聲通話或至通道間接聽，共同維護乘車品質。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 車廂寧靜宣導，共同維護乘車品質 車廂寧靜宣導，共同維護乘車品質 發佈日期：2023/3/25 下午 2:51 為維護車廂安寧，乘車時敬請將手機或電子用品轉成靜音模式，使用手機請輕聲通話或至通道間接聽，共同維護乘車品質。 返回上一頁",
+        "content_hash": "md5:e26cd6f991fcee1eea790620c8068f58",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -281,6 +298,23 @@
         "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\"></span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong></strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：null</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\"></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
         "content_text": "::: 首頁 最新消息 發佈日期：null 返回上一頁",
         "content_hash": "md5:a12089902d4bca2bcca074a94684b53d",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:05.785369+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵緊急聯絡電話「1933」(僅限發現軌道、平交道、橋樑及隧道有障礙物通報專用)</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵緊急聯絡電話「1933」(僅限發現軌道、平交道、橋樑及隧道有障礙物通報專用)</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2022/3/18 上午 10:02</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">臺鐵緊急聯絡電話「1933」(僅限發現軌道、平交道、橋樑及隧道有障礙物通報專用)</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵緊急聯絡電話「1933」(僅限發現軌道、平交道、橋樑及隧道有障礙物通報專用) 臺鐵緊急聯絡電話「1933」(僅限發現軌道、平交道、橋樑及隧道有障礙物通報專用) 發佈日期：2022/3/18 上午 10:02 臺鐵緊急聯絡電話「1933」(僅限發現軌道、平交道、橋樑及隧道有障礙物通報專用) 返回上一頁",
+        "content_hash": "md5:9ab1514690796372e49dbb0e89a23532",
         "extracted_data": {
           "report_version": null,
           "event_type": null,
@@ -469,6 +503,23 @@
         "extracted_data": {
           "report_version": null,
           "event_type": "Typhoon",
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:03.487965+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2025/9/24 下午 4:46</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">行動電源安全注意事項<br/>Portable Power Bank Safety Notices<br/>為了守護大家的安全，請配合以下事項：<br/>For everyone's safety, please follow the instructions below.<br/>1.留意(Check):<br/>請留意您的行動電源是否有發熱、膨脹、冒煙或異味等情形。<br/>Please check whether your portable power bank shows signs of overheating, swelling, smoke, or unusual odor.<br/>2.停用(Stop):<br/>若出現異常，請立即停止使用及充電。<br/>使用時請放在目光可及之處，並勿放在行李內。<br/>If any abnormal condition occurs, please stop using and charging it immediately.<br/>Please keep it within sight while in use and do not place it inside luggage.<br/>3.遠離(Separate):<br/>請將行動電源遠離紙張、衣物等易燃物。避免擠壓、碰撞或曝曬高溫。<br/>Keep portable power banks away from paper, clothing, or other flammable items. Avoid squeezing, impact, or exposure to high temperatures.<br/>4.通知(Notify):<br/>若發現異常或有安全疑慮請立即通知車站或列車服務人員。<br/>If you notice any abnormality or safety concern, please inform station staff or train crew immediately.<br/>5.疏散(Evacuation):<br/>請配合現場人員引導疏散及安全處理。<br/>Please follow on-site staff instructions for evacuation and safety measures.<br/><br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞 旅客攜帶行動電源(含鋰電池可攜式裝置)之安全宣導詞 發佈日期：2025/9/24 下午 4:46 行動電源安全注意事項 Portable Power Bank Safety Notices 為了守護大家的安全，請配合以下事項： For everyone's safety, please follow the instructions below. 1.留意(Check): 請留意您的行動電源是否有發熱、膨脹、冒煙或異味等情形。 Please check whether your portable power bank shows signs of overheating, swelling, smoke, or unusual odor. 2.停用(Stop): 若出現異常，請立即停止使用及充電。 使用時請放在目光可及之處，並勿放在行李內。 If any abnormal condition occurs, please stop using and charging it immediately. Please keep it within sight while in use and do not place it inside luggage. 3.遠離(Separate): 請將行動電源遠離紙張、衣物等易燃物。避免擠壓、碰撞或曝曬高溫。 Keep portable power banks away from paper, clothing, or other flammable items. Avoid squeezing, impact, or exposure to high temperatures. 4.通知(Notify): 若發現異常或有安全疑慮請立即通知車站或列車服務人員。 If you notice any abnormality or safety concern, please inform station staff or train crew immediately. 5.疏散(Evacuation): 請配合現場人員引導疏散及安全處理。 Please follow on-site staff instructions for evacuation and safety measures. 返回上一頁",
+        "content_hash": "md5:ec98559297eb1630020acae36c12180d",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
@@ -15076,6 +15127,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:06.934986+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司官網網址更新並行啟用說明</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司官網網址更新並行啟用說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/5/20 上午 9:32</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">配合臺鐵公司化進程並提升整體資訊服務品質，本公司官網將進行網址更新作業。<br/>自 2026 年 7 月 1 日起，新網址（www.trc.com.tw）將正式啟用，並與舊網址（www.railway.gov.tw）併行服務，舊網址預計於 2027 年1 月 1 日停止運作；<br/>併行期間，原官網各項功能與資訊服務均維持正常服務，新官網亦將陸續整合並提供更趨完善的服務內容，敬請旅客多加利用新網址，以獲取更優質的資訊體驗。<br/><br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司官網網址更新並行啟用說明 臺鐵公司官網網址更新並行啟用說明 發佈日期：2026/5/20 上午 9:32 配合臺鐵公司化進程並提升整體資訊服務品質，本公司官網將進行網址更新作業。 自 2026 年 7 月 1 日起，新網址（www.trc.com.tw）將正式啟用，並與舊網址（www.railway.gov.tw）併行服務，舊網址預計於 2027 年1 月 1 日停止運作； 併行期間，原官網各項功能與資訊服務均維持正常服務，新官網亦將陸續整合並提供更趨完善的服務內容，敬請旅客多加利用新網址，以獲取更優質的資訊體驗。 返回上一頁",
+        "content_hash": "md5:f029bc25957019bcca681813e0696df4",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -17793,6 +17861,38 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:20.657339+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵中洲=岡山間因受豪大雨影響，雙線暫時停止行車， 員林=社頭間因受行人侵入路線影響，暫以單線雙向行車 (第2發)</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵中洲=岡山間因受豪大雨影響，雙線暫時停止行車， 員林=社頭間因受行人侵入路線影響，暫以單線雙向行車 (第2發)</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/26 上午 7:20</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 應變概況：<br/>今（26）日05時25分起，因受豪大雨影響，中洲=岡山間車站水淹軌面，為確保行車安全，中洲=岡山間雙線暫時停止行車；員林=社頭間因受行人侵入路線影響，暫以單線雙向行車。<br/>二、 應變措施：<br/>（一） 本公司已成立一級應變小組及南區應變分組因應，並指派工務單位至現場監看路線狀況，不辦理公路接駁；彰化=社頭間行人侵入路線，已通報鐵路警察及119至現場處理。<br/>（二） 目前列車運行狀況：<br/>1.對號列車：<br/>（1）南迴線行駛至新左營站為止，<br/>（2）西部幹線下行列車部分行駛至彰化站折返，部分行駛至新營站折返，新營=潮州間停駛。<br/>2.區間車：上行區間車行駛至岡山站止，下行區間車行駛至臺南站止，臺南=沙崙間採小運轉每小時行駛1列次，彰化以南的旅客如有中長途的旅運需求，請改搭高鐵或其他交通運具。<br/>3.今(26)日山嵐號停駛，已預訂行程之旅客，將由旅行社通知後續退款事宜。<br/>三、 乘客出門前，詢問列車最新運行資訊請洽：<br/>（一） 臺鐵官方網站、臺鐵e訂通APP。<br/>（二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>各就近車站(臺鐵官方網站有各車站聯絡資訊)。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵中洲=岡山間因受豪大雨影響，雙線暫時停止行車， 員林=社頭間因受行人侵入路線影響，暫以單線雙向行車 (第2發) 臺鐵中洲=岡山間因受豪大雨影響，雙線暫時停止行車， 員林=社頭間因受行人侵入路線影響，暫以單線雙向行車 (第2發) 發佈日期：2026/6/26 上午 7:20 一、 應變概況： 今（26）日05時25分起，因受豪大雨影響，中洲=岡山間車站水淹軌面，為確保行車安全，中洲=岡山間雙線暫時停止行車；員林=社頭間因受行人侵入路線影響，暫以單線雙向行車。 二、 應變措施： （一） 本公司已成立一級應變小組及南區應變分組因應，並指派工務單位至現場監看路線狀況，不辦理公路接駁；彰化=社頭間行人侵入路線，已通報鐵路警察及119至現場處理。 （二） 目前列車運行狀況： 1.對號列車： （1）南迴線行駛至新左營站為止， （2）西部幹線下行列車部分行駛至彰化站折返，部分行駛至新營站折返，新營=潮州間停駛。 2.區間車：上行區間車行駛至岡山站止，下行區間車行駛至臺南站止，臺南=沙崙間採小運轉每小時行駛1列次，彰化以南的旅客如有中長途的旅運需求，請改搭高鐵或其他交通運具。 3.今(26)日山嵐號停駛，已預訂行程之旅客，將由旅行社通知後續退款事宜。 三、 乘客出門前，詢問列車最新運行資訊請洽： （一） 臺鐵官方網站、臺鐵e訂通APP。 （二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 各就近車站(臺鐵官方網站有各車站聯絡資訊)。 返回上一頁",
+        "content_hash": "md5:d24b7b15741ffd0f68489eb3786d9a67",
+        "extracted_data": {
+          "report_version": "2",
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "西部幹線",
+            "南迴線"
+          ],
+          "affected_stations": [
+            "新營",
+            "潮州",
+            "左營",
+            "岡山",
+            "沙崙",
+            "員林",
+            "社頭",
+            "新左營",
+            "中洲",
+            "臺南",
+            "彰化"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -17892,6 +17992,37 @@
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:19.546672+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵中洲=岡山間軌面積水已消退，並於09時恢復雙線行車；員林=社頭間08時25分恢復雙線行車；竹中=竹東間因受邊坡落石影響，暫時停止行車並啟動公路接駁(第3發)</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵中洲=岡山間軌面積水已消退，並於09時恢復雙線行車；員林=社頭間08時25分恢復雙線行車；竹中=竹東間因受邊坡落石影響，暫時停止行車並啟動公路接駁(第3發)</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/26 上午 9:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 應變概況：<br/>（一） 今（26）日05時25分起，因受豪大雨影響，中洲=岡山間雙線暫停行駛，經工務單位監控巡查，09時起軌面積水已消退，恢復雙線行車。<br/>（二） 員林=社頭間行人侵入路線，已於8時25分恢復雙線行車。<br/>（三） 08時15分起上員=榮華間K11+800處，因受邊坡落石影響，竹中=竹東間暫時停止行車並啟動公路接駁。<br/><br/>二、 應變措施：<br/>（一） 本公司已成立一級應變小組及南區應變分組因應，並指派工務單位至現場監看，中洲=岡山間恢復雙線行車，為確保行車安全，採降速行駛。<br/>（二） 竹中=竹東間因受邊坡落石影響，路線暫時不通，並啟動公路接駁。<br/>（三） 目前列車運行狀況：<br/>1.對號列車：<br/>（1）南迴線恢復正常行駛。<br/>（2）西部幹線下行列車自107次、上行118次起恢復正常行駛。<br/>2.區間車：全區間(含沙崙線)逐步恢復正常行駛。<br/>3.今(26)日山嵐號停駛，已預訂行程之旅客，將由旅行社通知後續退款事宜。<br/><br/>三、 乘客出門前，詢問列車最新運行資訊請洽：<br/>（一） 臺鐵官方網站、臺鐵e訂通APP。<br/>（二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>各就近車站(臺鐵官方網站有各車站聯絡資訊)。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵中洲=岡山間軌面積水已消退，並於09時恢復雙線行車；員林=社頭間08時25分恢復雙線行車；竹中=竹東間因受邊坡落石影響，暫時停止行車並啟動公路接駁(第3發) 臺鐵中洲=岡山間軌面積水已消退，並於09時恢復雙線行車；員林=社頭間08時25分恢復雙線行車；竹中=竹東間因受邊坡落石影響，暫時停止行車並啟動公路接駁(第3發) 發佈日期：2026/6/26 上午 9:30 一、 應變概況： （一） 今（26）日05時25分起，因受豪大雨影響，中洲=岡山間雙線暫停行駛，經工務單位監控巡查，09時起軌面積水已消退，恢復雙線行車。 （二） 員林=社頭間行人侵入路線，已於8時25分恢復雙線行車。 （三） 08時15分起上員=榮華間K11+800處，因受邊坡落石影響，竹中=竹東間暫時停止行車並啟動公路接駁。 二、 應變措施： （一） 本公司已成立一級應變小組及南區應變分組因應，並指派工務單位至現場監看，中洲=岡山間恢復雙線行車，為確保行車安全，採降速行駛。 （二） 竹中=竹東間因受邊坡落石影響，路線暫時不通，並啟動公路接駁。 （三） 目前列車運行狀況： 1.對號列車： （1）南迴線恢復正常行駛。 （2）西部幹線下行列車自107次、上行118次起恢復正常行駛。 2.區間車：全區間(含沙崙線)逐步恢復正常行駛。 3.今(26)日山嵐號停駛，已預訂行程之旅客，將由旅行社通知後續退款事宜。 三、 乘客出門前，詢問列車最新運行資訊請洽： （一） 臺鐵官方網站、臺鐵e訂通APP。 （二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 各就近車站(臺鐵官方網站有各車站聯絡資訊)。 返回上一頁",
+        "content_hash": "md5:7ac2c3ab0a29dd511c6c8fb17debdd3d",
+        "extracted_data": {
+          "report_version": "3",
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "西部幹線",
+            "南迴線",
+            "沙崙線"
+          ],
+          "affected_stations": [
+            "竹東",
+            "岡山",
+            "沙崙",
+            "員林",
+            "社頭",
+            "上員",
+            "中洲",
+            "榮華",
+            "竹中"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2026-06-26T09:00:00+08:00",
+          "service_type": "partial_operation",
+          "service_details": "區間恢復"
         }
       }
     ],
@@ -17995,6 +18126,41 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:18.441796+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量超過行動值，預警性封閉並啟動公路接駁(第4發</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量超過行動值，預警性封閉並啟動公路接駁(第4發</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/26 上午 10:32</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 應變概況：<br/>（一） 08時15分起上員=榮華間K11+800處，因受邊坡落石影響，竹中=竹東間暫時停止行車並啟動公路接駁。<br/>（二） 因平溪線雨量監視超過行動值，瑞芳=菁桐間預警性封閉並啟動公路接駁。<br/><br/>二、 應變措施：<br/>（一） 本公司已成立一級應變小組及南區應變分組因應，並指派工務單位至現場監看，中洲=岡山間恢復雙線行車，為確保行車安全，採降速行駛。<br/>（二） 內灣線竹中=竹東間因受邊坡落石影響，路線暫時不通，並啟動公路接駁。<br/>（三） 平溪線瑞芳=菁桐間，因雨量超過行動值，預警性封閉並啟動公路接駁。<br/>（四） 目前列車運行狀況：<br/>1.對號列車：<br/>（1）南迴線恢復正常行駛。<br/>（2）西部幹線下行列車自107次、上行118次起恢復正常行駛。<br/>2.區間車：全區間(含沙崙線)逐步恢復正常行駛。<br/>3.今(26)日山嵐號停駛，已預訂行程之旅客，將由旅行社通知後續退款事宜。<br/><br/>三、 乘客出門前，詢問列車最新運行資訊請洽：<br/>（一） 臺鐵官方網站、臺鐵e訂通APP。<br/>（二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>各就近車站(臺鐵官方網站有各車站聯絡資訊)。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量超過行動值，預警性封閉並啟動公路接駁(第4發 臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量超過行動值，預警性封閉並啟動公路接駁(第4發 發佈日期：2026/6/26 上午 10:32 一、 應變概況： （一） 08時15分起上員=榮華間K11+800處，因受邊坡落石影響，竹中=竹東間暫時停止行車並啟動公路接駁。 （二） 因平溪線雨量監視超過行動值，瑞芳=菁桐間預警性封閉並啟動公路接駁。 二、 應變措施： （一） 本公司已成立一級應變小組及南區應變分組因應，並指派工務單位至現場監看，中洲=岡山間恢復雙線行車，為確保行車安全，採降速行駛。 （二） 內灣線竹中=竹東間因受邊坡落石影響，路線暫時不通，並啟動公路接駁。 （三） 平溪線瑞芳=菁桐間，因雨量超過行動值，預警性封閉並啟動公路接駁。 （四） 目前列車運行狀況： 1.對號列車： （1）南迴線恢復正常行駛。 （2）西部幹線下行列車自107次、上行118次起恢復正常行駛。 2.區間車：全區間(含沙崙線)逐步恢復正常行駛。 3.今(26)日山嵐號停駛，已預訂行程之旅客，將由旅行社通知後續退款事宜。 三、 乘客出門前，詢問列車最新運行資訊請洽： （一） 臺鐵官方網站、臺鐵e訂通APP。 （二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 各就近車站(臺鐵官方網站有各車站聯絡資訊)。 返回上一頁",
+        "content_hash": "md5:cee022375a4151722e3e79720f06fa82",
+        "extracted_data": {
+          "report_version": "4",
+          "event_type": "Equipment_Failure",
+          "status": "Suspended",
+          "affected_lines": [
+            "西部幹線",
+            "南迴線",
+            "平溪線",
+            "內灣線",
+            "沙崙線"
+          ],
+          "affected_stations": [
+            "平溪",
+            "竹東",
+            "瑞芳",
+            "岡山",
+            "沙崙",
+            "內灣",
+            "上員",
+            "中洲",
+            "菁桐",
+            "榮華",
+            "竹中"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -18173,6 +18339,36 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:02.338240+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司自115年7月1日起進行時刻調整</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司自115年7月1日起進行時刻調整</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/26 下午 3:45</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司為提升服務品質進行整體運能配置與規劃，並配合平鎮車站（臨時站）預計115年10月啟用，自115年7月1日(星期三)起進行列車時刻調整，以提升西線直達車營運效能、西線尖峰通勤時段增班、提升東線北宜間運能及EMU3000型自強號車隊提升服務品質為四大調整重點，調整內容如下：<br/>一、提升西線直達車營運效能：優化直達班次時刻、車廂設備升級調整編組、部分直達車調整停靠站加強服務桃園及新竹地區。另逢週六、日增開北中直達車2列次普悠瑪號，調整後北中直達車運能平日提升7.9%，假日提升16.9%。<br/>二、西線尖峰通勤時段增班：提升都會區內尖峰通勤時間帶運能，縮短班距減少候車時間與改善乘車品質。<br/>1.北部地區：週一至週五尖峰時段增開七堵-埔心間EMU900型區間快車2列次，調整後北部地區尖峰時段區間車運能提升4.8%。<br/>2.南部地區：週一至週五尖峰時段增開潮州-新營間2列次PP自強號，調整後南部地區尖峰時段自強號運能提升3.5%。<br/>3.六家支線：尖峰時段每日增開12列次區間車，調整後六家支線運能提升17%。<br/>三、提升東線北宜間運能：部分自強號增停礁溪站，另逢週六、日增開臺北-花蓮間EMU3000型自強號2列次，分散交通需求疏解國道5號交通壅塞情形。<br/>四、EMU3000型自強號車隊提升服務品質：為改善車廂安寧，並提供旅客往返都會區間之乘車便利性與乘坐舒適度，以EMU3000型自強號擔任城際列車之主力車種，共計6列次PP自強號及直達車4列次普悠瑪調整為EMU3000型自強號；另因莒光號車齡老化、車架鏽蝕且已屆汰換年限，為確保行車安全加速汰換莒光號編組並簡化車種，共計4列次莒光號以EMU3000型自強號及普悠瑪號等車種接替運能。調整後西部幹線自強號運能提升8.6%。<br/><br/>　　本次時刻改點共調整653列次為近年來最大調幅，請各位旅客多加留意，乘車前預先查詢相關列車資訊，並建議提前到站，以免耽誤行程。相關列車車次、時刻，請參閱臺鐵公司官網、「台鐵e訂通」APP及各車站公告。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/7fa1faaa-f34f-4afd-bcf6-84acb6fbadf9\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞圖卡.pdf\" type=\"submit\">新聞圖卡.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司自115年7月1日起進行時刻調整 臺鐵公司自115年7月1日起進行時刻調整 發佈日期：2026/6/26 下午 3:45 臺鐵公司為提升服務品質進行整體運能配置與規劃，並配合平鎮車站（臨時站）預計115年10月啟用，自115年7月1日(星期三)起進行列車時刻調整，以提升西線直達車營運效能、西線尖峰通勤時段增班、提升東線北宜間運能及EMU3000型自強號車隊提升服務品質為四大調整重點，調整內容如下： 一、提升西線直達車營運效能：優化直達班次時刻、車廂設備升級調整編組、部分直達車調整停靠站加強服務桃園及新竹地區。另逢週六、日增開北中直達車2列次普悠瑪號，調整後北中直達車運能平日提升7.9%，假日提升16.9%。 二、西線尖峰通勤時段增班：提升都會區內尖峰通勤時間帶運能，縮短班距減少候車時間與改善乘車品質。 1.北部地區：週一至週五尖峰時段增開七堵-埔心間EMU900型區間快車2列次，調整後北部地區尖峰時段區間車運能提升4.8%。 2.南部地區：週一至週五尖峰時段增開潮州-新營間2列次PP自強號，調整後南部地區尖峰時段自強號運能提升3.5%。 3.六家支線：尖峰時段每日增開12列次區間車，調整後六家支線運能提升17%。 三、提升東線北宜間運能：部分自強號增停礁溪站，另逢週六、日增開臺北-花蓮間EMU3000型自強號2列次，分散交通需求疏解國道5號交通壅塞情形。 四、EMU3000型自強號車隊提升服務品質：為改善車廂安寧，並提供旅客往返都會區間之乘車便利性與乘坐舒適度，以EMU3000型自強號擔任城際列車之主力車種，共計6列次PP自強號及直達車4列次普悠瑪調整為EMU3000型自強號；另因莒光號車齡老化、車架鏽蝕且已屆汰換年限，為確保行車安全加速汰換莒光號編組並簡化車種，共計4列次莒光號以EMU3000型自強號及普悠瑪號等車種接替運能。調整後西部幹線自強號運能提升8.6%。 本次時刻改點共調整653列次為近年來最大調幅，請各位旅客多加留意，乘車前預先查詢相關列車資訊，並建議提前到站，以免耽誤行程。相關列車車次、時刻，請參閱臺鐵公司官網、「台鐵e訂通」APP及各車站公告。 附件下載： 新聞圖卡.pdf 返回上一頁",
+        "content_hash": "md5:d87ec7bed40918a71828c544a6b14448",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Partial_Operation",
+          "affected_lines": [
+            "西部幹線"
+          ],
+          "affected_stations": [
+            "七堵",
+            "新營",
+            "六家",
+            "臺北",
+            "潮州",
+            "桃園",
+            "埔心",
+            "礁溪",
+            "新竹",
+            "花蓮"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -18271,6 +18467,36 @@
           "service_type": "normal_train",
           "service_details": "正常列車服務"
         }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:17.360258+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，本(26)日竹中=竹東間暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量趨緩，於14時恢復行駛 (第5發)</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，本(26)日竹中=竹東間暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量趨緩，於14時恢復行駛 (第5發)</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/26 下午 2:39</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 應變概況：<br/>（一） 08時15分起內灣線上員=榮華間(K11+800=K12+120處)，因持續性降雨致邊坡落石影響，竹中=竹東間本(26)日暫時停止行車並啟動公路接駁。<br/>（二） 平溪線雨勢趨緩，經本公司巡查路線無異狀，14時0分上行自4826次(瑞芳站14:00開)、下行自4825次(十分站14:40開)起恢復行駛，即時起公路接駁取消。<br/><br/>二、 應變措施：<br/>（一） 內灣線竹中=竹東間因受邊坡落石影響，竹中=竹東間本(26)日路線暫時不通，並啟動公路接駁。<br/>（二） 目前列車運行狀況：除內灣線外，全線列車恢復正常行駛。<br/><br/>三、 乘客出門前，詢問列車最新運行資訊請洽：<br/>（一） 臺鐵官方網站、臺鐵e訂通APP。<br/>（二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>（三）各就近車站(臺鐵官方網站有各車站聯絡資訊)。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，本(26)日竹中=竹東間暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量趨緩，於14時恢復行駛 (第5發) 臺鐵內灣線(竹中=竹東間)因受邊坡落石影響，本(26)日竹中=竹東間暫時停止行車並啟動公路接駁；平溪線(瑞芳=菁桐間)雨量趨緩，於14時恢復行駛 (第5發) 發佈日期：2026/6/26 下午 2:39 一、 應變概況： （一） 08時15分起內灣線上員=榮華間(K11+800=K12+120處)，因持續性降雨致邊坡落石影響，竹中=竹東間本(26)日暫時停止行車並啟動公路接駁。 （二） 平溪線雨勢趨緩，經本公司巡查路線無異狀，14時0分上行自4826次(瑞芳站14:00開)、下行自4825次(十分站14:40開)起恢復行駛，即時起公路接駁取消。 二、 應變措施： （一） 內灣線竹中=竹東間因受邊坡落石影響，竹中=竹東間本(26)日路線暫時不通，並啟動公路接駁。 （二） 目前列車運行狀況：除內灣線外，全線列車恢復正常行駛。 三、 乘客出門前，詢問列車最新運行資訊請洽： （一） 臺鐵官方網站、臺鐵e訂通APP。 （二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 （三）各就近車站(臺鐵官方網站有各車站聯絡資訊)。 返回上一頁",
+        "content_hash": "md5:ccee36aa9248f7ca83a233b8d52964e2",
+        "extracted_data": {
+          "report_version": "5",
+          "event_type": "Equipment_Failure",
+          "status": "Resumed_Normal",
+          "affected_lines": [
+            "平溪線",
+            "內灣線"
+          ],
+          "affected_stations": [
+            "十分",
+            "平溪",
+            "竹東",
+            "瑞芳",
+            "內灣",
+            "上員",
+            "菁桐",
+            "榮華",
+            "竹中"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2026-06-26T14:00:00+08:00",
+          "service_type": "normal_train",
+          "service_details": "正常列車服務"
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -18335,6 +18561,31 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:15.100166+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">受邊坡落石影響，為辦理內灣線路線搶修工作，內灣線班次自18時10分後停駛，並持續辦理竹中=竹東=內灣間公路接駁至21時止 (第6發)</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>受邊坡落石影響，為辦理內灣線路線搶修工作，內灣線班次自18時10分後停駛，並持續辦理竹中=竹東=內灣間公路接駁至21時止 (第6發)</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/26 下午 5:10</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、 應變概況：<br/>內灣線上員=榮華間(K11+800=K12+120、K14+300處)，因持續性降雨致邊坡落石影響，為辦理路線搶修工作，內灣線班次自18時10分(1834次)開行後停駛，並持續辦理竹中=竹東=內灣間公路接駁至21時止。<br/>二、 應變措施：<br/>（一） 內灣線全區間停駛班次：<br/>1.上行：1835、1837、1841、1847、1843次。<br/>2.下行：1836、1838、1848、1842、1844次。<br/>（二） 目前列車運行狀況：除內灣線外，全線列車恢復正常行駛。<br/>三、 乘客出門前，詢問列車最新運行資訊請洽：<br/>（一） 臺鐵官方網站、臺鐵e訂通APP。<br/>（二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>各就近車站(臺鐵官方網站有各車站聯絡資訊)</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 受邊坡落石影響，為辦理內灣線路線搶修工作，內灣線班次自18時10分後停駛，並持續辦理竹中=竹東=內灣間公路接駁至21時止 (第6發) 受邊坡落石影響，為辦理內灣線路線搶修工作，內灣線班次自18時10分後停駛，並持續辦理竹中=竹東=內灣間公路接駁至21時止 (第6發) 發佈日期：2026/6/26 下午 5:10 一、 應變概況： 內灣線上員=榮華間(K11+800=K12+120、K14+300處)，因持續性降雨致邊坡落石影響，為辦理路線搶修工作，內灣線班次自18時10分(1834次)開行後停駛，並持續辦理竹中=竹東=內灣間公路接駁至21時止。 二、 應變措施： （一） 內灣線全區間停駛班次： 1.上行：1835、1837、1841、1847、1843次。 2.下行：1836、1838、1848、1842、1844次。 （二） 目前列車運行狀況：除內灣線外，全線列車恢復正常行駛。 三、 乘客出門前，詢問列車最新運行資訊請洽： （一） 臺鐵官方網站、臺鐵e訂通APP。 （二） 臺鐵24小時旅客服務電話：（02）2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 各就近車站(臺鐵官方網站有各車站聯絡資訊) 返回上一頁",
+        "content_hash": "md5:38fa1f8c6a3af6f30d72f17a5894462f",
+        "extracted_data": {
+          "report_version": "6",
+          "event_type": "Equipment_Failure",
+          "status": "Suspended",
+          "affected_lines": [
+            "內灣線"
+          ],
+          "affected_stations": [
+            "竹東",
+            "內灣",
+            "上員",
+            "榮華",
+            "竹中"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -18376,6 +18627,23 @@
         "extracted_data": {
           "report_version": null,
           "event_type": "Typhoon",
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:16.237583+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司配合列車時刻改點發送時刻表</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司配合列車時刻改點發送時刻表</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/26 下午 4:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司配合115年7月1日(星期三)年度改點，方便旅客查閱列車時刻，提升服務品質，已印製冊本式時刻表共8萬本，將於115年6月30日（星期二）上午8時起，在各大車站提供旅客免費索取，數量有限，送完為止。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/45d9ee94-e67e-4c20-b19a-64a677e26da8\" target=\"_blank\">\n<img alt=\"1150626列車時刻表免費索取新聞稿圖卡.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/45d9ee94-e67e-4c20-b19a-64a677e26da8/360x270\" title=\"另開視窗下載-1150626列車時刻表免費索取新聞稿圖卡.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司配合列車時刻改點發送時刻表 臺鐵公司配合列車時刻改點發送時刻表 發佈日期：2026/6/26 下午 4:30 臺鐵公司配合115年7月1日(星期三)年度改點，方便旅客查閱列車時刻，提升服務品質，已印製冊本式時刻表共8萬本，將於115年6月30日（星期二）上午8時起，在各大車站提供旅客免費索取，數量有限，送完為止。 返回上一頁",
+        "content_hash": "md5:f7d8c0c25edf2a554d0810ecdd4d298a",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
@@ -18446,6 +18714,41 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:13.896462+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">《出發！Bento All Right！》 全臺首座「台鐵便當體驗店」進駐鳳山車站</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>《出發！Bento All Right！》 全臺首座「台鐵便當體驗店」進駐鳳山車站</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/6/30 下午 2:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺灣鐵路股份有限公司持續推動鐵道文化與多元經營發展，位於鳳山車站開發大樓內的「台鐵便當體驗店」訂於115年6月30日正式開幕營運。體驗店以「鐵道、美食、文化、體驗」為核心理念，結合台鐵便當超過一甲子的歷史底蘊與創新互動科技，打造全臺首座以台鐵便當為主題的沉浸式體驗空間，為南臺灣增添嶄新的觀光亮點。<br/><br/>　　鄭光遠董事長於典禮致詞時表示，台鐵便當早已不僅是一份填飽肚子的飯盒，而是臺灣最具代表性的鐵道美食，承載了跨世代共同的旅途記憶。近年來，在全體同仁的努力下，台鐵便當的經營成果逐年攀升，飯盒營收從 112 年的 7.12 億元成長至 114 年的 8.76 億元；在品牌價值方面，114 年商標及圖像授權收入年增率更高達 66.96%。從這些數據顯示出社會大眾對臺鐵品牌的信任與喜愛正與日俱增。<br/><br/>　　台鐵便當推出以來，已成為臺灣最具代表性的鐵道美食品牌之一，不僅陪伴無數旅客走過南來北往的旅程，更承載許多世代共同的記憶。為深化品牌價值並拓展非票務收入，臺鐵公司特別於鳳山車站規劃設置台鐵便當體驗店，透過展示、互動、教育及消費體驗，讓民眾深入了解台鐵便當的發展歷程與製作文化。<br/> <br/>　　體驗店規劃包含三大沉浸體驗展區：《看見風景 Journey Begins！》、《擁抱溫度 Bento All Warm！》與《嚐見幸福 Bento All Go！》等主題空間。民眾可透過數位互動裝置認識台鐵便當的演變歷程，體驗便當製作流程，並參與特色便當DIY活動，親身感受鐵道飲食文化的魅力。此外，更結合高雄在地特色食材與鐵道元素，展現地方文化特色，期望吸引國內外旅客前來參觀體驗，帶動鳳山地區觀光發展與商業活力。<br/> <br/>　　鳳山體驗店於6月30日至7月5日開幕期間將販售經典款「懷舊排骨菜飯便當」，特別邀請前臺北餐廳李玉霞經理及黃明珠領班，於籌備期間提前指導6大餐務廚房主廚，透過傳承讓民眾能重溫菜飯便當的美味，開幕日當日更加碼限量推出「懷舊排骨菜飯鋼盒便當」。此外，開幕期間也同步推出展現地方特色風味的豪華版「琥珀鰻香便當」，以及在高雄便當節期間廣受好評的府城匠心、好事成雙及五穀蛋素等三款便當都是本次開幕限定，不容錯過的美味佳餚，等您來搶購。<br/><br/>　　鳳山車站為高雄重要交通樞紐，周邊生活機能完善，交通便利。台鐵便當體驗店開幕後，除提供旅客全新的休憩與參觀選擇外，也將成為推廣臺灣鐵道文化的重要據點。臺鐵公司誠摯邀請全國民眾走進鳳山站，品嚐經典台鐵便當、體驗鐵道文化，共同見證臺鐵品牌創新發展的新里程碑。<br/><br/>鳳山便當體驗店便當銷售資訊：<br/>📅 開幕當日限定便當<br/>販售時間：115年6月30日 (開幕當日限定)<br/>售價：699元/個 (每日限量50份)<br/>販售品項：<br/>懷舊排骨菜飯鋼盒便當<br/>販售地點：鳳山車站A棟「台鐵便當體驗店」<br/><br/>📅 開幕期間限定便當<br/>販售時間：115年6月30日至7月5日（每日限量發售）<br/>販售品項：<br/>琥珀鰻香便當  售價：299元/個 (每日限量30份)<br/>懷舊排骨菜飯便當  售價：120元/個 (每日限量50份)<br/>販售地點：鳳山車站A棟「台鐵便當體驗店」<br/><br/>📅 加碼販售便當節熱銷便當<br/>販售時間：115年6月30日至7月5日（每日限量發售）<br/>販售品項：<br/>府城匠心便當  售價：199元/個 (每日限量15份)<br/>好事成雙便當  售價：120元/個 (每日限量30份)<br/>五穀蛋素便當  售價：120元/個 (每日限量10份)<br/>販售地點：鳳山車站A棟「台鐵便當體驗店」<br/><br/>歡慶台鐵便當體驗店開幕<br/>全臺於6月30日同步限量販售懷舊排骨菜飯便當<br/>銷售資訊：<br/>售價：120元<br/>販售地點：<br/>臺北餐旅分處(七堵)<br/>洽詢電話：02-24553561<br/>販售門市：松山夢工場、南港夢工場、臺北夢工場，台鐵便當基隆店、七堵店、樹林店、羅東店<br/>臺北餐旅分處<br/>洽詢電話：02-23619309<br/>販售門市：台鐵便當臺北1~4號店、台鐵便當板橋店<br/>臺中餐旅分處<br/>洽詢電話：04-22224683<br/>販售門市：台鐵便當新竹店、臺中店、彰化店、臺中高鐵店<br/>高雄餐旅分處<br/>洽詢電話：07-2358765<br/>販售門市：高雄東側店、新左營販賣店、左營高鐵販賣店、鳳山販賣店<br/>花蓮餐旅分處<br/>洽詢電話：03-8339328<br/>販售門市：花蓮夢工場<br/>花蓮餐旅分處(臺東)<br/>洽詢電話：08-9235705<br/>販售門市：臺東夢工場</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/da007890-4b32-4e27-abba-898c4014c309\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 《出發！Bento All Right！》 全臺首座「台鐵便當體驗店」進駐鳳山車站 《出發！Bento All Right！》 全臺首座「台鐵便當體驗店」進駐鳳山車站 發佈日期：2026/6/30 下午 2:00 臺灣鐵路股份有限公司持續推動鐵道文化與多元經營發展，位於鳳山車站開發大樓內的「台鐵便當體驗店」訂於115年6月30日正式開幕營運。體驗店以「鐵道、美食、文化、體驗」為核心理念，結合台鐵便當超過一甲子的歷史底蘊與創新互動科技，打造全臺首座以台鐵便當為主題的沉浸式體驗空間，為南臺灣增添嶄新的觀光亮點。 鄭光遠董事長於典禮致詞時表示，台鐵便當早已不僅是一份填飽肚子的飯盒，而是臺灣最具代表性的鐵道美食，承載了跨世代共同的旅途記憶。近年來，在全體同仁的努力下，台鐵便當的經營成果逐年攀升，飯盒營收從 112 年的 7.12 億元成長至 114 年的 8.76 億元；在品牌價值方面，114 年商標及圖像授權收入年增率更高達 66.96%。從這些數據顯示出社會大眾對臺鐵品牌的信任與喜愛正與日俱增。 台鐵便當推出以來，已成為臺灣最具代表性的鐵道美食品牌之一，不僅陪伴無數旅客走過南來北往的旅程，更承載許多世代共同的記憶。為深化品牌價值並拓展非票務收入，臺鐵公司特別於鳳山車站規劃設置台鐵便當體驗店，透過展示、互動、教育及消費體驗，讓民眾深入了解台鐵便當的發展歷程與製作文化。 體驗店規劃包含三大沉浸體驗展區：《看見風景 Journey Begins！》、《擁抱溫度 Bento All Warm！》與《嚐見幸福 Bento All Go！》等主題空間。民眾可透過數位互動裝置認識台鐵便當的演變歷程，體驗便當製作流程，並參與特色便當DIY活動，親身感受鐵道飲食文化的魅力。此外，更結合高雄在地特色食材與鐵道元素，展現地方文化特色，期望吸引國內外旅客前來參觀體驗，帶動鳳山地區觀光發展與商業活力。 鳳山體驗店於6月30日至7月5日開幕期間將販售經典款「懷舊排骨菜飯便當」，特別邀請前臺北餐廳李玉霞經理及黃明珠領班，於籌備期間提前指導6大餐務廚房主廚，透過傳承讓民眾能重溫菜飯便當的美味，開幕日當日更加碼限量推出「懷舊排骨菜飯鋼盒便當」。此外，開幕期間也同步推出展現地方特色風味的豪華版「琥珀鰻香便當」，以及在高雄便當節期間廣受好評的府城匠心、好事成雙及五穀蛋素等三款便當都是本次開幕限定，不容錯過的美味佳餚，等您來搶購。 鳳山車站為高雄重要交通樞紐，周邊生活機能完善，交通便利。台鐵便當體驗店開幕後，除提供旅客全新的休憩與參觀選擇外，也將成為推廣臺灣鐵道文化的重要據點。臺鐵公司誠摯邀請全國民眾走進鳳山站，品嚐經典台鐵便當、體驗鐵道文化，共同見證臺鐵品牌創新發展的新里程碑。 鳳山便當體驗店便當銷售資訊： 📅 開幕當日限定便當 販售時間：115年6月30日 (開幕當日限定) 售價：699元/個 (每日限量50份) 販售品項： 懷舊排骨菜飯鋼盒便當 販售地點：鳳山車站A棟「台鐵便當體驗店」 📅 開幕期間限定便當 販售時間：115年6月30日至7月5日（每日限量發售） 販售品項： 琥珀鰻香便當  售價：299元/個 (每日限量30份) 懷舊排骨菜飯便當  售價：120元/個 (每日限量50份) 販售地點：鳳山車站A棟「台鐵便當體驗店」 📅 加碼販售便當節熱銷便當 販售時間：115年6月30日至7月5日（每日限量發售） 販售品項： 府城匠心便當  售價：199元/個 (每日限量15份) 好事成雙便當  售價：120元/個 (每日限量30份) 五穀蛋素便當  售價：120元/個 (每日限量10份) 販售地點：鳳山車站A棟「台鐵便當體驗店」 歡慶台鐵便當體驗店開幕 全臺於6月30日同步限量販售懷舊排骨菜飯便當 銷售資訊： 售價：120元 販售地點： 臺北餐旅分處(七堵) 洽詢電話：02-24553561 販售門市：松山夢工場、南港夢工場、臺北夢工場，台鐵便當基隆店、七堵店、樹林店、羅東店 臺北餐旅分處 洽詢電話：02-23619309 販售門市：台鐵便當臺北1~4號店、台鐵便當板橋店 臺中餐旅分處 洽詢電話：04-22224683 販售門市：台鐵便當新竹店、臺中店、彰化店、臺中高鐵店 高雄餐旅分處 洽詢電話：07-2358765 販售門市：高雄東側店、新左營販賣店、左營高鐵販賣店、鳳山販賣店 花蓮餐旅分處 洽詢電話：03-8339328 販售門市：花蓮夢工場 花蓮餐旅分處(臺東) 洽詢電話：08-9235705 販售門市：臺東夢工場 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:58a53a81287f962330b24a8e995f81dd",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺中",
+            "七堵",
+            "羅東",
+            "臺北",
+            "左營",
+            "高雄",
+            "新竹",
+            "松山",
+            "板橋",
+            "基隆",
+            "花蓮",
+            "臺東",
+            "新左營",
+            "鳳山",
+            "南港",
+            "樹林",
+            "彰化"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -18532,6 +18835,26 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:12.765303+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司機務處 115年從業人員司機員甄試開始報名！</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司機務處 115年從業人員司機員甄試開始報名！</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/3 下午 1:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司機務處為充實第一線駕駛人力，確保鐵道運行之安全與穩定，115年從業人員司機員甄試於6月25日（星期四）下午2時起正式開放網路報名至7月6日下午5時。本次甄試預計招募正取 45 名、備取 15 名之優秀基層服務專才，誠摯邀請對鐵路事業充滿熱忱、具備專業潛力的民眾踴躍報考。<br/> <br/>厚實專業培訓，打造長遠職涯 <br/>　　司機員是守護列車安全運行的核心靈魂。本次錄取進用之人員，初期將以「技術員」職稱派任，起薪約新臺幣 42,580 元。本公司將提供完整且嚴謹的培訓計畫，全方位輔導人員考取專業證照。俟順利取得交通部鐵道局核發之「國營鐵路客貨動力車駕駛執照」並實際擔任列車駕駛工作後，即正式派任為「司機員」，起薪將調整至約新臺幣 50,280 元。 <br/><br/>薪資制度完善 <br/>　　除本薪外，實際擔任客貨動力車駕駛工作者，另可依各該規定領取危險加給、夜點費。此外亦享有經營績效獎金、員工及眷屬優待乘車購票、三節獎金及休假補助等多項專屬福利，提供穩健且具發展性的職涯保障。 <br/><br/>甄試重要報名資訊 <br/>　　本次甄試採分區錄取及分發，設置北區（臺北或新北）及東區（花蓮）兩個考區辦理。應考人須年滿 18 歲，且具備教育部認可之國內外專科以上學歷。詳細應考資格、測驗科目及甄試簡章規定，請逕至本次甄試專屬網站（https://trdriver.twrecruit.com.tw）下載查閱並辦理報名手續。加入臺鐵公司，守護旅客安全到站的使命，期待由您來接棒！</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司機務處 115年從業人員司機員甄試開始報名！ 臺鐵公司機務處 115年從業人員司機員甄試開始報名！ 發佈日期：2026/7/3 下午 1:30 臺鐵公司機務處為充實第一線駕駛人力，確保鐵道運行之安全與穩定，115年從業人員司機員甄試於6月25日（星期四）下午2時起正式開放網路報名至7月6日下午5時。本次甄試預計招募正取 45 名、備取 15 名之優秀基層服務專才，誠摯邀請對鐵路事業充滿熱忱、具備專業潛力的民眾踴躍報考。 厚實專業培訓，打造長遠職涯 司機員是守護列車安全運行的核心靈魂。本次錄取進用之人員，初期將以「技術員」職稱派任，起薪約新臺幣 42,580 元。本公司將提供完整且嚴謹的培訓計畫，全方位輔導人員考取專業證照。俟順利取得交通部鐵道局核發之「國營鐵路客貨動力車駕駛執照」並實際擔任列車駕駛工作後，即正式派任為「司機員」，起薪將調整至約新臺幣 50,280 元。 薪資制度完善 除本薪外，實際擔任客貨動力車駕駛工作者，另可依各該規定領取危險加給、夜點費。此外亦享有經營績效獎金、員工及眷屬優待乘車購票、三節獎金及休假補助等多項專屬福利，提供穩健且具發展性的職涯保障。 甄試重要報名資訊 本次甄試採分區錄取及分發，設置北區（臺北或新北）及東區（花蓮）兩個考區辦理。應考人須年滿 18 歲，且具備教育部認可之國內外專科以上學歷。詳細應考資格、測驗科目及甄試簡章規定，請逕至本次甄試專屬網站（https://trdriver.twrecruit.com.tw）下載查閱並辦理報名手續。加入臺鐵公司，守護旅客安全到站的使命，期待由您來接棒！ 返回上一頁",
+        "content_hash": "md5:2a157cc17b26363ccf7d93af98e36cac",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北",
+            "花蓮"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -18664,6 +18987,39 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:11.627819+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵X漁業署推國產「鯛鰻便當」 鰻鰻情意 鯛嘴好滋味</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵X漁業署推國產「鯛鰻便當」 鰻鰻情意 鯛嘴好滋味</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/6 上午 10:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為迎接浪漫七夕情人節，並呼應7月「土用丑日」吃鰻補元氣的飲食文化，臺鐵公司特別攜手農業部漁業署與嘉義縣政府合作，共同推出「鰻鰻情意 鯛嘴好滋味」聯名便當，以國產臺灣鰻魚及國產臺灣鯛（吳郭魚）作為雙主菜，搭配在地農產打造兼具美味、營養與節慶巧思的限定便當，自115年7月7日起至8月23日，限時推出「鯛鰻便當」。每份售價199元，讓民眾在夏季以鰻魚鮮補元氣外，也能品嚐臺灣漁產的鮮美滋味。<br/>　　今年國產鰻魚迎來豐收年，行政院近期亦大力推動國產優質鰻魚行銷，鼓勵國人以實際行動支持臺灣在地農漁產業。臺鐵公司長期致力推廣臺灣在地食材飲食理念，身為國營企業亦積極響應政府政策，此次特別選用國產臺灣鰻魚入菜，不僅希望透過台鐵便當讓更多民眾品嚐優質國產鰻魚，也期盼進一步協助國內鰻魚產業拓展市場，實踐企業支持在地產業的社會責任。<br/>　　為完美呈現雙主菜的絕佳風味，食材處理與烹調細節上極具巧思。第一道主菜嚴選國產臺灣優質蒲燒鰻，保留鰻魚豐厚油脂與入口即化的軟嫩口感；第二道主菜則選用金黃酥炸的國產臺灣鯛（吳郭魚）塊，外酥內嫩且調味恰到好處，完美鎖住魚肉的鮮甜。<br/>　　在配菜的設計與味覺層次上更是用心講究。首先，特別選用由農糧署輔導、採用100%產銷履歷大豆製作而成的生豆包，與清甜的季節時蔬、香菇及枸杞一同拌炒，不僅讓濃郁的豆香與蔬菜鮮甜完美交融，更展現出對臺灣在地農產品的實際支持；接著搭配「柴魚風味炒蛋絲」，以紅蘿蔔絲爆香後加入蛋絲拌炒，佐以些許米酒與胡椒提味，起鍋前拌入鹹香柴魚片，並將其鋪墊在Q彈米飯上，搭配白飯品嚐，讓整體的海味層次更加豐富。時蔬還特別選用鮮翠綠蘆筍，帶來清爽無負擔的健康風味。最後佐以夢幻粉色系的「洛神漬蘿蔔片」，其酸甜滋味不僅巧妙解膩，更在視覺上點綴出七夕的浪漫氣息，為旅客打造出一場視覺與味覺的雙重饗宴。<br/>　　臺鐵公司近年持續透過鐵路便當平台深化與臺灣農漁產業合作。今年6月舉辦的「2026第11屆鐵路便當節」活動中，即攜手農業部漁業署共同合作，並特別邀請嘉義縣、雲林縣及屏東縣多家優質鰻魚業者共同參展，透過活動現場展售與交流，積極協助推廣國產優質鰻魚產品，獲得民眾熱烈迴響。此外，臺鐵公司未來也將持續深化與地方政府及產業鏈合作，後續亦規劃持續與屏東縣政府及在地鰻魚業者攜手推出更多結合鐵道、美食及地方特色產業的合作計畫，透過鐵道平台持續協助臺灣優質農漁產品拓展市場，創造更多產業共榮效益。<br/>　　臺鐵公司攜手農業部漁業署透過這份精心設計的「鯛鰻便當」，不僅在炎熱夏日與浪漫七夕為大家帶來味蕾上的感動，更期盼實踐支持在地農漁業與低碳飲食的ESG永續精神。誠摯邀請民眾於活動期間，前往臺鐵各指定販售據點購買這份充滿「鰻鰻情意」的限定美味，在品嚐優質國產海鮮的同時，也以實際行動力挺臺灣農漁產，讓每一口都吃得健康、永續且充滿溫度。<br/> <br/>「鯛鰻便當」聯名便當販售資訊<br/>臺北餐旅分處(七堵)<br/>販售日期：115年7月7日至8月23日(共48天)<br/>販售地點：松山夢工場、南港夢工場、臺北夢工場，台鐵便當基隆店、<br/>七堵店、樹林店、羅東店<br/>販售時間：午餐及晚餐時段，每日限量發售<br/>售    價：199元/個<br/>洽詢電話：02-24553561<br/><br/>臺北餐旅分處(臺北)<br/>販售日期：115年7月7日至8月23日(共48天)<br/>販售地點：台鐵便當臺北1~4號店、台鐵便當板橋店<br/>販售時間：午餐及晚餐時段，每日限量發售<br/>售    價：199元/個<br/>洽詢電話：02-23619309<br/><br/>臺中餐旅分處<br/>販售日期：115年7月7日至8月23日(共48天)<br/>販售地點：台鐵便當新竹店、臺中店、彰化店、台中高鐵店<br/>販售時間：午餐時段，每日限量發售<br/>售    價：199元/個<br/>洽詢電話：04-22224683</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/0ee330c1-13bc-46cc-920a-2c364708c696\" target=\"_blank\">\n<img alt=\"海報2.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/0ee330c1-13bc-46cc-920a-2c364708c696/360x270\" title=\"另開視窗下載-海報2.jpg\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/2232fecf-d364-489f-92bd-1e38f47772cd\" target=\"_blank\">\n<img alt=\"海報1.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/2232fecf-d364-489f-92bd-1e38f47772cd/360x270\" title=\"另開視窗下載-海報1.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵X漁業署推國產「鯛鰻便當」 鰻鰻情意 鯛嘴好滋味 臺鐵X漁業署推國產「鯛鰻便當」 鰻鰻情意 鯛嘴好滋味 發佈日期：2026/7/6 上午 10:00 為迎接浪漫七夕情人節，並呼應7月「土用丑日」吃鰻補元氣的飲食文化，臺鐵公司特別攜手農業部漁業署與嘉義縣政府合作，共同推出「鰻鰻情意 鯛嘴好滋味」聯名便當，以國產臺灣鰻魚及國產臺灣鯛（吳郭魚）作為雙主菜，搭配在地農產打造兼具美味、營養與節慶巧思的限定便當，自115年7月7日起至8月23日，限時推出「鯛鰻便當」。每份售價199元，讓民眾在夏季以鰻魚鮮補元氣外，也能品嚐臺灣漁產的鮮美滋味。 今年國產鰻魚迎來豐收年，行政院近期亦大力推動國產優質鰻魚行銷，鼓勵國人以實際行動支持臺灣在地農漁產業。臺鐵公司長期致力推廣臺灣在地食材飲食理念，身為國營企業亦積極響應政府政策，此次特別選用國產臺灣鰻魚入菜，不僅希望透過台鐵便當讓更多民眾品嚐優質國產鰻魚，也期盼進一步協助國內鰻魚產業拓展市場，實踐企業支持在地產業的社會責任。 為完美呈現雙主菜的絕佳風味，食材處理與烹調細節上極具巧思。第一道主菜嚴選國產臺灣優質蒲燒鰻，保留鰻魚豐厚油脂與入口即化的軟嫩口感；第二道主菜則選用金黃酥炸的國產臺灣鯛（吳郭魚）塊，外酥內嫩且調味恰到好處，完美鎖住魚肉的鮮甜。 在配菜的設計與味覺層次上更是用心講究。首先，特別選用由農糧署輔導、採用100%產銷履歷大豆製作而成的生豆包，與清甜的季節時蔬、香菇及枸杞一同拌炒，不僅讓濃郁的豆香與蔬菜鮮甜完美交融，更展現出對臺灣在地農產品的實際支持；接著搭配「柴魚風味炒蛋絲」，以紅蘿蔔絲爆香後加入蛋絲拌炒，佐以些許米酒與胡椒提味，起鍋前拌入鹹香柴魚片，並將其鋪墊在Q彈米飯上，搭配白飯品嚐，讓整體的海味層次更加豐富。時蔬還特別選用鮮翠綠蘆筍，帶來清爽無負擔的健康風味。最後佐以夢幻粉色系的「洛神漬蘿蔔片」，其酸甜滋味不僅巧妙解膩，更在視覺上點綴出七夕的浪漫氣息，為旅客打造出一場視覺與味覺的雙重饗宴。 臺鐵公司近年持續透過鐵路便當平台深化與臺灣農漁產業合作。今年6月舉辦的「2026第11屆鐵路便當節」活動中，即攜手農業部漁業署共同合作，並特別邀請嘉義縣、雲林縣及屏東縣多家優質鰻魚業者共同參展，透過活動現場展售與交流，積極協助推廣國產優質鰻魚產品，獲得民眾熱烈迴響。此外，臺鐵公司未來也將持續深化與地方政府及產業鏈合作，後續亦規劃持續與屏東縣政府及在地鰻魚業者攜手推出更多結合鐵道、美食及地方特色產業的合作計畫，透過鐵道平台持續協助臺灣優質農漁產品拓展市場，創造更多產業共榮效益。 臺鐵公司攜手農業部漁業署透過這份精心設計的「鯛鰻便當」，不僅在炎熱夏日與浪漫七夕為大家帶來味蕾上的感動，更期盼實踐支持在地農漁業與低碳飲食的ESG永續精神。誠摯邀請民眾於活動期間，前往臺鐵各指定販售據點購買這份充滿「鰻鰻情意」的限定美味，在品嚐優質國產海鮮的同時，也以實際行動力挺臺灣農漁產，讓每一口都吃得健康、永續且充滿溫度。 「鯛鰻便當」聯名便當販售資訊 臺北餐旅分處(七堵) 販售日期：115年7月7日至8月23日(共48天) 販售地點：松山夢工場、南港夢工場、臺北夢工場，台鐵便當基隆店、 七堵店、樹林店、羅東店 販售時間：午餐及晚餐時段，每日限量發售 售    價：199元/個 洽詢電話：02-24553561 臺北餐旅分處(臺北) 販售日期：115年7月7日至8月23日(共48天) 販售地點：台鐵便當臺北1~4號店、台鐵便當板橋店 販售時間：午餐及晚餐時段，每日限量發售 售    價：199元/個 洽詢電話：02-23619309 臺中餐旅分處 販售日期：115年7月7日至8月23日(共48天) 販售地點：台鐵便當新竹店、臺中店、彰化店、台中高鐵店 販售時間：午餐時段，每日限量發售 售    價：199元/個 洽詢電話：04-22224683 返回上一頁",
+        "content_hash": "md5:76c6e3f55f2647d5fe02813a998a6bea",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺中",
+            "七堵",
+            "羅東",
+            "豐富",
+            "臺北",
+            "嘉義",
+            "新竹",
+            "屏東",
+            "松山",
+            "板橋",
+            "基隆",
+            "台中",
+            "南港",
+            "樹林",
+            "彰化"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -18803,6 +19159,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:10.443677+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵推出大學生優惠 提前14天訂票最低5折起</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵推出大學生優惠 提前14天訂票最低5折起</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/6 上午 11:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為減輕大專院校學生交通負擔，鼓勵青年學子多加利用鐵路運輸往返就學、返鄉及旅遊，臺鐵公司將自115年7月20日起開放訂購「大學生優惠車票」，適用乘車期間為115年8月17日至116年8月16日。提供乘車區間50公里以上之對號列車最低5折起優惠票價，讓學生族群享有更經濟實惠的乘車選擇。<br/><br/>　　本次大學生優惠措施適用於經教育主管機關核准設立之大專院校在學學生，包括大學、專科學校、技術學院、軍警院校及宗教院校等；適用學制涵蓋五專、二專、二技、四技、大學、碩士班及博士班，日間部、進修部、夜間部及在職專班學生均可適用。<br/><br/>　　本優惠措施採分級折扣及限量供應方式辦理，鼓勵學生提早規劃行程並儘早訂票。各列車優惠座位數採總量管制，依訂票時間提供不同折扣，優惠名額售完即恢復原票價：<br/>一、 距乘車日14日（含）以上完成訂票者，得享有5折優惠座位。<br/>二、 距乘車日8日至13日完成訂票者，得享有7折優惠座位。<br/>三、 距乘車日7日（含）以內完成訂票者，得享有8折優惠座位。<br/><br/>　　本優惠措施適用於乘車區間50公里以上之對號列車車票。各車次優惠座位數將依列車運能及客座利用情形配置，並採限量供應方式辦理，以兼顧優惠效益及整體運能運用。<br/><br/>　　旅客可透過臺鐵公司官網、台鐵e訂通APP、四大超商、車站售票窗口及自動售票機等通路辦理訂票及取票。系統將依購票當下剩餘優惠名額自動計算適用票價；如該折扣級距優惠名額已售罄，則依剩餘可售優惠級距或原票價辦理購票。<br/><br/>　　為維護優惠措施公平性，旅客乘車時應攜帶本人有效學生證及相關在學證明文件備供查驗；如無法證明符合優惠資格者，視為無票乘車，依本公司規定以原價補票，並加收百分之五十票款，原票亦不得申請退票。另優惠車票辦理退票時，其退票手續費將依原全額票價計算。此外，騰雲座艙、自由座、無座票及鐵公路聯運票不適用優惠，且不得與臺鐵公司其他折扣方案併同使用。優惠適用車次、折扣內容、優惠座位數及相關規定，均以臺鐵公司最新公告為準。<br/><br/>　　本次大學生優惠採「限量優惠、總量管制」方式推動，希望在兼顧營運效益與運能配置原則下，提供學生更具吸引力之票價選擇，協助減輕交通支出負擔，並鼓勵更多青年學子選擇安全、舒適且便利的鐵路運輸服務。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/71ba9999-5f72-48fd-81a0-333f85995ee8\" target=\"_blank\">\n<img alt=\"大學生優惠方案.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/71ba9999-5f72-48fd-81a0-333f85995ee8/360x270\" title=\"另開視窗下載-大學生優惠方案.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵推出大學生優惠 提前14天訂票最低5折起 臺鐵推出大學生優惠 提前14天訂票最低5折起 發佈日期：2026/7/6 上午 11:00 為減輕大專院校學生交通負擔，鼓勵青年學子多加利用鐵路運輸往返就學、返鄉及旅遊，臺鐵公司將自115年7月20日起開放訂購「大學生優惠車票」，適用乘車期間為115年8月17日至116年8月16日。提供乘車區間50公里以上之對號列車最低5折起優惠票價，讓學生族群享有更經濟實惠的乘車選擇。 本次大學生優惠措施適用於經教育主管機關核准設立之大專院校在學學生，包括大學、專科學校、技術學院、軍警院校及宗教院校等；適用學制涵蓋五專、二專、二技、四技、大學、碩士班及博士班，日間部、進修部、夜間部及在職專班學生均可適用。 本優惠措施採分級折扣及限量供應方式辦理，鼓勵學生提早規劃行程並儘早訂票。各列車優惠座位數採總量管制，依訂票時間提供不同折扣，優惠名額售完即恢復原票價： 一、 距乘車日14日（含）以上完成訂票者，得享有5折優惠座位。 二、 距乘車日8日至13日完成訂票者，得享有7折優惠座位。 三、 距乘車日7日（含）以內完成訂票者，得享有8折優惠座位。 本優惠措施適用於乘車區間50公里以上之對號列車車票。各車次優惠座位數將依列車運能及客座利用情形配置，並採限量供應方式辦理，以兼顧優惠效益及整體運能運用。 旅客可透過臺鐵公司官網、台鐵e訂通APP、四大超商、車站售票窗口及自動售票機等通路辦理訂票及取票。系統將依購票當下剩餘優惠名額自動計算適用票價；如該折扣級距優惠名額已售罄，則依剩餘可售優惠級距或原票價辦理購票。 為維護優惠措施公平性，旅客乘車時應攜帶本人有效學生證及相關在學證明文件備供查驗；如無法證明符合優惠資格者，視為無票乘車，依本公司規定以原價補票，並加收百分之五十票款，原票亦不得申請退票。另優惠車票辦理退票時，其退票手續費將依原全額票價計算。此外，騰雲座艙、自由座、無座票及鐵公路聯運票不適用優惠，且不得與臺鐵公司其他折扣方案併同使用。優惠適用車次、折扣內容、優惠座位數及相關規定，均以臺鐵公司最新公告為準。 本次大學生優惠採「限量優惠、總量管制」方式推動，希望在兼顧營運效益與運能配置原則下，提供學生更具吸引力之票價選擇，協助減輕交通支出負擔，並鼓勵更多青年學子選擇安全、舒適且便利的鐵路運輸服務。 返回上一頁",
+        "content_hash": "md5:b289d3d44f5356302c2b243bc8e7df2b",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -18910,6 +19283,27 @@
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:09.280844+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">巷口也吃得到台鐵便當!  臺鐵攜手統一超商推出兩款聯名鮮食 7月8日起全臺開賣</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>巷口也吃得到台鐵便當!  臺鐵攜手統一超商推出兩款聯名鮮食 7月8日起全臺開賣</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/6 下午 2:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司與統一超商強強聯手，以「鐵路便當節」為主題，將於7月8日正式推出兩款聯名鮮食-「醬燒雞鹹豬肉雙拼便當」（售價129元）及「梅干扣肉握便當」(售價75元)，將深受喜愛的台鐵便當美味直送全臺7-ELEVEN門市，讓民眾隨時都能品嘗經典鐵道滋味。<br/>　　「醬燒雞鹹豬肉雙拼便當」：主菜採用鹹香下飯的鹹豬肉，展現濃厚東部風格與在地特色，再搭配入味多汁的滷雞腿排，豪華雙主菜讓消費者吃得大口滿足！包裝則融入藍皮解憂號 R100 的經典意象，喚起南迴線悠閒旅行的美好回憶，讓品嘗便當也彷彿展開一段鐵道之旅。<br/>　　「梅干扣肉握便當」，則向2023年鐵道生活節推出的「客家風味鐵路便當」致敬，以經典客家風味梅干扣肉為主菜，將傳統鐵路便當轉化為方便攜帶的握便當，隨時隨地都能品嘗鹹香好滋味；包裝設計採用行駛內灣支線的 DR1000型柴油客車，將客家飲食文化與內灣鐵道風光巧妙結合，展現濃厚的地方特色。<br/>　　兩款聯名鮮食將於7月8日起於全臺7-ELEVEN門市盛大開賣！歡迎共襄盛舉，一同品嘗鐵道直送美味！</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/ad47fc72-00ff-4332-8997-af005ca689cd\" target=\"_blank\">\n<img alt=\"醬燒雞鹹豬肉雙拼便當.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/ad47fc72-00ff-4332-8997-af005ca689cd/360x270\" title=\"另開視窗下載-醬燒雞鹹豬肉雙拼便當.jpg\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/63385e4f-235a-4a2e-bbba-46a18227c41a\" target=\"_blank\">\n<img alt=\"梅干扣肉握便當.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/63385e4f-235a-4a2e-bbba-46a18227c41a/360x270\" title=\"另開視窗下載-梅干扣肉握便當.jpg\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/145b4276-05f0-44b5-af86-aa23e09e5bf3\" target=\"_blank\">\n<img alt=\"店頭海報.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/145b4276-05f0-44b5-af86-aa23e09e5bf3/360x270\" title=\"另開視窗下載-店頭海報.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 巷口也吃得到台鐵便當!  臺鐵攜手統一超商推出兩款聯名鮮食 7月8日起全臺開賣 巷口也吃得到台鐵便當!  臺鐵攜手統一超商推出兩款聯名鮮食 7月8日起全臺開賣 發佈日期：2026/7/6 下午 2:00 臺鐵公司與統一超商強強聯手，以「鐵路便當節」為主題，將於7月8日正式推出兩款聯名鮮食-「醬燒雞鹹豬肉雙拼便當」（售價129元）及「梅干扣肉握便當」(售價75元)，將深受喜愛的台鐵便當美味直送全臺7-ELEVEN門市，讓民眾隨時都能品嘗經典鐵道滋味。 「醬燒雞鹹豬肉雙拼便當」：主菜採用鹹香下飯的鹹豬肉，展現濃厚東部風格與在地特色，再搭配入味多汁的滷雞腿排，豪華雙主菜讓消費者吃得大口滿足！包裝則融入藍皮解憂號 R100 的經典意象，喚起南迴線悠閒旅行的美好回憶，讓品嘗便當也彷彿展開一段鐵道之旅。 「梅干扣肉握便當」，則向2023年鐵道生活節推出的「客家風味鐵路便當」致敬，以經典客家風味梅干扣肉為主菜，將傳統鐵路便當轉化為方便攜帶的握便當，隨時隨地都能品嘗鹹香好滋味；包裝設計採用行駛內灣支線的 DR1000型柴油客車，將客家飲食文化與內灣鐵道風光巧妙結合，展現濃厚的地方特色。 兩款聯名鮮食將於7月8日起於全臺7-ELEVEN門市盛大開賣！歡迎共襄盛舉，一同品嘗鐵道直送美味！ 返回上一頁",
+        "content_hash": "md5:894312bcd99a3d3c7c9e8236a92441e8",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [
+            "南迴線"
+          ],
+          "affected_stations": [
+            "內灣"
+          ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -19075,6 +19469,23 @@
         "extracted_data": {
           "report_version": null,
           "event_type": "Typhoon",
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-07-08T06:25:08.112178+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司持續把關食品安全   確認油品未涉通報產品</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司持續把關食品安全   確認油品未涉通報產品</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/7 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　有關近期油品原料供應商檢驗未合規事件，臺鐵公司高度重視食品安全議題，並針對使用之油品品項及批號進行內部查核。經確認使用之油品，皆非本次問題批號商品，敬請消費者安心。<br/> <br/>　　本公司將持續嚴格把關，落實原料來源、批號及品質查核，確保產品品質無虞，守護消費者的用餐安心。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司持續把關食品安全   確認油品未涉通報產品 臺鐵公司持續把關食品安全   確認油品未涉通報產品 發佈日期：2026/7/7 上午 9:00 有關近期油品原料供應商檢驗未合規事件，臺鐵公司高度重視食品安全議題，並針對使用之油品品項及批號進行內部查核。經確認使用之油品，皆非本次問題批號商品，敬請消費者安心。 本公司將持續嚴格把關，落實原料來源、批號及品質查核，確保產品品質無虞，守護消費者的用餐安心。 返回上一頁",
+        "content_hash": "md5:45251eb02dfe44b9f71dd00db73b3790",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
           "status": null,
           "affected_lines": [],
           "affected_stations": [],
