@@ -19532,5 +19532,40 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39f3e99f5019f3f3863341fc9",
+    "title": "臺鐵公司票務機房冰水主機異常，經緊急處理後於今（8）日早上6:23恢復正常服務",
+    "publish_date": "2026/07/08",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39f3e99f5019f3f3863341fc9&page=0",
+    "classification": {
+      "category": "Disruption_Resumption",
+      "keywords": [
+        "持續",
+        "恢復正常"
+      ],
+      "event_group_id": "20260708_臺鐵公司票務機房冰水主機異常_經緊急處理後於今_8_日早上恢"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-07-08T08:55:55.598239+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司票務機房冰水主機異常，經緊急處理後於今（8）日早上6:23恢復正常服務</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司票務機房冰水主機異常，經緊急處理後於今（8）日早上6:23恢復正常服務</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/8 上午 8:50</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司票務系統今日（7/8）早上2:53左右經監測發現票務機房冰水主機異常，於第一時間啟動緊急應變機制，通報車站改為離線版售票模式，並全力進行故障排除及系統復原作業。經處理，上午6時23分已恢復票務系統正常服務，目前持續監控設備及系統運行情形，確保票務服務穩定。<br/><br/>　　此次票務系統異常期間，造成旅客購票及相關票務服務不便，臺鐵公司深表歉意，並感謝旅客的體諒與配合。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司票務機房冰水主機異常，經緊急處理後於今（8）日早上6:23恢復正常服務 臺鐵公司票務機房冰水主機異常，經緊急處理後於今（8）日早上6:23恢復正常服務 發佈日期：2026/7/8 上午 8:50 臺鐵公司票務系統今日（7/8）早上2:53左右經監測發現票務機房冰水主機異常，於第一時間啟動緊急應變機制，通報車站改為離線版售票模式，並全力進行故障排除及系統復原作業。經處理，上午6時23分已恢復票務系統正常服務，目前持續監控設備及系統運行情形，確保票務服務穩定。 此次票務系統異常期間，造成旅客購票及相關票務服務不便，臺鐵公司深表歉意，並感謝旅客的體諒與配合。 返回上一頁",
+        "content_hash": "md5:dc8b4a980ceba3ce63b69c42f37bd303",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Equipment_Failure",
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": "2026-07-08T06:23:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
