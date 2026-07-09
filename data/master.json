@@ -19603,5 +19603,46 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29f431c53019f455b82bb1350",
+    "title": "因應巴威颱風疏運需求，臺鐵公司115年7月9日及10日東部經由北迴線及南迴線開往西部之EMU3000型列車開放發售無座票",
+    "publish_date": "2026/07/09",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29f431c53019f455b82bb1350&page=0",
+    "classification": {
+      "category": "Weather_Related",
+      "keywords": [
+        "颱風"
+      ],
+      "event_group_id": "20260709_因應巴威颱風"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-07-09T13:35:13.920129+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">因應巴威颱風疏運需求，臺鐵公司115年7月9日及10日東部經由北迴線及南迴線開往西部之EMU3000型列車開放發售無座票</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>因應巴威颱風疏運需求，臺鐵公司115年7月9日及10日東部經由北迴線及南迴線開往西部之EMU3000型列車開放發售無座票</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/9 下午 1:20</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　因應巴威颱風逐漸接近，為加強疏運花蓮、臺東地區北返需求，於115年7月9日及10日東部幹線經北迴線及南迴線開往西部之EMU3000型新自強號列車，開放發售當日無座票，以增加運能。另提醒旅客，持無座票旅客不得進入騰雲座艙(第6節)及自強號3000型不開放電子票證乘車，請旅客注意搭乘。<br/><br/>　　臺鐵公司將持續視旅運需求及天候變化機動調整疏運措施，颱風期間相關行車異動，請留意臺鐵公司官網、臺鐵e訂通APP及各車站公告資訊。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 因應巴威颱風疏運需求，臺鐵公司115年7月9日及10日東部經由北迴線及南迴線開往西部之EMU3000型列車開放發售無座票 因應巴威颱風疏運需求，臺鐵公司115年7月9日及10日東部經由北迴線及南迴線開往西部之EMU3000型列車開放發售無座票 發佈日期：2026/7/9 下午 1:20 因應巴威颱風逐漸接近，為加強疏運花蓮、臺東地區北返需求，於115年7月9日及10日東部幹線經北迴線及南迴線開往西部之EMU3000型新自強號列車，開放發售當日無座票，以增加運能。另提醒旅客，持無座票旅客不得進入騰雲座艙(第6節)及自強號3000型不開放電子票證乘車，請旅客注意搭乘。 臺鐵公司將持續視旅運需求及天候變化機動調整疏運措施，颱風期間相關行車異動，請留意臺鐵公司官網、臺鐵e訂通APP及各車站公告資訊。 返回上一頁",
+        "content_hash": "md5:a32cde0a3581e6ea06dc59c129a0cc00",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Typhoon",
+          "status": null,
+          "affected_lines": [
+            "東部幹線",
+            "南迴線",
+            "北迴線"
+          ],
+          "affected_stations": [
+            "花蓮",
+            "臺東"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
