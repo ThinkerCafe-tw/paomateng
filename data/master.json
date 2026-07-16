@@ -20145,5 +20145,76 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29f6728ef019f6a1cd2590c03",
+    "title": "本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(非都市計畫土地)，依法辦理第2次公聽會公告",
+    "publish_date": "2026/07/16",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29f6728ef019f6a1cd2590c03&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260716_田中支線"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-07-16T16:50:33.579730+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(非都市計畫土地)，依法辦理第2次公聽會公告</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(非都市計畫土地)，依法辦理第2次公聽會公告</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/16 下午 4:47</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(非都市計畫土地)，擬取得座落彰化縣田中鎮崁頂段1068地號等筆部分公私有土地，依法於115年7月31日辦理第2次公聽會(詳如附件)。 </div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/84c4acf9-1535-4c92-a3d2-3256aed0a6c5\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-公告-重新2次公聽會-非都.pdf\" type=\"submit\">公告-重新2次公聽會-非都.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(非都市計畫土地)，依法辦理第2次公聽會公告 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(非都市計畫土地)，依法辦理第2次公聽會公告 發佈日期：2026/7/16 下午 4:47 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(非都市計畫土地)，擬取得座落彰化縣田中鎮崁頂段1068地號等筆部分公私有土地，依法於115年7月31日辦理第2次公聽會(詳如附件)。 附件下載： 公告-重新2次公聽會-非都.pdf 返回上一頁",
+        "content_hash": "md5:f1db140c535f5e189469c3fef21f0a4a",
+        "extracted_data": {
+          "report_version": "2",
+          "event_type": null,
+          "status": "Partial_Operation",
+          "affected_lines": [],
+          "affected_stations": [
+            "彰化",
+            "田中",
+            "崁頂"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29f6728ef019f6a1914160bf2",
+    "title": "本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(都市計畫土地)，依法辦理第2次公聽會公告",
+    "publish_date": "2026/07/16",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29f6728ef019f6a1914160bf2&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260716_田中支線"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-07-16T16:50:34.563626+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\"> 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(都市計畫土地)，依法辦理第2次公聽會公告</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong> 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(都市計畫土地)，依法辦理第2次公聽會公告</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/16 下午 4:42</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(都市計畫土地)，擬取得座落彰化縣田中鎮高鐵段591地號等筆部分公私有土地，依法於115年7月31日辦理第2次公聽會(詳如附件)。 </div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/18e25242-0fda-4c55-9e9e-86c4f7e5e693\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-公告-重新2次公聽會-都內.pdf\" type=\"submit\">公告-重新2次公聽會-都內.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(都市計畫土地)，依法辦理第2次公聽會公告 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(都市計畫土地)，依法辦理第2次公聽會公告 發佈日期：2026/7/16 下午 4:42 本公司為「高鐵彰化站與臺鐵轉乘接駁計畫」田中支線鐵路新建工程(都市計畫土地)，擬取得座落彰化縣田中鎮高鐵段591地號等筆部分公私有土地，依法於115年7月31日辦理第2次公聽會(詳如附件)。 附件下載： 公告-重新2次公聽會-都內.pdf 返回上一頁",
+        "content_hash": "md5:21f9d9d8dd6c6f04788e1f7408ffea0f",
+        "extracted_data": {
+          "report_version": "2",
+          "event_type": null,
+          "status": "Partial_Operation",
+          "affected_lines": [],
+          "affected_stations": [
+            "彰化",
+            "田中"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
