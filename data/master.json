@@ -20985,5 +20985,40 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac29f958283019fa1b33aed3479",
+    "title": "配合仲夏寶島號活動及疏運暑期旅遊人潮 臺鐵公司加開樹林=臺東10列次以加強疏運",
+    "publish_date": "2026/07/27",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29f958283019fa1b33aed3479&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260727_配合仲夏寶島號活動及疏運暑期旅遊人潮_臺鐵公司加開樹林_臺東"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-07-27T12:04:28.773793+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">配合仲夏寶島號活動及疏運暑期旅遊人潮 臺鐵公司加開樹林=臺東10列次以加強疏運</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>配合仲夏寶島號活動及疏運暑期旅遊人潮 臺鐵公司加開樹林=臺東10列次以加強疏運</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/7/27 下午 12:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司配合「2026仲夏寶島號活動」及疏運暑期旅遊人潮，於115年8月1-2日、8-9日、15-16日、22-23日及29-30日（10天）再加開10列次太魯閣號：樹林-臺東5252次、5254次及臺東-樹林5253次，以積極疏運活動人潮，歡迎民眾多加利用。<br/>　　相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢及訂票。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/6994e0f2-58e5-4aaa-982a-85084c36e34d\" target=\"_blank\">\n<img alt=\"新聞圖片 1.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/6994e0f2-58e5-4aaa-982a-85084c36e34d/360x270\" title=\"另開視窗下載-新聞圖片 1.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/3791f0c8-3e12-472d-b951-90eab9f101d8\" target=\"_blank\">\n<img alt=\"新聞圖片 2.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/3791f0c8-3e12-472d-b951-90eab9f101d8/360x270\" title=\"另開視窗下載-新聞圖片 2.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/8d10ff47-9add-4b32-a5f8-ff895cd724af\" target=\"_blank\">\n<img alt=\"新聞圖片 3.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/8d10ff47-9add-4b32-a5f8-ff895cd724af/360x270\" title=\"另開視窗下載-新聞圖片 3.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 配合仲夏寶島號活動及疏運暑期旅遊人潮 臺鐵公司加開樹林=臺東10列次以加強疏運 配合仲夏寶島號活動及疏運暑期旅遊人潮 臺鐵公司加開樹林=臺東10列次以加強疏運 發佈日期：2026/7/27 下午 12:00 臺鐵公司配合「2026仲夏寶島號活動」及疏運暑期旅遊人潮，於115年8月1-2日、8-9日、15-16日、22-23日及29-30日（10天）再加開10列次太魯閣號：樹林-臺東5252次、5254次及臺東-樹林5253次，以積極疏運活動人潮，歡迎民眾多加利用。 相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢及訂票。 返回上一頁",
+        "content_hash": "md5:97ef1b88a3103269351b908624678f90",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺東",
+            "樹林"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
