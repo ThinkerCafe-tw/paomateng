@@ -21446,5 +21446,37 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac39fce287a019fd6ebcfea191b",
+    "title": "2026城鎮韌性（防空）演習暨行動網路降速演練",
+    "publish_date": "2026/08/06",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac39fce287a019fd6ebcfea191b&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260806_2026城鎮韌性_防空_演習暨行動網路降速演練"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-08-06T19:56:26.271047+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">2026城鎮韌性（防空）演習暨行動網路降速演練</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>2026城鎮韌性（防空）演習暨行動網路降速演練</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/6 下午 7:50</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">配合「2026城鎮韌性（防空）演習」，臺鐵列車演習期間均正常行駛、車站售票及旅客進、出閘門維持正常作業！<br/><br/>網路降速注意：<br/>中部 8/10 &amp; 北部 8/13（14:30～15:00），演習期間將同步實施行動網路降速演練，使用行動網路連線「臺鐵 e 訂通 APP」可能發生登入、身分驗證、電子車票下載或線上退（改）票等功能連線較慢或無法即時完成之情形。<br/><br/>搭車小建議：<br/>•提前取票：預先下載電子車票（QR Code）或領取紙本票。<br/>•出入站：可持預存的 QR Code 正常進出站，若讀取異常將由站務人員人工查驗。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 2026城鎮韌性（防空）演習暨行動網路降速演練 2026城鎮韌性（防空）演習暨行動網路降速演練 發佈日期：2026/8/6 下午 7:50 配合「2026城鎮韌性（防空）演習」，臺鐵列車演習期間均正常行駛、車站售票及旅客進、出閘門維持正常作業！ 網路降速注意： 中部 8/10 & 北部 8/13（14:30～15:00），演習期間將同步實施行動網路降速演練，使用行動網路連線「臺鐵 e 訂通 APP」可能發生登入、身分驗證、電子車票下載或線上退（改）票等功能連線較慢或無法即時完成之情形。 搭車小建議： •提前取票：預先下載電子車票（QR Code）或領取紙本票。 •出入站：可持預存的 QR Code 正常進出站，若讀取異常將由站務人員人工查驗。 返回上一頁",
+        "content_hash": "md5:cb2b1d022d8f8c995bb9680605f147d0",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
