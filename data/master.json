@@ -15164,6 +15164,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:26.132470+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司官網網址更新並行啟用說明</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司官網網址更新並行啟用說明</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/5/20 上午 9:32</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">配合臺鐵公司化進程並提升整體資訊服務品質，本公司官網將進行網址更新作業。<br/>自 2026 年 7 月 1 日起，新網址（www.trc.com.tw）將正式啟用，並與舊網址（www.railway.gov.tw）併行服務，舊網址預計於 2027 年1 月 1 日停止運作；<br/>併行期間，原官網各項功能與資訊服務均維持正常服務，新官網亦將陸續整合並提供更趨完善的服務內容，敬請旅客多加利用新網址，以獲取更優質的資訊體驗。<br/><br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司官網網址更新並行啟用說明 臺鐵公司官網網址更新並行啟用說明 發佈日期：2026/5/20 上午 9:32 配合臺鐵公司化進程並提升整體資訊服務品質，本公司官網將進行網址更新作業。 自 2026 年 7 月 1 日起，新網址（www.trc.com.tw）將正式啟用，並與舊網址（www.railway.gov.tw）併行服務，舊網址預計於 2027 年1 月 1 日停止運作； 併行期間，原官網各項功能與資訊服務均維持正常服務，新官網亦將陸續整合並提供更趨完善的服務內容，敬請旅客多加利用新網址，以獲取更優質的資訊體驗。 返回上一頁",
+        "content_hash": "md5:f029bc25957019bcca681813e0696df4",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -21766,6 +21783,27 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:32.329921+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">鐵道文化結合在地特色 臺鐵攜手知名品牌推3款特色禮盒 購買2盒以上享95折優惠</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>鐵道文化結合在地特色 臺鐵攜手知名品牌推3款特色禮盒 購買2盒以上享95折優惠</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/26 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　中秋佳節將至，國營臺灣鐵路股份有限公司推出3款鐵道主題特色禮盒，結合列車意象與在地特色商品，涵蓋酒品、糕點及茶點等多元選擇，滿足民眾中秋送禮需求。即日起至活動期間，凡購買指定中秋禮盒任2盒以上（品項不拘），即可享95折優惠，除可至實體門市選購外，也可透過「臺鐵夢工場」網路商店訂購。<br/><br/>　　其中，「鳴日啟程禮盒」由臺鐵公司攜手有梅酒第一品牌美名的「日造酒妝」共同打造，巧妙運用臺灣水果王國優勢與獨家日曬技術，以臺灣在地青梅及深烘焙高山茶釀製15%茶王梅酒。搭配深耕嘉義50年的老楊方塊酥，呈現豐富口感層次。禮盒並規劃專屬變色玻璃杯，當杯身遇到冷水時，鳴日號列車就會呈現緩緩啟程意象；外包裝設計則結合鳴日號列車與中秋皓月元素，傳達團圓與分享的節慶意涵。<br/><br/>　　另一款「鐵道時光禮盒（雋永典藏版）」則與臺南知名品牌「奇美食品」合作推出，內容包含鳳梨酥與厚蛋捲兩項產品。鳳梨酥結合2:3的完美皮餡比例、傳統古法酥皮與嚴選在地鳳梨內餡製作。厚蛋捲搭配動福蛋製作、強調高含蛋量，吃得到濃厚蛋香。外包裝以EMU900型列車流線造型為設計主軸，搭配黑金配色與燙金工藝，展現鐵道美學與節慶送禮質感。<br/><br/>　　此外，臺鐵公司首次與七見櫻堂合作推出「旅菓鐵道八入風呂敷禮盒」，當中的三明治餅為酥鬆綿密餅乾體，搭配文山包種茶及坪林鐵觀音兩種口味夾餡，以臺灣特色茶品搭配日式風呂敷包裝，風呂敷設計並融入EM3000型列車線條意象，勾勒出中秋佳節南往北返的思鄉情懷。<br/><br/>　　臺鐵公司表示，今年中秋禮盒以鐵道文化結合在地特色，希望透過兼具創意與質感的商品設計，讓民眾在節慶送禮之餘，也能感受臺灣鐵道旅遊與團圓佳節的美好記憶。各款禮盒數量有限，歡迎民眾把握機會選購。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/af49792b-0eb3-4828-972f-8e05d5144b01\" target=\"_blank\">\n<img alt=\"115年附業中秋禮盒圖卡.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/af49792b-0eb3-4828-972f-8e05d5144b01/360x270\" title=\"另開視窗下載-115年附業中秋禮盒圖卡.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 鐵道文化結合在地特色 臺鐵攜手知名品牌推3款特色禮盒 購買2盒以上享95折優惠 鐵道文化結合在地特色 臺鐵攜手知名品牌推3款特色禮盒 購買2盒以上享95折優惠 發佈日期：2026/8/26 上午 9:00 中秋佳節將至，國營臺灣鐵路股份有限公司推出3款鐵道主題特色禮盒，結合列車意象與在地特色商品，涵蓋酒品、糕點及茶點等多元選擇，滿足民眾中秋送禮需求。即日起至活動期間，凡購買指定中秋禮盒任2盒以上（品項不拘），即可享95折優惠，除可至實體門市選購外，也可透過「臺鐵夢工場」網路商店訂購。 其中，「鳴日啟程禮盒」由臺鐵公司攜手有梅酒第一品牌美名的「日造酒妝」共同打造，巧妙運用臺灣水果王國優勢與獨家日曬技術，以臺灣在地青梅及深烘焙高山茶釀製15%茶王梅酒。搭配深耕嘉義50年的老楊方塊酥，呈現豐富口感層次。禮盒並規劃專屬變色玻璃杯，當杯身遇到冷水時，鳴日號列車就會呈現緩緩啟程意象；外包裝設計則結合鳴日號列車與中秋皓月元素，傳達團圓與分享的節慶意涵。 另一款「鐵道時光禮盒（雋永典藏版）」則與臺南知名品牌「奇美食品」合作推出，內容包含鳳梨酥與厚蛋捲兩項產品。鳳梨酥結合2:3的完美皮餡比例、傳統古法酥皮與嚴選在地鳳梨內餡製作。厚蛋捲搭配動福蛋製作、強調高含蛋量，吃得到濃厚蛋香。外包裝以EMU900型列車流線造型為設計主軸，搭配黑金配色與燙金工藝，展現鐵道美學與節慶送禮質感。 此外，臺鐵公司首次與七見櫻堂合作推出「旅菓鐵道八入風呂敷禮盒」，當中的三明治餅為酥鬆綿密餅乾體，搭配文山包種茶及坪林鐵觀音兩種口味夾餡，以臺灣特色茶品搭配日式風呂敷包裝，風呂敷設計並融入EM3000型列車線條意象，勾勒出中秋佳節南往北返的思鄉情懷。 臺鐵公司表示，今年中秋禮盒以鐵道文化結合在地特色，希望透過兼具創意與質感的商品設計，讓民眾在節慶送禮之餘，也能感受臺灣鐵道旅遊與團圓佳節的美好記憶。各款禮盒數量有限，歡迎民眾把握機會選購。 返回上一頁",
+        "content_hash": "md5:ae26978a8a8ccb810cc9d83d756e2492",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "嘉義",
+            "豐富",
+            "臺南"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -21841,6 +21879,43 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:33.332924+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">枋山=枋野間土石流，經全力搶修， 明(26)日南迴線列車恢復正常行駛</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>枋山=枋野間土石流，經全力搶修， 明(26)日南迴線列車恢復正常行駛</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/25 下午 10:10</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">受豪大雨影響，本公司枋山=枋野間因土石流情形導致路線不通，臺鐵公司加派投入人力、機具搶修，明(26)日南迴線首班列車起恢復正常行駛，明(26)日行車概況如下：<br/><br/>一、    西部幹線(基隆=潮州=枋寮間)正常行駛。<br/>二、    東部幹線(樹林=花蓮=臺東間)正常行駛。<br/>三、    南迴線(枋寮=臺東間)正常行駛。<br/>四、    平溪、深澳、內灣、六家、集集、沙崙線等各支線正常行駛。<br/>五、    因應豪大雨，乘客出門前，詢問列車最新運行資訊請洽：<br/>(一)    臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip)<br/>(二)    臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。<br/>(三)    各就近車站(臺鐵官方網站各車站聯絡資訊)。<br/>六、    退、換票及改乘相關訊息：<br/>(一)    因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。<br/>(二)    使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。<br/>(三)    購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 枋山=枋野間土石流，經全力搶修， 明(26)日南迴線列車恢復正常行駛 枋山=枋野間土石流，經全力搶修， 明(26)日南迴線列車恢復正常行駛 發佈日期：2026/8/25 下午 10:10 受豪大雨影響，本公司枋山=枋野間因土石流情形導致路線不通，臺鐵公司加派投入人力、機具搶修，明(26)日南迴線首班列車起恢復正常行駛，明(26)日行車概況如下： 一、    西部幹線(基隆=潮州=枋寮間)正常行駛。 二、    東部幹線(樹林=花蓮=臺東間)正常行駛。 三、    南迴線(枋寮=臺東間)正常行駛。 四、    平溪、深澳、內灣、六家、集集、沙崙線等各支線正常行駛。 五、    因應豪大雨，乘客出門前，詢問列車最新運行資訊請洽： (一)    臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip) (二)    臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。 (三)    各就近車站(臺鐵官方網站各車站聯絡資訊)。 六、    退、換票及改乘相關訊息： (一)    因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。 (二)    使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。 (三)    購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。 返回上一頁",
+        "content_hash": "md5:0c140829018a48141e853b081cf9d145",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": null,
+          "affected_lines": [
+            "西部幹線",
+            "東部幹線",
+            "南迴線",
+            "沙崙線"
+          ],
+          "affected_stations": [
+            "樹林",
+            "臺東",
+            "潮州",
+            "枋山",
+            "花蓮",
+            "集集",
+            "枋寮",
+            "平溪",
+            "六家",
+            "基隆",
+            "內灣",
+            "日南",
+            "沙崙",
+            "枋野"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -21904,6 +21979,35 @@
             "至到達"
           ],
           "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:34.380813+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">枋山=枋野間土石流加劇，搶修作業不易，今(25)日24時前南迴線列車停駛</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>枋山=枋野間土石流加劇，搶修作業不易，今(25)日24時前南迴線列車停駛</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/25 下午 3:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">受豪大雨影響，本公司枋山=枋野間因土石流情形導致路線不通，臺鐵公司雖已加派人力、機具搶修，然受氣候影響土石流加劇，為確保營運安全，今(25)日24時前南迴線列車停駛。<br/><br/>一、相關行車事項如下：<br/><br/>(一)441次枋寮=大武間公路接駁、422次行駛至台東。<br/><br/>(二)順行自168次(台東16:00)、逆行自445次(新左營15:54)起停駛。<br/><br/>(三)1次、2次台東=枋寮間停駛。<br/><br/>(四)藍皮解憂號本日停駛。<br/><br/>二、本日北迴線及花東線3000型自強號開放發售無座票。<br/><br/>三、乘客出門前，詢問列車最新運行資訊請洽：<br/><br/>(一)   臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip)<br/><br/>(二)   臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。<br/><br/>(三)   各就近車站(臺鐵官方網站各車站聯絡資訊)。<br/><br/>四、退、換票及改乘相關訊息：<br/><br/>(一)   因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。<br/><br/>(二)   使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。<br/><br/>(三)   購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 枋山=枋野間土石流加劇，搶修作業不易，今(25)日24時前南迴線列車停駛 枋山=枋野間土石流加劇，搶修作業不易，今(25)日24時前南迴線列車停駛 發佈日期：2026/8/25 下午 3:30 受豪大雨影響，本公司枋山=枋野間因土石流情形導致路線不通，臺鐵公司雖已加派人力、機具搶修，然受氣候影響土石流加劇，為確保營運安全，今(25)日24時前南迴線列車停駛。 一、相關行車事項如下： (一)441次枋寮=大武間公路接駁、422次行駛至台東。 (二)順行自168次(台東16:00)、逆行自445次(新左營15:54)起停駛。 (三)1次、2次台東=枋寮間停駛。 (四)藍皮解憂號本日停駛。 二、本日北迴線及花東線3000型自強號開放發售無座票。 三、乘客出門前，詢問列車最新運行資訊請洽： (一)   臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip) (二)   臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。 (三)   各就近車站(臺鐵官方網站各車站聯絡資訊)。 四、退、換票及改乘相關訊息： (一)   因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。 (二)   使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。 (三)   購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。 返回上一頁",
+        "content_hash": "md5:487ef3993a614f3417d3fc24aab03f67",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "南迴線",
+            "北迴線",
+            "花東線"
+          ],
+          "affected_stations": [
+            "新左營",
+            "左營",
+            "枋山",
+            "台東",
+            "枋寮",
+            "大武",
+            "枋野"
+          ],
+          "predicted_resumption_time": "2026-08-26T00:00:00+08:00",
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -22009,6 +22113,37 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:36.420313+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司受枋山=枋野間土石流影響， 預計今(25)日12時通車</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司受枋山=枋野間土石流影響， 預計今(25)日12時通車</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/25 上午 10:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">因受豪大雨致枋山=枋野間土石流路線不通，台鐵公司現已加派人力、機具搶修中，預計今(25)日12時前通車。<br/>一、 相關行車事項如下：<br/>(一)415次折返作164次，枋寮=七堵間行駛；164次折返作415次，枋野=臺東間行駛(增停大武站)。<br/>(二)306次臺東=大武站間行駛，折返作371次大武=臺東間行駛；371次台中=枋寮間行駛，折返作306次枋寮=新左營間行駛。<br/>(三)3003次區間快車加祿=臺東間停駛；3005次區間快車枋寮=臺東間停駛。<br/>(四)藍皮解憂號本日停駛。<br/><br/>二、本日北迴線及花東線3000型自強號開放發售站票。<br/><br/>三、乘客出門前，詢問列車最新運行資訊請洽：<br/>(一) 臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip)<br/>(二) 臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。<br/>(三) 各就近車站(臺鐵官方網站各車站聯絡資訊)。<br/> <br/>四、退、換票及改乘相關訊息：<br/>(一) 因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。<br/>(二) 使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。<br/>(三) 購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司受枋山=枋野間土石流影響， 預計今(25)日12時通車 臺鐵公司受枋山=枋野間土石流影響， 預計今(25)日12時通車 發佈日期：2026/8/25 上午 10:30 因受豪大雨致枋山=枋野間土石流路線不通，台鐵公司現已加派人力、機具搶修中，預計今(25)日12時前通車。 一、 相關行車事項如下： (一)415次折返作164次，枋寮=七堵間行駛；164次折返作415次，枋野=臺東間行駛(增停大武站)。 (二)306次臺東=大武站間行駛，折返作371次大武=臺東間行駛；371次台中=枋寮間行駛，折返作306次枋寮=新左營間行駛。 (三)3003次區間快車加祿=臺東間停駛；3005次區間快車枋寮=臺東間停駛。 (四)藍皮解憂號本日停駛。 二、本日北迴線及花東線3000型自強號開放發售站票。 三、乘客出門前，詢問列車最新運行資訊請洽： (一) 臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip) (二) 臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。 (三) 各就近車站(臺鐵官方網站各車站聯絡資訊)。 四、退、換票及改乘相關訊息： (一) 因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。 (二) 使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。 (三) 購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。 返回上一頁",
+        "content_hash": "md5:05d7b329fbec2c56330651aee83a6cd6",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "北迴線",
+            "花東線"
+          ],
+          "affected_stations": [
+            "新左營",
+            "左營",
+            "臺東",
+            "七堵",
+            "枋山",
+            "枋寮",
+            "加祿",
+            "大武",
+            "台中",
+            "枋野"
+          ],
+          "predicted_resumption_time": "2026-08-25T12:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -22067,6 +22202,29 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:37.477941+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司115年中秋及教師節連續假期訂票概況</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司115年中秋及教師節連續假期訂票概況</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/25 上午 10:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司於今（25）日零時起，開放115年中秋及教師節連續假期（9月24日至9月29日）全線網路、台鐵e訂通APP、電話語音及超商訂票，截至今日上午9時止，總計完成10萬2,649筆、17萬1,204張訂票。9/24–9/29除臺北往臺東方向中午時段以外各時段尚有餘位，敬請多加利用。<br/><br/>        旅客完成訂票後，敬請於2日內（含訂票當日）至本公司各售票車站及便利超商（統一、全家、萊爾富、OK）取票；或利用「網路信用卡付款購票系統」及台鐵e訂通APP付款購票。逾期未取之車票，將於8月27日上午9時重新釋出。因旅客隨時有退、換票情形，詳細餘票請查閱本公司訂票網頁剩餘座位查詢功能。<br/><br/>        另9月24日、25日、27日及28日加開之實名制列車，將於8月26日（星期三）0時起開放訂票。凡設籍於花蓮縣、臺東縣之現住人口與國民身分證統一編號第1碼為U或V及上開兩者之配偶與直系血親1親等國民，可多加利用。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/fc7c8fa8-9eb2-4732-9f9a-1cda211fa642\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-115年教師及中秋節東部幹線實名制列車.pdf\" type=\"submit\">115年教師及中秋節東部幹線實名制列車.pdf</button>\n</a>\n</div>\n</dd>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/e3c52f58-91b1-4903-9300-3084b00206a5\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-臺鐵115年中秋及教師節連假新聞稿餘座圖.pdf\" type=\"submit\">臺鐵115年中秋及教師節連假新聞稿餘座圖.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司115年中秋及教師節連續假期訂票概況 臺鐵公司115年中秋及教師節連續假期訂票概況 發佈日期：2026/8/25 上午 10:00 臺鐵公司於今（25）日零時起，開放115年中秋及教師節連續假期（9月24日至9月29日）全線網路、台鐵e訂通APP、電話語音及超商訂票，截至今日上午9時止，總計完成10萬2,649筆、17萬1,204張訂票。9/24–9/29除臺北往臺東方向中午時段以外各時段尚有餘位，敬請多加利用。 旅客完成訂票後，敬請於2日內（含訂票當日）至本公司各售票車站及便利超商（統一、全家、萊爾富、OK）取票；或利用「網路信用卡付款購票系統」及台鐵e訂通APP付款購票。逾期未取之車票，將於8月27日上午9時重新釋出。因旅客隨時有退、換票情形，詳細餘票請查閱本公司訂票網頁剩餘座位查詢功能。 另9月24日、25日、27日及28日加開之實名制列車，將於8月26日（星期三）0時起開放訂票。凡設籍於花蓮縣、臺東縣之現住人口與國民身分證統一編號第1碼為U或V及上開兩者之配偶與直系血親1親等國民，可多加利用。 附件下載： 115年教師及中秋節東部幹線實名制列車.pdf 臺鐵115年中秋及教師節連假新聞稿餘座圖.pdf 返回上一頁",
+        "content_hash": "md5:76810437d5b85dc8388e91e329461485",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [
+            "東部幹線"
+          ],
+          "affected_stations": [
+            "臺東",
+            "花蓮",
+            "臺北"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -22118,6 +22276,28 @@
           "affected_stations": [
             "值班",
             "至到達"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:38.463213+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵南迴線枋山=枋野間因受土石流影響，路線暫時不通</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵南迴線枋山=枋野間因受土石流影響，路線暫時不通</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/25 上午 9:52</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　今（25）日08時44分，本公司接獲通報，南迴線枋山=枋野間路線(K17+092處)土石流淹軌面，路線暫時無法行駛，本公司已於09時30分成立一級應變小組及南區應變分組，並指派工務單位至現場搶修，因現場環境條件限制，不辦理公路接駁，造成旅客不便，臺鐵公司深致歉忱。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵南迴線枋山=枋野間因受土石流影響，路線暫時不通 臺鐵南迴線枋山=枋野間因受土石流影響，路線暫時不通 發佈日期：2026/8/25 上午 9:52 今（25）日08時44分，本公司接獲通報，南迴線枋山=枋野間路線(K17+092處)土石流淹軌面，路線暫時無法行駛，本公司已於09時30分成立一級應變小組及南區應變分組，並指派工務單位至現場搶修，因現場環境條件限制，不辦理公路接駁，造成旅客不便，臺鐵公司深致歉忱。 返回上一頁",
+        "content_hash": "md5:82ad31a86ebc1ef89037f0bb5f84be16",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [
+            "南迴線"
+          ],
+          "affected_stations": [
+            "枋山",
+            "枋野"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -22196,6 +22376,40 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:39.486065+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司因應雨勢趨緩，明(25)日全線列車恢復正常行駛</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司因應雨勢趨緩，明(25)日全線列車恢復正常行駛</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/24 下午 10:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">根據中央氣象署最新氣象資訊研判，明(25)日列車行駛概況如下：<br/><br/>一、西部幹線(基隆=潮州=枋寮間)正常行駛。<br/><br/>二、東部幹線(樹林=花蓮=臺東間)正常行駛。<br/><br/>三、南迴線(枋寮=臺東間)正常行駛。<br/><br/>四、平溪、深澳、內灣、六家、集集、沙崙線等各支線正常行駛。<br/><br/>五、因應豪大雨，乘客出門前，詢問列車最新運行資訊請洽：<br/>(一) 臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip)<br/>(二) 臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。<br/>(三) 各就近車站(臺鐵官方網站各車站聯絡資訊)。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司因應雨勢趨緩，明(25)日全線列車恢復正常行駛 臺鐵公司因應雨勢趨緩，明(25)日全線列車恢復正常行駛 發佈日期：2026/8/24 下午 10:00 根據中央氣象署最新氣象資訊研判，明(25)日列車行駛概況如下： 一、西部幹線(基隆=潮州=枋寮間)正常行駛。 二、東部幹線(樹林=花蓮=臺東間)正常行駛。 三、南迴線(枋寮=臺東間)正常行駛。 四、平溪、深澳、內灣、六家、集集、沙崙線等各支線正常行駛。 五、因應豪大雨，乘客出門前，詢問列車最新運行資訊請洽： (一) 臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip) (二) 臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。 (三) 各就近車站(臺鐵官方網站各車站聯絡資訊)。 返回上一頁",
+        "content_hash": "md5:2b4c4b31a1a86d8886de3a408f025a22",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": null,
+          "affected_lines": [
+            "西部幹線",
+            "東部幹線",
+            "南迴線",
+            "沙崙線"
+          ],
+          "affected_stations": [
+            "樹林",
+            "臺東",
+            "潮州",
+            "花蓮",
+            "集集",
+            "枋寮",
+            "平溪",
+            "六家",
+            "基隆",
+            "內灣",
+            "沙崙"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -22265,6 +22479,41 @@
             "至到達"
           ],
           "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:40.521986+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司因應豪大雨於今(24)日24時前 南迴線及東部幹線對號列車停駛 區間車機動行駛</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司因應豪大雨於今(24)日24時前 南迴線及東部幹線對號列車停駛 區間車機動行駛</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/24 下午 1:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">依據中央氣象署豪大雨特報、最新氣象資訊研判，今(24)日24時前列車行駛概況如下：<br/><br/>一. 西部幹線：<br/>(一)對號列車：基隆=潮州間正常行駛<br/>(二)非對號列車：基隆=潮州間正常行駛<br/><br/>二. 東部幹線：<br/>(一)對號列車：<br/>順行樹林=花蓮=臺東間24時前停駛；逆行臺東=花蓮=樹林間24時前停駛。除176次潮州=瑞芳正常行駛外，其餘北半環跨線順行對號列車(282次、288次、554次)只行駛至七堵站為止，逆行對號列車(273次、277次、477次、653次、281次、283次、285次)改由七堵站始發。<br/>(二) 非對號列車：<br/>樹林=蘇澳間正常行駛，蘇澳新=花蓮=臺東間視降雨狀況機動行駛。<br/><br/>三. 南迴線：<br/>(一) 對號列車：新左營=臺東間24時前停駛；另167次七堵=潮州間正常行駛、386次潮州=臺中間正常行駛、324次花蓮=臺南間停駛。<br/>(二)非對號列車：視降雨狀況機動行駛。<br/><br/>四.支線：正常行駛。<br/><br/>五. 觀光列車：1、2次環島之星、藍皮解憂號停駛。<br/><br/>六. 明(25)日列車行駛概況，將於今(24)日22時對外發布。<br/><br/>七. 因應豪大雨，乘客出門前，詢問列車最新運行資訊請洽：<br/>(一) 臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip)<br/>(二) 臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。<br/>(三) 各就近車站(臺鐵官方網站各車站聯絡資訊)。<br/><br/>八. 退、換票及改乘相關訊息<br/>購買上述期間內停駛之各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司因應豪大雨於今(24)日24時前 南迴線及東部幹線對號列車停駛 區間車機動行駛 臺鐵公司因應豪大雨於今(24)日24時前 南迴線及東部幹線對號列車停駛 區間車機動行駛 發佈日期：2026/8/24 下午 1:00 依據中央氣象署豪大雨特報、最新氣象資訊研判，今(24)日24時前列車行駛概況如下： 一. 西部幹線： (一)對號列車：基隆=潮州間正常行駛 (二)非對號列車：基隆=潮州間正常行駛 二. 東部幹線： (一)對號列車： 順行樹林=花蓮=臺東間24時前停駛；逆行臺東=花蓮=樹林間24時前停駛。除176次潮州=瑞芳正常行駛外，其餘北半環跨線順行對號列車(282次、288次、554次)只行駛至七堵站為止，逆行對號列車(273次、277次、477次、653次、281次、283次、285次)改由七堵站始發。 (二) 非對號列車： 樹林=蘇澳間正常行駛，蘇澳新=花蓮=臺東間視降雨狀況機動行駛。 三. 南迴線： (一) 對號列車：新左營=臺東間24時前停駛；另167次七堵=潮州間正常行駛、386次潮州=臺中間正常行駛、324次花蓮=臺南間停駛。 (二)非對號列車：視降雨狀況機動行駛。 四.支線：正常行駛。 五. 觀光列車：1、2次環島之星、藍皮解憂號停駛。 六. 明(25)日列車行駛概況，將於今(24)日22時對外發布。 七. 因應豪大雨，乘客出門前，詢問列車最新運行資訊請洽： (一) 臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip) (二) 臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。 (三) 各就近車站(臺鐵官方網站各車站聯絡資訊)。 八. 退、換票及改乘相關訊息 購買上述期間內停駛之各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費。 返回上一頁",
+        "content_hash": "md5:105f5980093282f69465bd2a8a3330dd",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "西部幹線",
+            "東部幹線",
+            "南迴線"
+          ],
+          "affected_stations": [
+            "樹林",
+            "新左營",
+            "左營",
+            "臺東",
+            "潮州",
+            "七堵",
+            "花蓮",
+            "蘇澳",
+            "瑞芳",
+            "蘇澳新",
+            "臺中",
+            "基隆",
+            "臺南"
+          ],
+          "predicted_resumption_time": "2026-08-25T00:00:00+08:00",
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -22622,6 +22871,35 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:35.402769+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司受枋山=枋野間持續土石流搶修作業不易，預計今(25)日通車時間延後至15時</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司受枋山=枋野間持續土石流搶修作業不易，預計今(25)日通車時間延後至15時</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/25 下午 12:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">因受持續豪大雨致枋山=枋野間土石流路線不通，台鐵公司雖已加派人力、機具搶修，然受氣候影響，搶修作業困難，預計今(25)日通車時間延後至15時。<br/><br/>一、相關行車事項如下：<br/> (一)161次、423次、304次、410次、枋寮=大武間停駛。<br/> (二)431次新左營=枋寮間、314次台東=潮州間、3018次大武=新左營間、727次潮州=台東間、708次台東=新左營間停駛。<br/>(三)1次、2次台東=枋寮間停駛。<br/>(四)藍皮解憂號本日停駛。<br/><br/>二、本日北迴線及花東線3000型自強號開放發售站票。<br/><br/>三、乘客出門前，詢問列車最新運行資訊請洽：<br/>臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip)<br/>臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。<br/>各就近車站(臺鐵官方網站各車站聯絡資訊)。<br/><br/>四、退、換票及改乘相關訊息：<br/>因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。<br/><br/>使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。<br/><br/>購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=1\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司受枋山=枋野間持續土石流搶修作業不易，預計今(25)日通車時間延後至15時 臺鐵公司受枋山=枋野間持續土石流搶修作業不易，預計今(25)日通車時間延後至15時 發佈日期：2026/8/25 下午 12:00 因受持續豪大雨致枋山=枋野間土石流路線不通，台鐵公司雖已加派人力、機具搶修，然受氣候影響，搶修作業困難，預計今(25)日通車時間延後至15時。 一、相關行車事項如下： (一)161次、423次、304次、410次、枋寮=大武間停駛。 (二)431次新左營=枋寮間、314次台東=潮州間、3018次大武=新左營間、727次潮州=台東間、708次台東=新左營間停駛。 (三)1次、2次台東=枋寮間停駛。 (四)藍皮解憂號本日停駛。 二、本日北迴線及花東線3000型自強號開放發售站票。 三、乘客出門前，詢問列車最新運行資訊請洽： 臺鐵公司官方網站。網址：(https://www.railway.gov.tw/tra-tip-web/tip) 臺鐵公司24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話)(行動電話無法撥打)。 各就近車站(臺鐵官方網站各車站聯絡資訊)。 四、退、換票及改乘相關訊息： 因受土石流影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。 使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。 購買上述期間內各級列車車票之旅客，可自乘車日起一年內，持未經使用之車票至各車站辦理退票，免收手續費，如有去回程車票可一併辦理。 返回上一頁",
+        "content_hash": "md5:8863518d987142c561dfde2ed277c92c",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Heavy_Rain",
+          "status": "Suspended",
+          "affected_lines": [
+            "北迴線",
+            "花東線"
+          ],
+          "affected_stations": [
+            "新左營",
+            "左營",
+            "潮州",
+            "枋山",
+            "台東",
+            "枋寮",
+            "大武",
+            "枋野"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -22670,6 +22948,25 @@
           "affected_stations": [
             "值班",
             "至到達"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:31.258861+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">軍人節感恩優惠 台鐵便當9折再送國產陽光樂豆奶黃豆口味 向國軍致敬</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>軍人節感恩優惠 台鐵便當9折再送國產陽光樂豆奶黃豆口味 向國軍致敬</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/28 上午 9:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　為感念國軍弟兄姐妹們平日保家衛國的辛勞，臺鐵公司攜手農糧署，於115年9月1日至9月7日舉辦「軍人節感恩優惠活動」，以台鐵便當搭配國產陽光樂豆奶黃豆口味，向辛勞守護國家的國軍官兵致上誠摯謝意。<br/>　　活動期間，凡現役軍人本人至臺鐵公司直營便當門市（不含民營販售台及列車上）購買任1款台鐵便當，出示有效「中華民國軍人身分證」即可享有「台鐵便當9折並免費贈送國產陽光樂豆奶黃豆口味1瓶」優惠（購買2個便當即贈2瓶國產陽光樂豆奶，以此類推），數量有限，送完為止。<br/>　　本次贈送國產陽光樂豆奶黃豆口味為農業部農糧署輔導之優質產品，由「保證責任臺中市大人物農產運銷合作社」提供，使用非基因改造國產大豆製作，並通過產銷履歷相關認證。透過美味的台鐵便當結合營養滿滿的國產陽光樂豆奶黃豆口味，以實際行動向國軍致敬，為國軍加油！<br/></div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/5bbc8258-54e4-4777-b587-3420a08eaf1d\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-(1150828發)臺鐵公司推出「軍人節感恩優惠活動」新聞稿.pdf\" type=\"submit\">(1150828發)臺鐵公司推出「軍人節感恩優惠活動」新聞稿.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 軍人節感恩優惠 台鐵便當9折再送國產陽光樂豆奶黃豆口味 向國軍致敬 軍人節感恩優惠 台鐵便當9折再送國產陽光樂豆奶黃豆口味 向國軍致敬 發佈日期：2026/8/28 上午 9:00 為感念國軍弟兄姐妹們平日保家衛國的辛勞，臺鐵公司攜手農糧署，於115年9月1日至9月7日舉辦「軍人節感恩優惠活動」，以台鐵便當搭配國產陽光樂豆奶黃豆口味，向辛勞守護國家的國軍官兵致上誠摯謝意。 活動期間，凡現役軍人本人至臺鐵公司直營便當門市（不含民營販售台及列車上）購買任1款台鐵便當，出示有效「中華民國軍人身分證」即可享有「台鐵便當9折並免費贈送國產陽光樂豆奶黃豆口味1瓶」優惠（購買2個便當即贈2瓶國產陽光樂豆奶，以此類推），數量有限，送完為止。 本次贈送國產陽光樂豆奶黃豆口味為農業部農糧署輔導之優質產品，由「保證責任臺中市大人物農產運銷合作社」提供，使用非基因改造國產大豆製作，並通過產銷履歷相關認證。透過美味的台鐵便當結合營養滿滿的國產陽光樂豆奶黃豆口味，以實際行動向國軍致敬，為國軍加油！ 附件下載： (1150828發)臺鐵公司推出「軍人節感恩優惠活動」新聞稿.pdf 返回上一頁",
+        "content_hash": "md5:feb4f3f030a9a859dc0807c53e70d89d",
+        "extracted_data": {
+          "report_version": "1150828",
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺中"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
@@ -22728,6 +23025,23 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:30.246896+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">本公司於中秋節及教師節連續假期，即115年9月24日至9月28日共5天期間，暫停「網路訂票預訂便當」服務，請見諒。</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>本公司於中秋節及教師節連續假期，即115年9月24日至9月28日共5天期間，暫停「網路訂票預訂便當」服務，請見諒。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/1 上午 9:27</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司於中秋節及教師節連續假期，即115年9月24日至9月28日共5天期間，暫停「網路訂票預訂便當」服務，請見諒。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 本公司於中秋節及教師節連續假期，即115年9月24日至9月28日共5天期間，暫停「網路訂票預訂便當」服務，請見諒。 本公司於中秋節及教師節連續假期，即115年9月24日至9月28日共5天期間，暫停「網路訂票預訂便當」服務，請見諒。 發佈日期：2026/9/1 上午 9:27 本公司於中秋節及教師節連續假期，即115年9月24日至9月28日共5天期間，暫停「網路訂票預訂便當」服務，請見諒。 返回上一頁",
+        "content_hash": "md5:54199eb4d63ee210cdd40ba57b8678e3",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": "2026-09-28T23:59:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -22775,6 +23089,23 @@
             "值班",
             "至到達"
           ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:29.244005+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">交通部數位交通博物館主題網展出「國道動物生態友善設施主題策展」</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>交通部數位交通博物館主題網展出「國道動物生態友善設施主題策展」</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/3 上午 11:33</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">國道，是維繫臺灣交通運輸的重要網絡，卻也是野生動物生存難以跨越的鴻溝。<br/>『路死誰守｜守護動物的國道生態友善設施』策展網站，帶你看見國道如何透過長期調查、建置生態友善設施與持續生態行動，讓交通建設與環境生態找到共存的可能。快來了解國道守護野生動物的故事！<br/>(網址：https://transport-curation.nat.gov.tw/museum-wildlife-friendly/index.html)<br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 交通部數位交通博物館主題網展出「國道動物生態友善設施主題策展」 交通部數位交通博物館主題網展出「國道動物生態友善設施主題策展」 發佈日期：2026/9/3 上午 11:33 國道，是維繫臺灣交通運輸的重要網絡，卻也是野生動物生存難以跨越的鴻溝。 『路死誰守｜守護動物的國道生態友善設施』策展網站，帶你看見國道如何透過長期調查、建置生態友善設施與持續生態行動，讓交通建設與環境生態找到共存的可能。快來了解國道守護野生動物的故事！ (網址：https://transport-curation.nat.gov.tw/museum-wildlife-friendly/index.html) 返回上一頁",
+        "content_hash": "md5:08a9e59041e6ec93a9991494d093931c",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
@@ -22855,6 +23186,28 @@
             "至到達"
           ],
           "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:28.196772+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司115年國慶日連續假期加開110列次  9月8日零時起開放訂票</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司115年國慶日連續假期加開110列次  9月8日零時起開放訂票</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/3 下午 7:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司因應115年國慶日連續假期疏運旅客需要，自115年10月8日(星期四)起至10月12日(星期一)止計5天，全線加開各級列車共計110列次（含國慶煙火加開列車9列次）。其中包含東線實名制列車4列次、北半環跨線自強號列車5列次、南半環跨線自強號列車7列次、西線北中直達列車2列次。另為加強疏運旅客，自10月8日至10月12日止暫停發售親子車廂車票，改以一般車廂方式售票。<br/><br/>　　115年國慶日連續假期疏運期間(10月8日至10月12日止)，西部幹線EMU3000型列車暫停自由座服務，改於乘車當日限量發售200張無座票(禁止進入6車騰雲座艙)，旅客可經由官網訂票，車站窗口、自動售票機取票或使用「台鐵e訂通」APP 取票。<br/><br/>　　本次加開班次自115年9月8日(星期二）零時起同步開放網路、台鐵e訂通、超商及電話語音訂票；另東線實名制列車班次於9月9日（星期三）零時起，開放設籍花蓮縣與臺東縣國民身分證字號U、V開頭或上開兩者之配偶及直系血親一親等之民眾訂票，歡迎旅客多加利用。相關加開列車車次、時刻，自9月5日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/7b499ff0-eff7-40c8-b0ba-4fcbbee24ce9\" target=\"_blank\">\n<img alt=\"5.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/7b499ff0-eff7-40c8-b0ba-4fcbbee24ce9/360x270\" title=\"另開視窗下載-5.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/cabc636d-684d-4f6d-81f7-c010d5757c3c\" target=\"_blank\">\n<img alt=\"1.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/cabc636d-684d-4f6d-81f7-c010d5757c3c/360x270\" title=\"另開視窗下載-1.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/4bfbeeba-17c0-4065-9de7-2f98e1f7fe30\" target=\"_blank\">\n<img alt=\"banner.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/4bfbeeba-17c0-4065-9de7-2f98e1f7fe30/360x270\" title=\"另開視窗下載-banner.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/b6a953b3-1b3d-47d2-ae4a-0b4816518ff8\" target=\"_blank\">\n<img alt=\"8.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/b6a953b3-1b3d-47d2-ae4a-0b4816518ff8/360x270\" title=\"另開視窗下載-8.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/4dfe46db-20ae-4760-872c-249b009a9397\" target=\"_blank\">\n<img alt=\"2.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/4dfe46db-20ae-4760-872c-249b009a9397/360x270\" title=\"另開視窗下載-2.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/e2ca4671-b46c-433d-90e3-ca832b306893\" target=\"_blank\">\n<img alt=\"3.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/e2ca4671-b46c-433d-90e3-ca832b306893/360x270\" title=\"另開視窗下載-3.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/2eebbc51-4488-4b0b-86b4-0ed0fdb3088c\" target=\"_blank\">\n<img alt=\"4.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/2eebbc51-4488-4b0b-86b4-0ed0fdb3088c/360x270\" title=\"另開視窗下載-4.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/74359b7b-07c9-4c2a-af0a-8d6ea6c10ec5\" target=\"_blank\">\n<img alt=\"6.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/74359b7b-07c9-4c2a-af0a-8d6ea6c10ec5/360x270\" title=\"另開視窗下載-6.png\"/>\n</a>\n<a href=\"/tra-tip-web/tip/file/476cbeb2-7a5f-4108-8ccd-b10c70af281a\" target=\"_blank\">\n<img alt=\"7.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/476cbeb2-7a5f-4108-8ccd-b10c70af281a/360x270\" title=\"另開視窗下載-7.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司115年國慶日連續假期加開110列次  9月8日零時起開放訂票 臺鐵公司115年國慶日連續假期加開110列次  9月8日零時起開放訂票 發佈日期：2026/9/3 下午 7:00 臺鐵公司因應115年國慶日連續假期疏運旅客需要，自115年10月8日(星期四)起至10月12日(星期一)止計5天，全線加開各級列車共計110列次（含國慶煙火加開列車9列次）。其中包含東線實名制列車4列次、北半環跨線自強號列車5列次、南半環跨線自強號列車7列次、西線北中直達列車2列次。另為加強疏運旅客，自10月8日至10月12日止暫停發售親子車廂車票，改以一般車廂方式售票。 115年國慶日連續假期疏運期間(10月8日至10月12日止)，西部幹線EMU3000型列車暫停自由座服務，改於乘車當日限量發售200張無座票(禁止進入6車騰雲座艙)，旅客可經由官網訂票，車站窗口、自動售票機取票或使用「台鐵e訂通」APP 取票。 本次加開班次自115年9月8日(星期二）零時起同步開放網路、台鐵e訂通、超商及電話語音訂票；另東線實名制列車班次於9月9日（星期三）零時起，開放設籍花蓮縣與臺東縣國民身分證字號U、V開頭或上開兩者之配偶及直系血親一親等之民眾訂票，歡迎旅客多加利用。相關加開列車車次、時刻，自9月5日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:08c85c7fa683b9fdb5b08440d589e59e",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [
+            "西部幹線"
+          ],
+          "affected_stations": [
+            "臺東",
+            "花蓮"
+          ],
+          "predicted_resumption_time": "2026-10-12T23:59:00+08:00",
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -22993,6 +23346,32 @@
           "affected_stations": [
             "值班",
             "至到達"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": "2026-09-05T12:50:00+08:00",
+          "service_type": "normal_train",
+          "service_details": "正常列車服務"
+        }
+      },
+      {
+        "scraped_at": "2026-09-07T00:25:27.168812+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">今(5)日上午屏東=南州間號誌故障已於12:50完成修復 全線列車恢復正常行駛</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>今(5)日上午屏東=南州間號誌故障已於12:50完成修復 全線列車恢復正常行駛</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/5 下午 2:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">一、\t發生時間：115年9月5日10時37分<br/>二、\t發生地點：屏東線(屏東=西勢=潮州=南州間及潮州基地)<br/>三、\t受損狀況：屏東=南州號誌設備故障。<br/>四、\t搶修情形：已動員本公司電務單位及技術人員至現場搶修，12:30屏東=西勢=潮州=南州間東、西正線號誌系統已恢復正常，12:50潮州基地號誌系統已恢復正常，各級列車均已恢復正常運轉。<br/>五、\t應變措施：<br/>(一)\t11:00起本公司立即成立一級應變小組，南區成立應變分組。<br/>(二)\t為疏運旅客需要，新左營=潮州間EMU3000型新自強號全面開放電子票證乘車(騰雲座艙除外)。<br/>(三)\t為確保號誌系統運作穩定，本公司電務單位主管與技術人員以及廠商技術人員仍在現場監控。<br/>六、\t列車運行狀況：<br/>(一)\t目前屏東=西勢=潮州=南州間各站旅客均已恢復正常疏運。<br/>(二)\t受此次號誌故障事件影響38列次1041分。<br/>七、\t退、換票及改乘相關訊息：<br/>(一)\t旅客預定乘車班次因受號誌故障影響，致列車達晚點退費標準，得自乘車日起一年內，持車票至各車站售票窗口辦理退費，免收退票手續費。<br/>(二)\t因受號誌故障影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。<br/>(三)\t使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。<br/>八、\t乘客出門前，詢問列車最新運行資訊請洽：<br/>(一)\t臺鐵官方網站，網址(http://www.railway.gov.tw/tra-tip-web/tip)<br/>(二)\t臺鐵24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。<br/>(三)\t各就近車站(臺鐵官方網站有各車站聯絡資訊)。<br/></div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 今(5)日上午屏東=南州間號誌故障已於12:50完成修復 全線列車恢復正常行駛 今(5)日上午屏東=南州間號誌故障已於12:50完成修復 全線列車恢復正常行駛 發佈日期：2026/9/5 下午 2:30 一、\t發生時間：115年9月5日10時37分 二、\t發生地點：屏東線(屏東=西勢=潮州=南州間及潮州基地) 三、\t受損狀況：屏東=南州號誌設備故障。 四、\t搶修情形：已動員本公司電務單位及技術人員至現場搶修，12:30屏東=西勢=潮州=南州間東、西正線號誌系統已恢復正常，12:50潮州基地號誌系統已恢復正常，各級列車均已恢復正常運轉。 五、\t應變措施： (一)\t11:00起本公司立即成立一級應變小組，南區成立應變分組。 (二)\t為疏運旅客需要，新左營=潮州間EMU3000型新自強號全面開放電子票證乘車(騰雲座艙除外)。 (三)\t為確保號誌系統運作穩定，本公司電務單位主管與技術人員以及廠商技術人員仍在現場監控。 六、\t列車運行狀況： (一)\t目前屏東=西勢=潮州=南州間各站旅客均已恢復正常疏運。 (二)\t受此次號誌故障事件影響38列次1041分。 七、\t退、換票及改乘相關訊息： (一)\t旅客預定乘車班次因受號誌故障影響，致列車達晚點退費標準，得自乘車日起一年內，持車票至各車站售票窗口辦理退費，免收退票手續費。 (二)\t因受號誌故障影響而中止乘車之旅客，得憑票自發生日起一年內請求退還票價，並免收退票手續費。 (三)\t使用信用卡購票旅客，可於乘車日起一年內，持原信用卡及車票正本，至各車站辦理退費至信用卡帳戶。 八、\t乘客出門前，詢問列車最新運行資訊請洽： (一)\t臺鐵官方網站，網址(http://www.railway.gov.tw/tra-tip-web/tip) (二)\t臺鐵24小時旅客服務電話：(02)2191-0096、0800-765-888(免付費電話，行動電話無法撥打)。 (三)\t各就近車站(臺鐵官方網站有各車站聯絡資訊)。 返回上一頁",
+        "content_hash": "md5:c574cb00c6d1911a4b331beda3091e90",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Equipment_Failure",
+          "status": null,
+          "affected_lines": [
+            "屏東線"
+          ],
+          "affected_stations": [
+            "新左營",
+            "左營",
+            "潮州",
+            "屏東",
+            "南州",
+            "西勢"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": "2026-09-05T12:50:00+08:00",
