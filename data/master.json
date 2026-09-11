@@ -24136,5 +24136,40 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac2a07d4e8d01a07f097a47022a",
+    "title": "「萬華（東、西）車站大樓民間參與興建營運案」114年度營運績效評定結果",
+    "publish_date": "2026/09/11",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2a07d4e8d01a07f097a47022a&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260911_萬華_東_西_車站大樓民間參與興建營運案_114年度營運績效"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-09-11T08:05:13.982040+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">「萬華（東、西）車站大樓民間參與興建營運案」114年度營運績效評定結果</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>「萬華（東、西）車站大樓民間參與興建營運案」114年度營運績效評定結果</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/11 上午 8:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">本公司業於115年8月20日辦理『萬華（東、西）車站大樓民間參與興建營運案』114年度營運績效評估會議完竣，經營運績效評估委員會依評估項目、標準及權重進行評分並加總平均後，平均分數為83.33分，根據本案興建營運契約第14.4.4條規定，分數總和平均70分以上者為及格，特依『機關辦理促進民間參與公共建設案件營運績效評定作業指引』公開於本公司資訊網路。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 「萬華（東、西）車站大樓民間參與興建營運案」114年度營運績效評定結果 「萬華（東、西）車站大樓民間參與興建營運案」114年度營運績效評定結果 發佈日期：2026/9/11 上午 8:00 本公司業於115年8月20日辦理『萬華（東、西）車站大樓民間參與興建營運案』114年度營運績效評估會議完竣，經營運績效評估委員會依評估項目、標準及權重進行評分並加總平均後，平均分數為83.33分，根據本案興建營運契約第14.4.4條規定，分數總和平均70分以上者為及格，特依『機關辦理促進民間參與公共建設案件營運績效評定作業指引』公開於本公司資訊網路。 返回上一頁",
+        "content_hash": "md5:140fa34b62fe2ab8df3d09b5cfe73e19",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "萬華",
+            "和平"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
