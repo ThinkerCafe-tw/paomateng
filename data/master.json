@@ -22159,6 +22159,25 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-17T00:30:09.942767+08:00",
+        "content_html": "<div class=\"update_page_layout\">\n<img src=\"/TRA2.jpg\"/>\n<div class=\"update_page_cont\">\n<ul>\n<li>\n                國營臺灣鐵路股份有限公司系統維護公告<br/>本公司於09月17日（星期四）01:00時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等，若提早完成維護作業將恢復各項服務，造成您的不便，敬請見諒。\n              </li>\n<li>\n                Taiwan Railway Corporation System is under scheduled maintenance.<br/>To provide a better service, the system is scheduled to improve the system's performance on 06/10 (estimated to be from 01:00 to 04:30). The site will be down temporarily. We're sorry for any inconveniences.\n              </li><br/>\n              \n                公司地址：臺北市中正區北平西路三號（郵遞區號100230）<br/>公司電話：(02)2381-5226<br/>\n                \n                版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.           \n            </ul>\n</div>\n</div>",
+        "content_text": "國營臺灣鐵路股份有限公司系統維護公告 本公司於09月17日（星期四）01:00時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等，若提早完成維護作業將恢復各項服務，造成您的不便，敬請見諒。 Taiwan Railway Corporation System is under scheduled maintenance. To provide a better service, the system is scheduled to improve the system's performance on 06/10 (estimated to be from 01:00 to 04:30). The site will be down temporarily. We're sorry for any inconveniences. 公司地址：臺北市中正區北平西路三號（郵遞區號100230） 公司電話：(02)2381-5226 版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.",
+        "content_hash": "md5:93a693bf70a344426948dcd1312b507f",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
@@ -22338,6 +22357,25 @@
             "加祿"
           ],
           "predicted_resumption_time": "2026-08-25T12:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-17T00:30:11.265096+08:00",
+        "content_html": "<div class=\"update_page_layout\">\n<img src=\"/TRA2.jpg\"/>\n<div class=\"update_page_cont\">\n<ul>\n<li>\n                國營臺灣鐵路股份有限公司系統維護公告<br/>本公司於09月17日（星期四）01:00時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等，若提早完成維護作業將恢復各項服務，造成您的不便，敬請見諒。\n              </li>\n<li>\n                Taiwan Railway Corporation System is under scheduled maintenance.<br/>To provide a better service, the system is scheduled to improve the system's performance on 06/10 (estimated to be from 01:00 to 04:30). The site will be down temporarily. We're sorry for any inconveniences.\n              </li><br/>\n              \n                公司地址：臺北市中正區北平西路三號（郵遞區號100230）<br/>公司電話：(02)2381-5226<br/>\n                \n                版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.           \n            </ul>\n</div>\n</div>",
+        "content_text": "國營臺灣鐵路股份有限公司系統維護公告 本公司於09月17日（星期四）01:00時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等，若提早完成維護作業將恢復各項服務，造成您的不便，敬請見諒。 Taiwan Railway Corporation System is under scheduled maintenance. To provide a better service, the system is scheduled to improve the system's performance on 06/10 (estimated to be from 01:00 to 04:30). The site will be down temporarily. We're sorry for any inconveniences. 公司地址：臺北市中正區北平西路三號（郵遞區號100230） 公司電話：(02)2381-5226 版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.",
+        "content_hash": "md5:93a693bf70a344426948dcd1312b507f",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北"
+          ],
+          "predicted_resumption_time": null,
           "actual_resumption_time": null,
           "service_type": null,
           "service_details": null
@@ -23389,6 +23427,25 @@
             "台東",
             "枋寮",
             "左營"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      },
+      {
+        "scraped_at": "2026-09-17T00:30:10.264817+08:00",
+        "content_html": "<div class=\"update_page_layout\">\n<img src=\"/TRA2.jpg\"/>\n<div class=\"update_page_cont\">\n<ul>\n<li>\n                國營臺灣鐵路股份有限公司系統維護公告<br/>本公司於09月17日（星期四）01:00時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等，若提早完成維護作業將恢復各項服務，造成您的不便，敬請見諒。\n              </li>\n<li>\n                Taiwan Railway Corporation System is under scheduled maintenance.<br/>To provide a better service, the system is scheduled to improve the system's performance on 06/10 (estimated to be from 01:00 to 04:30). The site will be down temporarily. We're sorry for any inconveniences.\n              </li><br/>\n              \n                公司地址：臺北市中正區北平西路三號（郵遞區號100230）<br/>公司電話：(02)2381-5226<br/>\n                \n                版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.           \n            </ul>\n</div>\n</div>",
+        "content_text": "國營臺灣鐵路股份有限公司系統維護公告 本公司於09月17日（星期四）01:00時~04:30時進行相關系統停機維護，屆時將暫停官網網站服務、電腦預約訂位服務、會員服務系統、超商代售車票服務、台鐵e訂通服務等，若提早完成維護作業將恢復各項服務，造成您的不便，敬請見諒。 Taiwan Railway Corporation System is under scheduled maintenance. To provide a better service, the system is scheduled to improve the system's performance on 06/10 (estimated to be from 01:00 to 04:30). The site will be down temporarily. We're sorry for any inconveniences. 公司地址：臺北市中正區北平西路三號（郵遞區號100230） 公司電話：(02)2381-5226 版權所有 © 2024 國營臺灣鐵路股份有限公司 Taiwan Railway Corporation, Ltd.",
+        "content_hash": "md5:93a693bf70a344426948dcd1312b507f",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺北"
           ],
           "predicted_resumption_time": null,
           "actual_resumption_time": null,
