@@ -24825,6 +24825,73 @@
           "service_type": null,
           "service_details": null
         }
+      },
+      {
+        "scraped_at": "2026-09-23T11:05:46.283228+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司115年光復節連續假期訂票概況</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司115年光復節連續假期訂票概況</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/23 上午 9:55</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵公司於今（23）日零時起，開放115年光復節連續假期（10月23日至10月27日）全線網路、台鐵e訂通APP、電話語音及超商訂票，截至今日上午9時止，總計完成4萬3,700筆、7萬2,366張訂票。各時段仍有餘位，敬請多加利用。<br/><br/>　　旅客完成訂票後，敬請於2日內（含訂票當日）至本公司各售票車站及便利超商（統一、全家、萊爾富、OK）取票；或利用「網路信用卡付款購票系統」及台鐵e訂通APP付款購票。逾期未取之車票，將於9月25日上午9時重新釋出。因旅客隨時有退、換票情形，詳細餘票請查閱本公司訂票網頁剩餘座位查詢功能。<br/><br/>　　另10月23日、24日及26日加開之實名制列車，將於9月24日（星期四）0時起開放訂票。凡設籍於花蓮縣、臺東縣之現住人口與國民身分證統一編號第1碼為U或V及上開兩者之配偶與直系血親1親等國民，可多加利用。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/d312a1a2-f58b-46a4-8773-dbc181cb7413\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-115年光復節連假訂票概況新聞稿-附件.pdf\" type=\"submit\">115年光復節連假訂票概況新聞稿-附件.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司115年光復節連續假期訂票概況 臺鐵公司115年光復節連續假期訂票概況 發佈日期：2026/9/23 上午 9:55 臺鐵公司於今（23）日零時起，開放115年光復節連續假期（10月23日至10月27日）全線網路、台鐵e訂通APP、電話語音及超商訂票，截至今日上午9時止，總計完成4萬3,700筆、7萬2,366張訂票。各時段仍有餘位，敬請多加利用。 旅客完成訂票後，敬請於2日內（含訂票當日）至本公司各售票車站及便利超商（統一、全家、萊爾富、OK）取票；或利用「網路信用卡付款購票系統」及台鐵e訂通APP付款購票。逾期未取之車票，將於9月25日上午9時重新釋出。因旅客隨時有退、換票情形，詳細餘票請查閱本公司訂票網頁剩餘座位查詢功能。 另10月23日、24日及26日加開之實名制列車，將於9月24日（星期四）0時起開放訂票。凡設籍於花蓮縣、臺東縣之現住人口與國民身分證統一編號第1碼為U或V及上開兩者之配偶與直系血親1親等國民，可多加利用。 附件下載： 115年光復節連假訂票概況新聞稿-附件.pdf 返回上一頁",
+        "content_hash": "md5:b60961a9b37be4f454a4cf7876c4eb3c",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "臺東",
+            "花蓮",
+            "光復"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac3a0ca8f5401a0cbba38fc0126",
+    "title": "臺鐵公司攜手屏東縣政府推極品海味！「鰻月團圓便當」中秋節檔期限量開賣",
+    "publish_date": "2026/09/23",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3a0ca8f5401a0cbba38fc0126&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260923_臺鐵公司攜手屏東縣政府推極品海味_鰻月團圓便當_中秋節檔期限"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-09-23T11:05:45.347403+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司攜手屏東縣政府推極品海味！「鰻月團圓便當」中秋節檔期限量開賣</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司攜手屏東縣政府推極品海味！「鰻月團圓便當」中秋節檔期限量開賣</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/23 上午 11:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　秋意漸濃，臺鐵公司與屏東縣政府攜手合作，於115年9月23日至115年10月5日中秋節檔期，限定推出「鰻月團圓便當」。本次合作嚴選來自屏東的優質鰻魚，魚肉質細緻肥美、油脂豐潤，不僅是老饕眼中的夢幻珍饈，更是秋天進補的好選擇。<br/><br/>　　臺鐵公司指出，本次「鰻月團圓便當」以「極品雙鰻御膳」的概念進行設計，完美結合「蒲燒」與「白燒」雙重技法。經典的蒲燒鰻魚嚴選特製的蒲燒醬汁烹調，呈現醬香濃郁、鹹甜交織的琥珀色澤；白鰻則保留魚肉細緻豐潤的口感與純粹鮮甜，展現出鰻魚本身的油脂芬芳與淡雅的鹹香滋味。<br/><br/>　　「鰻月團圓便當」以每份250元的親民售價，為旅客獻上兼具奢華、質感與澎湃滿足感的味蕾盛宴。購買便當更限量贈送精美帆布袋1只，數量有限送完為止。這份誠意之作絕對是中秋返鄉旅途的最佳良伴，讓您在品嚐海味之餘，也能於入秋之際補充滿滿元氣。  <br/><br/>「鰻月團圓便當」販售資訊：<br/>售價：250元 / 個<br/><br/>販售資訊<br/><br/>販售時間：115年9月23日至10月5日（每日限量發售）<br/><br/>販售地點:<br/>臺北餐旅分處<br/>電話：02-23619309<br/>門市：臺北1~4號店、板橋店<br/>配菜：柴魚紅蘿蔔蛋絲、炒筍片、炒時蔬2種<br/><br/>臺中餐旅分處<br/>電話：04-22224683<br/>臺中店、彰化店、新竹店及高鐵新烏日站便當店<br/>配菜：青花菜、高麗菜、紅黃椒、百香果蓮藕片、玉子燒<br/><br/>高雄餐旅分處<br/>電話：07-2358765<br/>門市：高雄東側店、新左營店、左營高鐵店、鳳山體驗店、臺南店<br/>配菜：蛋絲、青花菜、滷香菇*1、紅薑片</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/06710ef5-7141-4072-ae18-9703fcf3d03c\" target=\"_blank\">\n<img alt=\"20260923鰻月團圓便當-附件圖卡(公關處製作)new.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/06710ef5-7141-4072-ae18-9703fcf3d03c/360x270\" title=\"另開視窗下載-20260923鰻月團圓便當-附件圖卡(公關處製作)new.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司攜手屏東縣政府推極品海味！「鰻月團圓便當」中秋節檔期限量開賣 臺鐵公司攜手屏東縣政府推極品海味！「鰻月團圓便當」中秋節檔期限量開賣 發佈日期：2026/9/23 上午 11:00 秋意漸濃，臺鐵公司與屏東縣政府攜手合作，於115年9月23日至115年10月5日中秋節檔期，限定推出「鰻月團圓便當」。本次合作嚴選來自屏東的優質鰻魚，魚肉質細緻肥美、油脂豐潤，不僅是老饕眼中的夢幻珍饈，更是秋天進補的好選擇。 臺鐵公司指出，本次「鰻月團圓便當」以「極品雙鰻御膳」的概念進行設計，完美結合「蒲燒」與「白燒」雙重技法。經典的蒲燒鰻魚嚴選特製的蒲燒醬汁烹調，呈現醬香濃郁、鹹甜交織的琥珀色澤；白鰻則保留魚肉細緻豐潤的口感與純粹鮮甜，展現出鰻魚本身的油脂芬芳與淡雅的鹹香滋味。 「鰻月團圓便當」以每份250元的親民售價，為旅客獻上兼具奢華、質感與澎湃滿足感的味蕾盛宴。購買便當更限量贈送精美帆布袋1只，數量有限送完為止。這份誠意之作絕對是中秋返鄉旅途的最佳良伴，讓您在品嚐海味之餘，也能於入秋之際補充滿滿元氣。 「鰻月團圓便當」販售資訊： 售價：250元 / 個 販售資訊 販售時間：115年9月23日至10月5日（每日限量發售） 販售地點: 臺北餐旅分處 電話：02-23619309 門市：臺北1~4號店、板橋店 配菜：柴魚紅蘿蔔蛋絲、炒筍片、炒時蔬2種 臺中餐旅分處 電話：04-22224683 臺中店、彰化店、新竹店及高鐵新烏日站便當店 配菜：青花菜、高麗菜、紅黃椒、百香果蓮藕片、玉子燒 高雄餐旅分處 電話：07-2358765 門市：高雄東側店、新左營店、左營高鐵店、鳳山體驗店、臺南店 配菜：蛋絲、青花菜、滷香菇*1、紅薑片 返回上一頁",
+        "content_hash": "md5:f7e5774a06bf0bc61c9024a72ded20da",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "彰化",
+            "烏日",
+            "臺中",
+            "鳳山",
+            "屏東",
+            "板橋",
+            "臺南",
+            "左營",
+            "臺北",
+            "新竹",
+            "新烏日",
+            "高雄",
+            "新左營"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
       }
     ],
     "predicted_resumption_time": null,
