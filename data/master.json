@@ -25084,5 +25084,55 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac2a0d9f33e01a0dd4fcc8b0388",
+    "title": "臺鐵公司為疏運中秋節連假返工人潮，於9月28日再加開彰化=七堵區間快車1列次，另4列次新自強號增停新烏日站",
+    "publish_date": "2026/09/26",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2a0d9f33e01a0dd4fcc8b0388&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260926_號增停新烏日站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-09-26T18:43:55.719857+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司為疏運中秋節連假返工人潮，於9月28日再加開彰化=七堵區間快車1列次，另4列次新自強號增停新烏日站</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司為疏運中秋節連假返工人潮，於9月28日再加開彰化=七堵區間快車1列次，另4列次新自強號增停新烏日站</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/26 下午 2:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">        為因應連假疏運旅客需要，臺鐵公司於9月28日再加開彰化=七堵間（經山線）6402次區間快車，彰化14:45始發、新烏日14:57開車、臺中15:14開車、臺北18:12到達，沿途停靠新烏日、臺中、豐原、苗栗、竹南、新竹、中壢、桃園、樹林、板橋、臺北、松山、南港、汐止、七堵等站。另新烏日站增停新自強號4列次，172次（新烏日13:35開、臺北15:46到）、132次（新烏日16:18開、臺北18:15到）、<br/>194次（新烏日17:07開、臺北19:12到）、136次（新烏日18:01開、臺北19:57到）<br/><br/>         臺鐵公司疏運應變小組將持續監控各站人潮狀況並機動調節，同時要求相關單位做好各項設備檢查及旅客服務工作，提供民眾安全、便捷的乘車服務，歡迎北返旅客多加利用。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/8a4b0703-3425-4265-97c3-2f7a8503f36a\" target=\"_blank\">\n<img alt=\"9.26.1.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/8a4b0703-3425-4265-97c3-2f7a8503f36a/360x270\" title=\"另開視窗下載-9.26.1.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司為疏運中秋節連假返工人潮，於9月28日再加開彰化=七堵區間快車1列次，另4列次新自強號增停新烏日站 臺鐵公司為疏運中秋節連假返工人潮，於9月28日再加開彰化=七堵區間快車1列次，另4列次新自強號增停新烏日站 發佈日期：2026/9/26 下午 2:00 為因應連假疏運旅客需要，臺鐵公司於9月28日再加開彰化=七堵間（經山線）6402次區間快車，彰化14:45始發、新烏日14:57開車、臺中15:14開車、臺北18:12到達，沿途停靠新烏日、臺中、豐原、苗栗、竹南、新竹、中壢、桃園、樹林、板橋、臺北、松山、南港、汐止、七堵等站。另新烏日站增停新自強號4列次，172次（新烏日13:35開、臺北15:46到）、132次（新烏日16:18開、臺北18:15到）、 194次（新烏日17:07開、臺北19:12到）、136次（新烏日18:01開、臺北19:57到） 臺鐵公司疏運應變小組將持續監控各站人潮狀況並機動調節，同時要求相關單位做好各項設備檢查及旅客服務工作，提供民眾安全、便捷的乘車服務，歡迎北返旅客多加利用。 返回上一頁",
+        "content_hash": "md5:e80a2adafe3804e29eb5f7d50b1a6bd5",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "板橋",
+            "桃園",
+            "樹林",
+            "新烏日",
+            "新竹",
+            "松山",
+            "南港",
+            "苗栗",
+            "臺中",
+            "豐原",
+            "彰化",
+            "七堵",
+            "中壢",
+            "竹南",
+            "烏日",
+            "臺北",
+            "汐止"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
