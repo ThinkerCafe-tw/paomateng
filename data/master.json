@@ -25378,5 +25378,42 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac3a0e44f2301a0ebb6463f0858",
+    "title": "臺鐵公司平鎮臨時站於115年10月3日正式啟用",
+    "publish_date": "2026/09/29",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3a0e44f2301a0ebb6463f0858&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260929_公司平鎮臨時站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-09-29T14:02:23.951588+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司平鎮臨時站於115年10月3日正式啟用</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司平鎮臨時站於115年10月3日正式啟用</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/9/29 下午 2:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　平鎮臨時站位於桃園市平鎮區，縱貫線基隆站起69公里處，介於中壢站與埔心站之間，為便捷都會區之大眾運輸服務及縮短城鄉差距，帶動地方發展與生活機能提升，爰規劃於桃園鐵路地下化完成前，先行設置平鎮臨時站，可供民眾提早使用，亦可協助中壢車站運輸分流及周邊交通紓緩，落實鐵路捷運化目標，解決都會區通勤需求，吸引私人運具轉搭臺鐵，間接減少二氧化碳排放及空氣汙染。<br/><br/>　　平鎮臨時站將於115年10月3日啟用，每日停靠區間車上、下行共126列次，相關列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司平鎮臨時站於115年10月3日正式啟用 臺鐵公司平鎮臨時站於115年10月3日正式啟用 發佈日期：2026/9/29 下午 2:00 平鎮臨時站位於桃園市平鎮區，縱貫線基隆站起69公里處，介於中壢站與埔心站之間，為便捷都會區之大眾運輸服務及縮短城鄉差距，帶動地方發展與生活機能提升，爰規劃於桃園鐵路地下化完成前，先行設置平鎮臨時站，可供民眾提早使用，亦可協助中壢車站運輸分流及周邊交通紓緩，落實鐵路捷運化目標，解決都會區通勤需求，吸引私人運具轉搭臺鐵，間接減少二氧化碳排放及空氣汙染。 平鎮臨時站將於115年10月3日啟用，每日停靠區間車上、下行共126列次，相關列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:2d7ed48297dc487eef7a63c7b0c01433",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "基隆",
+            "桃園",
+            "中壢",
+            "埔心"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
