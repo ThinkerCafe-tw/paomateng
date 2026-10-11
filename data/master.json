@@ -25925,5 +25925,84 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac3a12732ad01a1298a48e10215",
+    "title": "為疏運國慶連假返工人潮，強化雙鐵運具聯防，臺鐵公司加開彰化-七堵、南港間2列區間快車，另6列新自強號增停新烏日站",
+    "publish_date": "2026/10/11",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3a12732ad01a1298a48e10215&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20261011_號增停新烏日站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-10-11T13:59:12.992635+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">為疏運國慶連假返工人潮，強化雙鐵運具聯防，臺鐵公司加開彰化-七堵、南港間2列區間快車，另6列新自強號增停新烏日站</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>為疏運國慶連假返工人潮，強化雙鐵運具聯防，臺鐵公司加開彰化-七堵、南港間2列區間快車，另6列新自強號增停新烏日站</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/10/11 下午 1:30</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">為因應國慶連假收假返工旅運需求，交通部啟動運具聯防，雙鐵同步加強疏運，為因應國慶連假所增加旅運需求，臺鐵公司於11日加開彰化-七堵、南港間2列次區間快車，並於新烏日站規劃增停新自強號列車6列次，另有26列次新自強號開放每列次200張無座票，以加強中部地區旅客疏運。<br/><br/>        新自強號增停新烏日站包括172次（新烏日13:35開、臺北15:46到）、132次（新烏日16:18開、臺北18:15到）、<br/>194次（新烏日17:07開、臺北19:12到）、136次（新烏日18:01開、臺北19:57到）、168次（新烏日20:13開、22:23臺北到）、154次（新烏日20:51開、臺北22:47到）計6列次，歡迎旅客可多加利用搭乘臺鐵。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 為疏運國慶連假返工人潮，強化雙鐵運具聯防，臺鐵公司加開彰化-七堵、南港間2列區間快車，另6列新自強號增停新烏日站 為疏運國慶連假返工人潮，強化雙鐵運具聯防，臺鐵公司加開彰化-七堵、南港間2列區間快車，另6列新自強號增停新烏日站 發佈日期：2026/10/11 下午 1:30 為因應國慶連假收假返工旅運需求，交通部啟動運具聯防，雙鐵同步加強疏運，為因應國慶連假所增加旅運需求，臺鐵公司於11日加開彰化-七堵、南港間2列次區間快車，並於新烏日站規劃增停新自強號列車6列次，另有26列次新自強號開放每列次200張無座票，以加強中部地區旅客疏運。 新自強號增停新烏日站包括172次（新烏日13:35開、臺北15:46到）、132次（新烏日16:18開、臺北18:15到）、 194次（新烏日17:07開、臺北19:12到）、136次（新烏日18:01開、臺北19:57到）、168次（新烏日20:13開、22:23臺北到）、154次（新烏日20:51開、臺北22:47到）計6列次，歡迎旅客可多加利用搭乘臺鐵。相關加開列車車次、時刻，即日起可於臺鐵公司官網及「台鐵e訂通」APP查詢。 返回上一頁",
+        "content_hash": "md5:892858a022fa42379d194f9e0775ed93",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "烏日",
+            "臺北",
+            "新烏日",
+            "南港",
+            "七堵",
+            "彰化"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac3a12732ad01a1298978760210",
+    "title": "臺鐵因應國慶連假返工需求　東部幹線開放新自強號無座票",
+    "publish_date": "2026/10/11",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3a12732ad01a1298978760210&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20261011_東部幹線"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-10-11T13:59:14.025528+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵因應國慶連假返工需求　東部幹線開放新自強號無座票</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵因應國慶連假返工需求　東部幹線開放新自強號無座票</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/10/11 下午 12:20</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">臺鐵因應國慶連假返工旅次需求，今（11）日花蓮到臺北自215次起、臺東到臺北自419次起；花蓮到新左營自422次起、臺東到新左營自410次起，開放E3000型新自強號200張無座票。<br/><br/>臺鐵公司提醒旅客，可多加利用相關列車疏運服務。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵因應國慶連假返工需求　東部幹線開放新自強號無座票 臺鐵因應國慶連假返工需求　東部幹線開放新自強號無座票 發佈日期：2026/10/11 下午 12:20 臺鐵因應國慶連假返工旅次需求，今（11）日花蓮到臺北自215次起、臺東到臺北自419次起；花蓮到新左營自422次起、臺東到新左營自410次起，開放E3000型新自強號200張無座票。 臺鐵公司提醒旅客，可多加利用相關列車疏運服務。 返回上一頁",
+        "content_hash": "md5:81efce2da4765ef8b50624d0fc7728ff",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [
+            "東部幹線"
+          ],
+          "affected_stations": [
+            "臺東",
+            "花蓮",
+            "臺北",
+            "左營",
+            "新左營"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
