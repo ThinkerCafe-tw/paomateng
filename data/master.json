@@ -26004,5 +26004,39 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac2a1221b7601a12f1700a213b5",
+    "title": "臺鐵各車站窗口恕不提供「臺鐵假期」套票之退換票服務，如遇列車延誤、行駛中斷等符合退費條件之狀況，敬請聯繫原購買通路協助辦理，感謝您的配合。",
+    "publish_date": "2026/10/12",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2a1221b7601a12f1700a213b5&page=0",
+    "classification": {
+      "category": "Disruption_Suspension",
+      "keywords": [
+        "中斷"
+      ],
+      "event_group_id": "20261012_臺鐵各車站"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-10-12T16:33:05.179469+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵各車站窗口恕不提供「臺鐵假期」套票之退換票服務，如遇列車延誤、行駛中斷等符合退費條件之狀況，敬請聯繫原購買通路協助辦理，感謝您的配合。</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵各車站窗口恕不提供「臺鐵假期」套票之退換票服務，如遇列車延誤、行駛中斷等符合退費條件之狀況，敬請聯繫原購買通路協助辦理，感謝您的配合。</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/10/12 下午 3:40</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">「臺鐵假期」專案為本公司與合作通路共同推出之優惠套票，臺鐵各車站售票窗口及客服，皆無法受理該專案車票之退票、換票或變更車次等相關業務。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵各車站窗口恕不提供「臺鐵假期」套票之退換票服務，如遇列車延誤、行駛中斷等符合退費條件之狀況，敬請聯繫原購買通路協助辦理，感謝您的配合。 臺鐵各車站窗口恕不提供「臺鐵假期」套票之退換票服務，如遇列車延誤、行駛中斷等符合退費條件之狀況，敬請聯繫原購買通路協助辦理，感謝您的配合。 發佈日期：2026/10/12 下午 3:40 「臺鐵假期」專案為本公司與合作通路共同推出之優惠套票，臺鐵各車站售票窗口及客服，皆無法受理該專案車票之退票、換票或變更車次等相關業務。 返回上一頁",
+        "content_hash": "md5:b09d3b7970deb0d2293d0b9af054ef03",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": "Suspended",
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
