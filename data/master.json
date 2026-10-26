@@ -27025,5 +27025,54 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac3a174721901a17728d4d2056e",
+    "title": "臺鐵公司為疏運光復節連假返工人潮，於10月26日再加開彰化=七堵1列次",
+    "publish_date": "2026/10/26",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3a174721901a17728d4d2056e&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20261026_臺鐵公司為疏運光復節連假返工人潮_於10月26日再加開彰化_"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-10-26T15:44:18.231218+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵公司為疏運光復節連假返工人潮，於10月26日再加開彰化=七堵1列次</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵公司為疏運光復節連假返工人潮，於10月26日再加開彰化=七堵1列次</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/10/26 下午 3:27</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　經檢視光復連假收假日中部北上旅客客流量大， 臺鐵公司除原加開二列次區間快車外，今（26）日下午再加開彰化=七堵一列自強號，鼓勵北返旅客可多加利用搭乘臺鐵。<br/><br/>　　加開彰化=七堵間5140次自強號，彰化18：03始發、臺北20：38到達，沿途停靠新烏日（18：13開）、臺中（18：22開）、豐原、苗栗、竹南、新竹、中壢、桃園、樹林、板橋、臺北、松山、七堵等站。<br/><br/>　　臺鐵公司疏運應變小組將配合連假期間雙鐵聯防機制，持續監控各站人潮狀況並機動調節，同時要求相關單位做好各項設備檢查，並加強做好車站旅客引導服務與月台上下車秩序維持，提供民眾安全、便捷的乘車服務，歡迎北返旅客多加利用。</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/5942d3b8-e2a9-455b-8716-a67e7ca2758b\" target=\"_blank\">\n<img alt=\"1151026加開5140次圖卡.jpg\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/5942d3b8-e2a9-455b-8716-a67e7ca2758b/360x270\" title=\"另開視窗下載-1151026加開5140次圖卡.jpg\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵公司為疏運光復節連假返工人潮，於10月26日再加開彰化=七堵1列次 臺鐵公司為疏運光復節連假返工人潮，於10月26日再加開彰化=七堵1列次 發佈日期：2026/10/26 下午 3:27 經檢視光復連假收假日中部北上旅客客流量大， 臺鐵公司除原加開二列次區間快車外，今（26）日下午再加開彰化=七堵一列自強號，鼓勵北返旅客可多加利用搭乘臺鐵。 加開彰化=七堵間5140次自強號，彰化18：03始發、臺北20：38到達，沿途停靠新烏日（18：13開）、臺中（18：22開）、豐原、苗栗、竹南、新竹、中壢、桃園、樹林、板橋、臺北、松山、七堵等站。 臺鐵公司疏運應變小組將配合連假期間雙鐵聯防機制，持續監控各站人潮狀況並機動調節，同時要求相關單位做好各項設備檢查，並加強做好車站旅客引導服務與月台上下車秩序維持，提供民眾安全、便捷的乘車服務，歡迎北返旅客多加利用。 返回上一頁",
+        "content_hash": "md5:f025b751ba77b77a551d5fd0119da68f",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "桃園",
+            "臺中",
+            "七堵",
+            "新烏日",
+            "烏日",
+            "樹林",
+            "彰化",
+            "豐原",
+            "竹南",
+            "光復",
+            "松山",
+            "中壢",
+            "臺北",
+            "板橋",
+            "苗栗",
+            "新竹"
+          ],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
