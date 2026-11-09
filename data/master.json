@@ -27720,5 +27720,37 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac2a1b24dc901a1bf6b20ae3c97",
+    "title": "「台鐵e訂通」APP再優化，11月10日起開車前5分鐘可訂票",
+    "publish_date": "2026/11/09",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2a1b24dc901a1bf6b20ae3c97&page=0",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20261109_台鐵e訂通_APP再優化_11月10日起開車前5分鐘可訂票"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-11-09T16:32:07.512347+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">「台鐵e訂通」APP再優化，11月10日起開車前5分鐘可訂票</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>「台鐵e訂通」APP再優化，11月10日起開車前5分鐘可訂票</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/11/9 下午 4:00</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　為滿足旅客多元化的旅運需求，臺鐵公司持續優化票務數位服務。繼114年推出台鐵e訂通APP「線上換票」及「一機多票」服務後，115年11月10日起放寬「線上購票、換票期限」及「一機多票取票限制」，提供旅客更具彈性的行程安排與更便利的乘車體驗，歡迎旅客更新至最新版台鐵e訂通APP，享受便捷的數位票務服務。<br/><br/>　　本次票務數位服務優化有以下兩大亮點：<br/>一、旅客於入口網（官網）、台鐵e訂通APP線上購票由乘車當日可預訂開車前30分鐘以上車票放寬至開車前5分鐘；線上換票期限由原發車前1小時放寬至發車前30分鐘，讓旅客在行程調整或臨時安排時，能有更充裕、彈性的處理空間。<br/>二、本次APP更新同步放寬「一機多票」取票功能，讓旅客可於同一部手機儲存及管理多張行動票證，提升親子及親友同行的便利性。本次經調整後，將不再限制取票票種，旅客可依實際同行需求，協助同行者管理全票、半票等不同票種，減少多人同行時分別操作手機的困擾，讓乘車更加便利。<br/><br/>　　未來臺鐵將持續精進票務數位服務，開發更多符合旅客需求的創新功能，提升旅運便利性與乘車舒適度，打造更友善、人性化的公共運輸環境，陪伴每位旅客安心出行。</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 「台鐵e訂通」APP再優化，11月10日起開車前5分鐘可訂票 「台鐵e訂通」APP再優化，11月10日起開車前5分鐘可訂票 發佈日期：2026/11/9 下午 4:00 為滿足旅客多元化的旅運需求，臺鐵公司持續優化票務數位服務。繼114年推出台鐵e訂通APP「線上換票」及「一機多票」服務後，115年11月10日起放寬「線上購票、換票期限」及「一機多票取票限制」，提供旅客更具彈性的行程安排與更便利的乘車體驗，歡迎旅客更新至最新版台鐵e訂通APP，享受便捷的數位票務服務。 本次票務數位服務優化有以下兩大亮點： 一、旅客於入口網（官網）、台鐵e訂通APP線上購票由乘車當日可預訂開車前30分鐘以上車票放寬至開車前5分鐘；線上換票期限由原發車前1小時放寬至發車前30分鐘，讓旅客在行程調整或臨時安排時，能有更充裕、彈性的處理空間。 二、本次APP更新同步放寬「一機多票」取票功能，讓旅客可於同一部手機儲存及管理多張行動票證，提升親子及親友同行的便利性。本次經調整後，將不再限制取票票種，旅客可依實際同行需求，協助同行者管理全票、半票等不同票種，減少多人同行時分別操作手機的困擾，讓乘車更加便利。 未來臺鐵將持續精進票務數位服務，開發更多符合旅客需求的創新功能，提升旅運便利性與乘車舒適度，打造更友善、人性化的公共運輸環境，陪伴每位旅客安心出行。 返回上一頁",
+        "content_hash": "md5:beed67fbeedf18100b50f141f0efd739",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
