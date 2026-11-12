@@ -27841,5 +27841,37 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac2a01128a701a019d1903e28e2",
+    "title": "綠色通勤減碳行，回饋加碼享不停",
+    "publish_date": "2026/08/19",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2a01128a701a019d1903e28e2&page=4",
+    "classification": {
+      "category": "General_Operation",
+      "keywords": [],
+      "event_group_id": "20260819_綠色通勤減碳行_回饋加碼享不停"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-11-12T12:50:51.800342+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">綠色通勤減碳行，回饋加碼享不停</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>綠色通勤減碳行，回饋加碼享不停</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/8/19 下午 7:35</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">綠色通勤減碳行，回饋加碼享不停</div>\n<div class=\"img-container\">\n<a href=\"/tra-tip-web/tip/file/2296da6a-a5fb-4177-bf05-a9bff4aa0d00\" target=\"_blank\">\n<img alt=\"宣傳海報.png\" src=\"https://tip-tr4cdn.cdn.hinet.net/tra-tip-web/tip/img/2296da6a-a5fb-4177-bf05-a9bff4aa0d00/360x270\" title=\"另開視窗下載-宣傳海報.png\"/>\n</a>\n</div>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=4\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 綠色通勤減碳行，回饋加碼享不停 綠色通勤減碳行，回饋加碼享不停 發佈日期：2026/8/19 下午 7:35 綠色通勤減碳行，回饋加碼享不停 返回上一頁",
+        "content_hash": "md5:832a9bebe412c776a8272132c533eae4",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": null,
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [],
+          "predicted_resumption_time": null,
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
