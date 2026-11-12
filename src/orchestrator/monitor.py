@@ -44,19 +44,30 @@ def run_monitoring_cycle(config: dict) -> None:
         pretty_print=config["storage"]["pretty_print"],
     )
 
+    item_page = {}
     try:
-        # Step 1: Scrape first few pages only
+        # Step 1: Scrape the whole list (TRA keeps only ~13 pages; resolved
+        # disruption notices drop off it, so anything missed during an outage
+        # is lost unless we pick it up while it is still listed).
+        # Only the first max_pages_to_check pages are re-checked for edits.
         max_pages = config["monitoring"]["max_pages_to_check"]
-        logger.info(f"Checking first {max_pages} page(s) for updates...")
+        list_pages = config["monitoring"].get("max_list_pages", max_pages)
+        logger.info(f"Listing up to {list_pages} page(s); re-checking first {max_pages} for edits")
 
         all_items = []
-        for page_num in range(max_pages):
+        for page_num in range(list_pages):
             items = list_scraper.scrape_page(page_num)
             if not items:
                 break
+            for item in items:
+                item_page[item.news_no] = page_num
             all_items.extend(items)
 
         logger.info(f"Found {len(all_items)} announcements to check")
+        if not all_items:
+            # An empty list means the site blocked us or changed layout.
+            # Fail the run so the stale-data alert can see it.
+            raise RuntimeError("List page returned 0 announcements")
 
         # Step 2: Load existing data once (performance optimization)
         existing_announcements = storage.load()
@@ -115,6 +126,8 @@ def run_monitoring_cycle(config: dict) -> None:
 
                 else:
                     # Case B: Existing announcement - check for changes
+                    if item_page.get(item.news_no, 0) >= max_pages:
+                        continue
                     detail_result = detail_scraper.scrape_detail(item.detail_url)
                     if not detail_result:
                         continue
@@ -162,6 +175,7 @@ def run_monitoring_cycle(config: dict) -> None:
 
     except Exception as e:
         logger.error(f"Monitoring cycle failed: {e}")
+        raise
     finally:
         http_client.close()
 
@@ -193,8 +207,11 @@ def start_monitoring(config: dict) -> None:
         id="monitoring_job",
     )
 
-    # Run first cycle immediately
-    run_monitoring_cycle(config)
+    # Run first cycle immediately (later cycles are guarded by the scheduler)
+    try:
+        run_monitoring_cycle(config)
+    except Exception:
+        pass
 
     # Start scheduler
     scheduler.start()

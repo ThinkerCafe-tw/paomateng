@@ -22,19 +22,20 @@ on:
 
 jobs:
   monitor:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # 固定版本；ubuntu-latest 2026-10 起換 Ubuntu 26
+    timeout-minutes: 15
 
     permissions:
       contents: write  # 允許推送更新
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0  # 完整歷史，避免衝突
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
           cache: 'pip'  # 快取依賴
@@ -65,7 +66,7 @@ jobs:
 
       - name: Upload logs as artifact
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: monitor-logs-${{ github.run_number }}
           path: logs/
