@@ -28672,5 +28672,43 @@
     ],
     "predicted_resumption_time": null,
     "actual_resumption_time": null
+  },
+  {
+    "id": "8ae4cac3a20f006801a21c3e7ec01c27",
+    "title": "臺鐵「號誌聯鎖系統更新案」首站已取得安全營運證明並正式納入中央控制系統使用",
+    "publish_date": "2026/11/27",
+    "detail_url": "https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac3a20f006801a21c3e7ec01c27&page=0",
+    "classification": {
+      "category": "Disruption_Update",
+      "keywords": [
+        "更新"
+      ],
+      "event_group_id": "20261127_臺鐵_號誌聯鎖系統更新案_首站已取得安全營運證明並正式納入中"
+    },
+    "version_history": [
+      {
+        "scraped_at": "2026-11-27T17:06:15.539834+08:00",
+        "content_html": "<div class=\"container main-wrap\" id=\"content\">\n<!-- 中間內容導盲磚 -->\n<a accesskey=\"C\" href=\"#C\" id=\"AC\" name=\"C\" title=\"中間主要內容區，此區塊呈現網頁的網頁內容\">:::</a>\n<!--麵包屑-->\n<ol class=\"breadcrumb\">\n<li>\n<a href=\"/tra-tip-web/tip\" title=\"首頁\">首頁</a>\n</li>\n<li title=\"最新消息\">最新消息</li>\n<li><span aria-current=\"page\">臺鐵「號誌聯鎖系統更新案」首站已取得安全營運證明並正式納入中央控制系統使用</span></li>\n</ol>\n<!--麵包屑 end-->\n<!--標題-->\n<div class=\"title-liner newshead\">\n<h2 class=\"headright\">\n<strong>臺鐵「號誌聯鎖系統更新案」首站已取得安全營運證明並正式納入中央控制系統使用</strong>\n</h2>\n<br/>\n<ul class=\"title-info\">\n<li>發佈日期：2026/11/27 下午 4:15</li>\n</ul>\n</div>\n<div class=\"article\">\n<div class=\"indent\">　　臺鐵「號誌聯鎖系統更新案」首站—湖口站繼今年 6 月 28 日凌晨成功完成切換測試後，於今日（11/27）又順利取得臺灣德國萊因（第三方獨立驗證單位）頒發之安全營運證明，並在交通部伍勝園次長、鐵道局楊正君局長、臺鐵公司鄭光遠董事長、西門子鐵道部總經理Yens Nordmann、日信台北所總經理坪田章利、德國萊因資深副總裁陳鍾洺等超過百位國內外佳賓見證下，成功完成湖口站CTC連線控制，為臺鐵電子聯鎖系統更新計畫寫下歷史新頁。<br/><br/>　　臺鐵公司董事長鄭光遠在授證儀式上表示，「安全」是本案最核心的價值，因此湖口電子連鎖系統雖然早在6月28日即已完成相關功能測試，但臺鐵並未在該測試後立即啟用該系統，主要考量「安全」是臺鐵最高的核心價值，沒有正式取得第三方安全認證前，臺鐵不會提前啟用系統。<br/><br/>　　臺鐵 68 站電子聯鎖系統更新計畫採用西門子WESTRACE Mk II 電子聯鎖等設備，該設備除符合SIL 4 安全等級外，全系統採用模組化設計，並支援熱插拔、熱備援與遠端診斷，維護人員可利用數位化監測與事件紀錄，有效掌握設備狀態，追查異常原因，進而有效提升設備之可靠度。<br/><br/>　　鄭光遠董事長於典禮中補充說，今天湖口站可以順利取得安全營運證明與成功啟用，這不是一家廠商就能獨立達成的，這背後是臺鐵同仁、中興工程顧問、臺灣德國萊因、西門子、三商電腦、日本信號、晶亮電工、億泰電纜、德鈜、松恆等國內外大大小小廠商共同合作的成果。臺鐵號誌系統更新案將從湖口站出發，然後邁向全臺灣，逐步完成號誌設備現代化，提供旅客更穩定可靠的鐵路服務。</div>\n<div class=\"img-container\">\n</div>\n<dl class=\"dl-explain\">\n<dt>附件下載：</dt>\n<dd>\n<div>\n<a href=\"/tra-tip-web/tip/file/0d7ff231-f074-4b98-88a5-39ef3a235212\" target=\"_blank\">\n<button class=\"btn btn-linear\" title=\"另開視窗下載-新聞照片.pdf\" type=\"submit\">新聞照片.pdf</button>\n</a>\n</div>\n</dd>\n</dl>\n</div>\n<!--緊急消息內容-->\n<!--緊急消息內容 end -->\n<hr/>\n<div class=\"btn-gogroup\">\n<a class=\"btn btn-line btn-lg\" href=\"/tra-tip-web/tip/tip009/tip911/newsList?page=0\" title=\"返回上一頁\" type=\"button\">返回上一頁</a>\n</div>\n</div>",
+        "content_text": "::: 首頁 最新消息 臺鐵「號誌聯鎖系統更新案」首站已取得安全營運證明並正式納入中央控制系統使用 臺鐵「號誌聯鎖系統更新案」首站已取得安全營運證明並正式納入中央控制系統使用 發佈日期：2026/11/27 下午 4:15 臺鐵「號誌聯鎖系統更新案」首站—湖口站繼今年 6 月 28 日凌晨成功完成切換測試後，於今日（11/27）又順利取得臺灣德國萊因（第三方獨立驗證單位）頒發之安全營運證明，並在交通部伍勝園次長、鐵道局楊正君局長、臺鐵公司鄭光遠董事長、西門子鐵道部總經理Yens Nordmann、日信台北所總經理坪田章利、德國萊因資深副總裁陳鍾洺等超過百位國內外佳賓見證下，成功完成湖口站CTC連線控制，為臺鐵電子聯鎖系統更新計畫寫下歷史新頁。 臺鐵公司董事長鄭光遠在授證儀式上表示，「安全」是本案最核心的價值，因此湖口電子連鎖系統雖然早在6月28日即已完成相關功能測試，但臺鐵並未在該測試後立即啟用該系統，主要考量「安全」是臺鐵最高的核心價值，沒有正式取得第三方安全認證前，臺鐵不會提前啟用系統。 臺鐵 68 站電子聯鎖系統更新計畫採用西門子WESTRACE Mk II 電子聯鎖等設備，該設備除符合SIL 4 安全等級外，全系統採用模組化設計，並支援熱插拔、熱備援與遠端診斷，維護人員可利用數位化監測與事件紀錄，有效掌握設備狀態，追查異常原因，進而有效提升設備之可靠度。 鄭光遠董事長於典禮中補充說，今天湖口站可以順利取得安全營運證明與成功啟用，這不是一家廠商就能獨立達成的，這背後是臺鐵同仁、中興工程顧問、臺灣德國萊因、西門子、三商電腦、日本信號、晶亮電工、億泰電纜、德鈜、松恆等國內外大大小小廠商共同合作的成果。臺鐵號誌系統更新案將從湖口站出發，然後邁向全臺灣，逐步完成號誌設備現代化，提供旅客更穩定可靠的鐵路服務。 附件下載： 新聞照片.pdf 返回上一頁",
+        "content_hash": "md5:9b185d2bdb636033e630a58946d0b854",
+        "extracted_data": {
+          "report_version": null,
+          "event_type": "Equipment_Failure",
+          "status": null,
+          "affected_lines": [],
+          "affected_stations": [
+            "成功",
+            "台北",
+            "湖口"
+          ],
+          "predicted_resumption_time": "2026-11-27T05:00:00+08:00",
+          "actual_resumption_time": null,
+          "service_type": null,
+          "service_details": null
+        }
+      }
+    ],
+    "predicted_resumption_time": null,
+    "actual_resumption_time": null
   }
 ]
